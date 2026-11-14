@@ -476,6 +476,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "077e42a3e1a071ca1ad0d015f05dad79e75cc22883b0a97226cfd3758a71dfb0"
+        },
+        "module_candidates": {
+          "value": [
+            "593",
+            "1271"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.A158WA-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for A158WA-1 links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "displayed_model": "A158WA-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Manual battery section explicitly includes a separate Module 1271 variant",
+              "identity_basis": "shared_manual_body",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e45df56b07d158552bfe88851e95d90290f5599fa544b9d87dcf229f335fdae2"
         }
       }
     },
@@ -758,6 +786,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "79c2708110232fcbbb2db33d3c4d013483732100d4ab543b85f16219d032191b"
+        },
+        "module_candidates": {
+          "value": [
+            "3472",
+            "3479"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.A700W-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for A700W-1A links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "displayed_model": "A700W-1A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3472_3479",
+              "identity_basis": "shared_manual_title",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "79077c1f81263035cf685c41db4315d04b41a1277fd58a25a6a6bd8f4ad30ec4"
         }
       }
     },
@@ -918,6 +974,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "7f2ec706fd2a43a09fa186d4b0e2ce9f360b7c720773ca2fb63ef634271f82cd"
+        },
+        "module_candidates": {
+          "value": [
+            "3198",
+            "3299"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.AE-1200WH-1AV/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for AE-1200WH-1AV links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "displayed_model": "AE-1200WH-1AV",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3198_3299",
+              "identity_basis": "shared_manual_title",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "72058a52a8b2ce562c48ace9c716d7844bc32582aaeb2111da0e4a00a1d9c1cd"
         }
       }
     },
@@ -1078,6 +1162,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "fe2580488407e180cdea362b8c23ff1e7aa304475a44467575580b4a28212877"
+        },
+        "module_id": {
+          "value": "3502",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.AE-1500WH-1AV/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for AE-1500WH-1AV links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "displayed_model": "AE-1500WH-1AV",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3502",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "081e248c64fffdb416b9152a29d31634a4d25b17d8f0df4c82401f62a0d089ec"
         }
       }
     },
@@ -1238,6 +1347,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "7db4000ffb45724c851ac4bcf0895c5ee65a5c3ed9524a6483d81cf3c0629f11"
+        },
+        "module_id": {
+          "value": "5662",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/babyg/support.BGA-280-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for BGA-280-1A links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "displayed_model": "BGA-280-1A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5662",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "762693af5dc795c51eb86d71d9e57016e5e8a30375c5baacce1a64bad08b0547"
         }
       }
     },
@@ -1379,6 +1513,35 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "cbb6d649eb78fc9310985f5a31f9fd5aa927b7fc4735839950bb72c897386eec"
+        },
+        "module_candidates": {
+          "value": [
+            "437",
+            "438",
+            "3208"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.CA-53W-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for CA-53W-1 links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "displayed_model": "CA-53W-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-437_438_3208",
+              "identity_basis": "shared_manual_title",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b15b97183031676a8126682ba0681e2bb4b68dfa963b7ac1324c7b693686a68d"
         }
       }
     },
@@ -1661,6 +1824,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "ccfae81ea4d87a2f186975dbf4a076559a4687d43c6276b2e3bb3d5e184214a2"
+        },
+        "module_id": {
+          "value": "3525",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.DW-5600UE-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for DW-5600UE-1 links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "displayed_model": "DW-5600UE-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Module 3525 manual endpoint and document header",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "540846f38484799adeab43b4b9535e96ccb30ab77180b1cfc37aca170ef308b5"
         }
       }
     },
@@ -1821,6 +2009,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "85e54ca5c56d7d685a8b6bda3b431d0193210b94c3739570ccfedf92aba69148"
+        },
+        "module_id": {
+          "value": "3529",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.DW-6900U-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for DW-6900U-1 links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3529_en/",
+              "displayed_model": "DW-6900U-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 3529 G-SHOCK - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "703fa1edea917a973bba14de3e929343dbf5c4789d217ef67e4c84ae0672dbc8"
         }
       }
     },
@@ -1981,6 +2194,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "628ce327426bc0e689384c3ec3536fbf8bf06627dce8d862b9dc3a13c8d0efef"
+        },
+        "module_id": {
+          "value": "5582",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/edifice/support.ECB-900DB-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for ECB-900DB-1A links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/5582_en/",
+              "displayed_model": "ECB-900DB-1A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/5582_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 5582 EDIFICE - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8e84ac6149cce83148a9b85e775a6be52cd47a2404b7cf651d85b71e5fefede"
         }
       }
     },
@@ -2263,6 +2501,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "1b12afa7e966d567739dfb7a190c14ad189921d6f648d25faf012898a7c87d15"
+        },
+        "module_candidates": {
+          "value": [
+            "593",
+            "1271"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.F-91W-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for F-91W-1 links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "displayed_model": "F-91W-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Manual battery section explicitly includes a separate Module 1271 variant",
+              "identity_basis": "shared_manual_body",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "72f826747dd53814900c442d18b9a97f4c6a00428dbb3be1f8df9485dcf67e0d"
         }
       }
     },
@@ -2423,6 +2689,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "abbdce2f38928208d181baebacc7d29786e633b2df3e2a85653fe2028e19d889"
+        },
+        "module_id": {
+          "value": "3496",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.G-5600UE-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for G-5600UE-1 links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3496_en/",
+              "displayed_model": "G-5600UE-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 3496 G-SHOCK - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2d15f73e54c71ecc854a1dd29eb28b3906954fe0eaa9ca573cfccb06c2e3411e"
         }
       }
     },
@@ -2583,6 +2874,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "df0fc4f28db3e59fb0469e42536d87cf9bdaa1c60cd443ec953c363e68a5a002"
+        },
+        "module_id": {
+          "value": "5611",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for GA-2100-1A links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "displayed_model": "GA-2100-1A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5611",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4d4ec2f856c9e67cc170dcb9d34a345f5a6caad28d80482d73253dea06883fc2"
         }
       }
     },
@@ -2743,6 +3059,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "fbbb75fe9546054ac1908980325ee40089aa33b3dc41c479fc333eab8e9387fb"
+        },
+        "module_id": {
+          "value": "5611",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-1A1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for GA-2100-1A1 links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "displayed_model": "GA-2100-1A1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5611",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8104627485e809fce6b644a29fc84f87fb972ce5e10f8a092a585afa304dae2f"
         }
       }
     },
@@ -2903,6 +3244,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "5e3194799f910bfaffaada646069acb2f5e761914da6e059d37406d610b921fb"
+        },
+        "module_id": {
+          "value": "5611",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-7A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for GA-2100-7A links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "displayed_model": "GA-2100-7A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5611",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ad370f2e470b073d44b0e38bce350324049d2ec137b29bfc62ce8d33798b434c"
         }
       }
     },
@@ -3063,6 +3429,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "82b6373d690ebbb29e5ce583ad514f138a730579279ae85daa2cc30f3db32125"
+        },
+        "module_id": {
+          "value": "3539",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.GMW-B5000D-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for GMW-B5000D-1 links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3539_en/",
+              "displayed_model": "GMW-B5000D-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 3539 - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9eacfb8833ccf6a95e3408d159f6d9019d0ada9389024e1e8f3626c570aec529"
         }
       }
     },
@@ -3223,6 +3614,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "b742ebf3e3706948f9518b52bb66fd83aa06799b2ec1be656a8ce485e757dea0"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/gshock/support.GW-M5610U-1B/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for GW-M5610U-1B links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3495_en/",
+              "displayed_model": "GW-M5610U-1B",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 3495 G-SHOCK - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c71517baaec1205ad86a463505b7da82b89af5f809c0e02b4f8aea57a2606edc"
         }
       }
     },
@@ -4183,6 +4599,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "4934ded90e57aab15c8542ff4ef0401f46b90da8eee2d1def46b62bf03695071"
+        },
+        "module_candidates": {
+          "value": [
+            "5125",
+            "5128"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.MRW-200H-1BV/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for MRW-200H-1BV links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "displayed_model": "MRW-200H-1BV",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Specifications table explicitly lists modules 5125 and 5128",
+              "identity_basis": "shared_manual_body",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "cc4b01300ada5d146ffef59faf38d1cf98921a68acf4276dd86e1182dc04bac0"
         }
       }
     },
@@ -4503,6 +4947,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "6a0b3c681a82a09f6e389c4e1f9da39eec7555504ae894b226c6275dd9a488c9"
+        },
+        "module_candidates": {
+          "value": [
+            "5235",
+            "5414"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S100-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for OCW-S100-1AJF links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_JA.pdf",
+              "displayed_model": "OCW-S100-1AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_JA.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5235_5414",
+              "identity_basis": "shared_manual_title",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a60e409c8a098986a2f8901abe5e1557cf056361513cdd4d74b0dbaa2ea15857"
         }
       }
     },
@@ -4663,6 +5135,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "d454fbc597e240e889e7c41290a87c226c6b6a03c6070f3ef9c774fe68f91980"
+        },
+        "module_id": {
+          "value": "5596",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for OCW-T200S-1AJF links the cited manual",
+              "linked_manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+              "displayed_model": "OCW-T200S-1AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.jp/wat/manual/5596_ja/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "14f9f5ce0959bc9f4de83a526994f506c812eafa44c127c7c5ce8184117a1034"
         }
       }
     },
@@ -4823,6 +5320,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "4d1e3c92a816debb7153abb917baeb4678c3e15112ebbbeab9dda6474e17af00"
+        },
+        "module_id": {
+          "value": "5596",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-7A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for OCW-T200S-7AJF links the cited manual",
+              "linked_manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+              "displayed_model": "OCW-T200S-7AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.jp/wat/manual/5596_ja/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8cabac077afec7fde0950cf1050b8b239b49cffd7b23d129f4784de666c5a4fb"
         }
       }
     },
@@ -4983,6 +5505,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "4db1cdb363411afa5f884a41db15e772000cce08761881052bc61c549bbed288"
+        },
+        "module_id": {
+          "value": "5347",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T2600-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for OCW-T2600-1AJF links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_JA.pdf",
+              "displayed_model": "OCW-T2600-1AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_JA.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5347",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8c92ade036ee495d29015ce2e97e70e1945afc21cad9a91370558a7c856f4bcf"
         }
       }
     },
@@ -5303,6 +5850,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "a7146b4f4cd7cc50bc07222293a4f57700b3f1abe5e6403088847d0436adf47e"
+        },
+        "module_id": {
+          "value": "3513",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/protrek/support.PRG-340-1/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for PRG-340-1 links the cited manual",
+              "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3513_en/",
+              "displayed_model": "PRG-340-1",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3513_en/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "Top of Page Module No. 3513 PRO TREK - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "647c449d3488541c4cb509fdfd084a4dc4dd920c08d0eca0a29b63e0ee8868d4"
         }
       }
     },
@@ -5463,6 +6035,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "ca9ca48577faa399514eb4e4d75bb25ae2a740a96c95df74db09a32fbd5463d7"
+        },
+        "module_id": {
+          "value": "3490",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/protrek/support.PRW-35-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for PRW-35-1A links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "displayed_model": "PRW-35-1A",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3490",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de69afb826bf665befeca5f1bfb97dda869860c3b92ea12541c638ef3fa61843"
         }
       }
     },
@@ -5623,6 +6220,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "dfd000363d0bc60c27f5800c8c991ff4132416bfe39ca6fa411ade83adc45a13"
+        },
+        "module_id": {
+          "value": "3224",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.W-218H-1AV/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for W-218H-1AV links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "displayed_model": "W-218H-1AV",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3224",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "dbb43a4d4c0b3fc9ffd1bc3e29ed4c1ea13c951d4653049691655e012842afee"
         }
       }
     },
@@ -5783,6 +6405,34 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "a30ac0733a294c6e961036b157568646527e0a9591077a1519108d20481c35fd"
+        },
+        "module_candidates": {
+          "value": [
+            "3239",
+            "3240"
+          ],
+          "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+          "sources": [
+            {
+              "url": "https://www.casio.com/sg/watches/casio/support.W-800H-1AV/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for W-800H-1AV links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "displayed_model": "W-800H-1AV",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-3239_3240",
+              "identity_basis": "shared_manual_title",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "77e84d11dc6c1b66d21446f2fcc0dab1f52062a13d1376cca033dfba42b15afe"
         }
       }
     },
@@ -6263,6 +6913,31 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "a4a2d5b782c99da9337213160624579290e7c0857f80a9f0a2d8aecf8cad3652"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/casio/support.WVA-M640-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for WVA-M640-1AJF links the cited manual",
+              "linked_manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+              "displayed_model": "WVA-M640-1AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "トップページ モジュール番号 5161 - Support - CASIO",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c1327af59dd00ccb65c87d0dd23417dfbc5751ca92d10568d13acff5548c36e"
         }
       }
     },
@@ -6423,11 +7098,3089 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "561d4d59c327a1b9e349eac4ecbebc136b2fae0af52e40d0fa2dbff09706ee2b"
+        },
+        "module_id": {
+          "value": "5110",
+          "uncertainty": "Current official support reference; historical production revisions may differ",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/casio/support.WVA-M650-1A/",
+              "accessed": "2026-11-14",
+              "locator": "Primary User’s Guide / Operation Guide link",
+              "evidence": "Support page for WVA-M650-1AJF links the cited manual",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_JA.pdf",
+              "displayed_model": "WVA-M650-1AJF",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_JA.pdf",
+              "accessed": "2026-11-14",
+              "locator": "Manual identity / title and module-specific notes",
+              "evidence": "QW-5110",
+              "identity_basis": "official_manual_endpoint",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2268b201d36b36aefb5d2bfd35be8ed39ae7e75ebf7f4a409ab896d7030e4192"
         }
       }
     }
   },
   "modules": {
+    "437": {
+      "id": "437",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 437: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f17d05525507b6285791ff0050986532b6e85c9263c8e18d4d16933320d729fb"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 437: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f17d05525507b6285791ff0050986532b6e85c9263c8e18d4d16933320d729fb"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2079
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 437: calendar = {'type': 'auto', 'end_year': 2079}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f17d05525507b6285791ff0050986532b6e85c9263c8e18d4d16933320d729fb"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 437: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f17d05525507b6285791ff0050986532b6e85c9263c8e18d4d16933320d729fb"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 437: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f17d05525507b6285791ff0050986532b6e85c9263c8e18d4d16933320d729fb"
+        }
+      }
+    },
+    "438": {
+      "id": "438",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 438: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3c3093d762dfa102be949935fbdb59698de39e2da7f05dc164a3e2cd69343f86"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 438: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3c3093d762dfa102be949935fbdb59698de39e2da7f05dc164a3e2cd69343f86"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2079
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 438: calendar = {'type': 'auto', 'end_year': 2079}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3c3093d762dfa102be949935fbdb59698de39e2da7f05dc164a3e2cd69343f86"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 438: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3c3093d762dfa102be949935fbdb59698de39e2da7f05dc164a3e2cd69343f86"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 438: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3c3093d762dfa102be949935fbdb59698de39e2da7f05dc164a3e2cd69343f86"
+        }
+      }
+    },
+    "593": {
+      "id": "593",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 593: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e1283a0898a61b7735bff40a75ef55257e88327c85bd4b4d31d6b63925e0d3d3"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 593: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e1283a0898a61b7735bff40a75ef55257e88327c85bd4b4d31d6b63925e0d3d3"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 593: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e1283a0898a61b7735bff40a75ef55257e88327c85bd4b4d31d6b63925e0d3d3"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 593: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e1283a0898a61b7735bff40a75ef55257e88327c85bd4b4d31d6b63925e0d3d3"
+        }
+      }
+    },
+    "1271": {
+      "id": "1271",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 1271: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "267e82bf75df4ccde1d301e7dc1f7645cc436fe9ab4b9ce50666fdf01e7d6459"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 1271: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "267e82bf75df4ccde1d301e7dc1f7645cc436fe9ab4b9ce50666fdf01e7d6459"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 1271: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "267e82bf75df4ccde1d301e7dc1f7645cc436fe9ab4b9ce50666fdf01e7d6459"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications",
+              "evidence": "Module 1271: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "267e82bf75df4ccde1d301e7dc1f7645cc436fe9ab4b9ce50666fdf01e7d6459"
+        }
+      }
+    },
+    "3198": {
+      "id": "3198",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3198: power_supply = {'battery_type': 'CR2025', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "93cd6f409d146ad3372923b55c125c46714cce10e80d3eaad831cdadaffd9264"
+        }
+      }
+    },
+    "3208": {
+      "id": "3208",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 3208: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d9676009d822dd5325b559bbff52df1c4682c0cc2c82adcee65d4d79e4b4b630"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 3208: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d9676009d822dd5325b559bbff52df1c4682c0cc2c82adcee65d4d79e4b4b630"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 3208: calendar = {'type': 'auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d9676009d822dd5325b559bbff52df1c4682c0cc2c82adcee65d4d79e4b4b630"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 3208: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d9676009d822dd5325b559bbff52df1c4682c0cc2c82adcee65d4d79e4b4b630"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+              "evidence": "Module 3208: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d9676009d822dd5325b559bbff52df1c4682c0cc2c82adcee65d4d79e4b4b630"
+        }
+      }
+    },
+    "3224": {
+      "id": "3224",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3224: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6be6d20048cc8cb2d6c57c6d4ff446b5b070addffd6c963fe1263d6d246981e3"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3224: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6be6d20048cc8cb2d6c57c6d4ff446b5b070addffd6c963fe1263d6d246981e3"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3224: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6be6d20048cc8cb2d6c57c6d4ff446b5b070addffd6c963fe1263d6d246981e3"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3224: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6be6d20048cc8cb2d6c57c6d4ff446b5b070addffd6c963fe1263d6d246981e3"
+        },
+        "power_supply": {
+          "value": {
+            "battery": "lithium",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3224: power_supply = {'battery': 'lithium', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6be6d20048cc8cb2d6c57c6d4ff446b5b070addffd6c963fe1263d6d246981e3"
+        }
+      }
+    },
+    "3239": {
+      "id": "3239",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3239: power_supply = {'battery_type': 'CR2025', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d7bde0a5129d25815cf4ffdc43f393698c7c739e5c6bc0a3ea936d9ec9829015"
+        }
+      }
+    },
+    "3240": {
+      "id": "3240",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3240: power_supply = {'battery_type': 'CR2025', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a5bbfa63a99f8cd2d2e2185a10b4521f18ab9b00ee70521b18cb54c13a2c6db1"
+        }
+      }
+    },
+    "3299": {
+      "id": "3299",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 3299: power_supply = {'battery_type': 'CR2025', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "535bc74b3b94c0d56b5a9e923ba8cc5f397119f4d2d487ee73deebade8817947"
+        }
+      }
+    },
+    "3472": {
+      "id": "3472",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3472: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b73aceed4da4c840af41168f6e8a4b17deb08027e6baf1d5b240615cc51570c1"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3472: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b73aceed4da4c840af41168f6e8a4b17deb08027e6baf1d5b240615cc51570c1"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3472: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b73aceed4da4c840af41168f6e8a4b17deb08027e6baf1d5b240615cc51570c1"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3472: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b73aceed4da4c840af41168f6e8a4b17deb08027e6baf1d5b240615cc51570c1"
+        },
+        "power_supply": {
+          "value": {
+            "battery": "lithium",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3472: power_supply = {'battery': 'lithium', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b73aceed4da4c840af41168f6e8a4b17deb08027e6baf1d5b240615cc51570c1"
+        }
+      }
+    },
+    "3479": {
+      "id": "3479",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3479: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2ed93bbc85846dd776cfbb904f42c32aa04829b1f984d58047352ef95c9bffad"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3479: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2ed93bbc85846dd776cfbb904f42c32aa04829b1f984d58047352ef95c9bffad"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3479: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2ed93bbc85846dd776cfbb904f42c32aa04829b1f984d58047352ef95c9bffad"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3479: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2ed93bbc85846dd776cfbb904f42c32aa04829b1f984d58047352ef95c9bffad"
+        },
+        "power_supply": {
+          "value": {
+            "battery": "lithium",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3479: power_supply = {'battery': 'lithium', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2ed93bbc85846dd776cfbb904f42c32aa04829b1f984d58047352ef95c9bffad"
+        }
+      }
+    },
+    "3490": {
+      "id": "3490",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 14 / Specifications E-106–E-110",
+              "evidence": "Module 3490: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "22f6caf4ab07b796d8030e70bc5da657c882bf3f5bbab676014af2e58128f9e4"
+        }
+      }
+    },
+    "3496": {
+      "id": "3496",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3496: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8943d42f58c5028f82babda3735068b8939d950c4711b04bfdc5e39fb729e6b8"
+        }
+      }
+    },
+    "3502": {
+      "id": "3502",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2032",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications",
+              "evidence": "Module 3502: power_supply = {'battery_type': 'CR2032', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45325f58c7aad3163297331af8b673c0776643c25335e0733c95526eb70d44cb"
+        }
+      }
+    },
+    "3525": {
+      "id": "3525",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications (EN-21–EN-23)",
+              "evidence": "Module 3525: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "135ea3da547b1aa4c905c2b96dd11774646959480479d9505f7f1fa9a97f0ae9"
+        },
+        "accuracy_condition": {
+          "value": "Monthly average accuracy as stated in manual",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications (EN-21–EN-23)",
+              "evidence": "Module 3525: accuracy_condition = Monthly average accuracy as stated in manual",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "135ea3da547b1aa4c905c2b96dd11774646959480479d9505f7f1fa9a97f0ae9"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications (EN-21–EN-23)",
+              "evidence": "Module 3525: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "135ea3da547b1aa4c905c2b96dd11774646959480479d9505f7f1fa9a97f0ae9"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / Specifications (EN-21–EN-23)",
+              "evidence": "Module 3525: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "135ea3da547b1aa4c905c2b96dd11774646959480479d9505f7f1fa9a97f0ae9"
+        }
+      }
+    },
+    "3529": {
+      "id": "3529",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3529: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c64c259920a8fafdc1d08a5e4a3aa8b3279d1c88fe2a4e80a3c1a66ce853455"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3529: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c64c259920a8fafdc1d08a5e4a3aa8b3279d1c88fe2a4e80a3c1a66ce853455"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3529: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c64c259920a8fafdc1d08a5e4a3aa8b3279d1c88fe2a4e80a3c1a66ce853455"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3529: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c64c259920a8fafdc1d08a5e4a3aa8b3279d1c88fe2a4e80a3c1a66ce853455"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3529: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4c64c259920a8fafdc1d08a5e4a3aa8b3279d1c88fe2a4e80a3c1a66ce853455"
+        }
+      }
+    },
+    "3539": {
+      "id": "3539",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature when radio-signal and phone time correction are unavailable",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: accuracy_condition = At normal temperature when radio-signal and phone time correction are unavailable",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "world_time_cities": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: world_time_cities = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "world_time_zones": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: world_time_zones = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+              "accessed": "2026-11-14",
+              "locator": "Specifications",
+              "evidence": "Module 3539: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8153e7fd9b9492dcbe1c14177ece6aa2f4d61872d6993adbc00c8654ea67019f"
+        }
+      }
+    },
+    "5110": {
+      "id": "5110",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 8 / Specifications E-75–E-77",
+              "evidence": "Module 5110: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "11b9e17b3ba75205aac04863aba8ac8837bdee8fbddf5b372c713938dc4f89c9"
+        }
+      }
+    },
+    "5125": {
+      "id": "5125",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5125: accuracy_seconds_per_month = 20",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1d62bf4ac0be62e952b3f5ab749b24e4b6f056248745b9fed9fa2e913ae0c36"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5125: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1d62bf4ac0be62e952b3f5ab749b24e4b6f056248745b9fed9fa2e913ae0c36"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR626SW",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5125: power_supply = {'battery_type': 'SR626SW', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1d62bf4ac0be62e952b3f5ab749b24e4b6f056248745b9fed9fa2e913ae0c36"
+        }
+      }
+    },
+    "5128": {
+      "id": "5128",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5128: accuracy_seconds_per_month = 20",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0072627f78c85125ef68e82abd8e27b42282dbb08ee83a774b982102dfcd41a"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5128: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0072627f78c85125ef68e82abd8e27b42282dbb08ee83a774b982102dfcd41a"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR626SW",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Specifications / 5125–5128 table",
+              "evidence": "Module 5128: power_supply = {'battery_type': 'SR626SW', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0072627f78c85125ef68e82abd8e27b42282dbb08ee83a774b982102dfcd41a"
+        }
+      }
+    },
+    "5161": {
+      "id": "5161",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "accuracy_condition": {
+          "value": "When radio-signal time correction is unavailable",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: accuracy_condition = When radio-signal time correction is unavailable",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "world_time_cities": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: world_time_cities = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        },
+        "power_supply": {
+          "value": {
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+              "accessed": "2026-11-14",
+              "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+              "evidence": "Module 5161: power_supply = {'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c0d73412d7fdc6632bafa17a0ebd55eaa9893349a34ccb2446bb5e5c8bf4c882"
+        }
+      }
+    },
+    "5235": {
+      "id": "5235",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5235: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d6979fca7b7394446e97b89a65575a708be1af26611b2f639a529e982eac5162"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5235: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d6979fca7b7394446e97b89a65575a708be1af26611b2f639a529e982eac5162"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5235: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d6979fca7b7394446e97b89a65575a708be1af26611b2f639a529e982eac5162"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5235: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d6979fca7b7394446e97b89a65575a708be1af26611b2f639a529e982eac5162"
+        }
+      }
+    },
+    "5347": {
+      "id": "5347",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        },
+        "world_time_cities": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: world_time_cities = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 7 / Specifications E-55–E-57",
+              "evidence": "Module 5347: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c1f252d2120622545d503a476eecc169dab9c8502cca351c91db42b38874bbcd"
+        }
+      }
+    },
+    "5414": {
+      "id": "5414",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5414: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7e9c846d58dfb3e5b888fc580784e4f35f5d1afe1fe37b30877b7b44a5124c2a"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5414: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7e9c846d58dfb3e5b888fc580784e4f35f5d1afe1fe37b30877b7b44a5124c2a"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5414: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7e9c846d58dfb3e5b888fc580784e4f35f5d1afe1fe37b30877b7b44a5124c2a"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-38–E-39",
+              "evidence": "Module 5414: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7e9c846d58dfb3e5b888fc580784e4f35f5d1afe1fe37b30877b7b44a5124c2a"
+        }
+      }
+    },
+    "5582": {
+      "id": "5582",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature when phone time correction is unavailable",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: accuracy_condition = At normal temperature when phone time correction is unavailable",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        },
+        "world_time_cities": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: world_time_cities = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        },
+        "world_time_zones": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: world_time_zones = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19–20 / Specifications",
+              "evidence": "Module 5582: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c6fb0b1692f32b32bfbcb812c04f11c3ba0615505746923efbb634c4d9c588"
+        }
+      }
+    },
+    "5596": {
+      "id": "5596",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5596/qw5596_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 11–12 / Specifications",
+              "evidence": "Module 5596: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0cc1ab47240bff4692997465a4b33a9183270841633dc1510d8154b12180b6dd"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature when radio-signal and phone time correction are unavailable",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5596/qw5596_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 11–12 / Specifications",
+              "evidence": "Module 5596: accuracy_condition = At normal temperature when radio-signal and phone time correction are unavailable",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0cc1ab47240bff4692997465a4b33a9183270841633dc1510d8154b12180b6dd"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5596/qw5596_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 11–12 / Specifications",
+              "evidence": "Module 5596: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0cc1ab47240bff4692997465a4b33a9183270841633dc1510d8154b12180b6dd"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5596/qw5596_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 11–12 / Specifications",
+              "evidence": "Module 5596: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0cc1ab47240bff4692997465a4b33a9183270841633dc1510d8154b12180b6dd"
+        }
+      }
+    },
+    "5611": {
+      "id": "5611",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR726W",
+            "count": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 5 / Specifications E-46–E-48",
+              "evidence": "Module 5611: power_supply = {'battery_type': 'SR726W', 'count': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3bda954630fc9dd42c93d257a7abaebeb6946dcf7b09b68336cc96e08ed87a5d"
+        }
+      }
+    },
+    "5662": {
+      "id": "5662",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 5662: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "716885a7bc1bea2c51eaccd55a79c03cbaefc1ef7437d8f37ee9a2af74b76531"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 5662: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "716885a7bc1bea2c51eaccd55a79c03cbaefc1ef7437d8f37ee9a2af74b76531"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2039
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 5662: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2039}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "716885a7bc1bea2c51eaccd55a79c03cbaefc1ef7437d8f37ee9a2af74b76531"
+        },
+        "world_time_cities": {
+          "value": 27,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 5662: world_time_cities = 27",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "716885a7bc1bea2c51eaccd55a79c03cbaefc1ef7437d8f37ee9a2af74b76531"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / Specifications",
+              "evidence": "Module 5662: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module specifications; no case properties inferred",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "716885a7bc1bea2c51eaccd55a79c03cbaefc1ef7437d8f37ee9a2af74b76531"
+        }
+      }
+    },
     "3495": {
       "id": "3495",
       "specs": {

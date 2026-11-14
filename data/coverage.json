@@ -1,8 +1,8 @@
 {
   "models": 41,
-  "modules": 3,
+  "modules": 32,
   "facts_by_status": {
-    "pending_review": 342
+    "pending_review": 529
   },
   "models_by_series": {
     "Baby-G": 1,
@@ -29,21 +29,10 @@
     "A168WA-1W",
     "A700W-1A",
     "AE-1200WH-1AV",
-    "AE-1500WH-1AV",
-    "BGA-280-1A",
     "CA-53W-1",
     "DBC-32-1A",
-    "DW-5600UE-1",
-    "DW-6900U-1",
-    "ECB-900DB-1A",
     "F-105W-1A",
     "F-91W-1",
-    "G-5600UE-1",
-    "GA-2100-1A",
-    "GA-2100-1A1",
-    "GA-2100-7A",
-    "GMW-B5000D-1",
-    "GW-M5610U-1B",
     "LCW-M100DSE-1A",
     "LCW-M100TSE-1A",
     "LCW-M100TSE-1A2",
@@ -52,18 +41,61 @@
     "MRW-200H-1BV",
     "MTP-1302D-1A1V",
     "OCW-S100-1AJF",
-    "OCW-T200S-1AJF",
-    "OCW-T200S-7AJF",
-    "OCW-T2600-1AJF",
     "PRG-270-1",
-    "PRG-340-1",
-    "PRW-35-1A",
-    "W-218H-1AV",
     "W-800H-1AV",
     "WV-58R-1A",
-    "WV-59R-1A",
-    "WVA-M640-1AJF",
-    "WVA-M650-1AJF"
+    "WV-59R-1A"
   ],
+  "models_with_single_module_reference": 21,
+  "models_with_ambiguous_manual": {
+    "A158WA-1": [
+      "593",
+      "1271"
+    ],
+    "A700W-1A": [
+      "3472",
+      "3479"
+    ],
+    "AE-1200WH-1AV": [
+      "3198",
+      "3299"
+    ],
+    "CA-53W-1": [
+      "437",
+      "438",
+      "3208"
+    ],
+    "F-91W-1": [
+      "593",
+      "1271"
+    ],
+    "MRW-200H-1BV": [
+      "5125",
+      "5128"
+    ],
+    "OCW-S100-1AJF": [
+      "5235",
+      "5414"
+    ],
+    "W-800H-1AV": [
+      "3239",
+      "3240"
+    ]
+  },
+  "models_without_any_module_reference": [
+    "A168WA-1W",
+    "DBC-32-1A",
+    "F-105W-1A",
+    "LCW-M100DSE-1A",
+    "LCW-M100TSE-1A",
+    "LCW-M100TSE-1A2",
+    "LCW-M170TD-1A",
+    "LCW-M170TD-2A",
+    "MTP-1302D-1A1V",
+    "PRG-270-1",
+    "WV-58R-1A",
+    "WV-59R-1A"
+  ],
+  "referenced_module_ids_without_specs": [],
   "note": "Coverage counts include pending candidates; unknown does not mean absent."
 }

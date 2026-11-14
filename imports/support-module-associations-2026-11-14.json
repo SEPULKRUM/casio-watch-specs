@@ -1,0 +1,810 @@
+[
+  {
+    "kind": "model",
+    "id": "A158WA-1",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "593",
+          "1271"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.A158WA-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for A158WA-1 links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+            "displayed_model": "A158WA-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Manual battery section explicitly includes a separate Module 1271 variant",
+            "identity_basis": "shared_manual_body",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "A700W-1A",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "3472",
+          "3479"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.A700W-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for A700W-1A links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+            "displayed_model": "A700W-1A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3472_3479",
+            "identity_basis": "shared_manual_title",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "AE-1200WH-1AV",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "3198",
+          "3299"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.AE-1200WH-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for AE-1200WH-1AV links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+            "displayed_model": "AE-1200WH-1AV",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3198_3299",
+            "identity_basis": "shared_manual_title",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "AE-1500WH-1AV",
+    "specs": {
+      "module_id": {
+        "value": "3502",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.AE-1500WH-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for AE-1500WH-1AV links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+            "displayed_model": "AE-1500WH-1AV",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3502",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BGA-280-1A",
+    "specs": {
+      "module_id": {
+        "value": "5662",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/babyg/support.BGA-280-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for BGA-280-1A links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+            "displayed_model": "BGA-280-1A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5662",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "CA-53W-1",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "437",
+          "438",
+          "3208"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.CA-53W-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for CA-53W-1 links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+            "displayed_model": "CA-53W-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-437_438_3208",
+            "identity_basis": "shared_manual_title",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "DW-5600UE-1",
+    "specs": {
+      "module_id": {
+        "value": "3525",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.DW-5600UE-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for DW-5600UE-1 links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+            "displayed_model": "DW-5600UE-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Module 3525 manual endpoint and document header",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "DW-6900U-1",
+    "specs": {
+      "module_id": {
+        "value": "3529",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.DW-6900U-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for DW-6900U-1 links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3529_en/",
+            "displayed_model": "DW-6900U-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3529_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 3529 G-SHOCK - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "ECB-900DB-1A",
+    "specs": {
+      "module_id": {
+        "value": "5582",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/edifice/support.ECB-900DB-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for ECB-900DB-1A links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/5582_en/",
+            "displayed_model": "ECB-900DB-1A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5582_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 5582 EDIFICE - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "F-91W-1",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "593",
+          "1271"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.F-91W-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for F-91W-1 links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+            "displayed_model": "F-91W-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Manual battery section explicitly includes a separate Module 1271 variant",
+            "identity_basis": "shared_manual_body",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G-5600UE-1",
+    "specs": {
+      "module_id": {
+        "value": "3496",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.G-5600UE-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for G-5600UE-1 links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3496_en/",
+            "displayed_model": "G-5600UE-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3496_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 3496 G-SHOCK - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GA-2100-1A",
+    "specs": {
+      "module_id": {
+        "value": "5611",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for GA-2100-1A links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "displayed_model": "GA-2100-1A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5611",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GA-2100-1A1",
+    "specs": {
+      "module_id": {
+        "value": "5611",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-1A1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for GA-2100-1A1 links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "displayed_model": "GA-2100-1A1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5611",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GA-2100-7A",
+    "specs": {
+      "module_id": {
+        "value": "5611",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.GA-2100-7A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for GA-2100-7A links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "displayed_model": "GA-2100-7A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5611",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GMW-B5000D-1",
+    "specs": {
+      "module_id": {
+        "value": "3539",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.GMW-B5000D-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for GMW-B5000D-1 links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3539_en/",
+            "displayed_model": "GMW-B5000D-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3539_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 3539 - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610U-1B",
+    "specs": {
+      "module_id": {
+        "value": "3495",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/gshock/support.GW-M5610U-1B/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for GW-M5610U-1B links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3495_en/",
+            "displayed_model": "GW-M5610U-1B",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 3495 G-SHOCK - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "MRW-200H-1BV",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "5125",
+          "5128"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.MRW-200H-1BV/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for MRW-200H-1BV links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+            "displayed_model": "MRW-200H-1BV",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Specifications table explicitly lists modules 5125 and 5128",
+            "identity_basis": "shared_manual_body",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "OCW-S100-1AJF",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "5235",
+          "5414"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S100-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for OCW-S100-1AJF links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_JA.pdf",
+            "displayed_model": "OCW-S100-1AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5235_5414",
+            "identity_basis": "shared_manual_title",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "OCW-T200S-1AJF",
+    "specs": {
+      "module_id": {
+        "value": "5596",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for OCW-T200S-1AJF links the cited manual",
+            "linked_manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+            "displayed_model": "OCW-T200S-1AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.jp/wat/manual/5596_ja/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "OCW-T200S-7AJF",
+    "specs": {
+      "module_id": {
+        "value": "5596",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-7A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for OCW-T200S-7AJF links the cited manual",
+            "linked_manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+            "displayed_model": "OCW-T200S-7AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.jp/wat/manual/5596_ja/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "OCW-T2600-1AJF",
+    "specs": {
+      "module_id": {
+        "value": "5347",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T2600-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for OCW-T2600-1AJF links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_JA.pdf",
+            "displayed_model": "OCW-T2600-1AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5347",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "PRG-340-1",
+    "specs": {
+      "module_id": {
+        "value": "3513",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/protrek/support.PRG-340-1/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for PRG-340-1 links the cited manual",
+            "linked_manual_url": "https://support.casio.com/global/en/wat/manual/3513_en/",
+            "displayed_model": "PRG-340-1",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "Top of Page Module No. 3513 PRO TREK - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "PRW-35-1A",
+    "specs": {
+      "module_id": {
+        "value": "3490",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/protrek/support.PRW-35-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for PRW-35-1A links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+            "displayed_model": "PRW-35-1A",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3490",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "W-218H-1AV",
+    "specs": {
+      "module_id": {
+        "value": "3224",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.W-218H-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for W-218H-1AV links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+            "displayed_model": "W-218H-1AV",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3224",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "W-800H-1AV",
+    "specs": {
+      "module_candidates": {
+        "value": [
+          "3239",
+          "3240"
+        ],
+        "uncertainty": "Shared guide covers these modules; exact watch module is unresolved",
+        "sources": [
+          {
+            "url": "https://www.casio.com/sg/watches/casio/support.W-800H-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for W-800H-1AV links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+            "displayed_model": "W-800H-1AV",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-3239_3240",
+            "identity_basis": "shared_manual_title",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "WVA-M640-1AJF",
+    "specs": {
+      "module_id": {
+        "value": "5161",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/casio/support.WVA-M640-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for WVA-M640-1AJF links the cited manual",
+            "linked_manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+            "displayed_model": "WVA-M640-1AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://support.casio.jp/wat/manual/5161_ja/",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "トップページ モジュール番号 5161 - Support - CASIO",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "WVA-M650-1AJF",
+    "specs": {
+      "module_id": {
+        "value": "5110",
+        "uncertainty": "Current official support reference; historical production revisions may differ",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/casio/support.WVA-M650-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Primary User’s Guide / Operation Guide link",
+            "evidence": "Support page for WVA-M650-1AJF links the cited manual",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_JA.pdf",
+            "displayed_model": "WVA-M650-1AJF",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Manual identity / title and module-specific notes",
+            "evidence": "QW-5110",
+            "identity_basis": "official_manual_endpoint",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

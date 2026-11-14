@@ -20,7 +20,7 @@ class CatalogTests(unittest.TestCase):
     def test_all_batches_have_sources_and_expected_family_coverage(self):
         report = catalog.coverage(self.catalog)
         self.assertGreaterEqual(report['models'], 40)
-        self.assertEqual(report['modules'], 3)
+        self.assertGreaterEqual(report['modules'], 3)
         for family in ('G-SHOCK', 'Pro Trek', 'Oceanus', 'Lineage', 'Wave Ceptor'):
             self.assertGreaterEqual(report['models_by_series'][family], 3)
         for record in self.catalog['models'].values():
@@ -51,6 +51,7 @@ class CatalogTests(unittest.TestCase):
         self.assertIn('GW-M5610U-1B', self.catalog['models'])
         self.assertEqual(self.catalog['models']['GW-M5610U-1']['module'], '3495')
         self.assertNotIn('module', self.catalog['models']['GW-M5610U-1B'])
+        self.assertEqual(catalog.field_value(self.catalog['models']['GW-M5610U-1B'], 'module_id'), '3495')
 
     def test_search_and_csv_have_provenance(self):
         results = catalog.search(self.catalog, series='oceanus')
@@ -85,7 +86,7 @@ class CatalogTests(unittest.TestCase):
                 catalog.preserve_verified(before, after)
 
     def test_unknown_module_not_guessed_but_explicit_link_is_available(self):
-        self.assertNotIn('module_id', self.catalog['models']['PRG-340-1']['specs'])
+        self.assertNotIn('module_id', self.catalog['models']['F-105W-1A']['specs'])
         self.assertEqual(catalog.field_value(self.catalog['models']['GA-B2100-1A'], 'module_id'), '5689')
 
     def test_research_import_reproducible(self):

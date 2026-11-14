@@ -10,7 +10,7 @@ import urllib.robotparser
 from pathlib import Path
 
 AGENT = 'SepulkrumWatchSpecsResearch/0.3'
-HOSTS = {'www.casio.com', 'casio.com', 'support.casio.com'}
+HOSTS = {'www.casio.com', 'casio.com', 'support.casio.com', 'support.casio.jp'}
 LIMIT = 12_000_000
 
 
