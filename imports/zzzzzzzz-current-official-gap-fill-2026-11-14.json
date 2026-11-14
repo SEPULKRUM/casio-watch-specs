@@ -1,0 +1,558 @@
+[
+  {
+    "kind": "model",
+    "id": "GW7900B-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 52.4,
+          "width": 50.0,
+          "thickness": 17.7
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 52.4, 'width': 50.0, 'thickness': 17.7}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "be8a9bafbb9ca7eb142bcc1758f4040a3910886817ff59499c81763d11b4370a",
+            "snapshot_sha256": "af5b6d3de28761cdce74266a8a841a9144df283423ea070e4eb041b9e88ef86b"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 71.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 71.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "be8a9bafbb9ca7eb142bcc1758f4040a3910886817ff59499c81763d11b4370a",
+            "snapshot_sha256": "af5b6d3de28761cdce74266a8a841a9144df283423ea070e4eb041b9e88ef86b"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "be8a9bafbb9ca7eb142bcc1758f4040a3910886817ff59499c81763d11b4370a",
+            "snapshot_sha256": "af5b6d3de28761cdce74266a8a841a9144df283423ea070e4eb041b9e88ef86b"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "be8a9bafbb9ca7eb142bcc1758f4040a3910886817ff59499c81763d11b4370a",
+            "snapshot_sha256": "af5b6d3de28761cdce74266a8a841a9144df283423ea070e4eb041b9e88ef86b"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G2310R-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 52.5,
+          "width": 46.4,
+          "thickness": 15.6
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 52.5, 'width': 46.4, 'thickness': 15.6}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "7f425567ab5cd5a9b69328324474f40667b0869feee8d3132a835f7e521b07cb",
+            "snapshot_sha256": "3813c51e67bcc5757051120fc7c126b0cfb303fd82cf7128f0f01d36b7a68048"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 69.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 69.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "7f425567ab5cd5a9b69328324474f40667b0869feee8d3132a835f7e521b07cb",
+            "snapshot_sha256": "3813c51e67bcc5757051120fc7c126b0cfb303fd82cf7128f0f01d36b7a68048"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "7f425567ab5cd5a9b69328324474f40667b0869feee8d3132a835f7e521b07cb",
+            "snapshot_sha256": "3813c51e67bcc5757051120fc7c126b0cfb303fd82cf7128f0f01d36b7a68048"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "7f425567ab5cd5a9b69328324474f40667b0869feee8d3132a835f7e521b07cb",
+            "snapshot_sha256": "3813c51e67bcc5757051120fc7c126b0cfb303fd82cf7128f0f01d36b7a68048"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G2900F-1V",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 52.4,
+          "width": 45.9,
+          "thickness": 16.5
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 52.4, 'width': 45.9, 'thickness': 16.5}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "80b6e9978871291403a7031154bac8fe11717ac1536dc517ff3016d564275e70",
+            "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 58.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 58.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "80b6e9978871291403a7031154bac8fe11717ac1536dc517ff3016d564275e70",
+            "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "80b6e9978871291403a7031154bac8fe11717ac1536dc517ff3016d564275e70",
+            "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Resin Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "80b6e9978871291403a7031154bac8fe11717ac1536dc517ff3016d564275e70",
+            "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "80b6e9978871291403a7031154bac8fe11717ac1536dc517ff3016d564275e70",
+            "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "DW9052-1V",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 48.5,
+          "width": 43.0,
+          "thickness": 14.7
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.DW-9052-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 48.5, 'width': 43.0, 'thickness': 14.7}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "83830ae4f6d301c62d8f829256daf9e0a3d17ff69e6d14374e2011f0f851a5f6",
+            "snapshot_sha256": "7f03ac4601104bf983a7e2478a892f1fae95a21ff5f6fe9c69bbe5adaa6d414b"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.DW-9052-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "83830ae4f6d301c62d8f829256daf9e0a3d17ff69e6d14374e2011f0f851a5f6",
+            "snapshot_sha256": "7f03ac4601104bf983a7e2478a892f1fae95a21ff5f6fe9c69bbe5adaa6d414b"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.DW-9052-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "83830ae4f6d301c62d8f829256daf9e0a3d17ff69e6d14374e2011f0f851a5f6",
+            "snapshot_sha256": "7f03ac4601104bf983a7e2478a892f1fae95a21ff5f6fe9c69bbe5adaa6d414b"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "AW80-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.8,
+          "width": 40.0,
+          "thickness": 13.5
+        },
+        "uncertainty": "Current official page explicitly labels L/W/H; dimensions differ from the older archived size row. Historical revision or source error unresolved; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.AW-80-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 46.8, 'width': 40.0, 'thickness': 13.5}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "216915e7b8530d3576edc78ee72ad9638969e3da3749d6d399c21e825522a1bb",
+            "snapshot_sha256": "2687ebcaafe4ce5bfdd1cb5fa6e6c1b46003e3b3e0cbb4686f9142e4acaa4782"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.AW-80-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "216915e7b8530d3576edc78ee72ad9638969e3da3749d6d399c21e825522a1bb",
+            "snapshot_sha256": "2687ebcaafe4ce5bfdd1cb5fa6e6c1b46003e3b3e0cbb4686f9142e4acaa4782"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Resin Glass / Spherical Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.AW-80-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Resin Glass / Spherical Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "216915e7b8530d3576edc78ee72ad9638969e3da3749d6d399c21e825522a1bb",
+            "snapshot_sha256": "2687ebcaafe4ce5bfdd1cb5fa6e6c1b46003e3b3e0cbb4686f9142e4acaa4782"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "DB36-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 43.2,
+          "width": 36.6,
+          "thickness": 10.5
+        },
+        "uncertainty": "Current official page explicitly labels L/W/H; dimensions differ from the older archived size row. Historical revision or source error unresolved; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.DB-36-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 43.2, 'width': 36.6, 'thickness': 10.5}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "5002a08880ca9c2df37a8a676119ac953ecb5846b78b74ab5c2fee526114dd2d",
+            "snapshot_sha256": "d0be54006e8e52b725a588b59d9705d19221ec5b3c23ee070f9e1f691d868f71"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.DB-36-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "5002a08880ca9c2df37a8a676119ac953ecb5846b78b74ab5c2fee526114dd2d",
+            "snapshot_sha256": "d0be54006e8e52b725a588b59d9705d19221ec5b3c23ee070f9e1f691d868f71"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Resin Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.DB-36-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Resin Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "5002a08880ca9c2df37a8a676119ac953ecb5846b78b74ab5c2fee526114dd2d",
+            "snapshot_sha256": "d0be54006e8e52b725a588b59d9705d19221ec5b3c23ee070f9e1f691d868f71"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "PRW3500-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 56.9,
+          "width": 53.4,
+          "thickness": 14.5
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 56.9, 'width': 53.4, 'thickness': 14.5}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "231aef2af62f340fe6c5b6ec9a74b692b0dabbf27234ca0c10b92ef82d0c9c60",
+            "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 89.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 89.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "231aef2af62f340fe6c5b6ec9a74b692b0dabbf27234ca0c10b92ef82d0c9c60",
+            "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "231aef2af62f340fe6c5b6ec9a74b692b0dabbf27234ca0c10b92ef82d0c9c60",
+            "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Resin Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "231aef2af62f340fe6c5b6ec9a74b692b0dabbf27234ca0c10b92ef82d0c9c60",
+            "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "231aef2af62f340fe6c5b6ec9a74b692b0dabbf27234ca0c10b92ef82d0c9c60",
+            "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8"
+          }
+        ]
+      }
+    }
+  }
+]

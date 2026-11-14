@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **153 models, 107 modules and 2,004 source-backed candidate
+The catalog now contains **153 models, 107 modules and 2,031 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -690,3 +690,36 @@ text-only page retrieval omits the rendered specification component. Its HTML
 checksum and selected exact labels are recorded. The generic series fact is
 listed under excluded_existing_fields in the notes to avoid importing it twice;
 regeneration uses product_import.convert followed by that explicit exclusion.
+
+## Bulk current-page gap filling
+
+A [seven-model batch](research/current-official-gap-fill-2026-11-14.json) adds
+27 missing model fields from current official Casio pages: GW7900B-1, G2310R-1,
+G2900F-1V, DW9052-1V, AW80-1AV, DB36-1AV and PRW3500-1. These fill explicitly
+labeled dimensions, weights, case/bezel materials, band materials and glass
+where previously unknown. No prior fact or provenance is replaced. G2310R-1
+now has a correctly identified official size/weight source, separate from the
+old archive's mislabeled G2300GR row.
+
+`product_import.py` now supports the Product `specificationsItemList` JSON
+embedded in official HTML, in addition to existing visible specification headings.
+It does not execute JavaScript. It requires the displayed model and product URL
+to agree (including regional suffix), rejects malformed or duplicated JSON keys,
+and fails on conflicting specification components or visible/embedded values.
+`from_snapshots` can therefore use these current pages through the existing
+checksum-checked bulk workflow. Original research imports reproduce unchanged.
+
+Explicit per-product `excluded_existing_fields` record which already-known
+fields were omitted from the additive batch. Reproduction uses
+`product_import.convert` followed by those exclusions. Optional
+`field_uncertainty` notes retain source discrepancies on the affected fields.
+
+The [fetch and comparison report](research/current-official-gap-fill-report-2026-11-14.json)
+records seven successful source imports and one missing BG169R endpoint.
+AW80 and DB36 current dimensions differ from old unlabeled size rows; raw
+historical rows and source links remain recorded, and the new dimension facts
+explicitly flag historical revision/source-error uncertainty. DB36 current
+weight is **27 g**, versus the archived **30 g**. The existing 30 g candidate
+is preserved, with the competing current claim retained in research for review.
+These claims are not silently combined into one production specification.
+All 27 additions remain pending independent review.

@@ -1,0 +1,169 @@
+{
+  "accessed": "2026-11-14",
+  "method": "Bulk official HTML snapshots fetched with gather.py robots/access controls. Visible or embedded specifications parsed offline. Only exact existing model identifiers accepted. Explicit per-product exclusions keep existing facts and provenance unchanged; no regional suffix equivalence inferred.",
+  "products": [
+    {
+      "id": "GW7900B-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+      "fields": {
+        "Case size (L× W× H)": "52.4 × 50 × 17.7 mm",
+        "Weight": "71 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "af5b6d3de28761cdce74266a8a841a9144df283423ea070e4eb041b9e88ef86b",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "id": "G2310R-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+      "fields": {
+        "Case size (L× W× H)": "52.5 × 46.4 × 15.6 mm",
+        "Weight": "69 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "3813c51e67bcc5757051120fc7c126b0cfb303fd82cf7128f0f01d36b7a68048",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "id": "G2900F-1V",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+      "fields": {
+        "Case size (L× W× H)": "52.4 × 45.9 × 16.5 mm",
+        "Weight": "58 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "62462c76b37e7566bdd70e8534445a765e80a6399d1692926e7a4a3e54171118",
+      "excluded_existing_fields": [
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "id": "DW9052-1V",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/us/watches/gshock/product.DW-9052-1V/",
+      "fields": {
+        "Case size (L× W× H)": "48.5 × 43 × 14.7 mm",
+        "Weight": "59 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "7f03ac4601104bf983a7e2478a892f1fae95a21ff5f6fe9c69bbe5adaa6d414b",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ]
+    },
+    {
+      "id": "AW80-1AV",
+      "series": "Casio Sports",
+      "url": "https://www.casio.com/us/watches/casio/product.AW-80-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "46.8 × 40 × 13.5 mm",
+        "Weight": "34 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Glass": "Resin Glass / Spherical Glass"
+      },
+      "snapshot_sha256": "2687ebcaafe4ce5bfdd1cb5fa6e6c1b46003e3b3e0cbb4686f9142e4acaa4782",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "weight_g"
+      ],
+      "historical_comparison": {
+        "archive_url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+        "archive_timestamp": "20130107220531",
+        "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+        "raw_size_weight_row": "AW80 44.5 x 38.5 x 11.0mm / 34g",
+        "note": "Old size row did not label L/W/H order. Current explicit L/W/H values differ from that older row; production revision or source error remains unresolved."
+      },
+      "field_uncertainty": {
+        "dimensions_mm": "Current official page explicitly labels L/W/H; dimensions differ from the older archived size row. Historical revision or source error unresolved; independent review pending."
+      }
+    },
+    {
+      "id": "DB36-1AV",
+      "series": "Casio Databank",
+      "url": "https://www.casio.com/us/watches/casio/product.DB-36-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "43.2 × 36.6 × 10.5 mm",
+        "Weight": "27 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Resin Glass"
+      },
+      "snapshot_sha256": "d0be54006e8e52b725a588b59d9705d19221ec5b3c23ee070f9e1f691d868f71",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ],
+      "historical_comparison": {
+        "archive_url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+        "archive_timestamp": "20130101091012",
+        "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+        "raw_size_weight_row": "42.0 x 35.5 x 9.8mm / 30g",
+        "note": "Old size row did not label L/W/H order. Current explicit L/W/H values differ from that older row; production revision or source error remains unresolved.",
+        "weight_discrepancy": {
+          "archived_weight_g": 30,
+          "current_official_weight_g": 27,
+          "handling": "Existing 30 g canonical candidate retained; current 27 g claim recorded here for review without overwriting."
+        }
+      },
+      "field_uncertainty": {
+        "dimensions_mm": "Current official page explicitly labels L/W/H; dimensions differ from the older archived size row. Historical revision or source error unresolved; independent review pending."
+      }
+    },
+    {
+      "id": "PRW3500-1",
+      "series": "Pro Trek",
+      "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+      "fields": {
+        "Case size (L× W× H)": "56.9 × 53.4 × 14.5 mm",
+        "Weight": "89 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "79037a684621bcb169e7344ed8364cb33ef05c37475fa0d8fe97a81ca7e52be8",
+      "excluded_existing_fields": [
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    }
+  ]
+}
