@@ -25,6 +25,28 @@ def digest(value):
                                      separators=(',', ':')).encode()).hexdigest()
 
 
+def validate_archive_source(source):
+    """Bind a Wayback citation to its exact dated official Casio original."""
+    from datetime import datetime, date
+    match = re.fullmatch(r'https://web\.archive\.org/web/(\d{14})/(https?://.+)', source.get('url', ''))
+    if not match:
+        raise ValueError('Archive citation requires a timestamped HTTPS Wayback replay URL')
+    timestamp, original = match.groups()
+    captured = datetime.strptime(timestamp, '%Y%m%d%H%M%S')
+    parsed = urlsplit(original)
+    hosts = {'www.casio.com', 'casio.com', 'www.casio-europe.com', 'casio-europe.com',
+             'support.casio.com', 'support.casio.jp'}
+    if (parsed.hostname not in hosts or parsed.username or parsed.password
+            or parsed.port not in (None, 80, 443) or parsed.fragment):
+        raise ValueError('Archive original must be an official Casio URL without credentials')
+    if (source.get('original_url') != original or source.get('archive_timestamp') != timestamp
+            or source.get('permission') != 'official_public_reference'
+            or not re.fullmatch(r'[0-9a-f]{64}', source.get('snapshot_sha256', ''))):
+        raise ValueError('Archive citation requires matching original, timestamp and snapshot checksum')
+    if captured.date() > date.fromisoformat(source.get('accessed', '')):
+        raise ValueError('Archive capture cannot postdate access')
+
+
 def load(path):
     return json.loads(Path(path).read_text(encoding='utf-8'))
 
@@ -100,6 +122,9 @@ def validate(record):
                     raise ValueError('ShockBase excluded without permission')
                 if source.get('permission') not in ('official_public_reference', 'licensed', 'permission_granted'):
                     raise ValueError('Source permission basis required')
+                if (url.hostname == 'web.archive.org' or 'archive_timestamp' in source
+                        or 'original_url' in source):
+                    validate_archive_source(source)
             else:
                 raise ValueError('Unknown source kind')
             if not all(isinstance(source.get(k), str) and source[k].strip()

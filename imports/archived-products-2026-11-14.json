@@ -1,0 +1,970 @@
+[
+  {
+    "kind": "model",
+    "id": "GW7900B-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black band",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1: color = Black band"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3200",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "GW7900B-1 product page explicitly states Module 3200"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3200",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: world_time_zones = 31"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: calendar = {'type': 'auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+            "archive_timestamp": "20191207173117",
+            "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "06e3705e2c49fac8aa2bdc155d6be30d6ae5bc7731ffdd260f65a22bb0ae0170",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3200: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G2900F-1V",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2900F-1V: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2900F-1V: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2900F-1V: water_resistance_m = 200"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "2548",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2900F-1V product page explicitly states Module 2548"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "2548",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 27,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: world_time_cities = 27"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: calendar = {'type': 'auto', 'end_year': 2039}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "CR2025"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: power_supply = {'battery_type': 'CR2025'}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "auto_repeat": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+            "archive_timestamp": "20191211225707",
+            "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c1088b9e6da867f9e693841ed2a8fdd956b4450c6f9f130a8cc0c229c73d5d0b",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2548: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'auto_repeat': True}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW5600J-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black band",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: color = Black band"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 54,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1: weight_g = 54"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "2924",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "GW5600J-1 product page explicitly states Module 2924"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "2924",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 30,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: world_time_cities = 30"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: calendar = {'type': 'auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "With no signal calibration",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: accuracy_condition = With no signal calibration"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 0.1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "auto_repeat": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+            "archive_timestamp": "20130321223341",
+            "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a9e66b6a4a9975e3425e3d627d8a1b4fe7cc467705816048240e076b5903732c",
+            "locator": "At a glance / Attributes / Technical Specs",
+            "evidence": "2924: timer = {'measurement_unit_seconds': 0.1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'auto_repeat': True}"
+          }
+        ]
+      }
+    }
+  }
+]
