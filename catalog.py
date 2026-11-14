@@ -108,7 +108,8 @@ def export_csv(catalog):
     out = io.StringIO(newline='')
     writer = csv.writer(out, lineterminator='\n')
     writer.writerow(['model', 'series', 'module', 'module_candidates', 'module_link_status', 'module_link_provenance', 'length_mm', 'width_mm', 'thickness_mm',
-                     'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
+               'promotional_thickness_mm', 'technical_table_thickness_mm',
+               'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
                      'verified_facts', 'pending_facts', 'source_urls', 'source_references'])
     for record in search(catalog):
@@ -120,7 +121,8 @@ def export_csv(catalog):
         view = module_view(catalog, record)
         row = [record['id'], value('series'), view['module_id'],
                ' | '.join(view['module_candidates']), view['module_link_status'], view['module_link_provenance'],
-               dims.get('length'), dims.get('width'), dims.get('thickness'), value('weight_g'),
+               dims.get('length'), dims.get('width'), dims.get('thickness'),
+               value('promotional_thickness_mm'), value('technical_table_thickness_mm'), value('weight_g'),
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
                sum(f['status'] == 'verified' for f in facts),

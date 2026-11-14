@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **148 models, 103 modules and 1,901 source-backed candidate
+The catalog now contains **148 models, 103 modules and 1,903 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -593,3 +593,22 @@ The guide contains no accuracy or battery specification. Accuracy remains
 unknown; the prior archive-sourced CR2016 claim remains separately attributed
 and pending review. No model-specific case properties or module associations
 are inferred from the general guide. All verified legacy data is unchanged.
+
+## PAW2000 thickness: retain both Casio section values
+
+As requested, PAW2000-1 now retains both values from the same archived official
+Casio page, with their original section labels:
+
+| Casio section | Thickness | Database / CSV field |
+| --- | --- | --- |
+| Promotional description: Slim Case Design | 11.5 mm | `promotional_thickness_mm` |
+| Technical Specs: PAW2000 size/weight row | 11.3 mm | `technical_table_thickness_mm` |
+
+The technical row reads `PAW2000 56.2 x 50.2 x 11.3mm / 69.1g`. Its full text
+and the promotional wording are retained as source evidence in the
+[research notes](research/paw2000-labeled-thickness-2026-11-14.json) and import.
+Both fields are model-specific positive millimetre values with distinct source
+locators and explicit discrepancy notes. Neither is chosen as a definitive
+measurement; `dimensions_mm` remains unset for PAW2000-1 and its existing CSV
+`thickness_mm` cell remains blank. The two labeled columns are included in the
+CSV, so both claims are visible in spreadsheet use. All prior fields are unchanged.

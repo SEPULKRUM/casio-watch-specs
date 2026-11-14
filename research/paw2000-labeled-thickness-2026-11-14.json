@@ -1,0 +1,24 @@
+{
+  "type": "labeled_thickness_claims",
+  "model": "PAW2000-1",
+  "accessed": "2026-11-14",
+  "archive_url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+  "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+  "archive_timestamp": "20111019201352",
+  "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+  "claims": [
+    {
+      "field": "promotional_thickness_mm",
+      "value": 11.5,
+      "locator": "At A Glance / Slim Case Design",
+      "evidence": "Slim Case Design: 11.5mm thin"
+    },
+    {
+      "field": "technical_table_thickness_mm",
+      "value": 11.3,
+      "locator": "Technical Specs / Size of case / total weight / PAW2000 row",
+      "evidence": "PAW2000 56.2 x 50.2 x 11.3mm / 69.1g"
+    }
+  ],
+  "decision": "User requested both values as Casio presents them. Retain two section-labeled claims; do not choose one definitive thickness or assign L/W order. All facts pending independent review."
+}
