@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **118 models, 71 modules and 1,394 source-backed candidate
+The catalog now contains **118 models, 71 modules and 1,425 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -363,3 +363,13 @@ earlier titanium LCW-M100TS picture. The second resolves the earlier cropped/fai
 MTP reading. The original observations are retained as a historical record; these
 clearer photographs resolve those specific evidence qualifications. Full colour
 suffixes remain unshown, and catalogue values/statuses are unchanged.
+
+## Module function enrichment
+
+The next additive manual batch adds 31 pending facts to modules 3459, 3461,
+3501 and 3569, including alarms, built-in world time, stopwatch, countdown timer,
+lighting and power supply. See [the research notes](research/module-functions-2026-11-14.json).
+The 3459/3461 guide explicitly names both modules; its common function facts do
+not resolve which module an individual model uses. Stopwatch resolution changes
+after the first hour on 3459/3461/3501 and is recorded in separate segments.
+These additions preserve all earlier facts and owner-provided associations.
