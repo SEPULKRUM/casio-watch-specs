@@ -1,0 +1,910 @@
+{
+  "type": "module_associations",
+  "accessed": "2026-11-14",
+  "scope": "Expansion batch: primary official support/manual links for exact displayed models. Shared guides stay ambiguous; all references await independent review.",
+  "observations": [
+    {
+      "model": "G-9300-1",
+      "displayed_model": "G-9300-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.G-9300-1/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+      "module_candidates": [
+        "3261",
+        "3281"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-3261_3281; documented module references: 3261, 3281"
+    },
+    {
+      "model": "GA-100-1A1",
+      "displayed_model": "GA-100-1A1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GA-100-1A1/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+      "module_candidates": [
+        "5081"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5081"
+    },
+    {
+      "model": "GA-110-1B",
+      "displayed_model": "GA-110-1B",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GA-110-1B/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+      "module_candidates": [
+        "5146",
+        "5425"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5146_5425; documented module references: 5146, 5425"
+    },
+    {
+      "model": "GA-700-1B",
+      "displayed_model": "GA-700-1B",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GA-700-1B/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+      "module_candidates": [
+        "5522"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5522"
+    },
+    {
+      "model": "GA-B001-1A",
+      "displayed_model": "GA-B001-1A",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GA-B001-1A/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5690_en/",
+      "module_candidates": [
+        "5690"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5690 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GBD-200-1",
+      "displayed_model": "GBD-200-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GBD-200-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3506_en/",
+      "module_candidates": [
+        "3506"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3506 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GBD-H2000-1A",
+      "displayed_model": "GBD-H2000-1A",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GBD-H2000-1A/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3515_en/",
+      "module_candidates": [
+        "3515"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3515 - Support - CASIO"
+    },
+    {
+      "model": "GBX-100-1",
+      "displayed_model": "GBX-100-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GBX-100-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3482_en/",
+      "module_candidates": [
+        "3482"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3482 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010-1",
+      "displayed_model": "GD-010-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010-1A1",
+      "displayed_model": "GD-010-1A1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010-1A1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010-3",
+      "displayed_model": "GD-010-3",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010-3/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010-4",
+      "displayed_model": "GD-010-4",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010-4/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010BEG-1",
+      "displayed_model": "GD-010BEG-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010BEG-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GD-010CE-5",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010CE-5/",
+      "status": "unavailable",
+      "reason": "Official support page could not be retrieved; no module inferred"
+    },
+    {
+      "model": "GD-010GB-1A9",
+      "displayed_model": "GD-010GB-1A9",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GD-010GB-1A9/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3569_en/",
+      "module_candidates": [
+        "3569"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3569 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GST-B400D-1A",
+      "displayed_model": "GST-B400D-1A",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GST-B400D-1A/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5657_en/",
+      "module_candidates": [
+        "5657"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5657 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GST-B500D-1A",
+      "displayed_model": "GST-B500D-1A",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GST-B500D-1A/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5684_en/",
+      "module_candidates": [
+        "5684"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5684 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GW-9400-1",
+      "displayed_model": "GW-9400-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GW-9400-1/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+      "module_candidates": [
+        "3410"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-3410"
+    },
+    {
+      "model": "GW-9500-1",
+      "displayed_model": "GW-9500-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GW-9500-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3553_en/",
+      "module_candidates": [
+        "3553"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3553 G-SHOCK - Support - CASIO"
+    },
+    {
+      "model": "GW-B5600-2",
+      "displayed_model": "GW-B5600-2",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GW-B5600-2/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3461_en/",
+      "module_candidates": [
+        "3459",
+        "3461"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "Top of Page Module No. 3459/3461 G-SHOCK - Support - CASIO; documented module references: 3459, 3461"
+    },
+    {
+      "model": "GX-56BB-1",
+      "displayed_model": "GX-56BB-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.GX-56BB-1/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+      "module_candidates": [
+        "3221"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-3221"
+    },
+    {
+      "model": "LCW-M100DE-7AJF",
+      "displayed_model": "LCW-M100DE-7AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LCW-M100DE-7A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "LCW-M100TSE-1AJF",
+      "displayed_model": "LCW-M100TSE-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LCW-M100TSE-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "LCW-M170D-1AJF",
+      "displayed_model": "LCW-M170D-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LCW-M170D-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "LCW-M170TD-1AJF",
+      "displayed_model": "LCW-M170TD-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LCW-M170TD-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "LCW-M500TD-1AJF",
+      "displayed_model": "LCW-M500TD-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LCW-M500TD-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "LIW-120DEJ-1A2JF",
+      "displayed_model": "LIW-120DEJ-1A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-120DEJ-1A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+      "module_candidates": [
+        "5227"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5227"
+    },
+    {
+      "model": "LIW-120DEJ-1AJF",
+      "displayed_model": "LIW-120DEJ-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-120DEJ-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+      "module_candidates": [
+        "5227"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5227"
+    },
+    {
+      "model": "LIW-120DEJ-7A2JF",
+      "displayed_model": "LIW-120DEJ-7A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-120DEJ-7A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+      "module_candidates": [
+        "5227"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5227"
+    },
+    {
+      "model": "LIW-M610D-1AJF",
+      "displayed_model": "LIW-M610D-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-M610D-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "LIW-M610DB-1AJF",
+      "displayed_model": "LIW-M610DB-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-M610DB-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "LIW-M610TSE-1AJF",
+      "displayed_model": "LIW-M610TSE-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-M610TSE-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "LIW-M700D-1AJF",
+      "displayed_model": "LIW-M700D-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LIW-M700D-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "LWA-M145-1AJF",
+      "displayed_model": "LWA-M145-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M145-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "module_candidates": [
+        "5575",
+        "5643"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5575_5643; documented module references: 5575, 5643"
+    },
+    {
+      "model": "LWA-M145-4AJF",
+      "displayed_model": "LWA-M145-4AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M145-4A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "module_candidates": [
+        "5575",
+        "5643"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5575_5643; documented module references: 5575, 5643"
+    },
+    {
+      "model": "LWA-M145L-4AJF",
+      "displayed_model": "LWA-M145L-4AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M145L-4A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "module_candidates": [
+        "5575",
+        "5643"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5575_5643; documented module references: 5575, 5643"
+    },
+    {
+      "model": "LWA-M145L-8A2JF",
+      "displayed_model": "LWA-M145L-8A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M145L-8A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "module_candidates": [
+        "5575",
+        "5643"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5575_5643; documented module references: 5575, 5643"
+    },
+    {
+      "model": "LWA-M145L-8AJF",
+      "displayed_model": "LWA-M145L-8AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M145L-8A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "module_candidates": [
+        "5575",
+        "5643"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5575_5643; documented module references: 5575, 5643"
+    },
+    {
+      "model": "LWA-M160L-4A2JF",
+      "displayed_model": "LWA-M160L-4A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M160L-4A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+      "module_candidates": [
+        "5644"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5644"
+    },
+    {
+      "model": "LWA-M160L-7A2JF",
+      "displayed_model": "LWA-M160L-7A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M160L-7A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+      "module_candidates": [
+        "5644"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5644"
+    },
+    {
+      "model": "LWA-M160L-8A2JF",
+      "displayed_model": "LWA-M160L-8A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWA-M160L-8A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+      "module_candidates": [
+        "5644"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5644"
+    },
+    {
+      "model": "LWQ-10DJ-7A1JF",
+      "displayed_model": "LWQ-10DJ-7A1JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.LWQ-10DJ-7A1/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+      "module_candidates": [
+        "5253"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5253"
+    },
+    {
+      "model": "MRG-B5000D-1",
+      "displayed_model": "MRG-B5000D-1",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.MRG-B5000D-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/3501_en/",
+      "module_candidates": [
+        "3501"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 3501 MR-G - Support - CASIO"
+    },
+    {
+      "model": "MTG-B3000D-1A",
+      "displayed_model": "MTG-B3000D-1A",
+      "support_url": "https://www.casio.com/sg/watches/gshock/support.MTG-B3000D-1A/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5672_en/",
+      "module_candidates": [
+        "5672"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5672 MT-G - Support - CASIO"
+    },
+    {
+      "model": "OCW-S6000-1AJF",
+      "displayed_model": "OCW-S6000-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S6000-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5665_ja/",
+      "module_candidates": [
+        "5665"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5665 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000-1A2JF",
+      "displayed_model": "OCW-S7000-1A2JF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000-1A2/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000-1AJF",
+      "displayed_model": "OCW-S7000-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000A-2AJF",
+      "displayed_model": "OCW-S7000A-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000A-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000AP-1AJF",
+      "displayed_model": "OCW-S7000AP-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000AP-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000B-2AJF",
+      "displayed_model": "OCW-S7000B-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000B-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000BV-2AJR",
+      "displayed_model": "OCW-S7000BV-2AJR",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000BV-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000C-2AJF",
+      "displayed_model": "OCW-S7000C-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000C-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000CN-1AJF",
+      "displayed_model": "OCW-S7000CN-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000CN-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000D-7AJF",
+      "displayed_model": "OCW-S7000D-7AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000D-7A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000E-2AJF",
+      "displayed_model": "OCW-S7000E-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000E-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-S7000PW-7AJF",
+      "displayed_model": "OCW-S7000PW-7AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-S7000PW-7A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5701_ja/",
+      "module_candidates": [
+        "5701"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5701 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-T150-1AJF",
+      "displayed_model": "OCW-T150-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T150-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/54/5414/qw5414_JA.pdf",
+      "module_candidates": [
+        "5235",
+        "5414"
+      ],
+      "status": "candidate",
+      "identity_basis": "shared_manual_body",
+      "manual_identity_evidence": "QW-5235_5414; documented module references: 5235, 5414"
+    },
+    {
+      "model": "OCW-T200S-2AJF",
+      "displayed_model": "OCW-T200S-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-2A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+      "module_candidates": [
+        "5596"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-T200S-3AJF",
+      "displayed_model": "OCW-T200S-3AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T200S-3A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5596_ja/",
+      "module_candidates": [
+        "5596"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5596 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-T4000-1AJF",
+      "displayed_model": "OCW-T4000-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T4000-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5652_ja/",
+      "module_candidates": [
+        "5652"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5652 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-T5000-1AJF",
+      "displayed_model": "OCW-T5000-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T5000-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5671_ja/",
+      "module_candidates": [
+        "5671"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5671 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "OCW-T6000-1AJF",
+      "displayed_model": "OCW-T6000-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/oceanus/support.OCW-T6000-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5712_ja/",
+      "module_candidates": [
+        "5712"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ Module No. 5712 OCEANUS - Support - CASIO"
+    },
+    {
+      "model": "PRJ-B001-1",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001-1/",
+      "status": "unavailable",
+      "reason": "Official support page could not be retrieved; no module inferred"
+    },
+    {
+      "model": "PRJ-B001-5",
+      "displayed_model": "PRJ-B001-5",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001-5/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5732_en/",
+      "module_candidates": [
+        "5732"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5732 PRO TREK - Support - CASIO"
+    },
+    {
+      "model": "PRJ-B001-7",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001-7/",
+      "status": "unavailable",
+      "reason": "Official support page could not be retrieved; no module inferred"
+    },
+    {
+      "model": "PRJ-B001B-1",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001B-1/",
+      "status": "unavailable",
+      "reason": "Official support page could not be retrieved; no module inferred"
+    },
+    {
+      "model": "PRJ-B001B-2",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001B-2/",
+      "status": "unavailable",
+      "reason": "Official support page could not be retrieved; no module inferred"
+    },
+    {
+      "model": "PRJ-B001B-5",
+      "displayed_model": "PRJ-B001B-5",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001B-5/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5732_en/",
+      "module_candidates": [
+        "5732"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5732 PRO TREK - Support - CASIO"
+    },
+    {
+      "model": "PRJ-B001WM-1",
+      "displayed_model": "PRJ-B001WM-1",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRJ-B001WM-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5732_en/",
+      "module_candidates": [
+        "5732"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5732 PRO TREK - Support - CASIO"
+    },
+    {
+      "model": "PRT-B50-1",
+      "displayed_model": "PRT-B50-1",
+      "support_url": "https://www.casio.com/sg/watches/protrek/support.PRT-B50-1/",
+      "manual_url": "https://support.casio.com/global/en/wat/manual/5601_en/",
+      "module_candidates": [
+        "5601"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "Top of Page Module No. 5601 PRO TREK - Support - CASIO"
+    },
+    {
+      "model": "WVA-M630D-1AJF",
+      "displayed_model": "WVA-M630D-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVA-M630D-1A/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "WVA-M630D-7A2JF",
+      "displayed_model": "WVA-M630D-7A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVA-M630D-7A2/",
+      "manual_url": "https://support.casio.jp/wat/manual/5161_ja/",
+      "module_candidates": [
+        "5161"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "トップページ モジュール番号 5161 - Support - CASIO"
+    },
+    {
+      "model": "WVA-M650D-1A2JF",
+      "displayed_model": "WVA-M650D-1A2JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVA-M650D-1A2/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_JA.pdf",
+      "module_candidates": [
+        "5110"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5110"
+    },
+    {
+      "model": "WVQ-M410-1AJF",
+      "displayed_model": "WVQ-M410-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVQ-M410-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "WVQ-M410-2AJF",
+      "displayed_model": "WVQ-M410-2AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVQ-M410-2A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "WVQ-M410B-1AJF",
+      "displayed_model": "WVQ-M410B-1AJF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVQ-M410B-1A/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    },
+    {
+      "model": "WVQ-M410DE-1A3JF",
+      "displayed_model": "WVQ-M410DE-1A3JF",
+      "support_url": "https://www.casio.com/jp/watches/casio/support.WVQ-M410DE-1A3/",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_JA.pdf",
+      "module_candidates": [
+        "5174"
+      ],
+      "status": "candidate",
+      "identity_basis": "official_manual_endpoint",
+      "manual_identity_evidence": "QW-5174"
+    }
+  ]
+}

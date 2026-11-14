@@ -1,0 +1,550 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-14",
+  "note": "Selected module profiles researched from official manuals. Sparse records are intentional; omitted functions are unknown, not absent. Preserve ±30-second Wave Ceptor ratings and external correction conditions.",
+  "modules": [
+    {
+      "id": "3221",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+      "locator": "PDF page 4 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5
+      }
+    },
+    {
+      "id": "3261",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+      "locator": "PDF page 10 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3281",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+      "locator": "PDF page 10 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3410",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+      "locator": "PDF page 13 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; without radio-signal calibration",
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3459",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+      "locator": "PDF page 19 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3461",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+      "locator": "PDF page 19 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3482",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3482/qw3482_EN.pdf",
+      "locator": "Specifications / Accuracy and selected common functions",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When phone time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3501",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+      "locator": "PDF page 27 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3506",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3506/qw3506_EN.pdf",
+      "locator": "Specifications / Accuracy and selected common functions",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When phone time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3515",
+      "source_url": "https://support.casio.com/global/en/wat/manual/3515_en/PJONSYknzccjpj.html",
+      "locator": "Specifications / Accuracy / Basic Functions",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When phone time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "3553",
+      "source_url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+      "locator": "Specifications",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3569",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+      "locator": "PDF page 15 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5081",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+      "locator": "PDF page 4 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5146",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+      "locator": "PDF page 5 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5174",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+      "locator": "PDF page 8 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; without radio-signal calibration",
+        "world_time_cities": 29,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5227",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+      "locator": "PDF page 26 / 製品仕様",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "power_supply": {
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5253",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+      "locator": "PDF page 37 / 製品仕様",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5425",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+      "locator": "PDF page 5 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5522",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+      "locator": "PDF page 6 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5
+      }
+    },
+    {
+      "id": "5575",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "locator": "PDF page 54 / 製品仕様",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5601",
+      "source_url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+      "locator": "Specifications",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When phone time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 38,
+        "world_time_zones": 38,
+        "alarm_count": 5
+      }
+    },
+    {
+      "id": "5643",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+      "locator": "PDF page 54 / 製品仕様",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5644",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+      "locator": "PDF page 47 / 製品仕様",
+      "scope_note": "Selected module specifications only; independent review pending",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5652",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5652/qw5652_EN.pdf",
+      "locator": "PDF page 15 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5657",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+      "locator": "PDF page 24 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when phone time correction is unavailable",
+        "world_time_cities": 38,
+        "world_time_zones": 38,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    },
+    {
+      "id": "5665",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5665/qw5665_EN.pdf",
+      "locator": "PDF page 25 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable"
+      }
+    },
+    {
+      "id": "5671",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5671/qw5671_EN.pdf",
+      "locator": "PDF page 25 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5672",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5672/qw5672_EN.pdf",
+      "locator": "PDF page 27 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable"
+      }
+    },
+    {
+      "id": "5684",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+      "locator": "PDF page 26 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when phone time correction is unavailable",
+        "world_time_cities": 38,
+        "world_time_zones": 38,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5
+      }
+    },
+    {
+      "id": "5690",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+      "locator": "PDF page 24 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when phone time correction is unavailable",
+        "world_time_cities": 38,
+        "world_time_zones": 38,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5
+      }
+    },
+    {
+      "id": "5701",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5701/qw5701_EN.pdf",
+      "locator": "PDF page 26 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when radio-signal and phone time correction are unavailable"
+      }
+    },
+    {
+      "id": "5712",
+      "source_url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+      "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+      "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 27,
+        "world_time_zones": 38
+      }
+    },
+    {
+      "id": "5732",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+      "locator": "PDF page 26 / Specifications",
+      "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature; when phone time correction is unavailable",
+        "world_time_cities": 38,
+        "world_time_zones": 38,
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

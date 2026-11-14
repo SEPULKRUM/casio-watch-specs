@@ -1,0 +1,2425 @@
+[
+  {
+    "kind": "module",
+    "id": "3221",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: world_time_zones = 31",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3221/qw3221_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 3221: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3261",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3261: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3261: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3261: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3281",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3281: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3281: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 10 / Specifications",
+            "evidence": "Module 3281: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3410",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; without radio-signal calibration",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: accuracy_condition = At normal temperature; without radio-signal calibration",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: world_time_zones = 31",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3410/qw3410_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 13 / Specifications",
+            "evidence": "Module 3410: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3459",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3459: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3459: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3459: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3461",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3461: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3461: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 19 / Specifications",
+            "evidence": "Module 3461: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3482",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3482/qw3482_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3482: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3482/qw3482_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3482: accuracy_condition = When phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3482/qw3482_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3482: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3501",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 27 / Specifications",
+            "evidence": "Module 3501: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 27 / Specifications",
+            "evidence": "Module 3501: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 27 / Specifications",
+            "evidence": "Module 3501: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3506",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3506/qw3506_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3506: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3506/qw3506_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3506: accuracy_condition = When phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3506/qw3506_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy and selected common functions",
+            "evidence": "Module 3506: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3515",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3515_en/PJONSYknzccjpj.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy / Basic Functions",
+            "evidence": "Module 3515: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3515_en/PJONSYknzccjpj.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy / Basic Functions",
+            "evidence": "Module 3515: accuracy_condition = When phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3515_en/PJONSYknzccjpj.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Accuracy / Basic Functions",
+            "evidence": "Module 3515: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3553",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: world_time_zones = 31",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: snooze_alarm = True",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3553_en/AHNISYudfvcjct.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 3553: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3569",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 3569: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 3569: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 3569: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5081",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 5081: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 5081: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 5081: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 5081: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/50/5081/qw5081_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 4 / Specifications",
+            "evidence": "Module 5081: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5146",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5146: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5146: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5146: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5146: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5146: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5174",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 8 / Specifications",
+            "evidence": "Module 5174: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; without radio-signal calibration",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 8 / Specifications",
+            "evidence": "Module 5174: accuracy_condition = At normal temperature; without radio-signal calibration",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 8 / Specifications",
+            "evidence": "Module 5174: world_time_cities = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 8 / Specifications",
+            "evidence": "Module 5174: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5174/qw5174_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 8 / Specifications",
+            "evidence": "Module 5174: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5227",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / 製品仕様",
+            "evidence": "Module 5227: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / 製品仕様",
+            "evidence": "Module 5227: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5227/qw5227_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / 製品仕様",
+            "evidence": "Module 5227: power_supply = {'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5253",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 37 / 製品仕様",
+            "evidence": "Module 5253: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 37 / 製品仕様",
+            "evidence": "Module 5253: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 37 / 製品仕様",
+            "evidence": "Module 5253: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5253/qw5253_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 37 / 製品仕様",
+            "evidence": "Module 5253: power_supply = {'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5425",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5425: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5425: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5425: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5425: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5146/qw5146_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 5 / Specifications",
+            "evidence": "Module 5425: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile. Accuracy sign cross-checked against the rendered PDF page because extracted text encoded it incorrectly.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5522",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: world_time_zones = 31",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5522/qw5522_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 5522: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5575",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5575: accuracy_seconds_per_month = 30",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5575: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5575: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5575: power_supply = {'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5601",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: accuracy_condition = When phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: world_time_cities = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5601_en/VPCVSYuvtphrev.html",
+            "accessed": "2026-11-14",
+            "locator": "Specifications",
+            "evidence": "Module 5601: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5643",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5643: accuracy_seconds_per_month = 30",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5643: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5643: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5643/qw5643_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 54 / 製品仕様",
+            "evidence": "Module 5643: power_supply = {'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5644",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 47 / 製品仕様",
+            "evidence": "Module 5644: accuracy_seconds_per_month = 30",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 47 / 製品仕様",
+            "evidence": "Module 5644: accuracy_condition = When radio-signal time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5644/qw5644_JA.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 47 / 製品仕様",
+            "evidence": "Module 5644: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Selected module specifications only; independent review pending",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5652",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5652/qw5652_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 5652: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5652/qw5652_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 5652: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5652/qw5652_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 15 / Specifications",
+            "evidence": "Module 5652: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5657",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5657: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5657: accuracy_condition = At normal temperature; when phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5657: world_time_cities = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5657: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5657/qw5657_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5657: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5665",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5665/qw5665_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 25 / Specifications",
+            "evidence": "Module 5665: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5665/qw5665_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 25 / Specifications",
+            "evidence": "Module 5665: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5671",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5671/qw5671_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 25 / Specifications",
+            "evidence": "Module 5671: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5671/qw5671_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 25 / Specifications",
+            "evidence": "Module 5671: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5671/qw5671_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 25 / Specifications",
+            "evidence": "Module 5671: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5672",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5672/qw5672_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 27 / Specifications",
+            "evidence": "Module 5672: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5672/qw5672_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 27 / Specifications",
+            "evidence": "Module 5672: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5684",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: accuracy_condition = At normal temperature; when phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: world_time_cities = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5684/qw5684_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5684: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5690",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: accuracy_condition = At normal temperature; when phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: world_time_cities = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5690/qw5690_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 24 / Specifications",
+            "evidence": "Module 5690: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5701",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5701/qw5701_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5701: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5701/qw5701_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5701: accuracy_condition = At normal temperature; when radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5712",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+            "accessed": "2026-11-14",
+            "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+            "evidence": "Module 5712: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When radio-signal and phone time correction are unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+            "accessed": "2026-11-14",
+            "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+            "evidence": "Module 5712: accuracy_condition = When radio-signal and phone time correction are unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+            "accessed": "2026-11-14",
+            "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+            "evidence": "Module 5712: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 27,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+            "accessed": "2026-11-14",
+            "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+            "evidence": "Module 5712: world_time_cities = 27",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.jp/wat/manual/5712_ja/UQIDSYskgynpwl.html",
+            "accessed": "2026-11-14",
+            "locator": "仕様一覧 / 精度 / ワールドタイム機能",
+            "evidence": "Module 5712: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Manufacturer notes world-time data can be updated by phone synchronization; counts describe the cited manual.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5732",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature; when phone time correction is unavailable",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: accuracy_condition = At normal temperature; when phone time correction is unavailable",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: world_time_cities = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: world_time_zones = 38",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/57/5732/qw5732_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 26 / Specifications",
+            "evidence": "Module 5732: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Common specifications explicitly stated in the cited guide. Only selected fields were transcribed; this is not a complete module profile.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

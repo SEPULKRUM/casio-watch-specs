@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **41 models, 32 modules and 529 source-backed candidate
+The catalog now contains **118 models, 65 modules and 1,351 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 21 single-module references (one legacy association and
-  20 pending references), 8 shared-manual candidate sets, and 12 models with no
+  module links. There are 84 single-module references (one legacy association and
+  83 pending references), 17 shared-manual candidate sets, and 17 models with no
   usable module reference. Single current support references do not establish all
   historical production revisions.
 
@@ -200,7 +200,7 @@ content is included.
 
 ## Manual associations and module research
 
-The next batch adds 27 official support/manual reference records and 29 module
+The initial manual batch adds 27 official support/manual reference records and 29 module
 specification records. Original product imports are unchanged. References are
 established from exact-model official support pages and their primary linked
 manuals, rather than matching a similar product name. Model-specific support and
@@ -259,3 +259,41 @@ exceptions are retained as candidates. This parser is a candidate generator, not
 an independent factual verification service. It makes no network requests;
 `gather.py` remains responsible for permitted downloads and now also recognizes
 the official `support.casio.jp` host, with the same robots/access-denial rules.
+
+## Expanded official-source catalog
+
+The expansion batch contributes 77 additional model records, 72 support/manual
+references and 33 module profiles. Current family coverage is G-SHOCK (33),
+Lineage (17), Oceanus (22), Pro Trek (11), Wave Ceptor (20), plus Standard,
+Vintage, Databank, Edifice and Baby-G. All 1,351 facts remain candidates pending
+independent review; record count is not a claim of complete specifications.
+
+The product importer now retains cloth, leather and composite-band descriptions.
+It continues to preserve exact regional model identifiers. Japanese Lineage
+identifiers with `JF` remain separate from earlier European identifiers; a module
+reference established for one is not silently copied to the other. Unavailable
+support pages do not inherit a sibling model's module assignment.
+
+Manual research preserves the stated accuracy and its conditions. For example,
+5575/5643 and 5644 specify ±30 seconds per month when radio correction is
+unavailable; this is not defaulted to the ±15 seconds common in other modules.
+Sparse module records contain only the selected facts supported by the source.
+`module_field_coverage`, `module_profiles_by_fact_count`, and
+`modules_with_sparse_profiles` in the coverage report expose that incompleteness.
+Unknown functions are not assigned false or zero values.
+
+Reproduce the new batches with:
+
+```sh
+python product_import.py research/products-expansion-2026-11-14.json --output imports/official-products-expansion-2026-11-14.json
+python manual_import.py research/module-associations-expansion-2026-11-14.json --output imports/support-module-associations-expansion-2026-11-14.json
+python manual_import.py research/manual-specifications-expansion-2026-11-14.json --output imports/manual-specifications-expansion-2026-11-14.json
+python catalog.py build
+python catalog.py build --check
+```
+
+The research files retain selected technical facts, official URLs, retrieval date,
+and section/page locators. The retrieval report also records unsuccessful product
+and older support-page checks. Retrieval failures do not mean a product or feature
+does not exist. Original imports, verified legacy data, and the original collector
+remain preserved.

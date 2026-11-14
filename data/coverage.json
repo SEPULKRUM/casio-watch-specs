@@ -1,8 +1,8 @@
 {
-  "models": 41,
-  "modules": 32,
+  "models": 118,
+  "modules": 65,
   "facts_by_status": {
-    "pending_review": 529
+    "pending_review": 1351
   },
   "models_by_series": {
     "Baby-G": 1,
@@ -10,11 +10,11 @@
     "Casio Standard": 8,
     "Casio Vintage": 3,
     "Edifice": 1,
-    "G-SHOCK": 10,
-    "Lineage": 5,
-    "Oceanus": 4,
-    "Pro Trek": 3,
-    "Wave Ceptor": 4
+    "G-SHOCK": 33,
+    "Lineage": 17,
+    "Oceanus": 22,
+    "Pro Trek": 11,
+    "Wave Ceptor": 20
   },
   "models_missing_fields": {
     "DBC-32-1A": [
@@ -33,20 +33,34 @@
     "DBC-32-1A",
     "F-105W-1A",
     "F-91W-1",
+    "G-9300-1",
+    "GA-110-1B",
+    "GD-010CE-5",
+    "GW-B5600-2",
     "LCW-M100DSE-1A",
     "LCW-M100TSE-1A",
     "LCW-M100TSE-1A2",
     "LCW-M170TD-1A",
     "LCW-M170TD-2A",
+    "LWA-M145-1AJF",
+    "LWA-M145-4AJF",
+    "LWA-M145L-4AJF",
+    "LWA-M145L-8A2JF",
+    "LWA-M145L-8AJF",
     "MRW-200H-1BV",
     "MTP-1302D-1A1V",
     "OCW-S100-1AJF",
+    "OCW-T150-1AJF",
     "PRG-270-1",
+    "PRJ-B001-1",
+    "PRJ-B001-7",
+    "PRJ-B001B-1",
+    "PRJ-B001B-2",
     "W-800H-1AV",
     "WV-58R-1A",
     "WV-59R-1A"
   ],
-  "models_with_single_module_reference": 21,
+  "models_with_single_module_reference": 84,
   "models_with_ambiguous_manual": {
     "A158WA-1": [
       "593",
@@ -69,11 +83,47 @@
       "593",
       "1271"
     ],
+    "G-9300-1": [
+      "3261",
+      "3281"
+    ],
+    "GA-110-1B": [
+      "5146",
+      "5425"
+    ],
+    "GW-B5600-2": [
+      "3459",
+      "3461"
+    ],
+    "LWA-M145-1AJF": [
+      "5575",
+      "5643"
+    ],
+    "LWA-M145-4AJF": [
+      "5575",
+      "5643"
+    ],
+    "LWA-M145L-4AJF": [
+      "5575",
+      "5643"
+    ],
+    "LWA-M145L-8A2JF": [
+      "5575",
+      "5643"
+    ],
+    "LWA-M145L-8AJF": [
+      "5575",
+      "5643"
+    ],
     "MRW-200H-1BV": [
       "5125",
       "5128"
     ],
     "OCW-S100-1AJF": [
+      "5235",
+      "5414"
+    ],
+    "OCW-T150-1AJF": [
       "5235",
       "5414"
     ],
@@ -86,6 +136,7 @@
     "A168WA-1W",
     "DBC-32-1A",
     "F-105W-1A",
+    "GD-010CE-5",
     "LCW-M100DSE-1A",
     "LCW-M100TSE-1A",
     "LCW-M100TSE-1A2",
@@ -93,9 +144,52 @@
     "LCW-M170TD-2A",
     "MTP-1302D-1A1V",
     "PRG-270-1",
+    "PRJ-B001-1",
+    "PRJ-B001-7",
+    "PRJ-B001B-1",
+    "PRJ-B001B-2",
     "WV-58R-1A",
     "WV-59R-1A"
   ],
   "referenced_module_ids_without_specs": [],
+  "module_field_coverage": {
+    "accuracy_condition": 64,
+    "accuracy_seconds_per_month": 65,
+    "alarm_count": 31,
+    "calendar": 57,
+    "power_supply": 37,
+    "snooze_alarm": 10,
+    "world_time_cities": 28,
+    "world_time_zones": 28
+  },
+  "module_profiles_by_fact_count": {
+    "2": 3,
+    "3": 15,
+    "4": 9,
+    "5": 14,
+    "6": 10,
+    "7": 9,
+    "8": 5
+  },
+  "modules_with_sparse_profiles": [
+    "3261",
+    "3281",
+    "3459",
+    "3461",
+    "3482",
+    "3501",
+    "3506",
+    "3515",
+    "3569",
+    "5125",
+    "5128",
+    "5227",
+    "5644",
+    "5652",
+    "5665",
+    "5671",
+    "5672",
+    "5701"
+  ],
   "note": "Coverage counts include pending candidates; unknown does not mean absent."
 }
