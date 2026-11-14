@@ -24959,6 +24959,171 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "20ab85123ff03673ab450d6fb15ec53816a7d8b90ed002818a1fdd85020bcc2b"
+        },
+        "world_time_cities": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: world_time_cities = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "world_time_zones": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: world_time_zones = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 1,
+            "time_up_beeper_seconds": 10
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: timer = {'measurement_unit_seconds': 1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'time_up_beeper_seconds': 10}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3459: illumination = {'type': 'LED', 'auto_light': True}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "20fa1fa58f622c431f815674a5a91375edcc5e306d3299c50b0d53055abba9b3"
         }
       }
     },
@@ -25019,6 +25184,171 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "fcc885ce729101dc141273776299c823c8ce26d7168f6036ed6e4c0425408e5d"
+        },
+        "world_time_cities": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: world_time_cities = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "world_time_zones": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: world_time_zones = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 1,
+            "time_up_beeper_seconds": 10
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: timer = {'measurement_unit_seconds': 1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'time_up_beeper_seconds': 10}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 19 / Specifications",
+              "evidence": "Module 3461: illumination = {'type': 'LED', 'auto_light': True}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1519edb5174bf49b91259db612a8842e564111c3f2e5beb67bf47c31d5b43f66"
         }
       }
     },
@@ -25139,6 +25469,175 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "07a80069a483c0dd5ccbb5b29f1759184810d90ec86c712c455bb030a38a7020"
+        },
+        "world_time_cities": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: world_time_cities = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "world_time_zones": {
+          "value": 39,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: world_time_zones = 39",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 1,
+            "time_up_beeper_seconds": 10
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: timer = {'measurement_unit_seconds': 1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'time_up_beeper_seconds': 10}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true,
+            "durations_seconds": [
+              2,
+              4
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 27–28 / Specifications",
+              "evidence": "Module 3501: illumination = {'type': 'LED', 'auto_light': True, 'durations_seconds': [2, 4]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "32beaa776e3ceca786dcdd8ec1d369e530acedd53240ec4a337d42e303a8dd1b"
         }
       }
     },
@@ -25468,6 +25967,149 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "67d032a9794bbe43e25c86a62aa47896c9c73a826a5a37b36ec29c4ed4ab8d9a"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 0.1,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 1,
+            "time_up_beeper_seconds": 10
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: timer = {'measurement_unit_seconds': 0.1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'time_up_beeper_seconds': 10}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true,
+            "durations_seconds": [
+              1.5,
+              3
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: illumination = {'type': 'LED', 'auto_light': True, 'durations_seconds': [1.5, 3]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025",
+            "count": 1,
+            "nominal_voltage_volts": 3
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 15 / Specifications",
+              "evidence": "Module 3569: power_supply = {'battery_type': 'CR2025', 'count': 1, 'nominal_voltage_volts': 3}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28c9ede4b52f3cfc071d5c297036bf1094b9855d09037d6cdc5e3b3c59b6d4fa"
         }
       }
     },

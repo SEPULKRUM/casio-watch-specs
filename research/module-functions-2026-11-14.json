@@ -1,0 +1,185 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-14",
+  "note": "Additive research of official manuals for four existing sparse module profiles. Existing facts and model/module assignments retained. All new facts require independent review.",
+  "modules": [
+    {
+      "id": "3459",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+      "locator": "PDF pages 19 / Specifications",
+      "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+      "specs": {
+        "world_time_cities": 39,
+        "world_time_zones": 39,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "stopwatch": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 86399,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 1,
+          "time_up_beeper_seconds": 10
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true
+        }
+      }
+    },
+    {
+      "id": "3461",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3461/qw3461_EN.pdf",
+      "locator": "PDF pages 19 / Specifications",
+      "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+      "specs": {
+        "world_time_cities": 39,
+        "world_time_zones": 39,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "stopwatch": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 86399,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 1,
+          "time_up_beeper_seconds": 10
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true
+        }
+      }
+    },
+    {
+      "id": "3501",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3501/qw3501_EN.pdf",
+      "locator": "PDF pages 27\u201328 / Specifications",
+      "scope_note": "Selected function facts; built-in city count excludes phone-selected cities. Stopwatch resolution changes after the first hour. Shared guide 3459/3461 explicitly names both modules; these common specifications do not resolve any model association.",
+      "specs": {
+        "world_time_cities": 39,
+        "world_time_zones": 39,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "stopwatch": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 86399,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 1,
+          "time_up_beeper_seconds": 10
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true,
+          "durations_seconds": [
+            2,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "id": "3569",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3569/qw3569_EN.pdf",
+      "locator": "PDF page 15 / Specifications",
+      "scope_note": "Selected module function facts only. No snooze behavior inferred from five alarms. Battery service life omitted because it depends on usage.",
+      "specs": {
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "alarm_count": 5,
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 0.1,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 1,
+          "time_up_beeper_seconds": 10
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true,
+          "durations_seconds": [
+            1.5,
+            3
+          ]
+        },
+        "power_supply": {
+          "battery_type": "CR2025",
+          "count": 1,
+          "nominal_voltage_volts": 3
+        }
+      }
+    }
+  ]
+}
