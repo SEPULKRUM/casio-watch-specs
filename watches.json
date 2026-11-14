@@ -1,3 +1,18 @@
+
 {
-  "watches": []
+  "watches": [
+    {
+      "model": "GW-M5610U-1",
+      "module": "3495",
+      "brand": "Casio",
+      "series": "G-SHOCK",
+      "features": [
+        "Tough Solar",
+        "Multi Band 6",
+        "LED backlight",
+        "200-meter water resistance"
+      ]
+    }
+  ]
 }
+
