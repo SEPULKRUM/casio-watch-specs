@@ -1,0 +1,284 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-14",
+  "note": "Second archive batch. Technical transcriptions from five historical official US product pages; full replay HTML remains local. Captures are historical references, not release dates or proof about all production revisions. Explicit source anomalies are recorded per document.",
+  "documents": [
+    {
+      "displayed_model": "PRW3500-1",
+      "archive_url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+      "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+      "archive_timestamp": "20170220035747",
+      "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+      "locator": "Overview / At a glance / Specifications",
+      "module_id": "3414",
+      "module_evidence": "PRW3500-1 page explicitly states Module 3414",
+      "model_specs": {
+        "series": "Pro Trek",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.1,
+          "max_display_seconds": 3599999.9,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        }
+      },
+      "scope_note": "Selected supported fields only. Sensor functions are not yet represented in this batch. No case material inferred from stainless-steel rotary bezel. Promotional sensor summary was not used for tide/moon claims. No unlabeled measurements inferred."
+    },
+    {
+      "displayed_model": "EF527D-1AV",
+      "archive_url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+      "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+      "archive_timestamp": "20141226090507",
+      "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "4369",
+      "module_evidence": "EF527D-1AV page explicitly states Module 4369",
+      "model_specs": {
+        "series": "Edifice",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Stainless steel",
+        "color": "Silver",
+        "glass": "Mineral",
+        "weight_g": 157
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 20,
+        "accuracy_condition": "With no signal calibration (wording of archived product page)",
+        "calendar": {
+          "display": "day_of_month"
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.05,
+          "max_display_seconds": 43199.95,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "power_supply": {
+          "battery_type": "SR927W"
+        }
+      },
+      "scope_note": "Accuracy condition follows archived wording; no radio functionality inferred. Solid stainless-steel band is not used to infer case metal. The size string does not explicitly label L/W order, so only its grams value is transcribed."
+    },
+    {
+      "displayed_model": "EQS500DB-1A1",
+      "archive_url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+      "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+      "archive_timestamp": "20141218183841",
+      "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "5123",
+      "module_evidence": "EQS500DB-1A1 page explicitly states Module 5123",
+      "model_specs": {
+        "series": "Edifice",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Stainless steel",
+        "color": "Silver",
+        "case_material": "Stainless steel",
+        "glass": "Mineral",
+        "weight_g": 164
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "With no signal calibration (wording of archived product page)",
+        "world_time_cities": 29,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099,
+          "display": [
+            "day_of_week",
+            "day_of_month"
+          ]
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        }
+      },
+      "scope_note": "Stainless-steel case and mineral glass are stated explicitly in At A Glance. Singular beeper alarm is not assigned an unsupported alarm count. No dimensions inferred from unlabeled size order; no radio capability inferred from accuracy-condition wording."
+    },
+    {
+      "displayed_model": "G9000-1V",
+      "archive_url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+      "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+      "archive_timestamp": "20141227203734",
+      "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3031",
+      "module_evidence": "G9000-1V page explicitly states Module 3031",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin"
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "stopwatches": [
+            {
+              "resolution_seconds": 0.01,
+              "max_display_seconds": 3599999.99,
+              "modes": [
+                "elapsed",
+                "split",
+                "two_finishes"
+              ],
+              "id": "ST1",
+              "auto_start": true
+            },
+            {
+              "resolution_seconds": 0.01,
+              "max_display_seconds": 3599999.99,
+              "modes": [
+                "elapsed",
+                "split",
+                "two_finishes"
+              ],
+              "id": "ST2"
+            }
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60,
+          "auto_repeat": true,
+          "progress_beeper": true
+        },
+        "illumination": {
+          "type": "dual_EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2025"
+        }
+      },
+      "scope_note": "SOURCE MISMATCH: size/weight row is labeled G9000MS, not the displayed G9000-1V; both dimensions and weight are excluded. ST1 auto-start is not copied to ST2. Case/glass materials and color remain unknown."
+    },
+    {
+      "displayed_model": "G7710-1",
+      "archive_url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+      "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+      "archive_timestamp": "20120828094621",
+      "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3095",
+      "module_evidence": "G7710-1 page explicitly states Module 3095",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 56
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.001,
+          "max_lap_display_seconds": 3599.999,
+          "max_split_display_seconds": 35999.999,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split"
+          ],
+          "auto_start": true,
+          "memory": {
+            "elapsed_records": 2,
+            "entries_per_record": 100
+          }
+        },
+        "timer": {
+          "timers": [
+            {
+              "id": "TR1",
+              "measurement_unit_seconds": 1,
+              "min_countdown_seconds": 60,
+              "max_countdown_seconds": 360000
+            },
+            {
+              "id": "TR2",
+              "measurement_unit_seconds": 1,
+              "min_countdown_seconds": 60,
+              "max_countdown_seconds": 360000
+            }
+          ],
+          "auto_repeat": {
+            "mode": "timer_to_timer",
+            "repeats": 5
+          }
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2025"
+        }
+      },
+      "scope_note": "Lap and split stopwatch display limits are different and stored separately; no elapsed-time maximum inferred. Both countdown timers are retained separately. No dimensions inferred from unlabeled L/W order. Black color comes from Attributes and description."
+    }
+  ]
+}

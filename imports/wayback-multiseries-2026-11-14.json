@@ -1,0 +1,1561 @@
+[
+  {
+    "kind": "model",
+    "id": "PRW3500-1",
+    "specs": {
+      "series": {
+        "value": "Pro Trek",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "PRW3500-1: series = Pro Trek"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "PRW3500-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "PRW3500-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3414",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "PRW3500-1 page explicitly states Module 3414"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3414",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: world_time_zones = 31"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: calendar = {'type': 'full_auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "With no signal calibration",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: accuracy_condition = With no signal calibration"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.1,
+          "max_display_seconds": 3599999.9,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: stopwatch = {'resolution_seconds': 0.1, 'max_display_seconds': 3599999.9, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "LED",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: illumination = {'type': 'LED', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+            "archive_timestamp": "20170220035747",
+            "snapshot_sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "ad6d4742ce010fe1ccb6025ce683e82f0e11aa85ec1afb9676d37a8087433401",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "3414: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "EF527D-1AV",
+    "specs": {
+      "series": {
+        "value": "Edifice",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: series = Edifice"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: water_resistance_rating = 100M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: water_resistance_m = 100"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: band_material = Stainless steel"
+          }
+        ]
+      },
+      "color": {
+        "value": "Silver",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: color = Silver"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: glass = Mineral"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 157,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV: weight_g = 157"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "4369",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EF527D-1AV page explicitly states Module 4369"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "4369",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 20,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "4369: accuracy_seconds_per_month = 20"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "With no signal calibration (wording of archived product page)",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "4369: accuracy_condition = With no signal calibration (wording of archived product page)"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "display": "day_of_month"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "4369: calendar = {'display': 'day_of_month'}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.05,
+          "max_display_seconds": 43199.95,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "4369: stopwatch = {'resolution_seconds': 0.05, 'max_display_seconds': 43199.95, 'modes': ['elapsed']}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "SR927W"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+            "archive_timestamp": "20141226090507",
+            "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "20866410be5b8057c7cabd0917d2a49f9cddf4b5e5e92455404f2d20806757d1",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "4369: power_supply = {'battery_type': 'SR927W'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "EQS500DB-1A1",
+    "specs": {
+      "series": {
+        "value": "Edifice",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: series = Edifice"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: water_resistance_rating = 100M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: water_resistance_m = 100"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: band_material = Stainless steel"
+          }
+        ]
+      },
+      "color": {
+        "value": "Silver",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: color = Silver"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: case_material = Stainless steel"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: glass = Mineral"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 164,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1: weight_g = 164"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "5123",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "EQS500DB-1A1 page explicitly states Module 5123"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5123",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "With no signal calibration (wording of archived product page)",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: accuracy_condition = With no signal calibration (wording of archived product page)"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: world_time_cities = 29"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: world_time_zones = 29"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "end_year": 2099,
+          "display": [
+            "day_of_week",
+            "day_of_month"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: calendar = {'type': 'full_auto', 'end_year': 2099, 'display': ['day_of_week', 'day_of_month']}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed']}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+            "archive_timestamp": "20141218183841",
+            "snapshot_sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "0fd110a22dcc240e821759608cb791dd9dfe88c49db58e7b70f9a0d917c4eb93",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "5123: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G9000-1V",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G9000-1V: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G9000-1V: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G9000-1V: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G9000-1V: band_material = Resin"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3031",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G9000-1V page explicitly states Module 3031"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3031",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: calendar = {'type': 'full_auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "stopwatches": [
+            {
+              "resolution_seconds": 0.01,
+              "max_display_seconds": 3599999.99,
+              "modes": [
+                "elapsed",
+                "split",
+                "two_finishes"
+              ],
+              "id": "ST1",
+              "auto_start": true
+            },
+            {
+              "resolution_seconds": 0.01,
+              "max_display_seconds": 3599999.99,
+              "modes": [
+                "elapsed",
+                "split",
+                "two_finishes"
+              ],
+              "id": "ST2"
+            }
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: stopwatch = {'stopwatches': [{'resolution_seconds': 0.01, 'max_display_seconds': 3599999.99, 'modes': ['elapsed', 'split', 'two_finishes'], 'id': 'ST1', 'auto_start': True}, {'resolution_seconds': 0.01, 'max_display_seconds': 3599999.99, 'modes': ['elapsed', 'split', 'two_finishes'], 'id': 'ST2'}]}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60,
+          "auto_repeat": true,
+          "progress_beeper": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60, 'auto_repeat': True, 'progress_beeper': True}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "dual_EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: illumination = {'type': 'dual_EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "CR2025"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+            "archive_timestamp": "20141227203734",
+            "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a7efd3e7bd91c25e54ba7ac2593d9844c41271e87cb5aa991b4004bb9cbfb1e8",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3031: power_supply = {'battery_type': 'CR2025'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G7710-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: color = Black"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 56,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1: weight_g = 56"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3095",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7710-1 page explicitly states Module 3095"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3095",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: snooze_alarm = True"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: calendar = {'type': 'auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.001,
+          "max_lap_display_seconds": 3599.999,
+          "max_split_display_seconds": 35999.999,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split"
+          ],
+          "auto_start": true,
+          "memory": {
+            "elapsed_records": 2,
+            "entries_per_record": 100
+          }
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: stopwatch = {'resolution_seconds': 0.001, 'max_lap_display_seconds': 3599.999, 'max_split_display_seconds': 35999.999, 'modes': ['elapsed', 'lap', 'split'], 'auto_start': True, 'memory': {'elapsed_records': 2, 'entries_per_record': 100}}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "timers": [
+            {
+              "id": "TR1",
+              "measurement_unit_seconds": 1,
+              "min_countdown_seconds": 60,
+              "max_countdown_seconds": 360000
+            },
+            {
+              "id": "TR2",
+              "measurement_unit_seconds": 1,
+              "min_countdown_seconds": 60,
+              "max_countdown_seconds": 360000
+            }
+          ],
+          "auto_repeat": {
+            "mode": "timer_to_timer",
+            "repeats": 5
+          }
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: timer = {'timers': [{'id': 'TR1', 'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 360000}, {'id': 'TR2', 'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 360000}], 'auto_repeat': {'mode': 'timer_to_timer', 'repeats': 5}}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "CR2025"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+            "archive_timestamp": "20120828094621",
+            "snapshot_sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "4ec87a5640e0c3b2f5da03c56cc00bc7d20412363602e0034709ec332b2d0cfa",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3095: power_supply = {'battery_type': 'CR2025'}"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **121 models, 74 modules and 1,473 source-backed candidate
+The catalog now contains **126 models, 79 modules and 1,549 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 104 single-module references (one legacy association and
-  103 pending references), plus 17 shared-manual candidate sets. No model now
+  module links. There are 109 single-module references (one legacy association and
+  108 pending references), plus 17 shared-manual candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -411,3 +411,28 @@ host allowlist; a third-party page inside an archive wrapper is rejected. The li
 fetcher is unchanged; this adapter does not crawl Wayback or bypass live-site
 access restrictions. Additional historical snapshots can be researched in batches
 and supplied through the same JSON format.
+
+### Second archive batch: Pro Trek, Edifice and G-SHOCK
+
+The [second historical batch](research/archived-multiseries-2026-11-14.json) adds
+76 pending facts across five exact displayed US identifiers and their explicitly
+named modules:
+
+| Model | Module | Capture date |
+| --- | --- | --- |
+| PRW3500-1 | 3414 | 2017-02-20 |
+| EF527D-1AV | 4369 | 2014-12-26 |
+| EQS500DB-1A1 | 5123 | 2014-12-18 |
+| G9000-1V | 3031 | 2014-12-27 |
+| G7710-1 | 3095 | 2012-08-28 |
+
+The G9000-1V source labels its size/weight row **G9000MS**, so both measurements
+are excluded. Module 3031 has two stopwatches; ST1's auto-start is not assumed
+for ST2. Module 3095's lap and split display limits differ and are kept separate,
+as are its two countdown timers. Unlabeled length/width order is not guessed.
+
+The [discovery/retrieval report](research/wayback-multiseries-discovery-2026-11-14.json)
+records the inspected captures. EFA120D-1AV and WV200A-1AV were excluded because
+the retrieved pages lacked detailed specification sections. Pro Trek sensor
+functions outside the current module schema are not imported in this batch.
+All historical fields remain pending independent review.

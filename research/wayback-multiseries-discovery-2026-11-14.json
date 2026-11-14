@@ -1,0 +1,175 @@
+{
+  "accessed": "2026-11-14",
+  "requested_capture_date": "20150101",
+  "availability": [
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prg240-1",
+      "archived_snapshots": {},
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prw2500-1",
+      "archived_snapshots": {},
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prw3500-1",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+          "timestamp": "20170220035747"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prg550-1a",
+      "archived_snapshots": {},
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/edifice/efa120d-1av",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20191205182135/https://www.casio.com/products/watches/edifice/efa120d-1av",
+          "timestamp": "20191205182135"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/edifice/ef527d-1av",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+          "timestamp": "20141226090507"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/edifice/eqs500db-1a1",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+          "timestamp": "20141218183841"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/wave-ceptor/wv200a-1av",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161209215233/http://www.casio.com:80/products/watches/wave-ceptor/wv200a-1av",
+          "timestamp": "20161209215233"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/g-shock/g9000-1v",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+          "timestamp": "20141227203734"
+        }
+      },
+      "timestamp": "20150101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/g-shock/g7710-1",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+          "timestamp": "20120828094621"
+        }
+      },
+      "timestamp": "20150101"
+    }
+  ],
+  "retrieval": [
+    {
+      "slug": "prw3500-1",
+      "url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+      "final_url": "https://web.archive.org/web/20170220035747/http://www.casio.com:80/products/watches/pro-trek/prw3500-1",
+      "bytes": 66989,
+      "sha256": "437a1366054e72bb68efa6942fd2d7eebe542d7cda273983bfb0e6449681814f",
+      "status": "downloaded"
+    },
+    {
+      "slug": "efa120d-1av",
+      "url": "https://web.archive.org/web/20191205182135/https://www.casio.com/products/watches/edifice/efa120d-1av",
+      "final_url": "https://web.archive.org/web/20191205182135/https://www.casio.com/products/watches/edifice/efa120d-1av",
+      "bytes": 86101,
+      "sha256": "b64a2e4c8535a3c1abafbba7d9bdcac88da46a484c1206a66bc8ad214c606161",
+      "status": "downloaded"
+    },
+    {
+      "slug": "ef527d-1av",
+      "url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+      "final_url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+      "bytes": 30367,
+      "sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+      "status": "downloaded"
+    },
+    {
+      "slug": "eqs500db-1a1",
+      "url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+      "final_url": "https://web.archive.org/web/20141218183841/http://www.casio.com:80/products/Watches/EDIFICE/EQS500DB-1A1",
+      "bytes": 31332,
+      "sha256": "e1ef4290a193d8fcb3c36464188ecf417536a5ce2502be7948de6c46730cffcd",
+      "status": "downloaded"
+    },
+    {
+      "slug": "wv200a-1av",
+      "url": "https://web.archive.org/web/20161209215233/http://www.casio.com:80/products/watches/wave-ceptor/wv200a-1av",
+      "final_url": "https://web.archive.org/web/20161209215233/http://www.casio.com:80/products/watches/wave-ceptor/wv200a-1av",
+      "bytes": 57269,
+      "sha256": "ef2a3437e9f27dd2b4481ae3130edc162660c1911f65eaf4cefd9f23c3323e7b",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g9000-1v",
+      "url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+      "final_url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+      "bytes": 31849,
+      "sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g7710-1",
+      "url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+      "final_url": "https://web.archive.org/web/20120828094621/http://www.casio.com:80/products/Watches/G-Shock/G7710-1",
+      "bytes": 28980,
+      "sha256": "cd609a10535411dfa4679cd9a7f3183b4ccc5192de14956474228fe814f51dfa",
+      "status": "downloaded"
+    }
+  ],
+  "imported": [
+    "PRW3500-1",
+    "EF527D-1AV",
+    "EQS500DB-1A1",
+    "G9000-1V",
+    "G7710-1"
+  ],
+  "excluded": {
+    "EFA120D-1AV": "Capture lacks detailed Technical Specs section.",
+    "WV200A-1AV": "Capture lacks detailed Technical Specs section."
+  },
+  "note": "Unavailable results do not prove no archives exist. No guessed product or module values were imported."
+}
