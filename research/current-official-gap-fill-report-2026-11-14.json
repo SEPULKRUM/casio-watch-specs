@@ -1,0 +1,150 @@
+{
+  "accessed": "2026-11-14",
+  "outcomes": [
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.GW-7900B-1/",
+      "status": "imported_missing_fields",
+      "model": "GW7900B-1",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.G-2310R-1/",
+      "status": "imported_missing_fields",
+      "model": "G2310R-1",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.G-2900F-1V/",
+      "status": "imported_missing_fields",
+      "model": "G2900F-1V",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "band_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.DW-9052-1V/",
+      "status": "imported_missing_fields",
+      "model": "DW9052-1V",
+      "fields": [
+        "dimensions_mm",
+        "case_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BG-169R-1/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.AW-80-1AV/",
+      "status": "imported_missing_fields",
+      "model": "AW80-1AV",
+      "fields": [
+        "dimensions_mm",
+        "case_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "weight_g"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.DB-36-1AV/",
+      "status": "imported_missing_fields",
+      "model": "DB36-1AV",
+      "fields": [
+        "dimensions_mm",
+        "case_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/protrek/product.PRW-3500-1/",
+      "status": "imported_missing_fields",
+      "model": "PRW3500-1",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "band_material",
+        "glass"
+      ],
+      "excluded_existing_fields": [
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    }
+  ],
+  "source_discrepancies": [
+    {
+      "model": "AW80-1AV",
+      "archive_url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+      "archive_timestamp": "20130107220531",
+      "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+      "raw_size_weight_row": "AW80 44.5 x 38.5 x 11.0mm / 34g",
+      "note": "Old size row did not label L/W/H order. Current explicit L/W/H values differ from that older row; production revision or source error remains unresolved."
+    },
+    {
+      "model": "DB36-1AV",
+      "archive_url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+      "archive_timestamp": "20130101091012",
+      "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+      "raw_size_weight_row": "42.0 x 35.5 x 9.8mm / 30g",
+      "note": "Old size row did not label L/W/H order. Current explicit L/W/H values differ from that older row; production revision or source error remains unresolved.",
+      "weight_discrepancy": {
+        "archived_weight_g": 30,
+        "current_official_weight_g": 27,
+        "handling": "Existing 30 g canonical candidate retained; current 27 g claim recorded here for review without overwriting."
+      }
+    }
+  ]
+}

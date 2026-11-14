@@ -2,7 +2,7 @@
   "models": 153,
   "modules": 107,
   "facts_by_status": {
-    "pending_review": 2004
+    "pending_review": 2031
   },
   "models_by_series": {
     "Baby-G": 4,
@@ -25,11 +25,6 @@
       "case_material",
       "glass"
     ],
-    "AW80-1AV": [
-      "dimensions_mm",
-      "case_material",
-      "glass"
-    ],
     "BG1006SA-1": [
       "dimensions_mm",
       "case_material",
@@ -46,18 +41,8 @@
       "case_material",
       "glass"
     ],
-    "DB36-1AV": [
-      "dimensions_mm",
-      "case_material",
-      "glass"
-    ],
     "DBC-32-1A": [
       "water_resistance_rating"
-    ],
-    "DW9052-1V": [
-      "dimensions_mm",
-      "case_material",
-      "glass"
     ],
     "EF503D-1AV": [
       "dimensions_mm",
@@ -79,19 +64,6 @@
       "dimensions_mm",
       "weight_g",
       "case_material",
-      "glass"
-    ],
-    "G2310R-1": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "glass"
-    ],
-    "G2900F-1V": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
       "glass"
     ],
     "G300-3AV": [
@@ -122,12 +94,6 @@
     ],
     "GW5600J-1": [
       "dimensions_mm",
-      "case_material",
-      "glass"
-    ],
-    "GW7900B-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
       "glass"
     ],
@@ -173,13 +139,6 @@
       "dimensions_mm",
       "weight_g",
       "case_material",
-      "glass"
-    ],
-    "PRW3500-1": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
       "glass"
     ],
     "WV200A-1AV": [

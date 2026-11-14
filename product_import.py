@@ -105,6 +105,10 @@ def convert(notes):
                   'language': 'ja' if region == 'jp' else 'en'}
         facts['series'] = {'value': product['series'], 'sources': [source],
                           'uncertainty': 'Research classification; regional marketing categories may differ'}
+        for field, note in product.get('field_uncertainty', {}).items():
+            if field not in facts:
+                raise ValueError('Uncertainty annotation must match a researched field')
+            facts[field]['uncertainty'] = note
         record = {'kind': 'model', 'id': key, 'specs': facts}
         specs.validate(record)
         records.append(record)
@@ -112,7 +116,8 @@ def convert(notes):
 
 
 def extract_html(html, url, accessed):
-    """Read h1/h4 product specifications from a permitted official HTML snapshot."""
+    """Read visible headings or embedded Casio product specifications without JS."""
+    import json
     from html.parser import HTMLParser
     class ProductParser(HTMLParser):
         def __init__(self):
@@ -173,6 +178,13 @@ def extract_html(html, url, accessed):
     titles = [title for title in parser.titles if re.fullmatch(r'[A-Za-z0-9]+(?:-[A-Za-z0-9]+)+', title)]
     if len(set(titles)) != 1:
         raise ValueError('Expected one unambiguous product model heading')
+    parsed = urlsplit(url)
+    target = re.search(r'/product\.([^/]+)/?$', parsed.path)
+    fingerprint = lambda value: re.sub(r'[^A-Z0-9]', '', specs.identity(value))
+    if (parsed.scheme != 'https' or parsed.hostname != 'www.casio.com'
+            or parsed.username or parsed.password or parsed.port not in (None, 443)
+            or not target or fingerprint(target[1]) != fingerprint(titles[0])):
+        raise ValueError('Official product URL and exact heading identity must agree')
     brand = urlsplit(url).path.split('/')[3]
     series = {'gshock': 'G-SHOCK', 'protrek': 'Pro Trek', 'oceanus': 'Oceanus',
               'edifice': 'Edifice', 'babyg': 'Baby-G', 'casio': 'Casio'}.get(brand)
@@ -180,6 +192,41 @@ def extract_html(html, url, accessed):
         raise ValueError('Unknown official product family path')
     labels = {label for choices in LABELS.values() for label in choices}
     fields = {k: v for k, v in parser.fields.items() if k in labels}
+    def unique_keys(pairs):
+        result = {}
+        for key, value in pairs:
+            if key in result:
+                raise ValueError('Duplicate embedded JSON key')
+            result[key] = value
+        return result
+    decoder = json.JSONDecoder(object_pairs_hook=unique_keys)
+    embedded_sets = []
+    for match in re.finditer(r'"specificationsItemList"\s*:\s*', html):
+        payload, _ = decoder.raw_decode(html[match.end():])
+        if not isinstance(payload, dict) or not isinstance(payload.get('Product'), list):
+            raise ValueError('Unsupported embedded product specification layout')
+        embedded = {}
+        for group in payload['Product']:
+            for item in group.get('subItemsList', []):
+                label = item.get('subItemTitle')
+                if label not in labels:
+                    continue
+                values = item.get('subItemValuesList')
+                if (not isinstance(values, list) or not values
+                        or any(not isinstance(v, str) or not v.strip() for v in values)
+                        or (label not in LABELS['band_material'] and len(values) != 1)):
+                    raise ValueError('Ambiguous embedded specification values')
+                if label in embedded:
+                    raise ValueError('Repeated embedded specification label')
+                embedded[label] = '\n'.join(values)
+        embedded_sets.append(embedded)
+    if embedded_sets:
+        if any(values != embedded_sets[0] for values in embedded_sets[1:]):
+            raise ValueError('Conflicting embedded product specification components')
+        for label, value in embedded_sets[0].items():
+            if label in fields and ' '.join(fields[label].split()) != ' '.join(value.split()):
+                raise ValueError('Visible and embedded specifications disagree')
+            fields[label] = value
     if not any(label in fields for label in LABELS['dimensions_mm']):
         raise ValueError('No product specification dimensions found')
     return {'id': titles[0], 'series': series, 'url': url, 'fields': fields}
