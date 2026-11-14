@@ -90,6 +90,8 @@ def coverage(catalog):
             'models_with_ambiguous_manual': dict(sorted(ambiguous.items())),
             'models_without_any_module_reference': sorted(set(unknown_links) - set(ambiguous)),
             'referenced_module_ids_without_specs': sorted(referenced - set(catalog['modules'])),
+            'candidate_module_ids_without_specs': sorted({key for values in ambiguous.values()
+                                                         for key in values} - set(catalog['modules'])),
             'module_field_coverage': dict(sorted(module_fields.items())),
             'module_profiles_by_fact_count': dict(sorted(profile_sizes.items(), key=lambda p: int(p[0]))),
             'modules_with_sparse_profiles': sorted(key for key, record in catalog['modules'].items()

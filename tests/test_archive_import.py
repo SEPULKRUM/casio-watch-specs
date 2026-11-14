@@ -75,6 +75,38 @@ class ArchiveTests(unittest.TestCase):
         self.assertTrue(result['report']['conflicts'])
         self.assertEqual(catalog.field_value(result['models'][original['id']], 'module_id'), '3200')
 
+    def test_shared_listing_stays_unresolved_without_copied_function_facts(self):
+        notes = copy.deepcopy(self.notes)
+        row = notes['documents'][0]
+        notes['documents'] = [row]
+        del row['module_id']
+        row['module_candidates'] = ['3189', '3252']
+        row['module_evidence'] = 'Module 3189/3252'
+        row['module_specs'] = {}
+        records = archive_import.convert(notes)
+        self.assertEqual(len(records), 1)
+        result = specs.build(specs.load('watches.json'), records)
+        view = catalog.module_view(result, result['models'][row['displayed_model']])
+        self.assertIsNone(view['module_id'])
+        self.assertEqual(view['module_options'], {'3189': None, '3252': None})
+        self.assertEqual(catalog.coverage(result)['candidate_module_ids_without_specs'], ['3189', '3252'])
+        row['module_specs'] = {'alarm_count': 5}
+        with self.assertRaises(ValueError):
+            archive_import.convert(notes)
+
+    def test_existing_profile_can_be_reused_but_unknown_empty_profile_rejected(self):
+        notes = copy.deepcopy(self.notes)
+        row = notes['documents'][0]
+        notes['documents'] = [row]
+        row['module_specs'] = {}
+        with self.assertRaises(ValueError):
+            archive_import.convert(notes)
+        records = archive_import.convert(notes, existing_module_ids=['3200'])
+        self.assertEqual([record['kind'] for record in records], ['model'])
+        row['module_candidates'] = ['3200', '9999']
+        with self.assertRaises(ValueError):
+            archive_import.convert(notes, existing_module_ids=['3200'])
+
 
 if __name__ == '__main__':
     unittest.main()
