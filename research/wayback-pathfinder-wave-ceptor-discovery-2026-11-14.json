@@ -1,0 +1,223 @@
+{
+  "accessed": "2026-11-14",
+  "requested_capture_date": "20130101",
+  "availability": [
+    {
+      "url": "https://www.casio.com/products/watches/pathfinder/pag240-1",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+          "timestamp": "20111026073223"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pathfinder/paw1500-1v",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+          "timestamp": "20111015231422"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pathfinder/paw2000-1",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+          "timestamp": "20111019201352"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pathfinder/pag40-3v",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prg260-1",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/pro-trek/prw3000-1a",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+          "timestamp": "20161216160042"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/wave-ceptor/wva470j-1a",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/wave-ceptor/wva430j-1a",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/wave-ceptor/wv58a-1av",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161201034142/http://www.casio.com:80/products/watches/wave-ceptor/wv58a-1av",
+          "timestamp": "20161201034142"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "https://www.casio.com/products/watches/wave-ceptor/wv200a-1av",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161209215233/http://www.casio.com:80/products/watches/wave-ceptor/wv200a-1av",
+          "timestamp": "20161209215233"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/wave_ceptor/WV58A-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+          "timestamp": "20130101101803"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/wave_ceptor/WV200A-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+          "timestamp": "20130101030449"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/wave_ceptor/WVA470J-1A/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+          "timestamp": "20130101091842"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/wave_ceptor/WVA430J-1A/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+          "timestamp": "20120303141723"
+        }
+      },
+      "timestamp": "20130101"
+    }
+  ],
+  "retrieval": [
+    {
+      "slug": "pag240-1",
+      "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+      "final_url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+      "bytes": 29502,
+      "sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+      "status": "downloaded"
+    },
+    {
+      "slug": "paw1500-1v",
+      "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+      "final_url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+      "bytes": 29672,
+      "sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+      "status": "downloaded"
+    },
+    {
+      "slug": "paw2000-1",
+      "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+      "final_url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+      "bytes": 29508,
+      "sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+      "status": "downloaded"
+    },
+    {
+      "slug": "prw3000-1a",
+      "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+      "final_url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+      "bytes": 67693,
+      "sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+      "status": "downloaded"
+    },
+    {
+      "slug": "wv58a-1av",
+      "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+      "final_url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+      "bytes": 29006,
+      "sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+      "status": "downloaded"
+    },
+    {
+      "slug": "wv200a-1av",
+      "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+      "final_url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+      "bytes": 28470,
+      "sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+      "status": "downloaded"
+    },
+    {
+      "slug": "wva470j-1a",
+      "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+      "final_url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+      "bytes": 29452,
+      "sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+      "status": "downloaded"
+    },
+    {
+      "slug": "wva430j-1a",
+      "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+      "final_url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+      "bytes": 29610,
+      "sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+      "status": "downloaded"
+    }
+  ],
+  "imported": [
+    "PAG240-1",
+    "PAW1500-1V",
+    "PAW2000-1",
+    "PRW3000-1A",
+    "WV58A-1AV",
+    "WV200A-1AV",
+    "WVA470J-1A",
+    "WVA430J-1A"
+  ],
+  "discovery_note": "wave_ceptor category spelling was observed in official site navigation preserved in an earlier replay. Newer wave-ceptor URLs did not expose the earlier detailed WV200A capture. Empty availability results do not establish absence of archives."
+}

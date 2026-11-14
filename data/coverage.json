@@ -1,8 +1,8 @@
 {
-  "models": 126,
-  "modules": 79,
+  "models": 134,
+  "modules": 86,
   "facts_by_status": {
-    "pending_review": 1549
+    "pending_review": 1676
   },
   "models_by_series": {
     "Baby-G": 1,
@@ -13,8 +13,9 @@
     "G-SHOCK": 38,
     "Lineage": 17,
     "Oceanus": 22,
-    "Pro Trek": 12,
-    "Wave Ceptor": 20
+    "Pathfinder": 3,
+    "Pro Trek": 13,
+    "Wave Ceptor": 24
   },
   "models_missing_fields": {
     "DBC-32-1A": [
@@ -59,11 +60,53 @@
     "MTP-1302D-1A1V": [
       "case_material"
     ],
+    "PAG240-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "PAW1500-1V": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "PAW2000-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "PRW3000-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
     "PRW3500-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",
       "band_material",
+      "glass"
+    ],
+    "WV200A-1AV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "WV58A-1AV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "WVA430J-1A": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "WVA470J-1A": [
+      "dimensions_mm",
+      "case_material",
       "glass"
     ]
   },
@@ -86,7 +129,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 109,
+  "models_with_single_module_reference": 117,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -180,17 +223,18 @@
   "models_without_any_module_reference": [],
   "referenced_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 71,
-    "accuracy_seconds_per_month": 76,
-    "alarm_count": 45,
-    "calendar": 69,
-    "illumination": 11,
-    "power_supply": 52,
+    "accuracy_condition": 77,
+    "accuracy_seconds_per_month": 83,
+    "alarm_count": 52,
+    "calendar": 76,
+    "illumination": 18,
+    "power_supply": 59,
+    "radio_reception": 7,
     "snooze_alarm": 21,
-    "stopwatch": 14,
-    "timer": 10,
-    "world_time_cities": 41,
-    "world_time_zones": 41
+    "stopwatch": 21,
+    "timer": 15,
+    "world_time_cities": 48,
+    "world_time_zones": 48
   },
   "module_profiles_by_fact_count": {
     "1": 1,
@@ -201,8 +245,10 @@
     "6": 11,
     "7": 10,
     "8": 6,
-    "10": 5,
-    "11": 5
+    "9": 1,
+    "10": 7,
+    "11": 8,
+    "12": 1
   },
   "modules_with_sparse_profiles": [
     "1572",
