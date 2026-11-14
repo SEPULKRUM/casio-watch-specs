@@ -8,7 +8,8 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_material',
-                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish'}
+                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish',
+                'promotional_thickness_mm', 'technical_table_thickness_mm'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception'}
@@ -76,11 +77,14 @@ def validate(record):
         if not isinstance(fact, dict) or fact.get('value') is None:
             raise ValueError(f'{field}: value required')
         if field in {'weight_g', 'water_resistance_m', 'water_resistance_bar', 'accuracy_seconds_per_month',
-                     'world_time_cities', 'world_time_zones', 'alarm_count'}:
+                     'world_time_cities', 'world_time_zones', 'alarm_count',
+                     'promotional_thickness_mm', 'technical_table_thickness_mm'}:
             value = fact['value']
             import math
             if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value) or value < 0:
                 raise ValueError(f'{field}: finite nonnegative number required')
+            if field in {'promotional_thickness_mm', 'technical_table_thickness_mm'} and value == 0:
+                raise ValueError(f'{field}: positive thickness required')
         if field == 'dimensions_mm':
             value = fact['value']
             import math

@@ -22956,6 +22956,44 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "promotional_thickness_mm": {
+          "value": 11.5,
+          "uncertainty": "Casio gives different values in its promotional description and technical table; both retained with section labels, without selecting a definitive thickness",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "locator": "At A Glance / Slim Case Design",
+              "evidence": "Slim Case Design: 11.5mm thin",
+              "permission": "official_public_reference",
+              "research_sha256": "cd7d2989f976c80470d98347a59dc3a4220211f7f13a694503a7e56089edee50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "27ce9ea34991410c7f4f6b62dd728f3026122a56b9accefdec50b54fa31ec114"
+        },
+        "technical_table_thickness_mm": {
+          "value": 11.3,
+          "uncertainty": "Casio gives different values in its promotional description and technical table; both retained with section labels, without selecting a definitive thickness",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "locator": "Technical Specs / Size of case / total weight / PAW2000 row",
+              "evidence": "PAW2000 56.2 x 50.2 x 11.3mm / 69.1g",
+              "permission": "official_public_reference",
+              "research_sha256": "cd7d2989f976c80470d98347a59dc3a4220211f7f13a694503a7e56089edee50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "27ce9ea34991410c7f4f6b62dd728f3026122a56b9accefdec50b54fa31ec114"
         }
       }
     },
