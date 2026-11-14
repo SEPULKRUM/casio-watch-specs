@@ -206,6 +206,13 @@
         "weight_g": 59
       },
       "module_specs": {
+        "power_supply": {
+          "battery_type": "CR2016"
+        }
+      },
+      "scope_note": "Archive battery type remains a pending source-backed claim. Other module function fields are superseded by visually read official guide 1659 in research/module-1659-manual-clarification-2026-11-14.json. Original normalized archive claims are retained in superseded_module_claims. Manual corrects timer minimum to one second and establishes final stopwatch display 23:59:59. Archive accuracy symbol remains corrupted; guide has no accuracy specification.",
+      "module_id": "1659",
+      "superseded_module_claims": {
         "alarm_count": 1,
         "calendar": {
           "type": "auto",
@@ -237,13 +244,8 @@
         "illumination": {
           "type": "EL",
           "afterglow": true
-        },
-        "power_supply": {
-          "battery_type": "CR2016"
         }
-      },
-      "scope_note": "Archive accuracy symbol is corrupted, so accuracy omitted. Stopwatch capacity text uses hundredths but precision is stated to change after first hour; maximum display value omitted rather than choosing an inconsistent representation. Official guide 1659 is scanned and was not transcribed in this batch.",
-      "module_id": "1659"
+      }
     }
   ]
 }

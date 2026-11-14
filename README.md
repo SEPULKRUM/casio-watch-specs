@@ -571,3 +571,25 @@ The [discovery report](research/wayback-databank-sports-discovery-2026-11-14.jso
 records archive timeouts separately from empty results. DB360-1A's retrieved
 capture lacks detailed specifications and is excluded. All previous records are
 unchanged; all new facts remain pending independent review.
+
+## Supplied module 1659 manual clarification
+
+The user-supplied scanned PDF has SHA-256
+`8c35703b0de414c4b7fd2b76baa3e11ff2070f9682744b62e319b7148e883584`,
+identical to a fresh download of Casio's official 1659 guide. Both rendered pages
+were read visually; their text layer omits almost all operational content.
+[Research notes](research/module-1659-manual-clarification-2026-11-14.json)
+record the file identity and page locations without redistributing the PDF.
+
+The guide resolves the stopwatch maximum at **23:59:59**, with hundredths for
+the first 60 minutes and whole seconds thereafter. It also corrects the
+countdown start minimum from the archived **one minute** to **one second**,
+confirms the date-setting range **1995–2039**, and describes two-second EL
+illumination with optional flashing alarm alerts. These replace only pending
+function claims for module 1659. Superseded archive claims remain in the
+research notes, outside the canonical import, to preserve the discrepancy trail.
+
+The guide contains no accuracy or battery specification. Accuracy remains
+unknown; the prior archive-sourced CR2016 claim remains separately attributed
+and pending review. No model-specific case properties or module associations
+are inferred from the general guide. All verified legacy data is unchanged.
