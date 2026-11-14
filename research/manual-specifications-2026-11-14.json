@@ -1,0 +1,587 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-14",
+  "note": "Selected common specifications only. Shared-guide module-specific calendar and battery rows remain distinct. No battery-runtime claims or model case properties are inferred.",
+  "modules": [
+    {
+      "id": "437",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+      "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+      "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "end_year": 2079
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery_type": "CR2016",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "438",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+      "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+      "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "end_year": 2079
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery_type": "CR1616",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "593",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+      "locator": "PDF page 1 / Specifications",
+      "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "alarm_count": 1
+      }
+    },
+    {
+      "id": "1271",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+      "locator": "PDF page 1 / Specifications",
+      "scope_note": "Common timekeeping specifications in shared guide; battery exceptions are not generalized",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "alarm_count": 1
+      }
+    },
+    {
+      "id": "3198",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+      "locator": "PDF page 4 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "power_supply": {
+          "battery_type": "CR2025",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3208",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3208/qw3208_EN.pdf",
+      "locator": "PDF page 2 / Specifications / module-specific calendar and battery rows",
+      "scope_note": "Shared manual has different calendar and battery specifications per module; only the named module row is used",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery_type": "CR2016",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3224",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3224/qw3224_EN.pdf",
+      "locator": "PDF page 2 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery": "lithium",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3239",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+      "locator": "PDF page 3 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 1,
+        "snooze_alarm": true,
+        "power_supply": {
+          "battery_type": "CR2025",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3240",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3240/qw3240_EN.pdf",
+      "locator": "PDF page 3 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 1,
+        "snooze_alarm": true,
+        "power_supply": {
+          "battery_type": "CR2025",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3299",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3299/qw3299_EN.pdf",
+      "locator": "PDF page 4 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "power_supply": {
+          "battery_type": "CR2025",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3472",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+      "locator": "PDF page 2 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery": "lithium",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3479",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3472/qw3472_EN.pdf",
+      "locator": "PDF page 2 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "alarm_count": 1,
+        "power_supply": {
+          "battery": "lithium",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3490",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3490/qw3490_EN.pdf",
+      "locator": "PDF page 14 / Specifications E-106–E-110",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature without radio-signal calibration",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 31
+      }
+    },
+    {
+      "id": "3496",
+      "source_url": "https://support.casio.com/global/en/wat/manual/3496_en/VPCVSYermzphxt.html",
+      "locator": "Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 31
+      }
+    },
+    {
+      "id": "3502",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3502/qw3502_EN.pdf",
+      "locator": "PDF page 3 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "power_supply": {
+          "battery_type": "CR2032",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3525",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3525/qw3525_EN.pdf",
+      "locator": "PDF page 3 / Specifications (EN-21–EN-23)",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "Monthly average accuracy as stated in manual",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "battery_type": "CR2016",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "3529",
+      "source_url": "https://support.casio.com/global/en/wat/manual/3529_en/NHCXSYdfmncewp.html",
+      "locator": "Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "battery_type": "CR2016",
+          "count": 1
+        },
+        "alarm_count": 1
+      }
+    },
+    {
+      "id": "3539",
+      "source_url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+      "locator": "Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 39,
+        "world_time_zones": 39,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5110",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5110/qw5110_EN.pdf",
+      "locator": "PDF page 8 / Specifications E-75–E-77",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature without radio-signal calibration",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5125",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+      "locator": "PDF page 1 / Specifications / 5125–5128 table",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 20,
+        "accuracy_condition": "At normal temperature",
+        "power_supply": {
+          "battery_type": "SR626SW",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5128",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5125/qw5125_EN.pdf",
+      "locator": "PDF page 1 / Specifications / 5125–5128 table",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 20,
+        "accuracy_condition": "At normal temperature",
+        "power_supply": {
+          "battery_type": "SR626SW",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5161",
+      "source_url": "https://support.casio.jp/wat/manual/5161_ja/BONDSYkrtycbvn.html",
+      "locator": "製品仕様 / 精度・ワールドタイム機能・アラーム機能",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "When radio-signal time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 29,
+        "world_time_zones": 29,
+        "alarm_count": 5,
+        "power_supply": {
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5235",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+      "locator": "PDF page 5 / Specifications E-38–E-39",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature without radio-signal calibration",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5347",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5347/qw5347_EN.pdf",
+      "locator": "PDF page 7 / Specifications E-55–E-57",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature without radio-signal calibration",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "world_time_cities": 29,
+        "world_time_zones": 29
+      }
+    },
+    {
+      "id": "5414",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/52/5235/qw5235_EN.pdf",
+      "locator": "PDF page 5 / Specifications E-38–E-39",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature without radio-signal calibration",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5582",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5582/qw5582_EN.pdf",
+      "locator": "PDF pages 19–20 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature when phone time correction is unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "world_time_cities": 39,
+        "world_time_zones": 39,
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5596",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/55/5596/qw5596_EN.pdf",
+      "locator": "PDF pages 11–12 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature when radio-signal and phone time correction are unavailable",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5611",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5611/qw5611_EN.pdf",
+      "locator": "PDF page 5 / Specifications E-46–E-48",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "power_supply": {
+          "battery_type": "SR726W",
+          "count": 2
+        }
+      }
+    },
+    {
+      "id": "5662",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5662/qw5662_EN.pdf",
+      "locator": "PDF page 4 / Specifications",
+      "scope_note": "Module specifications; no case properties inferred",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2039
+        },
+        "world_time_cities": 27,
+        "world_time_zones": 29
+      }
+    }
+  ]
+}

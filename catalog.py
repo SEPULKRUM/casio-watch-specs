@@ -46,6 +46,19 @@ def search(catalog, query='', series=None, verified_only=False):
     return sorted(records, key=lambda r: r['id'])
 
 
+def module_view(catalog, model):
+    module_id = field_value(model, 'module_id') or model.get('module')
+    candidates = field_value(model, 'module_candidates') or []
+    status = ('ambiguous_' + model['specs']['module_candidates']['status'] if candidates else
+              model.get('specs', {}).get('module_id', {}).get('status',
+                  'legacy_preserved' if model.get('module') else 'unknown'))
+    return {'module': catalog['modules'].get(str(module_id)) if module_id else None,
+            'module_id': str(module_id) if module_id else None,
+            'module_candidates': candidates,
+            'module_options': {key: catalog['modules'].get(key) for key in candidates},
+            'module_link_status': status}
+
+
 def coverage(catalog):
     models = catalog['models']
     counts = Counter(f['status'] for bucket in ('models', 'modules')
@@ -55,11 +68,20 @@ def coverage(catalog):
     missing = {r['id']: [f for f in fields if f not in r['specs']] for r in models.values()}
     unknown_links = sorted(r['id'] for r in models.values()
                            if 'module' not in r and 'module_id' not in r['specs'])
+    ambiguous = {r['id']: field_value(r, 'module_candidates') for r in models.values()
+                 if field_value(r, 'module_candidates')}
+    referenced = {key for r in models.values() for key in
+                  ([str(field_value(r, 'module_id') or r.get('module'))]
+                   if field_value(r, 'module_id') or r.get('module') else [])}
     return {'models': len(models), 'modules': len(catalog['modules']),
             'facts_by_status': dict(sorted(counts.items())),
             'models_by_series': dict(sorted(series.items())),
             'models_missing_fields': {k: v for k, v in sorted(missing.items()) if v},
             'models_without_module_link': unknown_links,
+            'models_with_single_module_reference': len(models) - len(unknown_links),
+            'models_with_ambiguous_manual': dict(sorted(ambiguous.items())),
+            'models_without_any_module_reference': sorted(set(unknown_links) - set(ambiguous)),
+            'referenced_module_ids_without_specs': sorted(referenced - set(catalog['modules'])),
             'note': 'Coverage counts include pending candidates; unknown does not mean absent.'}
 
 
@@ -70,8 +92,8 @@ def spreadsheet_safe(value):
 
 def export_csv(catalog):
     out = io.StringIO(newline='')
-    writer = csv.writer(out)
-    writer.writerow(['model', 'series', 'module', 'length_mm', 'width_mm', 'thickness_mm',
+    writer = csv.writer(out, lineterminator='\n')
+    writer.writerow(['model', 'series', 'module', 'module_candidates', 'module_link_status', 'length_mm', 'width_mm', 'thickness_mm',
                      'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
                      'verified_facts', 'pending_facts', 'source_urls'])
@@ -80,7 +102,9 @@ def export_csv(catalog):
         dims = value('dimensions_mm') or {}
         facts = record['specs'].values()
         urls = sorted({source['url'] for fact in facts for source in fact['sources']})
-        row = [record['id'], value('series'), value('module_id') or record.get('module'),
+        view = module_view(catalog, record)
+        row = [record['id'], value('series'), view['module_id'],
+               ' | '.join(view['module_candidates']), view['module_link_status'],
                dims.get('length'), dims.get('width'), dims.get('thickness'), value('weight_g'),
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
@@ -145,10 +169,7 @@ def main():
         if key not in catalog['models']:
             raise SystemExit(f'Unknown model: {key}')
         model = catalog['models'][key]
-        module_id = field_value(model, 'module_id') or model.get('module')
-        result = {'model': model, 'module': catalog['modules'].get(str(module_id)),
-                  'module_link_status': model.get('specs', {}).get('module_id', {}).get('status',
-                       'legacy_preserved' if model.get('module') else 'unknown')}
+        result = {'model': model, **module_view(catalog, model)}
     else:
         result = coverage(catalog)
     print(json.dumps(result, ensure_ascii=False, indent=2))

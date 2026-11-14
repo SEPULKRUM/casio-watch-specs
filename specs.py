@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_material',
-                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'water_resistance_rating', 'water_resistance_bar', 'case_finish'}
+                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception'}
@@ -48,6 +48,8 @@ def validate(record):
     allowed = MODEL_FIELDS if record['kind'] == 'model' else MODULE_FIELDS
     if set(record['specs']) - allowed:
         raise ValueError('Unknown or incorrectly scoped specification')
+    if {'module_id', 'module_candidates'} <= set(record['specs']):
+        raise ValueError('Cannot assert a single module and ambiguous alternatives together')
     for field, fact in record['specs'].items():
         if not isinstance(fact, dict) or fact.get('value') is None:
             raise ValueError(f'{field}: value required')
@@ -65,6 +67,12 @@ def validate(record):
                 raise ValueError('dimensions_mm requires positive length, width and thickness')
         if field == 'snooze_alarm' and not isinstance(fact['value'], bool):
             raise ValueError('snooze_alarm must be boolean')
+        if field == 'module_candidates':
+            value = fact['value']
+            if (not isinstance(value, list) or len(value) < 2
+                    or any(not isinstance(v, str) or not re.fullmatch(r'\d{3,4}', v) for v in value)
+                    or len(set(value)) != len(value)):
+                raise ValueError('module_candidates requires distinct documented module IDs')
         if field == 'module_id' and not re.fullmatch(r'\d{3,4}', str(fact['value'])):
             raise ValueError('module_id must identify a 3 or 4 digit module')
         if not isinstance(fact.get('uncertainty'), str):
@@ -125,6 +133,12 @@ def build(legacy, batches, decisions=None):
             if field == 'module_id' and 'module' in target and str(fact['value']) != target['module']:
                 catalog['report']['conflicts'].append({'kind': kind, 'id': key,
                     'field': field, 'existing': target['module'], 'incoming': incoming})
+                continue
+            other = 'module_candidates' if field == 'module_id' else 'module_id'
+            if field in {'module_id', 'module_candidates'} and (
+                    other in target['specs'] or (field == 'module_candidates' and 'module' in target)):
+                catalog['report']['conflicts'].append({'kind': kind, 'id': key, 'field': field,
+                    'existing': target['specs'].get(other, target.get('module')), 'incoming': incoming})
                 continue
             current = target['specs'].get(field)
             if current is not None:

@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **41 models, 3 modules and 342 source-backed candidate
+The catalog now contains **41 models, 32 modules and 529 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,7 +12,10 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. At this stage 39 models lack a confirmed module association.
+  module links. There are 21 single-module references (one legacy association and
+  20 pending references), 8 shared-manual candidate sets, and 12 models with no
+  usable module reference. Single current support references do not establish all
+  historical production revisions.
 
 Download/clone this repository, then use Python 3.10 or newer; no Python packages
 are required for catalog use:
@@ -25,7 +28,9 @@ python catalog.py coverage
 python catalog.py build
 ```
 
-`show` returns model and linked module separately. `search --verified-only`
+`show` returns model and linked module separately. Shared guides return
+`module: null`, a list of `module_candidates` and separate `module_options`,
+rather than selecting the first candidate. `search --verified-only`
 returns only records with verified facts and hides pending fields. The current
 new facts are all pending, so that search is intentionally empty. A preserved
 legacy association is explicitly labeled `legacy_preserved`, not reverified.
@@ -192,3 +197,65 @@ means unknown, not that a watch lacks the feature. The DBC-32-1A page does not
 supply a water-resistance rating; MTP-1302D-1A1V gives a case finish rather than
 underlying material. New facts remain candidates until reviewed. No ShockBase
 content is included.
+
+## Manual associations and module research
+
+The next batch adds 27 official support/manual reference records and 29 module
+specification records. Original product imports are unchanged. References are
+established from exact-model official support pages and their primary linked
+manuals, rather than matching a similar product name. Model-specific support and
+manual URLs are both retained as evidence. All facts remain pending review.
+
+Some guides explicitly cover several modules. For example, the AE-1200WH-1AV
+support page links a guide covering 3198/3299; CA-53W-1 links a guide covering
+437/438/3208. These are **shared-guide candidates, not confirmed alternatives for
+every manufactured watch**. No exact module is chosen automatically. Even a
+single support endpoint describes the current official reference, not a guarantee
+about all past production revisions. The GMW-B5000D-1 reference currently points
+to 3539; its evidence date and revision uncertainty remain attached.
+
+Shared-guide specifications are read carefully per module: 437/438 calendar rows
+end at 2079, while 3208 runs through 2099; module 438 uses a different battery
+from 437/3208. These facts remain in separate module records. The generic guide
+linked for F-91W-1 and A158WA-1 also explicitly discusses a Module 1271 exception,
+so those model references remain conservative candidate sets. Nothing is inferred
+from the physical case specifications.
+
+`data/coverage.json` distinguishes `models_with_single_module_reference`,
+`models_with_ambiguous_manual`, and `models_without_any_module_reference`.
+`models_without_module_link` retains its earlier meaning: no single module link,
+including shared-guide records. CSV adds `module_candidates` and
+`module_link_status`; its `module` cell stays blank for ambiguous cases.
+
+Research notes can be reimported in batches without network access:
+
+```sh
+python manual_import.py research/module-associations-2026-11-14.json --output imports/support-module-associations-2026-11-14.json
+python manual_import.py research/manual-specifications-2026-11-14.json --output imports/manual-specifications-2026-11-14.json
+python catalog.py build
+python catalog.py show AE-1200WH-1AV
+python catalog.py show GA-2100-1A1
+```
+
+`research/module-associations-2026-11-14.json` also records unavailable pages and
+regional model-name mismatches. A168WA-1W is not assigned the module from an
+A168WA-1 support heading. The five European Lineage records remain without module
+links rather than inheriting a Japanese-suffix model's association.
+
+For future permitted snapshot batches, use:
+
+```sh
+python manual_import.py --support-manifest support-snapshots.json --output build/manual-links.json
+```
+
+The manifest has `accessed` (retrieval date) and a `documents` array. Each document
+contains `model`, `support_url`, `support_path`, `manual_url`, and `manual_path`.
+Paths are relative to the manifest. The adapter requires one exact model heading,
+checks that the manual URL actually occurs as a link on that support snapshot,
+checks official domains and module identity, and records SHA-256 hashes of both
+snapshots. PDFs require `pdftotext`; HTML/text are also supported. Empty/image-only
+manuals and conflicting headers fail for review. Shared titles and module-specific
+exceptions are retained as candidates. This parser is a candidate generator, not
+an independent factual verification service. It makes no network requests;
+`gather.py` remains responsible for permitted downloads and now also recognizes
+the official `support.casio.jp` host, with the same robots/access-denial rules.
