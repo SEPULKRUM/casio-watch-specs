@@ -31,3 +31,14 @@ class DisplayPolarityTests(unittest.TestCase):
         record.update(kind='model', id='G-9300-1')
         with self.assertRaises(ValueError):
             specs.validate(record)
+
+    def test_model_display_does_not_change_a_shared_module(self):
+        data = catalog.build_catalog()
+        model = data['models']['G9000MS-1']
+        self.assertEqual(catalog.field_value(model, 'display_polarity'), 'negative')
+        self.assertEqual(catalog.module_view(data, model)['module_id'], '3031')
+        self.assertNotIn('display_polarity', data['modules']['3031']['specs'])
+        self.assertNotIn('display_polarity', data['models']['G9000-1V']['specs'])
+        record = {'kind': 'model', 'id': model['id'],
+                  'specs': {'display_polarity': model['specs']['display_polarity']}}
+        self.assertEqual(specs.validate(record), ('model', model['id']))

@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **148 models, 103 modules and 1,921 source-backed candidate
+The catalog now contains **153 models, 107 modules and 1,999 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 127 single-module references (one legacy association and
-  126 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
+  module links. There are 132 single-module references (one legacy association and
+  131 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -633,3 +633,36 @@ the reason for the paired guide. The shared model reference itself is preserved;
 a particular watch's module can be identified from model-specific evidence.
 No modules are merged and no prior facts are overwritten. All new facts remain
 pending independent review.
+
+### Sixth archive batch: Riseman, Gulfman, Mudman, Aviation and Pathfinder
+
+The [sixth batch](research/archived-master-g-pathfinder-2026-11-14.json) adds
+five models, four module profiles and 78 pending fields.
+
+| Model | Module |
+| --- | --- |
+| GW9200-1 | 3147 |
+| GW9100-1 | 3089 |
+| G9000MS-1 | 3031 |
+| PAG80-1V | 2894 |
+| GW2500-1A | 5064 |
+
+G9000MS-1's official description explicitly specifies a light-on-dark LCD.
+`display_polarity` is therefore also permitted at model scope, where this
+negative display belongs; the shared module 3031 profile remains unchanged.
+The prior 3261/3281 module-level polarity facts are retained because Casio
+explicitly distinguishes those module numbers by display polarity. Model-specific
+appearance is never copied to every watch sharing a module.
+
+The G9000MS measurement row matches this model and supports 56 g, but its
+capture lacks an explicit model-specific water-resistance rating. No rating is
+copied from G9000-1V. Titanium case backs/pins on GW9100-1 do not establish
+titanium case material. GW9200-1 retains its source's 33-city/29-zone count;
+PAG80-1V uses the 78 g resin row, not the 118 g titanium variant. PAG80's
+stopwatch maximum is 9:59:59.99, while GW9100's is 999:59:59.99. GW9100's
+countdown measurement unit is 0.1 second. These values remain separate.
+
+The [discovery report](research/wayback-master-g-pathfinder-discovery-2026-11-14.json)
+retains empty archive results and API timeouts as separate outcomes. Sensor
+fields outside the current schema remain unimported. All previous records are
+unchanged, and all new facts await independent review.

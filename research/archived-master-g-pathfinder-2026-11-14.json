@@ -1,0 +1,347 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-14",
+  "note": "Sixth archive batch: five historical official US product pages, four new module profiles and reuse of module 3031. Model-specific LCD polarity is kept separate from shared module functions. All additions pending independent review; original records preserved.",
+  "documents": [
+    {
+      "displayed_model": "GW9200-1",
+      "archive_url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+      "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+      "archive_timestamp": "20130102060501",
+      "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "GW9200-1 page explicitly lists Module 3147",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "weight_g": 60.9,
+        "color": "Black band and face"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "alarm_count": 5,
+        "world_time_cities": 33,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "snooze_alarm": true,
+        "accuracy_condition": "With no signal calibration",
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Archived page explicitly gives 33 cities and 29 zones; no modern city count substituted. Sensor functions are outside the current schema. No case metal, L/W dimension order or radio-receive exceptions inferred.",
+      "module_id": "3147"
+    },
+    {
+      "displayed_model": "GW9100-1",
+      "archive_url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+      "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+      "archive_timestamp": "20120815045904",
+      "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "GW9100-1 page explicitly lists Module 3089",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "weight_g": 57,
+        "color": "Neutral"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599999.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 0.1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "snooze_alarm": true,
+        "accuracy_condition": "With no signal calibration",
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Titanium case back and pins do not establish titanium case material; no case-metal inference. Radio list lacks BPC and remains distinct from GW9200-1. Stopwatch range is 999:59:59.99; countdown resolution 0.1 second, not inferred from stopwatch.",
+      "module_id": "3089"
+    },
+    {
+      "displayed_model": "G9000MS-1",
+      "archive_url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+      "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+      "archive_timestamp": "20121228091501",
+      "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "G9000MS-1 page explicitly lists Module 3031",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "band_material": "Resin",
+        "weight_g": 56,
+        "color": "Matte black band and case",
+        "display_polarity": "negative"
+      },
+      "module_specs": {},
+      "scope_note": "Negative light-on-dark LCD explicitly described for G9000MS-1. Store polarity at model scope, not as a property of every module 3031. Existing 3031 functions reused. Weight row correctly names G9000MS; do not backfill G9000-1V measurements. Ion-plated buttons do not imply an ion-plated case. Capture does not state a model-specific water-resistance rating; no depth copied from G9000-1V.",
+      "module_id": "3031"
+    },
+    {
+      "displayed_model": "PAG80-1V",
+      "archive_url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+      "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+      "archive_timestamp": "20110925053441",
+      "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "PAG80-1V page explicitly lists Module 2894",
+      "model_specs": {
+        "series": "Pathfinder",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "weight_g": 78,
+        "color": "Black"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "alarm_count": 5,
+        "world_time_cities": 30,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 35999.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "auto_repeat": true
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        }
+      },
+      "scope_note": "Weight is PAG80 resin row 78 g, not PAG80T titanium row 118 g. Stopwatch maximum 9:59:59.99 and countdown maximum 60 minutes are explicit. No snooze or radio function inferred. Sensor functions outside current schema omitted.",
+      "module_id": "2894"
+    },
+    {
+      "displayed_model": "GW2500-1A",
+      "archive_url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+      "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+      "archive_timestamp": "20120313123037",
+      "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "GW2500-1A page explicitly lists Module 5064",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "weight_g": 66,
+        "color": "Black"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "auto_repeat": true
+        },
+        "illumination": {
+          "type": "LED",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "snooze_alarm": true,
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Weight from GW2500 row 66 g, not metal-band GW2500BD 139 g. Description references stainless steel and resin without a precise case-material label, so case material omitted. Auto-repeat countdown retains 60-minute maximum; no illumination duration inferred.",
+      "module_id": "5064"
+    }
+  ]
+}

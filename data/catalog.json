@@ -25603,6 +25603,711 @@
           "candidate_sha256": "ce2c210ded6dc5ec953c3e33dd8e4816931d5214507f7161449d450be85d2011"
         }
       }
+    },
+    "GW9200-1": {
+      "id": "GW9200-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: series = G-SHOCK"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "weight_g": {
+          "value": 60.9,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: weight_g = 60.9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "color": {
+          "value": "Black band and face",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1: color = Black band and face"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        },
+        "module_id": {
+          "value": "3147",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9200-1 page explicitly lists Module 3147"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "60489e8aa124c9ef249f03eaf851ab77a568ab78de472d8cf42efb8d31e35e8f"
+        }
+      }
+    },
+    "GW9100-1": {
+      "id": "GW9100-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: series = G-SHOCK"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "weight_g": {
+          "value": 57,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: weight_g = 57"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "color": {
+          "value": "Neutral",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1: color = Neutral"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        },
+        "module_id": {
+          "value": "3089",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW9100-1 page explicitly lists Module 3089"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b7c280c0b4cb504134179fd55ae00bd3ecc18a1bbb30bae1fcfb34d9d3c2e527"
+        }
+      }
+    },
+    "G9000MS-1": {
+      "id": "G9000MS-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1: series = G-SHOCK"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "weight_g": {
+          "value": 56,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1: weight_g = 56"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "color": {
+          "value": "Matte black band and case",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1: color = Matte black band and case"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "display_polarity": {
+          "value": "negative",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1: display_polarity = negative"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "module_id": {
+          "value": "3031",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121228091501/http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/g9000ms-1",
+              "archive_timestamp": "20121228091501",
+              "snapshot_sha256": "5b101dfa3128ff17c207e782b59f84976f5137b4a1a978ef8aa3da94652ea4ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "587363f556206accd4957c8c5342972c85e43665dc5f9f73d9d329367fb1ca8f",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "G9000MS-1 page explicitly lists Module 3031"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        }
+      }
+    },
+    "PAG80-1V": {
+      "id": "PAG80-1V",
+      "specs": {
+        "series": {
+          "value": "Pathfinder",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: series = Pathfinder"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "weight_g": {
+          "value": 78,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: weight_g = 78"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        },
+        "module_id": {
+          "value": "2894",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG80-1V page explicitly lists Module 2894"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34d4a1c241522d66cce53cefdffe5f1703108f5bec9d80674f4150a44faa5da4"
+        }
+      }
+    },
+    "GW2500-1A": {
+      "id": "GW2500-1A",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: series = G-SHOCK"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "weight_g": {
+          "value": 66,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: weight_g = 66"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        },
+        "module_id": {
+          "value": "5064",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "GW2500-1A page explicitly lists Module 5064"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
+        }
+      }
     }
   },
   "modules": {
@@ -38363,6 +39068,1099 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c6554563f4f1d3ab2011bdf5a3f86bbe3082ff3f30aa02d617f3312672a7d6c8"
+        }
+      }
+    },
+    "3147": {
+      "id": "3147",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "world_time_cities": {
+          "value": 33,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: world_time_cities = 33"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: snooze_alarm = True"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102060501/http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "original_url": "http://www.casio.com:80/products/watches/g-shock/gw9200-1",
+              "archive_timestamp": "20130102060501",
+              "snapshot_sha256": "b4298d90b0df04825edfe65c67bf5073c1f22d1244d0218b73d1780eed1ba26a",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1179fecd734ce33b9ace9eee3926d10180800d446910898acaf17c3ac6e8f686",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3147: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38b2148a6b481c00304b04392f8571d2c2a8b3700654a16a0b99db897e4a7883"
+        }
+      }
+    },
+    "3089": {
+      "id": "3089",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599999.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599999.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 0.1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 3600
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: timer = {'measurement_unit_seconds': 0.1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: snooze_alarm = True"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120815045904/http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW9100-1",
+              "archive_timestamp": "20120815045904",
+              "snapshot_sha256": "eabdc998279168a0080fdd6438d9a9d41d37b931151205183bd2e1b92828b606",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e591d02745489154734dec66c2074f495275867e67493fc2376b359c60049bf7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3089: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5f8b7ae4bc1b43abe5be3d3d4b72df8d92ca8100291b4cdde845c07a4b809b7"
+        }
+      }
+    },
+    "2894": {
+      "id": "2894",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: world_time_cities = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 35999.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 35999.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 3600,
+            "auto_repeat": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'auto_repeat': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20110925053441/http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG80-1V/",
+              "archive_timestamp": "20110925053441",
+              "snapshot_sha256": "c7ccc353c37c5ba4a477f5bafa60615994029ab770693ce9ab6b3a9b2858db13",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "2c81c7377c963f4a83b44ebc98eb73f4732e9aa36b91007afc48c7e6e3d8da69",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2894: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "924bdf2133050bbebf946b5e85ccb09c264e14d670c0c2041ca267a118148eed"
+        }
+      }
+    },
+    "5064": {
+      "id": "5064",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: calendar = {'type': 'full_auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 3600,
+            "auto_repeat": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'auto_repeat': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: illumination = {'type': 'LED', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: snooze_alarm = True"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120313123037/http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW2500-1A/",
+              "archive_timestamp": "20120313123037",
+              "snapshot_sha256": "00a434266fe59a4e7bef88d0de0ea67f32efe0e789c72cb8101f3193d8ae9478",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "bfd6b1f7c4d437a15c92a06b560df78bd3ae3c666d04dd46eda7f60c20e22939",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5064: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ca453f40a6f906ada53850c50b0281007dfc1b16f231d6b83d0e5f7cb945fb2c"
         }
       }
     },
