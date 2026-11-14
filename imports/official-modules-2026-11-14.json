@@ -1,0 +1,218 @@
+[
+  {
+    "kind": "module",
+    "id": "5689",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "Accuracy",
+            "evidence": "Monthly accuracy tolerance is 15 seconds",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": "Solar panel and rechargeable battery",
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "Power Supply",
+            "evidence": "Solar energy recharges the battery",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 38,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "Built-in city count excludes UTC",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 38,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "Time-zone count is stated separately from cities",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "Alarm",
+            "evidence": "Five time alarms",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "start_year": 2000,
+          "end_year": 2099,
+          "type": "full_auto"
+        },
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "Timekeeping",
+            "evidence": "Automatic calendar covers 2000–2099",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature, when phone time adjustment is unavailable",
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/5689_en/UQIDSYyrpiqdkt.html",
+            "accessed": "2026-11-14",
+            "locator": "Accuracy",
+            "evidence": "Accuracy condition: no phone adjustment",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3513",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "Accuracy",
+            "evidence": "Monthly accuracy tolerance is 15 seconds",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": "Solar panel and rechargeable battery",
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "Power Supply",
+            "evidence": "Solar energy recharges the battery",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "Built-in city count excludes UTC",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "Time-zone count is stated separately from cities",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "Alarm",
+            "evidence": "Five time alarms",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "start_year": 2000,
+          "end_year": 2099,
+          "type": "full_auto"
+        },
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "Basic Functions",
+            "evidence": "Automatic calendar covers 2000–2099",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Official manual transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3513_en/AHNISYnnsmuzfe.html",
+            "accessed": "2026-11-14",
+            "locator": "Alarm",
+            "evidence": "One of five alarms supports snooze",
+            "evidence_type": "paraphrase",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

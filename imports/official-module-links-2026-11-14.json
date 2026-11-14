@@ -1,0 +1,21 @@
+[
+  {
+    "kind": "model",
+    "id": "GA-B2100-1A",
+    "specs": {
+      "module_id": {
+        "value": "5689",
+        "uncertainty": "Explicit model/module pair on official Casio support page; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/intl/support/watches/content/sp-connect/top/connection/",
+            "accessed": "2026-11-14",
+            "locator": "Delete pairing information / GA-B2100 example",
+            "evidence": "Example: For the GA-B2100-1A (5689)",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]
