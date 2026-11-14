@@ -1,7 +1,7 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **126 models, 79 modules and 1,549 source-backed candidate
-facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
+The catalog now contains **134 models, 86 modules and 1,676 source-backed candidate
+facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
 
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 109 single-module references (one legacy association and
-  108 pending references), plus 17 shared-manual candidate sets. No model now
+  module links. There are 117 single-module references (one legacy association and
+  116 pending references), plus 17 shared-manual candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -436,3 +436,40 @@ records the inspected captures. EFA120D-1AV and WV200A-1AV were excluded because
 the retrieved pages lacked detailed specification sections. Pro Trek sensor
 functions outside the current module schema are not imported in this batch.
 All historical fields remain pending independent review.
+
+### Third archive batch: Pathfinder and Wave Ceptor
+
+The [third batch](research/archived-pathfinder-wave-ceptor-2026-11-14.json) adds
+127 pending fields across eight exact US model identifiers. It introduces seven
+module profiles and adds the missing radio-reception field to existing module
+3414. Previous specifications remain unchanged. Pathfinder is retained as the
+historical official series name.
+
+| Model | Module | Capture date |
+| --- | --- | --- |
+| PAG240-1 | 3246 | 2011-10-26 |
+| PAW1500-1V | 3134 | 2011-10-15 |
+| PAW2000-1 | 3172 | 2011-10-19 |
+| PRW3000-1A | 3414 | 2016-12-16 |
+| WV58A-1AV | 3054 | 2013-01-01 |
+| WV200A-1AV | 3140 | 2013-01-01 |
+| WVA470J-1A | 5052 | 2013-01-01 |
+| WVA430J-1A | 3311 | 2012-03-03 |
+
+Older official navigation used the `wave_ceptor` URL category. Inspecting those
+paths recovered the WV200A-1AV technical specifications absent from the later
+capture in the second batch. The [discovery report](research/wayback-pathfinder-wave-ceptor-discovery-2026-11-14.json)
+records both URL forms and retrieval outcomes.
+
+Source qualifications remain explicit in the research notes: WVA470J-1A has
+conflicting colour wording, so colour is omitted; PAW2000-1 advertises two
+different thickness values, so dimensions are omitted. Variant weights use the
+matching resin row rather than the metal-band row. WV58A-1AV's generic WV58
+measurement row is not assigned to the more specific identifier. Module 3311's
+stopwatch changes resolution after 60 seconds; modules 3054 and 3140 have different
+countdown minimums (one minute and one second). These distinctions are preserved.
+
+Radio-reception profiles retain named signals, frequencies in kHz and documented
+receive limits. No radio function is inferred for solar-only PAG240-1. Sensor
+functions outside the current schema remain unimported. All new facts remain
+historical candidates awaiting independent review.

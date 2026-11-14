@@ -22523,6 +22523,1106 @@
           "candidate_sha256": "3760daaabc8344802eb7e9d0bf98985f4574305cf8a3f29d09a04a26bf1e5c95"
         }
       }
+    },
+    "PAG240-1": {
+      "id": "PAG240-1",
+      "specs": {
+        "series": {
+          "value": "Pathfinder",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: series = Pathfinder"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "weight_g": {
+          "value": 65.4,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1: weight_g = 65.4"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        },
+        "module_id": {
+          "value": "3246",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAG240-1 page explicitly states Module 3246"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "223496678875287ff1bdba5a2b5a84a40d19fbe00cca7618c67259d21f341834"
+        }
+      }
+    },
+    "PAW1500-1V": {
+      "id": "PAW1500-1V",
+      "specs": {
+        "series": {
+          "value": "Pathfinder",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: series = Pathfinder"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "weight_g": {
+          "value": 79,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V: weight_g = 79"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        },
+        "module_id": {
+          "value": "3134",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW1500-1V page explicitly states Module 3134"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f61cc6b4824ad72547ea203bc11d791c6b288cee5d4205d074f39ae44383943"
+        }
+      }
+    },
+    "PAW2000-1": {
+      "id": "PAW2000-1",
+      "specs": {
+        "series": {
+          "value": "Pathfinder",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: series = Pathfinder"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "weight_g": {
+          "value": 69.1,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1: weight_g = 69.1"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        },
+        "module_id": {
+          "value": "3172",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "PAW2000-1 page explicitly states Module 3172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0832faa64e7f711b09012554f8e53fc3acb988761187bdb2bf6c6a6c1b4eb710"
+        }
+      }
+    },
+    "PRW3000-1A": {
+      "id": "PRW3000-1A",
+      "specs": {
+        "series": {
+          "value": "Pro Trek",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A: series = Pro Trek"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        },
+        "color": {
+          "value": "Black band and face",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A: color = Black band and face"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        },
+        "module_id": {
+          "value": "3414",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "PRW3000-1A page explicitly states Module 3414"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ce49726c3a33d8df426492a1b1f6398fe58222ab3d73422fcf6dfe0bf19ae7ee"
+        }
+      }
+    },
+    "WV58A-1AV": {
+      "id": "WV58A-1AV",
+      "specs": {
+        "series": {
+          "value": "Wave Ceptor",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV: series = Wave Ceptor"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        },
+        "water_resistance_rating": {
+          "value": "50M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV: water_resistance_rating = 50M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        },
+        "water_resistance_m": {
+          "value": 50,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV: water_resistance_m = 50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        },
+        "module_id": {
+          "value": "3054",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV58A-1AV page explicitly states Module 3054"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e9fd9745236edc708ac63a91226dd4ab63c792caa0eac5d5d7348e0b05693464"
+        }
+      }
+    },
+    "WV200A-1AV": {
+      "id": "WV200A-1AV",
+      "specs": {
+        "series": {
+          "value": "Wave Ceptor",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: series = Wave Ceptor"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "weight_g": {
+          "value": 40,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV: weight_g = 40"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        },
+        "module_id": {
+          "value": "3140",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WV200A-1AV page explicitly states Module 3140"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5b9e07644fc18934e9e5092c157b6be9948a52c99c153327b80bce196f0c7dd3"
+        }
+      }
+    },
+    "WVA470J-1A": {
+      "id": "WVA470J-1A",
+      "specs": {
+        "series": {
+          "value": "Wave Ceptor",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A: series = Wave Ceptor"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        },
+        "weight_g": {
+          "value": 43.7,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A: weight_g = 43.7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        },
+        "module_id": {
+          "value": "5052",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA470J-1A page explicitly states Module 5052"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "baa8bc000a1aef650fede3e4f52c0a4f079eb6b9bac95626d5c7e68a8b9a9b93"
+        }
+      }
+    },
+    "WVA430J-1A": {
+      "id": "WVA430J-1A",
+      "specs": {
+        "series": {
+          "value": "Wave Ceptor",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: series = Wave Ceptor"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "weight_g": {
+          "value": 44.8,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A: weight_g = 44.8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        },
+        "module_id": {
+          "value": "3311",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "WVA430J-1A page explicitly states Module 3311"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "de1af17fb16de0b7b238fa2f41fdfdd02f1cff00416a41dbea999ad4e71d5423"
+        }
+      }
     }
   },
   "modules": {
@@ -30708,6 +31808,65 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c8125d1c50ab007b367b95a6dbe85c50938a16288040ff08a3e487172bdb07ca"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true,
+            "auto_receive_max_per_day_by_signal": {
+              "BPC": 5
+            }
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+              "archive_timestamp": "20161216160042",
+              "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "67b2c1d18fc810930efa7329fa0f5db36b5c6e19c604ba03241b9fac971394a9",
+              "locator": "Overview / At a glance / Specifications",
+              "evidence": "3414: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}], 'auto_receive_max_per_day': 6, 'manual_receive': True, 'auto_receive_max_per_day_by_signal': {'BPC': 5}}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "db08215768c11c1f5cb44f1713313ed7843555bce5426c5df3e99c8bf52687e2"
         }
       }
     },
@@ -31476,6 +32635,1794 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "80ef9924d7368fba89f53dda5df4cd512c9e9809d157899718f032732c9209da"
+        }
+      }
+    },
+    "3246": {
+      "id": "3246",
+      "specs": {
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: world_time_zones = 31"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: calendar = {'type': 'full_auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+              "archive_timestamp": "20111026073223",
+              "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9e86f4814968ba42291afbca82251d5cb08d3543570c23019afe4e3f4d39b5dd",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3246: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "423ddfd1ebbb6d0d7509c4340c33f3ab3f31030f4b3245d52847964e21003d71"
+        }
+      }
+    },
+    "3134": {
+      "id": "3134",
+      "specs": {
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "world_time_cities": {
+          "value": 33,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: world_time_cities = 33"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: accuracy_seconds_per_month = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "timer": {
+          "value": {
+            "type": "yacht_countdown",
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 3600,
+            "progress_beeper": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: timer = {'type': 'yacht_countdown', 'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'progress_beeper': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+              "archive_timestamp": "20111015231422",
+              "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "7ec4d1ebb10d5c221ccfdf8cb445f51abdf07d7173691b4b4cf5ef958b119a86",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3134: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0171bd6457b02e378d4ed40b1c2d683be1e100940931be82f51a20503bdf1d02"
+        }
+      }
+    },
+    "3172": {
+      "id": "3172",
+      "specs": {
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: world_time_zones = 31"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: calendar = {'type': 'full_auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "auto_light": true,
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+              "archive_timestamp": "20111019201352",
+              "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "8edc188609269b4dcc746930c0245dd95aa15f69a16305f5b3cde4fc687ca181",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3172: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "91fec1832cdfde0cc64d7a830ef0f92fb900623a0f56849610215143b1e07fde"
+        }
+      }
+    },
+    "3054": {
+      "id": "3054",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: alarm_count = 1"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: accuracy_seconds_per_month = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "lap",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'lap', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 3600,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'setting_unit_seconds': 60}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: illumination = {'type': 'EL', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1620"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: power_supply = {'battery_type': 'CR1620'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+              "archive_timestamp": "20130101101803",
+              "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "1cc07276d5bf72e970ad74ee0402a2fde7ff65fa58d2469c8baf4a9a356a36a2",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3054: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "65092f41430d06f1acd77a40d0fcbb951c33ca3a86fd728769db5ede536786cd"
+        }
+      }
+    },
+    "3140": {
+      "id": "3140",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: alarm_count = 1"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: world_time_cities = 48"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: accuracy_seconds_per_month = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "lap",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'lap', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 1,
+            "max_countdown_seconds": 3600
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 1, 'max_countdown_seconds': 3600}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: illumination = {'type': 'EL', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1620"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: power_supply = {'battery_type': 'CR1620'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+              "archive_timestamp": "20130101030449",
+              "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9510b25ace1948ea1879a418cf29c13b3dcc69c79f8ca127e810d24c1c63d65c",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3140: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "725417918500c442033b4a7ce22106cacdbc618c0ecf9bfcf6348553df0fc0ec"
+        }
+      }
+    },
+    "5052": {
+      "id": "5052",
+      "specs": {
+        "alarm_count": {
+          "value": 3,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: alarm_count = 3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: world_time_cities = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 5999.99,
+            "modes": [
+              "elapsed",
+              "lap",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 5999.99, 'modes': ['elapsed', 'lap', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: illumination = {'type': 'LED', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+              "archive_timestamp": "20130101091842",
+              "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9d7a1c030d4c5904da6fffac333e59cc8caf15f9db2bff9e827c9a0a901dc710",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "5052: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6667ae7ac87ae5c3a3564b456f1730aec9f15fb2d3a4721229a02e827495b1c7"
+        }
+      }
+    },
+    "3311": {
+      "id": "3311",
+      "specs": {
+        "alarm_count": {
+          "value": 3,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: alarm_count = 3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: world_time_cities = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: accuracy_condition = With no signal calibration"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 60,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 60,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 5999,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 60, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 60, 'resolution_seconds': 1}], 'max_display_seconds': 5999, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: illumination = {'type': 'LED', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery_type": "CTL1616"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: power_supply = {'energy_source': 'solar', 'battery_type': 'CTL1616'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
+        },
+        "radio_reception": {
+          "value": {
+            "signals": [
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              }
+            ],
+            "auto_receive_max_per_day": 6,
+            "manual_receive": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+              "archive_timestamp": "20120303141723",
+              "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "97a9e0d7a549ab3218e78693834ef4f294527bceaa05a0d40e145f96b01a6050",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "3311: radio_reception = {'signals': [{'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'JJY', 'frequencies_khz': [40, 60]}], 'auto_receive_max_per_day': 6, 'manual_receive': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d8de5c74bf927d4131eaa9c4cd77dbcfb0b2b93bbf5b88377306ff339db0af4f"
         }
       }
     }

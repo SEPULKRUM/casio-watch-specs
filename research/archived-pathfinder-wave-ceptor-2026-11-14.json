@@ -1,0 +1,578 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-14",
+  "note": "Third archive batch: selected technical facts from eight dated official US pages. Historical Pathfinder naming retained. Original URL spelling/category paths are significant to capture discovery. Full replay HTML remains local. Source discrepancies and variant selection are explicit per document; all facts pending independent review.",
+  "documents": [
+    {
+      "displayed_model": "PAG240-1",
+      "archive_url": "https://web.archive.org/web/20111026073223/http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+      "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAG240-1",
+      "archive_timestamp": "20111026073223",
+      "snapshot_sha256": "cba53216e08373cda978fe1d7058a6ebbef572434eab05bc1f311d7f4038400e",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3246",
+      "module_evidence": "PAG240-1 page explicitly states Module 3246",
+      "model_specs": {
+        "series": "Pathfinder",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 65.4
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        }
+      },
+      "scope_note": "Historical official category Pathfinder retained. Weight selected from PAG240 row, not PAG240B or PAG240T. No L/W order inferred. Sensor functions outside current schema omitted. No radio receiver inferred from solar power."
+    },
+    {
+      "displayed_model": "PAW1500-1V",
+      "archive_url": "https://web.archive.org/web/20111015231422/http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+      "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW1500-1V",
+      "archive_timestamp": "20111015231422",
+      "snapshot_sha256": "c8cd8f0e0aaae88c29a852484455e189e5693160e094a56ca14083ccd43ae7d0",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3134",
+      "module_evidence": "PAW1500-1V page explicitly states Module 3134",
+      "model_specs": {
+        "series": "Pathfinder",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 79
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "world_time_cities": 33,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 20,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "type": "yacht_countdown",
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "progress_beeper": true
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Weight is from PAW1500 resin row, not PAW1500T. Radio sources list five transmitters via four call signs; no BPC reception inferred. Sensor and tide/moon fields not imported outside schema. Dimensions remain unknown."
+    },
+    {
+      "displayed_model": "PAW2000-1",
+      "archive_url": "https://web.archive.org/web/20111019201352/http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+      "original_url": "http://www.casio.com:80/products/Watches/Pathfinder/PAW2000-1",
+      "archive_timestamp": "20111019201352",
+      "snapshot_sha256": "093adfc78d62576161bb801ee511690b41e3c2ef09c07b18930aa6c4124f399b",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3172",
+      "module_evidence": "PAW2000-1 page explicitly states Module 3172",
+      "model_specs": {
+        "series": "Pathfinder",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 69.1
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Source discrepancy: promotional thickness says 11.5 mm, technical row says 11.3 mm. No dimensions imported. Resin-row weight 69.1 g retained, not PAW2000T titanium-row 107.2 g. Sensor functions not imported outside schema."
+    },
+    {
+      "displayed_model": "PRW3000-1A",
+      "archive_url": "https://web.archive.org/web/20161216160042/http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+      "original_url": "http://www.casio.com:80/products/watches/pro-trek/prw3000-1a",
+      "archive_timestamp": "20161216160042",
+      "snapshot_sha256": "f2a78156f9fe27c03843980a0b9b3ccb8d58cb4413ffdbc276a662353664defe",
+      "locator": "Overview / At a glance / Specifications",
+      "module_id": "3414",
+      "module_evidence": "PRW3000-1A page explicitly states Module 3414",
+      "model_specs": {
+        "series": "Pro Trek",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "color": "Black band and face"
+      },
+      "module_specs": {
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true,
+          "auto_receive_max_per_day_by_signal": {
+            "BPC": 5
+          }
+        }
+      },
+      "scope_note": "Module 3414 already exists from PRW3500-1 research. Only missing radio-reception field is added; all earlier module facts remain unchanged. Auto receive maximum is five per day for China. No case material inferred; generic resin band follows description."
+    },
+    {
+      "displayed_model": "WV58A-1AV",
+      "archive_url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+      "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+      "archive_timestamp": "20130101101803",
+      "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3054",
+      "module_evidence": "WV58A-1AV page explicitly states Module 3054",
+      "model_specs": {
+        "series": "Wave Ceptor",
+        "water_resistance_rating": "50M Water Resistant",
+        "water_resistance_m": 50,
+        "band_material": "Resin",
+        "color": "Black"
+      },
+      "module_specs": {
+        "alarm_count": 1,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 20,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR1620"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Generic size/weight row is labeled WV58, not full WV58A identifier; measurements excluded. Countdown start minimum is one minute. Stopwatch modes follow historical wording and remain pending independent review. No auto-light behavior inferred."
+    },
+    {
+      "displayed_model": "WV200A-1AV",
+      "archive_url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+      "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+      "archive_timestamp": "20130101030449",
+      "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3140",
+      "module_evidence": "WV200A-1AV page explicitly states Module 3140",
+      "model_specs": {
+        "series": "Wave Ceptor",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 40
+      },
+      "module_specs": {
+        "alarm_count": 1,
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 20,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 1,
+          "max_countdown_seconds": 3600
+        },
+        "illumination": {
+          "type": "EL",
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR1620"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Older wave_ceptor-path capture recovers detailed specifications absent from the previously inspected modern-path capture. Countdown minimum is one second, distinct from module 3054. No dimensions or auto-light behavior inferred."
+    },
+    {
+      "displayed_model": "WVA470J-1A",
+      "archive_url": "https://web.archive.org/web/20130101091842/http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+      "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA470J-1A",
+      "archive_timestamp": "20130101091842",
+      "snapshot_sha256": "ae1f27e1706895b013f401cbb043b7db35a47e207dd35e57ed31dcb8f902acc1",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "5052",
+      "module_evidence": "WVA470J-1A page explicitly states Module 5052",
+      "model_specs": {
+        "series": "Wave Ceptor",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "weight_g": 43.7
+      },
+      "module_specs": {
+        "alarm_count": 3,
+        "world_time_cities": 30,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 5999.99,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "illumination": {
+          "type": "LED",
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Source color discrepancy: description says black resin band while Attributes says Silver. Color excluded. Weight uses WVA470J resin row, not WVA470DJ steel row. No case material inferred from stainless-steel bezel/buttons; no auto-light or snooze inferred."
+    },
+    {
+      "displayed_model": "WVA430J-1A",
+      "archive_url": "https://web.archive.org/web/20120303141723/http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+      "original_url": "http://www.casio.com:80/products/Watches/wave_ceptor/WVA430J-1A",
+      "archive_timestamp": "20120303141723",
+      "snapshot_sha256": "c5043ffc50a7d53c7b63d355271f7297d009ff877db4bb79ceb5a1005033c734",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_id": "3311",
+      "module_evidence": "WVA430J-1A page explicitly states Module 3311",
+      "model_specs": {
+        "series": "Wave Ceptor",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 44.8
+      },
+      "module_specs": {
+        "alarm_count": 3,
+        "world_time_cities": 30,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "accuracy_condition": "With no signal calibration",
+        "stopwatch": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 60,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 60,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 5999,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "illumination": {
+          "type": "LED",
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "radio_reception": {
+          "signals": [
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            }
+          ],
+          "auto_receive_max_per_day": 6,
+          "manual_receive": true
+        }
+      },
+      "scope_note": "Stopwatch resolution switches after 60 seconds, not one hour. Final display maximum is 99 minutes 59 seconds. Weight is WVA430J resin-row 44.8 g, not WVA430DJ 100.5 g. No unlabeled L/W dimensions, auto-light or snooze inferred."
+    }
+  ]
+}
