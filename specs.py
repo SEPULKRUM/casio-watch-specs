@@ -12,7 +12,7 @@ MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_materia
                 'promotional_thickness_mm', 'technical_table_thickness_mm'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
-                 'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception'}
+                 'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity'}
 
 
 def identity(value):
@@ -93,6 +93,9 @@ def validate(record):
                 raise ValueError('dimensions_mm requires positive length, width and thickness')
         if field == 'snooze_alarm' and not isinstance(fact['value'], bool):
             raise ValueError('snooze_alarm must be boolean')
+        if field == 'display_polarity' and (not isinstance(fact['value'], str)
+                                           or fact['value'] not in {'positive', 'negative'}):
+            raise ValueError('display_polarity must be positive or negative')
         if field == 'module_candidates':
             value = fact['value']
             if (not isinstance(value, list) or len(value) < 2
