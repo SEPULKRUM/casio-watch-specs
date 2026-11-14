@@ -1,0 +1,165 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-14",
+  "note": "Selected technical facts transcribed from three dated official Casio US product pages served by Wayback. Full HTML snapshots remain local build artifacts, not committed; checksums describe fetched replay bytes. Historical records do not establish current specifications or all production revisions. No third-party watch database used.",
+  "documents": [
+    {
+      "displayed_model": "GW7900B-1",
+      "archive_url": "https://web.archive.org/web/20191207173117/https://www.casio.com/products/watches/g-shock/gw7900b-1",
+      "original_url": "https://www.casio.com/products/watches/g-shock/gw7900b-1",
+      "archive_timestamp": "20191207173117",
+      "snapshot_sha256": "6d3b83deba63c1f1cdf838a5b62bb204cc7e76927ac367423b9d11adc9d02598",
+      "locator": "Overview / At a glance / Specifications",
+      "module_id": "3200",
+      "module_evidence": "GW7900B-1 product page explicitly states Module 3200",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black band"
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        }
+      },
+      "scope_note": "Exact archived US displayed identifier retained. No regional suffix equivalence or case/glass properties inferred. Model and module facts separated. Battery-life estimates omitted. Size order not explicitly labeled on GW5600J-1; no L/W dimensions inferred."
+    },
+    {
+      "displayed_model": "G2900F-1V",
+      "archive_url": "https://web.archive.org/web/20191211225707/https://www.casio.com/products/watches/g-shock/g2900f-1v",
+      "original_url": "https://www.casio.com/products/watches/g-shock/g2900f-1v",
+      "archive_timestamp": "20191211225707",
+      "snapshot_sha256": "0e861aeb2fb76984bd7595099d795c33f7ebe9134e9d17589aa2ea33b54231c4",
+      "locator": "Overview / At a glance / Specifications",
+      "module_id": "2548",
+      "module_evidence": "G2900F-1V product page explicitly states Module 2548",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 27,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2025"
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "auto_repeat": true
+        }
+      },
+      "scope_note": "Exact archived US displayed identifier retained. No regional suffix equivalence or case/glass properties inferred. Model and module facts separated. Battery-life estimates omitted. Size order not explicitly labeled on GW5600J-1; no L/W dimensions inferred."
+    },
+    {
+      "displayed_model": "GW5600J-1",
+      "archive_url": "https://web.archive.org/web/20130321223341/http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+      "original_url": "http://www.casio.com:80/products/Watches/G-Shock/GW5600J-1/",
+      "archive_timestamp": "20130321223341",
+      "snapshot_sha256": "73cc4b214064a63ff70a2c3cfc344dc12ce506bdede7ae3ee9b813cd07cbb566",
+      "locator": "At a glance / Attributes / Technical Specs",
+      "module_id": "2924",
+      "module_evidence": "GW5600J-1 product page explicitly states Module 2924",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black band",
+        "weight_g": 54
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "world_time_cities": 30,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 15,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "accuracy_condition": "With no signal calibration",
+        "power_supply": {
+          "energy_source": "solar",
+          "battery_type": "CTL1616"
+        },
+        "timer": {
+          "measurement_unit_seconds": 0.1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "auto_repeat": true
+        }
+      },
+      "scope_note": "Exact archived US displayed identifier retained. No regional suffix equivalence or case/glass properties inferred. Model and module facts separated. Battery-life estimates omitted. Size order not explicitly labeled on GW5600J-1; no L/W dimensions inferred."
+    }
+  ]
+}

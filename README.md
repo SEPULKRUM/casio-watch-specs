@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **118 models, 71 modules and 1,425 source-backed candidate
+The catalog now contains **121 models, 74 modules and 1,473 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 101 single-module references (one legacy association and
-  100 pending references), plus 17 shared-manual candidate sets. No model now
+  module links. There are 104 single-module references (one legacy association and
+  103 pending references), plus 17 shared-manual candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -373,3 +373,41 @@ The 3459/3461 guide explicitly names both modules; its common function facts do
 not resolve which module an individual model uses. Stopwatch resolution changes
 after the first hour on 3459/3461/3501 and is recorded in separate segments.
 These additions preserve all earlier facts and owner-provided associations.
+
+## Archived official Casio pages
+
+The first Wayback batch adds three historical US product records: **GW7900B-1**,
+**G2900F-1V** and **GW5600J-1**, with separate profiles for their explicitly named
+modules **3200**, **2548** and **2924**. It adds 48 pending facts. The page captures
+date from December 2019 and March 2013; capture dates are not release dates.
+Exact displayed identifiers are retained without guessing regional suffixes.
+
+[Research notes](research/archived-products-2026-11-14.json) retain selected technical
+facts; [the discovery report](research/wayback-discovery-2026-11-14.json) records
+availability results and exclusions. The GW6900-1 capture lacked detailed
+specifications, and G9300-1 was excluded as a punctuation variant of existing
+G-9300-1. Empty availability results do not prove that a product was never archived.
+Unknown case material, glass and dimensions remain blank. In particular, no
+length/width order was inferred from the old GW5600J-1 size string.
+
+Each imported fact records the original official URL, exact Wayback replay URL,
+14-digit capture timestamp, access date and SHA-256 of the retrieved replay HTML.
+Full HTML files remain local build artifacts; the repository contains technical
+notes and citations. Capture-specific facts remain pending independent review and
+cannot overwrite existing verified facts or silently resolve later revisions.
+
+Convert a reviewed batch offline using the same separation of model and module
+facts as the live-source pipeline:
+
+```sh
+python archive_import.py research/archived-products-2026-11-14.json --output build/archived-candidates.json
+python catalog.py build --check
+```
+
+The adapter detects duplicate and punctuation-variant models, requires explicit
+module evidence, and rejects ambiguous source identities. Archive citations must
+use a valid dated Wayback URL whose original is on the explicit official Casio
+host allowlist; a third-party page inside an archive wrapper is rejected. The live
+fetcher is unchanged; this adapter does not crawl Wayback or bypass live-site
+access restrictions. Additional historical snapshots can be researched in batches
+and supplied through the same JSON format.
