@@ -353,3 +353,13 @@ user-provided provenance and pending-review status.
 The observation file references conversation attachment order. Original image
 files were not available in the execution workspace and are not archived in this
 repository; no image hashes or public source URLs have been invented.
+
+### Clearer DSE and MTP case-back evidence
+
+[Two follow-up photographs](research/caseback-clarifications-2026-11-14.json)
+provide clear readings of **LCW-M100DSE / 5161** and **MTP-1302 / 2784**.
+The first directly documents the stainless-steel DSE family, independently of the
+earlier titanium LCW-M100TS picture. The second resolves the earlier cropped/faint
+MTP reading. The original observations are retained as a historical record; these
+clearer photographs resolve those specific evidence qualifications. Full colour
+suffixes remain unshown, and catalogue values/statuses are unchanged.
