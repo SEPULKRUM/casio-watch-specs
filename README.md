@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **148 models, 103 modules and 1,903 source-backed candidate
+The catalog now contains **148 models, 103 modules and 1,921 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -612,3 +612,24 @@ locators and explicit discrepancy notes. Neither is chosen as a definitive
 measurement; `dimensions_mm` remains unset for PAW2000-1 and its existing CSV
 `thickness_mm` cell remains blank. The two labeled columns are included in the
 CSV, so both claims are visible in spreadsheet use. All prior fields are unchanged.
+
+## Modules 3261 and 3281: same functions, different LCD polarity
+
+Following the owner's clarification, Casio's shared guide was checked directly.
+Page E-3 explicitly distinguishes the displays:
+
+| Module | LCD polarity | Casio description |
+| --- | --- | --- |
+| 3261 | Positive | Dark figures on a light background |
+| 3281 | Negative | Light figures on a dark background |
+
+The separate module profiles now include `display_polarity` and identical
+shared function values transcribed from the guide's Specifications section.
+[Research notes](research/module-3261-3281-display-2026-11-14.json) retain the
+source, page locations and the distinction between display appearance and
+functions. Existing accuracy/calendar facts are unchanged. `catalog.py show
+G-9300-1` exposes both module options with their polarity, rather than hiding
+the reason for the paired guide. The shared model reference itself is preserved;
+a particular watch's module can be identified from model-specific evidence.
+No modules are merged and no prior facts are overwritten. All new facts remain
+pending independent review.

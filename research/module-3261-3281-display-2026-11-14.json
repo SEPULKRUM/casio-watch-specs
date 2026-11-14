@@ -1,0 +1,91 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-14",
+  "note": "Record the documented LCD polarity difference separately from shared function values. Both module profiles remain distinct; G-9300-1 shared reference stays unresolved at exact model level.",
+  "modules": [
+    {
+      "id": "3261",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+      "locator": "PDF page 1 / E-3 About This Manual (LCD polarity); PDF page 11 / E-100\u2013E-101 Specifications (shared functions)",
+      "scope_note": "Casio explicitly identifies dark figures on a light background as module 3261 and light figures on a dark background as module 3281. The common guide supplies the shared function specifications. Positive/negative are normalized LCD-polarity terms for those descriptions. User SEPULKRUM identified this distinction, then it was checked against the official guide. No exact module is assigned to a watch from a shared guide alone.",
+      "specs": {
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599999.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "dark_only_auto_light": true,
+          "durations_seconds": [
+            1.5,
+            3
+          ]
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "display_polarity": "positive"
+      }
+    },
+    {
+      "id": "3281",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3261/qw3261_EN.pdf",
+      "locator": "PDF page 1 / E-3 About This Manual (LCD polarity); PDF page 11 / E-100\u2013E-101 Specifications (shared functions)",
+      "scope_note": "Casio explicitly identifies dark figures on a light background as module 3261 and light figures on a dark background as module 3281. The common guide supplies the shared function specifications. Positive/negative are normalized LCD-polarity terms for those descriptions. User SEPULKRUM identified this distinction, then it was checked against the official guide. No exact module is assigned to a watch from a shared guide alone.",
+      "specs": {
+        "world_time_cities": 48,
+        "world_time_zones": 31,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599999.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "illumination": {
+          "type": "EL",
+          "auto_light": true,
+          "dark_only_auto_light": true,
+          "durations_seconds": [
+            1.5,
+            3
+          ]
+        },
+        "power_supply": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "display_polarity": "negative"
+      }
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "models": 148,
   "modules": 103,
   "facts_by_status": {
-    "pending_review": 1903
+    "pending_review": 1921
   },
   "models_by_series": {
     "Baby-G": 4,
@@ -320,21 +320,22 @@
   "module_field_coverage": {
     "accuracy_condition": 83,
     "accuracy_seconds_per_month": 97,
-    "alarm_count": 67,
+    "alarm_count": 69,
     "calendar": 92,
-    "illumination": 31,
-    "power_supply": 74,
+    "display_polarity": 2,
+    "illumination": 33,
+    "power_supply": 76,
     "radio_reception": 7,
-    "snooze_alarm": 28,
-    "stopwatch": 38,
-    "timer": 26,
-    "world_time_cities": 57,
-    "world_time_zones": 57
+    "snooze_alarm": 30,
+    "stopwatch": 40,
+    "timer": 28,
+    "world_time_cities": 59,
+    "world_time_zones": 59
   },
   "module_profiles_by_fact_count": {
     "1": 1,
     "2": 4,
-    "3": 13,
+    "3": 11,
     "4": 12,
     "5": 16,
     "6": 13,
@@ -343,14 +344,12 @@
     "9": 2,
     "10": 13,
     "11": 10,
-    "12": 1
+    "12": 3
   },
   "modules_with_sparse_profiles": [
     "1572",
     "2701",
     "2784",
-    "3261",
-    "3281",
     "3482",
     "3506",
     "3515",
