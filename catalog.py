@@ -52,11 +52,14 @@ def module_view(catalog, model):
     status = ('ambiguous_' + model['specs']['module_candidates']['status'] if candidates else
               model.get('specs', {}).get('module_id', {}).get('status',
                   'legacy_preserved' if model.get('module') else 'unknown'))
+    link_fact = model['specs'].get('module_id') or model['specs'].get('module_candidates')
+    kinds = {source.get('kind', 'web') for source in link_fact['sources']} if link_fact else set()
+    provenance = (next(iter(kinds)) if len(kinds) == 1 else 'mixed') if kinds else ('legacy' if model.get('module') else 'unknown')
     return {'module': catalog['modules'].get(str(module_id)) if module_id else None,
             'module_id': str(module_id) if module_id else None,
             'module_candidates': candidates,
             'module_options': {key: catalog['modules'].get(key) for key in candidates},
-            'module_link_status': status}
+            'module_link_status': status, 'module_link_provenance': provenance}
 
 
 def coverage(catalog):
@@ -73,6 +76,8 @@ def coverage(catalog):
     referenced = {key for r in models.values() for key in
                   ([str(field_value(r, 'module_id') or r.get('module'))]
                    if field_value(r, 'module_id') or r.get('module') else [])}
+    user_links = {key: field_value(record, 'module_id') for key, record in models.items()
+                  if module_view(catalog, record)['module_link_provenance'] == 'user_provided'}
     module_fields = Counter(field for record in catalog['modules'].values() for field in record['specs'])
     profile_sizes = Counter(str(len(record['specs'])) for record in catalog['modules'].values())
     return {'models': len(models), 'modules': len(catalog['modules']),
@@ -81,6 +86,7 @@ def coverage(catalog):
             'models_missing_fields': {k: v for k, v in sorted(missing.items()) if v},
             'models_without_module_link': unknown_links,
             'models_with_single_module_reference': len(models) - len(unknown_links),
+            'user_provided_module_references': dict(sorted(user_links.items())),
             'models_with_ambiguous_manual': dict(sorted(ambiguous.items())),
             'models_without_any_module_reference': sorted(set(unknown_links) - set(ambiguous)),
             'referenced_module_ids_without_specs': sorted(referenced - set(catalog['modules'])),
@@ -99,25 +105,49 @@ def spreadsheet_safe(value):
 def export_csv(catalog):
     out = io.StringIO(newline='')
     writer = csv.writer(out, lineterminator='\n')
-    writer.writerow(['model', 'series', 'module', 'module_candidates', 'module_link_status', 'length_mm', 'width_mm', 'thickness_mm',
+    writer.writerow(['model', 'series', 'module', 'module_candidates', 'module_link_status', 'module_link_provenance', 'length_mm', 'width_mm', 'thickness_mm',
                      'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
-                     'verified_facts', 'pending_facts', 'source_urls'])
+                     'verified_facts', 'pending_facts', 'source_urls', 'source_references'])
     for record in search(catalog):
         value = lambda name: field_value(record, name)
         dims = value('dimensions_mm') or {}
         facts = record['specs'].values()
-        urls = sorted({source['url'] for fact in facts for source in fact['sources']})
+        urls = sorted({source['url'] for fact in facts for source in fact['sources'] if source.get('url')})
+        references = sorted({source['reference'] for fact in facts for source in fact['sources'] if source.get('reference')})
         view = module_view(catalog, record)
         row = [record['id'], value('series'), view['module_id'],
-               ' | '.join(view['module_candidates']), view['module_link_status'],
+               ' | '.join(view['module_candidates']), view['module_link_status'], view['module_link_provenance'],
                dims.get('length'), dims.get('width'), dims.get('thickness'), value('weight_g'),
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
                sum(f['status'] == 'verified' for f in facts),
-               sum(f['status'] == 'pending_review' for f in facts), ' | '.join(urls)]
+               sum(f['status'] == 'pending_review' for f in facts), ' | '.join(urls), ' | '.join(references)]
         writer.writerow(['' if v is None else spreadsheet_safe(v) for v in row])
     return out.getvalue()
+
+
+def validate_user_evidence(root, records):
+    cache = {}
+    for record in records:
+        for field, fact in record['specs'].items():
+            for source in fact['sources']:
+                if source.get('kind') != 'user_provided':
+                    continue
+                # Validate reference paths before accessing any file.
+                specs.validate(record)
+                reference = source['reference']
+                if reference not in cache:
+                    cache[reference] = specs.load(root / reference)
+                note = cache[reference]
+                if (specs.digest(note) != source['source_sha256']
+                        or note.get('type') != 'user_module_associations'
+                        or note.get('provided_by') != source['provided_by']):
+                    raise ValueError('User evidence is stale or attribution does not match')
+                if (record['kind'] != 'model' or field != 'module_id'
+                        or not any(specs.identity(row['model']) == specs.identity(record['id'])
+                                   and row['module'] == fact['value'] for row in note['mappings'])):
+                    raise ValueError('User citation does not contain this model/module mapping')
 
 
 def build_catalog(root=Path('.')):
@@ -126,6 +156,7 @@ def build_catalog(root=Path('.')):
         raise ValueError('No imports found')
     reviews_path = root / 'reviews.json'
     records = [record for path in paths for record in specs.load(path)]
+    validate_user_evidence(root, records)
     result = specs.build(specs.load(root / 'watches.json'), records,
                          specs.load(reviews_path) if reviews_path.exists() else None)
     if result['report']['conflicts']:

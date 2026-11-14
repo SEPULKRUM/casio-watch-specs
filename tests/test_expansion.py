@@ -45,7 +45,9 @@ class ExpansionTests(unittest.TestCase):
         japanese = self.catalog['models']['LCW-M100TSE-1AJF']
         european = self.catalog['models']['LCW-M100TSE-1A']
         self.assertEqual(catalog.field_value(japanese, 'module_id'), '5161')
-        self.assertNotIn('module_id', european['specs'])
+        self.assertEqual(catalog.field_value(european, 'module_id'), '5161')
+        self.assertEqual(catalog.module_view(self.catalog, european)['module_link_provenance'], 'user_provided')
+        self.assertEqual(catalog.module_view(self.catalog, japanese)['module_link_provenance'], 'web')
         self.assertNotEqual(japanese['id'], european['id'])
 
     def test_earlier_model_and_module_facts_remain_exactly_unchanged(self):
@@ -66,5 +68,7 @@ class ExpansionTests(unittest.TestCase):
 
     def test_unavailable_support_pages_do_not_get_sibling_module_assignment(self):
         data = self.catalog['models']['PRJ-B001-1']
-        self.assertNotIn('module_id', data['specs'])
+        self.assertEqual(catalog.field_value(data, 'module_id'), '5732')
+        self.assertEqual(catalog.module_view(self.catalog, data)['module_link_provenance'], 'user_provided')
+        self.assertEqual(catalog.module_view(self.catalog, self.catalog['models']['PRJ-B001-5'])['module_link_provenance'], 'web')
         self.assertEqual(catalog.field_value(self.catalog['models']['PRJ-B001-5'], 'module_id'), '5732')

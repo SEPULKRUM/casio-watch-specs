@@ -645,6 +645,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "72c32be317b3c8746457d05de452c9426a7439ace09fc1494fae133c043a52c0"
+        },
+        "module_id": {
+          "value": "3298",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 1",
+              "evidence": "A168WA-1W → module 3298",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "354a17bcafea37267ed18cff4020d356ef74b45c36691c7803f1cf1f840f3a0f"
         }
       }
     },
@@ -1664,6 +1682,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "b1d5b6c61dbdf487c4b956677bc8bdc08a8aa4dae6c0b9392320b045ca1589b6"
+        },
+        "module_id": {
+          "value": "2888",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 2",
+              "evidence": "DBC-32-1A → module 2888",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c936665e5b4fd334fb1123dcc72ac8a8d39751eea33fef832bbd9ef34555956e"
         }
       }
     },
@@ -2360,6 +2396,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "0aad5e4ed730c177488e6b867be8f2cba2d5c6b5432823ea6dbf44fe0a410564"
+        },
+        "module_id": {
+          "value": "1572",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 3",
+              "evidence": "F-105W-1A → module 1572",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "fd2cd0bf1645558d8b52a5243be520134d934bdefcfec5a9811075e9057fe657"
         }
       }
     },
@@ -3799,6 +3853,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "791dac814bd88b459864276026f6ced1b412ccadbde2873fdb2eda2682f87602"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 5",
+              "evidence": "LCW-M100DSE-1A → module 5161",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2f5665efe548dc23e2ef5a794ebb702999e44b58b4bc0cc734e28cb6e5abdbc1"
         }
       }
     },
@@ -3959,6 +4031,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "8a804971bdf8c1bd55504f8d832fb1662f3f645b3b849debbbe2c67b0d3d1341"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 6",
+              "evidence": "LCW-M100TSE-1A → module 5161",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "aa51fae1b27ed67c8fc4dd3b0793f54be6fb4af773e6424ff7f64c22c27e1a2f"
         }
       }
     },
@@ -4119,6 +4209,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "45bb92c958f93d6d7c10e79dd251c45b40459d1906858ee6f1b666745193baef"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 7",
+              "evidence": "LCW-M100TSE-1A2 → module 5161",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d0c1e9becb0af9961ef6d3939deb22fab340f6c05b0fc568d373f8b0525409f6"
         }
       }
     },
@@ -4279,6 +4387,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "d3e5216819b78da3f777f0757848215549c35731f3f8bc59f236682f76024f15"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 8",
+              "evidence": "LCW-M170TD-1A → module 5161",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6c649a96440705e6b395747ca0aee0487de11269e98ab008b7958971200497ea"
         }
       }
     },
@@ -4439,6 +4565,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "6937559e148a39a2990e5e8f5dd02f418e61d97457ab660f76c640aa1e67fdff"
+        },
+        "module_id": {
+          "value": "5161",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 9",
+              "evidence": "LCW-M170TD-2A → module 5161",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "836da9a36144fd72c5abfd1afd89d43eac5401381ebb99b99ceac5048a21d182"
         }
       }
     },
@@ -4787,6 +4931,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "9341fc9c8a70be7abcd0b51ea458dda21647ba366615947b7ee9a4b138b8d322"
+        },
+        "module_id": {
+          "value": "2784",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 10",
+              "evidence": "MTP-1302D-1A1V → module 2784",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6d13977a5ef174012d5da80f7796a2779cd097d3e6c0290409ebdd9284df8dbf"
         }
       }
     },
@@ -5690,6 +5852,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "eac7d577a1d7ed59a2d8a62a19823f034989d9f9a5cc62acd98cec8af2da9bee"
+        },
+        "module_id": {
+          "value": "3415",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 11",
+              "evidence": "PRG-270-1 → module 3415",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "dc8505c1c709544e7c8904b239e9fa44c04648e681b396bac4cd199126eacd02"
         }
       }
     },
@@ -6593,6 +6773,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "ee58a7faaf2b7fe9652af9c73cd3b433a7a9b1e0b6b2229b48276357a7dcf2dc"
+        },
+        "module_id": {
+          "value": "3476",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 16",
+              "evidence": "WV-58R-1A → module 3476",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "77e2aab38b389d6a1abc66c8211f77206a29fa983ebe95cafd58a1224578d022"
         }
       }
     },
@@ -6753,6 +6951,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "e102c96bf9543b7c4f545abefe2616c17817f50f1d2e1242f19bcf72f9d01c25"
+        },
+        "module_id": {
+          "value": "3476",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 17",
+              "evidence": "WV-59R-1A → module 3476",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "277d35fe6424b3028eba5ff507be9c9aaf38301642645fd6b2c3b2c7a486382b"
         }
       }
     },
@@ -9694,6 +9910,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "38fec15b3aeb4d9328f55c5aa46ac00fbe1947ee3bfed20f99dbe02a656ece3e"
+        },
+        "module_id": {
+          "value": "3569",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 4",
+              "evidence": "GD-010CE-5 → module 3569",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5ade92c29fbe7a3e4695fbf928b19bafb62e9c7c4ec59d3696c7b85a07f12ba8"
         }
       }
     },
@@ -18660,6 +18894,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "d7478cb6d4348bc1405bfb0a59b0a5366d905cff6c0a428344e28da573e1179c"
+        },
+        "module_id": {
+          "value": "5732",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 12",
+              "evidence": "PRJ-B001-1 → module 5732",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "72874cfb9158175933fb8aefbf21e942141cb72f773a470ec3368ef0391ad076"
         }
       }
     },
@@ -19005,6 +19257,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "34509e9efaba60010ffe3fdce90c1210429956a6aaa7719866a021fa2e284d34"
+        },
+        "module_id": {
+          "value": "5732",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 13",
+              "evidence": "PRJ-B001-7 → module 5732",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ccbe07b9c5452f44db7d251111c7e5563f2e6f7c5230cce0f4dd48f70c8f3257"
         }
       }
     },
@@ -19165,6 +19435,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "71e3bbe811bc28cb090228afd0c3ea0c28c437e87fcf4de5303c274788fc456a"
+        },
+        "module_id": {
+          "value": "5732",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 14",
+              "evidence": "PRJ-B001B-1 → module 5732",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c8cf6a607407c958f206d14c2ee2672b0d1b857f5fa7eb02fb541323b4531265"
         }
       }
     },
@@ -19325,6 +19613,24 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "3398a4ca4a187c3402b80dc4e14b99505ebe5c12a6bbb09f3f348c6964f32cc8"
+        },
+        "module_id": {
+          "value": "5732",
+          "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/user-module-mappings-2026-11-14.json",
+              "provided_by": "SEPULKRUM",
+              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
+              "accessed": "2026-11-14",
+              "locator": "Mappings / entry 15",
+              "evidence": "PRJ-B001B-2 → module 5732",
+              "permission": "user_provided"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "df602892c66ec190aac669cff10606e692745a685289df9552d27205b2e36a93"
         }
       }
     },
@@ -27250,6 +27556,525 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "90e6ea29e817b1b731ecaa2b8274e4f64bb4202111a42d9f76a92295839f4020"
+        }
+      }
+    },
+    "3298": {
+      "id": "3298",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3298: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9d07137b83309bf41d4155938351a5de000ffa041ad9c6565ab36c4fbd70f602"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3298: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9d07137b83309bf41d4155938351a5de000ffa041ad9c6565ab36c4fbd70f602"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3298: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9d07137b83309bf41d4155938351a5de000ffa041ad9c6565ab36c4fbd70f602"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3298: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9d07137b83309bf41d4155938351a5de000ffa041ad9c6565ab36c4fbd70f602"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / Specifications",
+              "evidence": "Module 3298: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9d07137b83309bf41d4155938351a5de000ffa041ad9c6565ab36c4fbd70f602"
+        }
+      }
+    },
+    "2888": {
+      "id": "2888",
+      "specs": {
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/28/2888/qw2888_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / Alarms, Stopwatch and Illumination",
+              "evidence": "Module 2888: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operating instructions supply these function facts; accuracy and battery specifications were not supplied in this document.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c2ddf24ada625d6f9257c022deb361fd22e4ed27568e6b91d25870a4f5526476"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/28/2888/qw2888_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / Alarms, Stopwatch and Illumination",
+              "evidence": "Module 2888: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operating instructions supply these function facts; accuracy and battery specifications were not supplied in this document.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c2ddf24ada625d6f9257c022deb361fd22e4ed27568e6b91d25870a4f5526476"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/28/2888/qw2888_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / Alarms, Stopwatch and Illumination",
+              "evidence": "Module 2888: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operating instructions supply these function facts; accuracy and battery specifications were not supplied in this document.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c2ddf24ada625d6f9257c022deb361fd22e4ed27568e6b91d25870a4f5526476"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "auto_light": true,
+            "durations_seconds": [
+              1.5,
+              3
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/28/2888/qw2888_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / Alarms, Stopwatch and Illumination",
+              "evidence": "Module 2888: illumination = {'type': 'LED', 'auto_light': True, 'durations_seconds': [1.5, 3]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operating instructions supply these function facts; accuracy and battery specifications were not supplied in this document.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c2ddf24ada625d6f9257c022deb361fd22e4ed27568e6b91d25870a4f5526476"
+        }
+      }
+    },
+    "1572": {
+      "id": "1572",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/15/1572/qw1572_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / visually inspected operation chart",
+              "evidence": "Module 1572: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Scanned chart was read from the rendered PDF. No accuracy or battery specification inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "37622363152effd93608e8ab729760030023d559ae8fb4e9eded330058f77653"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/15/1572/qw1572_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / visually inspected operation chart",
+              "evidence": "Module 1572: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Scanned chart was read from the rendered PDF. No accuracy or battery specification inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "37622363152effd93608e8ab729760030023d559ae8fb4e9eded330058f77653"
+        }
+      }
+    },
+    "2784": {
+      "id": "2784",
+      "specs": {
+        "calendar": {
+          "value": {
+            "display": "day_of_month",
+            "setting": "crown_first_click"
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2784/qw2784_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Modules 707…2784…5044 / To set the day",
+              "evidence": "Module 2784: calendar = {'display': 'day_of_month', 'setting': 'crown_first_click'}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Only the named date-display module group is used. Other groups in this generic analog guide are not assigned to module 2784.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "238c5ef698448761a24d9cdc38e8c041e07f87d2f61afb9da711bcdc65b02c58"
+        }
+      }
+    },
+    "3415": {
+      "id": "3415",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: world_time_zones = 31",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3415/qw3415_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 13 / Specifications",
+              "evidence": "Module 3415: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ffcaf725c7b08646f6e7a8992f7425b259009dc5212f86de1728a9a3b61e03e3"
+        }
+      }
+    },
+    "3476": {
+      "id": "3476",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature without radio-signal calibration",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: accuracy_condition = At normal temperature without radio-signal calibration",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1620",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3476/qw3476_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 57–59 / Specifications",
+              "evidence": "Module 3476: power_supply = {'battery_type': 'CR1620', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afa3b73fb675344a609f7bf08a0499f73b53dd93154c8c5ba96bf6c686fa39ee"
         }
       }
     }

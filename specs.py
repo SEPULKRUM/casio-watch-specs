@@ -80,13 +80,28 @@ def validate(record):
         if not isinstance(fact.get('sources'), list) or not fact['sources']:
             raise ValueError(f'{field}: sources required')
         for source in fact['sources']:
-            url = urlsplit(source.get('url', ''))
-            if url.scheme != 'https' or not url.hostname or url.username or url.password:
-                raise ValueError('Source must be an HTTPS URL without credentials')
-            if url.hostname == 'shockbase.org' or url.hostname.endswith('.shockbase.org'):
-                raise ValueError('ShockBase excluded without permission')
-            if source.get('permission') not in ('official_public_reference', 'licensed', 'permission_granted'):
-                raise ValueError('Source permission basis required')
+            source_kind = source.get('kind', 'web')
+            if source_kind == 'user_provided':
+                from pathlib import PurePosixPath
+                reference = source.get('reference', '')
+                path = PurePosixPath(reference)
+                if (not reference.startswith('research/') or path.is_absolute() or '..' in path.parts
+                        or path.suffix != '.json' or source.get('permission') != 'user_provided'
+                        or not isinstance(source.get('provided_by'), str) or not source['provided_by'].strip()
+                        or not re.fullmatch(r'[0-9a-f]{64}', source.get('source_sha256', ''))):
+                    raise ValueError('User evidence requires a research JSON reference, attribution and checksum')
+                if source.get('url'):
+                    raise ValueError('User evidence must not masquerade as a web citation')
+            elif source_kind == 'web':
+                url = urlsplit(source.get('url', ''))
+                if url.scheme != 'https' or not url.hostname or url.username or url.password:
+                    raise ValueError('Source must be an HTTPS URL without credentials')
+                if url.hostname == 'shockbase.org' or url.hostname.endswith('.shockbase.org'):
+                    raise ValueError('ShockBase excluded without permission')
+                if source.get('permission') not in ('official_public_reference', 'licensed', 'permission_granted'):
+                    raise ValueError('Source permission basis required')
+            else:
+                raise ValueError('Unknown source kind')
             if not all(isinstance(source.get(k), str) and source[k].strip()
                        for k in ('accessed', 'locator', 'evidence')):
                 raise ValueError('Source date, locator and evidence required')

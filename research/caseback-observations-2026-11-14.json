@@ -1,0 +1,127 @@
+{
+  "type": "user_photo_observations",
+  "received": "2026-11-14",
+  "provided_by": "SEPULKRUM",
+  "transcribed_by": "Codex visual inspection",
+  "image_reference": "Eleven case-back images supplied in the conversation after pull request #5; attachment numbers follow their display order",
+  "original_images_archived": false,
+  "image_checksums_available": false,
+  "scope": "Transcriptions corroborate only visible case-back family/module markings. Related user mappings are context, not suffix-level photographic verification. Existing associations and verification statuses are unchanged.",
+  "observations": [
+    {
+      "attachment": 1,
+      "model_marking": "WV-58R",
+      "module_marking": "3476",
+      "reading": "clear",
+      "related_user_mappings": [
+        "WV-58R-1A"
+      ],
+      "scope": "Family/module pair visible; -1A suffix not engraved"
+    },
+    {
+      "attachment": 2,
+      "model_marking": "WV-59R",
+      "module_marking": "3476",
+      "reading": "clear",
+      "related_user_mappings": [
+        "WV-59R-1A"
+      ],
+      "scope": "Family/module pair visible; -1A suffix not engraved"
+    },
+    {
+      "attachment": 3,
+      "model_marking": "PRJ-B001",
+      "module_marking": "5732",
+      "reading": "clear",
+      "related_user_mappings": [
+        "PRJ-B001-1",
+        "PRJ-B001-7",
+        "PRJ-B001B-1",
+        "PRJ-B001B-2"
+      ],
+      "scope": "Base family/module visible; colour and band variants cannot be distinguished from this engraving"
+    },
+    {
+      "attachment": 4,
+      "model_marking": "PRG-270",
+      "module_marking": "3415",
+      "reading": "clear_rotated",
+      "related_user_mappings": [
+        "PRG-270-1"
+      ],
+      "scope": "Base family/module visible; -1 suffix not engraved"
+    },
+    {
+      "attachment": 5,
+      "model_marking": "MTP-1302…",
+      "module_marking": "2784",
+      "reading": "partial_model_and_faint_module",
+      "related_user_mappings": [
+        "MTP-1302D-1A1V"
+      ],
+      "scope": "Model engraving is partly cropped/faint. Module appears to read 2784. Retain lower-confidence corroboration; full identifier is not established"
+    },
+    {
+      "attachment": 6,
+      "model_marking": "LCW-M170T",
+      "module_marking": "5161",
+      "reading": "clear",
+      "related_user_mappings": [
+        "LCW-M170TD-1A",
+        "LCW-M170TD-2A"
+      ],
+      "scope": "Titanium family marking visible; full catalogue suffixes are not engraved"
+    },
+    {
+      "attachment": 7,
+      "model_marking": "LCW-M100TS",
+      "module_marking": "5161",
+      "reading": "readable_faint",
+      "related_user_mappings": [
+        "LCW-M100TSE-1A",
+        "LCW-M100TSE-1A2"
+      ],
+      "scope": "Titanium family marking visible; does not establish the stainless-steel LCW-M100DSE-1A association or the individual colour suffix"
+    },
+    {
+      "attachment": 8,
+      "model_marking": "GD-010CE",
+      "module_marking": "3569",
+      "reading": "clear_rotated",
+      "related_user_mappings": [
+        "GD-010CE-5"
+      ],
+      "scope": "Family/module visible; -5 suffix not engraved"
+    },
+    {
+      "attachment": 9,
+      "model_marking": "F-105",
+      "module_marking": "1572",
+      "reading": "clear",
+      "related_user_mappings": [
+        "F-105W-1A"
+      ],
+      "scope": "Base family/module visible; full W-1A catalogue identifier not engraved"
+    },
+    {
+      "attachment": 10,
+      "model_marking": "DBC-32",
+      "module_marking": "2888",
+      "reading": "clear",
+      "related_user_mappings": [
+        "DBC-32-1A"
+      ],
+      "scope": "Base family/module visible; -1A suffix not engraved"
+    },
+    {
+      "attachment": 11,
+      "model_marking": "A168",
+      "module_marking": "3298",
+      "reading": "clear",
+      "related_user_mappings": [
+        "A168WA-1W"
+      ],
+      "scope": "Base family/module visible; WA-1W suffix not engraved"
+    }
+  ]
+}

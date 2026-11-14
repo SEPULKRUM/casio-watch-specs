@@ -1,0 +1,44 @@
+{
+  "type": "user_photo_observations",
+  "received": "2026-11-14",
+  "provided_by": "SEPULKRUM",
+  "transcribed_by": "Codex visual inspection",
+  "image_reference": "Two follow-up case-back photographs supplied after the initial eleven-photo observation record; attachment order within this follow-up message",
+  "original_images_archived": false,
+  "image_checksums_available": false,
+  "observations": [
+    {
+      "attachment": 1,
+      "model_marking": "LCW-M100DSE",
+      "module_marking": "5161",
+      "reading": "clear",
+      "additional_visible_markings": [
+        "STAINLESS STEEL",
+        "WATER RESISTANT 5BAR",
+        "SAPPHIRE GLASS",
+        "TOUGH SOLAR"
+      ],
+      "related_user_mappings": [
+        "LCW-M100DSE-1A"
+      ],
+      "scope": "Direct photographic corroboration of the engraved DSE model family and module. The -1A colour suffix is not engraved.",
+      "clarifies": "The earlier LCW-M100TS titanium photograph did not establish the DSE association; this is a separate, directly matching DSE photograph."
+    },
+    {
+      "attachment": 2,
+      "model_marking": "MTP-1302",
+      "module_marking": "2784",
+      "reading": "clear",
+      "additional_visible_markings": [
+        "STAINLESS STEEL BACK",
+        "WATER RESISTANT 5BAR"
+      ],
+      "related_user_mappings": [
+        "MTP-1302D-1A1V"
+      ],
+      "scope": "Clear photographic corroboration of the engraved MTP-1302 family and module. The complete D-1A1V catalogue suffix is not engraved.",
+      "clarifies": "Resolves the cropped/faint reading in attachment 5 of the earlier eleven-photo record."
+    }
+  ],
+  "scope": "Updates the evidence quality for these visible family/module pairs; preserves earlier observations and current catalogue values/statuses."
+}
