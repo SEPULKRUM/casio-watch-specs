@@ -1,0 +1,76 @@
+{
+  "type": "user_module_associations",
+  "received": "2026-11-14",
+  "provided_by": "SEPULKRUM",
+  "note": "Mappings supplied by the repository owner in this conversation. No official model-to-module source or case-back image accompanied the list. Record as user-provided pending references, not official confirmation.",
+  "mappings": [
+    {
+      "model": "A168WA-1W",
+      "module": "3298"
+    },
+    {
+      "model": "DBC-32-1A",
+      "module": "2888"
+    },
+    {
+      "model": "F-105W-1A",
+      "module": "1572"
+    },
+    {
+      "model": "GD-010CE-5",
+      "module": "3569"
+    },
+    {
+      "model": "LCW-M100DSE-1A",
+      "module": "5161"
+    },
+    {
+      "model": "LCW-M100TSE-1A",
+      "module": "5161"
+    },
+    {
+      "model": "LCW-M100TSE-1A2",
+      "module": "5161"
+    },
+    {
+      "model": "LCW-M170TD-1A",
+      "module": "5161"
+    },
+    {
+      "model": "LCW-M170TD-2A",
+      "module": "5161"
+    },
+    {
+      "model": "MTP-1302D-1A1V",
+      "module": "2784"
+    },
+    {
+      "model": "PRG-270-1",
+      "module": "3415"
+    },
+    {
+      "model": "PRJ-B001-1",
+      "module": "5732"
+    },
+    {
+      "model": "PRJ-B001-7",
+      "module": "5732"
+    },
+    {
+      "model": "PRJ-B001B-1",
+      "module": "5732"
+    },
+    {
+      "model": "PRJ-B001B-2",
+      "module": "5732"
+    },
+    {
+      "model": "WV-58R-1A",
+      "module": "3476"
+    },
+    {
+      "model": "WV-59R-1A",
+      "module": "3476"
+    }
+  ]
+}

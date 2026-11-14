@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **118 models, 65 modules and 1,351 source-backed candidate
+The catalog now contains **118 models, 71 modules and 1,394 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,9 +12,10 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 84 single-module references (one legacy association and
-  83 pending references), 17 shared-manual candidate sets, and 17 models with no
-  usable module reference. Single current support references do not establish all
+  module links. There are 101 single-module references (one legacy association and
+  100 pending references), plus 17 shared-manual candidate sets. No model now
+  lacks a reported module reference. Seventeen single-module mappings were supplied
+  by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
 
 Download/clone this repository, then use Python 3.10 or newer; no Python packages
@@ -76,7 +77,7 @@ for the protected legacy file.
 
 JSON candidates contain `kind` (`model` or `module`), `id`, and `specs`.
 Each spec contains `value`, `uncertainty` (explicit string), and nonempty `sources`.
-Each source needs HTTPS `url`, ISO `accessed` date, `locator` (page or section),
+Each web source needs HTTPS `url`, ISO `accessed` date, `locator` (page or section),
 short `evidence`, and `permission`: `official_public_reference`, `licensed`, or
 `permission_granted`. Permission labels document a basis; they do not establish
 scraping permission. Automated fetching is restricted to official domains.
@@ -265,7 +266,7 @@ the official `support.casio.jp` host, with the same robots/access-denial rules.
 The expansion batch contributes 77 additional model records, 72 support/manual
 references and 33 module profiles. Current family coverage is G-SHOCK (33),
 Lineage (17), Oceanus (22), Pro Trek (11), Wave Ceptor (20), plus Standard,
-Vintage, Databank, Edifice and Baby-G. All 1,351 facts remain candidates pending
+Vintage, Databank, Edifice and Baby-G. All specification fields remain candidates pending
 independent review; record count is not a claim of complete specifications.
 
 The product importer now retains cloth, leather and composite-band descriptions.
@@ -297,3 +298,38 @@ and section/page locators. The retrieval report also records unsuccessful produc
 and older support-page checks. Retrieval failures do not mean a product or feature
 does not exist. Original imports, verified legacy data, and the original collector
 remain preserved.
+
+## Repository-owner supplied mappings
+
+The 17 previously missing model/module mappings supplied by SEPULKRUM are recorded
+verbatim in [the user research batch](research/user-module-mappings-2026-11-14.json).
+They are imported as `pending_review`, with explicit `user_provided` provenance.
+An official manual for a module does not independently establish which watch
+model uses it. The supplied mapping and the manual's function facts remain
+separate records.
+
+JSON lookup and CSV now include `module_link_provenance`. User citations appear
+in `source_references` as a committed research-file path; `source_urls` continues
+to contain actual web citations. User evidence has no invented HTTPS URL. It
+requires `kind: user_provided`, `reference`, `provided_by`, `source_sha256`, date,
+locator, evidence and `permission: user_provided`. Web-source URL and permission
+rules still apply to web citations. `catalog.py build` checks the citation's file
+hash, attribution and exact model/module pair; stale or unrelated citations fail.
+
+Reproduce the supplied batch and supporting module profiles with:
+
+```sh
+python user_import.py research/user-module-mappings-2026-11-14.json --output imports/user-module-mappings-2026-11-14.json
+python manual_import.py research/supplied-module-manuals-2026-11-14.json --output imports/supplied-module-manuals-2026-11-14.json
+python catalog.py build
+```
+
+The official manuals add selected facts for 3298, 2888, 1572, 2784, 3415 and
+3476. Operating-only documents produce sparse profiles: unsupported accuracy and
+battery figures are left unknown. The scanned 1572 operation chart was inspected
+visually; the generic analog guide's date-setting group explicitly lists 2784.
+
+Coverage lists the 17 owner-supplied mappings separately in
+`user_provided_module_references`. The 17 shared-guide candidate sets are a
+different group and are unchanged. No earlier import batch, legacy watch record
+or verified fact is replaced by the supplied mappings.

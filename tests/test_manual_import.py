@@ -34,7 +34,8 @@ class ManualImportTests(unittest.TestCase):
 
     def test_regional_mismatch_not_promoted_to_module_link(self):
         model = self.catalog['models']['A168WA-1W']
-        self.assertNotIn('module_id', model['specs'])
+        self.assertEqual(catalog.field_value(model, 'module_id'), '3298')
+        self.assertEqual(catalog.module_view(self.catalog, model)['module_link_provenance'], 'user_provided')
         self.assertNotIn('module_candidates', model['specs'])
         row = next(r for r in self.notes['observations'] if r['model'] == 'A168WA-1W')
         self.assertEqual(row['status'], 'regional_identity_mismatch')
@@ -56,7 +57,8 @@ class ManualImportTests(unittest.TestCase):
         report = catalog.coverage(self.catalog)
         self.assertGreaterEqual(report['models_with_single_module_reference'], 21)
         self.assertGreaterEqual(len(report['models_with_ambiguous_manual']), 8)
-        self.assertGreaterEqual(len(report['models_without_any_module_reference']), 12)
+        self.assertEqual(report['models_without_any_module_reference'], [])
+        self.assertEqual(len(report['user_provided_module_references']), 17)
         self.assertEqual(report['referenced_module_ids_without_specs'], [])
         self.assertGreaterEqual(report['modules'], 32)
 
