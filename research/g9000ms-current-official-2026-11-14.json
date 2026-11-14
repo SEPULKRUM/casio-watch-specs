@@ -1,0 +1,26 @@
+{
+  "accessed": "2026-11-14",
+  "method": "User linked current official Casio page. Visible web text omits the specification component, so the Product specificationsItemList JSON embedded in the same retrieved HTML was inspected. Exact displayed model G9000MS-1 confirmed. Only missing model facts imported.",
+  "products": [
+    {
+      "id": "G9000MS-1",
+      "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+      "series": "G-SHOCK",
+      "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96",
+      "fields": {
+        "Case size (L× W× H)": "52 × 46.3 × 16.3 mm",
+        "Case and bezel material": "Resin",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "corroborated_existing_fields": {
+        "weight_g": 56,
+        "band_material": "Resin"
+      },
+      "scope_note": "L/W/H order explicitly labeled by Casio. These current model-specific specifications fill gaps left by the archived capture. Existing weight, band, negative model display and module reference remain unchanged."
+    }
+  ],
+  "excluded_existing_fields": [
+    "series"
+  ]
+}

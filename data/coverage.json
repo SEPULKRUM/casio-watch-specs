@@ -2,7 +2,7 @@
   "models": 153,
   "modules": 107,
   "facts_by_status": {
-    "pending_review": 1999
+    "pending_review": 2004
   },
   "models_by_series": {
     "Baby-G": 4,
@@ -114,12 +114,6 @@
       "weight_g",
       "case_material",
       "glass"
-    ],
-    "G9000MS-1": [
-      "dimensions_mm",
-      "case_material",
-      "glass",
-      "water_resistance_rating"
     ],
     "GW2500-1A": [
       "dimensions_mm",

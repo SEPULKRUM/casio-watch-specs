@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **153 models, 107 modules and 1,999 source-backed candidate
+The catalog now contains **153 models, 107 modules and 2,004 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -666,3 +666,27 @@ The [discovery report](research/wayback-master-g-pathfinder-discovery-2026-11-14
 retains empty archive results and API timeouts as separate outcomes. Sensor
 fields outside the current schema remain unimported. All previous records are
 unchanged, and all new facts await independent review.
+
+## Current official G9000MS-1 specifications fill the archive gaps
+
+The user supplied the [current official Casio page](https://www.casio.com/us/watches/gshock/product.G-9000MS-1/),
+whose embedded product specification component explicitly supplies:
+
+- Case size **52 × 46.3 × 16.3 mm**, with L/W/H order labeled.
+- Case and bezel material **Resin**.
+- Glass **Mineral Glass**.
+- Water resistance **200 meters**.
+
+These add five pending model fields, including the descriptive and numeric water
+ratings. Weight **56 g** and resin band corroborate existing values and are
+retained in the [research notes](research/g9000ms-current-official-2026-11-14.json)
+without duplicate imports. The archived capture genuinely lacked an explicit
+water rating; its historical notes are preserved, while the current official
+source now fills that gap. Existing negative LCD, module 3031 reference and all
+prior facts remain unchanged.
+
+The current page's structured Product specificationsItemList was inspected because
+text-only page retrieval omits the rendered specification component. Its HTML
+checksum and selected exact labels are recorded. The generic series fact is
+listed under excluded_existing_fields in the notes to avoid importing it twice;
+regeneration uses product_import.convert followed by that explicit exclusion.

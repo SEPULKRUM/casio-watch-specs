@@ -26016,6 +26016,110 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "543cc0d9b9a40cc55553cc33c36eb231083d41741308e1c661813c4f2b1ca609"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 52.0,
+            "width": 46.3,
+            "thickness": 16.3
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+              "accessed": "2026-11-14",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 52.0, 'width': 46.3, 'thickness': 16.3}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "b466dfdbe1367a0b92a93f19e96e73d05c39593ae3b87cc6def8029e4dee9e67",
+              "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "73b84ce17a893faff2e36bc8379c9957c73b8c8c37deeca6627ae0e9b4932f87"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+              "accessed": "2026-11-14",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "b466dfdbe1367a0b92a93f19e96e73d05c39593ae3b87cc6def8029e4dee9e67",
+              "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "73b84ce17a893faff2e36bc8379c9957c73b8c8c37deeca6627ae0e9b4932f87"
+        },
+        "glass": {
+          "value": "Mineral Glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+              "accessed": "2026-11-14",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Mineral Glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "b466dfdbe1367a0b92a93f19e96e73d05c39593ae3b87cc6def8029e4dee9e67",
+              "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "73b84ce17a893faff2e36bc8379c9957c73b8c8c37deeca6627ae0e9b4932f87"
+        },
+        "water_resistance_rating": {
+          "value": "200-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+              "accessed": "2026-11-14",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 200-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "b466dfdbe1367a0b92a93f19e96e73d05c39593ae3b87cc6def8029e4dee9e67",
+              "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "73b84ce17a893faff2e36bc8379c9957c73b8c8c37deeca6627ae0e9b4932f87"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/gshock/product.G-9000MS-1/",
+              "accessed": "2026-11-14",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 200-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "b466dfdbe1367a0b92a93f19e96e73d05c39593ae3b87cc6def8029e4dee9e67",
+              "snapshot_sha256": "8b57c641a17983c724b38d321171a8dcb9fdba8c3cec2b464b6d7c5af3296b96"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "73b84ce17a893faff2e36bc8379c9957c73b8c8c37deeca6627ae0e9b4932f87"
         }
       }
     },
