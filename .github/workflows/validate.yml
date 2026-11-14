@@ -14,8 +14,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest discover -s tests -v
-      - run: python specs.py build imports/*.json --output build/catalog.json
+      - name: Check reproducible catalog, CSV and coverage
+        run: python catalog.py build --check
+      - name: Build separate proposal artifact
+        run: python specs.py build imports/*.json --output build/catalog.json
       - uses: actions/upload-artifact@v4
         with:
           name: casio-catalog-proposal
-          path: build/catalog.json
+          path: |
+            data/catalog.json
+            data/watches.csv
+            data/coverage.json

@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_material',
-                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id'}
+                'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'water_resistance_rating', 'water_resistance_bar', 'case_finish'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception'}
@@ -51,12 +51,20 @@ def validate(record):
     for field, fact in record['specs'].items():
         if not isinstance(fact, dict) or fact.get('value') is None:
             raise ValueError(f'{field}: value required')
-        if field in {'weight_g', 'water_resistance_m', 'accuracy_seconds_per_month',
+        if field in {'weight_g', 'water_resistance_m', 'water_resistance_bar', 'accuracy_seconds_per_month',
                      'world_time_cities', 'world_time_zones', 'alarm_count'}:
             value = fact['value']
             import math
             if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value) or value < 0:
                 raise ValueError(f'{field}: finite nonnegative number required')
+        if field == 'dimensions_mm':
+            value = fact['value']
+            import math
+            if (not isinstance(value, dict) or set(value) != {'length', 'width', 'thickness'}
+                    or any(isinstance(v, bool) or not isinstance(v, (int, float)) or not math.isfinite(v) or v <= 0 for v in value.values())):
+                raise ValueError('dimensions_mm requires positive length, width and thickness')
+        if field == 'snooze_alarm' and not isinstance(fact['value'], bool):
+            raise ValueError('snooze_alarm must be boolean')
         if field == 'module_id' and not re.fullmatch(r'\d{3,4}', str(fact['value'])):
             raise ValueError('module_id must identify a 3 or 4 digit module')
         if not isinstance(fact.get('uncertainty'), str):

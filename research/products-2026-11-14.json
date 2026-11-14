@@ -1,0 +1,538 @@
+{
+  "accessed": "2026-11-14",
+  "method": "Official product-page research using web retrieval; selected technical facts only. Exact displayed model identifiers are preserved. No automated scraping permission is asserted.",
+  "products": [
+    {
+      "id": "A158WA-1",
+      "series": "Casio Vintage",
+      "url": "https://www.casio.com/intl/watches/casio/product.A158WA-1/",
+      "fields": {
+        "Case size (L× W× H)": "36.8 × 33.2 × 8.2 mm",
+        "Weight": "46 g",
+        "Case and bezel material": "Resin / Chrome plated",
+        "Band": "Stainless Steel Band\n\nAdjustable Clasp",
+        "Water resistance": "Water Resistant",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "A168WA-1W",
+      "series": "Casio Vintage",
+      "url": "https://www.casio.com/intl/watches/casio/product.A168WA-1/",
+      "fields": {
+        "Case size (L× W× H)": "38.6 × 36.3 × 9.6 mm",
+        "Weight": "50 g",
+        "Case and bezel material": "Resin / Chrome plated",
+        "Band": "Stainless Steel Band\n\nAdjustable Clasp",
+        "Water resistance": "Water Resistant",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "A700W-1A",
+      "series": "Casio Vintage",
+      "url": "https://www.casio.com/intl/watches/casio/product.A700W-1A/",
+      "fields": {
+        "Case size (L× W× H)": "37.4 × 35.5 × 6 mm",
+        "Weight": "50 g",
+        "Case and bezel material": "Resin",
+        "Band": "Stainless Steel Band\n\nAdjustable Clasp",
+        "Water resistance": "Water Resistant",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "AE-1200WH-1AV",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.AE-1200WH-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "45 × 42.1 × 12.5 mm",
+        "Weight": "39 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "AE-1500WH-1AV",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.AE-1500WH-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "54.4 × 51.2 × 15.7 mm",
+        "Weight": "57 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "BGA-280-1A",
+      "series": "Baby-G",
+      "url": "https://www.casio.com/intl/watches/babyg/product.BGA-280-1A/",
+      "fields": {
+        "Case size (L× W× H)": "47.4 × 43.4 × 14.8 mm",
+        "Weight": "42 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "CA-53W-1",
+      "series": "Casio Databank",
+      "url": "https://www.casio.com/intl/watches/casio/product.CA-53W-1/",
+      "fields": {
+        "Case size (L× W× H)": "43.2 × 34.4 × 8.2 mm",
+        "Weight": "25 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "Water Resistant",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "DBC-32-1A",
+      "series": "Casio Databank",
+      "url": "https://www.casio.com/intl/watches/casio/product.DBC-32-1A/",
+      "fields": {
+        "Case size (L× W× H)": "50.4 × 37.4 × 12 mm",
+        "Weight": "34 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Glass": "Resin Glass / Spherical Glass"
+      }
+    },
+    {
+      "id": "DW-5600UE-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.DW-5600UE-1/",
+      "fields": {
+        "Case size (L× W× H)": "48.9 × 42.8 × 13.4 mm",
+        "Weight": "52 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "DW-6900U-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.DW-6900U-1/",
+      "fields": {
+        "Case size (L× W× H)": "53.2 × 50 × 18.7 mm",
+        "Weight": "67 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "ECB-900DB-1A",
+      "series": "Edifice",
+      "url": "https://www.casio.com/intl/watches/edifice/product.ECB-900DB-1A/",
+      "fields": {
+        "Case size (L× W× H)": "51.5 × 48 × 13.9 mm",
+        "Weight": "163 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "F-105W-1A",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.F-105W-1A/",
+      "fields": {
+        "Case size (L× W× H)": "39 × 35.4 × 9.6 mm",
+        "Weight": "21 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "Water Resistant",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "F-91W-1",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.F-91W-1/",
+      "fields": {
+        "Case size (L× W× H)": "38.2 × 35.2 × 8.5 mm",
+        "Weight": "21 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "Water Resistant",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "G-5600UE-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.G-5600UE-1/",
+      "fields": {
+        "Case size (L× W× H)": "46.7 × 43.2 × 12.7 mm",
+        "Weight": "51 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GA-2100-1A",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GA-2100-1A/",
+      "fields": {
+        "Case size (L× W× H)": "48.5 × 45.4 × 11.8 mm",
+        "Weight": "51 g",
+        "Case and bezel material": "Carbon / Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GA-2100-1A1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GA-2100-1A1/",
+      "fields": {
+        "Case size (L× W× H)": "48.5 × 45.4 × 11.8 mm",
+        "Weight": "51 g",
+        "Case and bezel material": "Carbon / Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GA-2100-7A",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GA-2100-7A/",
+      "fields": {
+        "Case size (L× W× H)": "48.5 × 45.4 × 11.8 mm",
+        "Weight": "51 g",
+        "Case and bezel material": "Carbon / Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GA-B2100-1A",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GA-B2100-1A/",
+      "fields": {
+        "Case size (L× W× H)": "48.5 × 45.4 × 11.9 mm",
+        "Weight": "52 g",
+        "Case and bezel material": "Carbon / Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GMW-B5000D-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/",
+      "fields": {
+        "Case size (L× W× H)": "49.3 × 43.2 × 13 mm",
+        "Weight": "167 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Solid Band\n\nStainless Steel Band\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GW-M5610U-1",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
+      "fields": {
+        "Case size (L× W× H)": "46.7 × 43.2 × 12.7 mm",
+        "Weight": "52 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-metre water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "GW-M5610U-1B",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/europe/watches/gshock/product.GW-M5610U-1B/",
+      "fields": {
+        "Case size (L× W× H)": "46.7 × 43.2 × 12.7 mm",
+        "Weight": "52 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "200-metre water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "LCW-M100DSE-1A",
+      "series": "Lineage",
+      "url": "https://www.casio.com/europe/watches/casio/product.LCW-M100DSE-1A/",
+      "fields": {
+        "Case size (L× W× H)": "43.8 × 40 × 9.4 mm",
+        "Weight": "115.5 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\n\nOne-touch 3-fold Clasp\n\nSolid Band",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      }
+    },
+    {
+      "id": "LCW-M100TSE-1A",
+      "series": "Lineage",
+      "url": "https://www.casio.com/europe/watches/casio/product.LCW-M100TSE-1A/",
+      "fields": {
+        "Case size (L× W× H)": "43.8 × 40 × 9.4 mm",
+        "Weight": "73 g",
+        "Case and bezel material": "Titanium",
+        "Band": "Titanium Band, Stainless Steel Buckle\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      }
+    },
+    {
+      "id": "LCW-M100TSE-1A2",
+      "series": "Lineage",
+      "url": "https://www.casio.com/europe/watches/casio/product.LCW-M100TSE-1A2/",
+      "fields": {
+        "Case size (L× W× H)": "43.8 × 40 × 9.4 mm",
+        "Weight": "73 g",
+        "Case and bezel material": "Titanium",
+        "Band": "Titanium Band, Stainless Steel Buckle\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      }
+    },
+    {
+      "id": "LCW-M170TD-1A",
+      "series": "Lineage",
+      "url": "https://www.casio.com/europe/watches/casio/product.LCW-M170TD-1A/",
+      "fields": {
+        "Case size (L× W× H)": "46.4 × 39.5 × 9.2 mm",
+        "Weight": "80 g",
+        "Case and bezel material": "Titanium",
+        "Band": "Solid Band\n\nTitanium Band, Stainless Steel Buckle\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      }
+    },
+    {
+      "id": "LCW-M170TD-2A",
+      "series": "Lineage",
+      "url": "https://www.casio.com/europe/watches/casio/product.LCW-M170TD-2A/",
+      "fields": {
+        "Case size (L× W× H)": "46.4 × 39.5 × 9.2 mm",
+        "Weight": "80 g",
+        "Case and bezel material": "Titanium",
+        "Band": "Solid Band\n\nTitanium Band, Stainless Steel Buckle\n\nOne-touch 3-fold Clasp",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      }
+    },
+    {
+      "id": "MRW-200H-1BV",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.MRW-200H-1BV/",
+      "fields": {
+        "Case size (L× W× H)": "47.9 × 44.6 × 11.6 mm",
+        "Weight": "39 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "MTP-1302D-1A1V",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.MTP-1302D-1A1V/",
+      "fields": {
+        "Case size (L× W× H)": "44.2 × 38.5 × 9.2 mm",
+        "Weight": "105 g",
+        "Case and bezel material": "Ion plated",
+        "Band": "Stainless Steel Band\n\nTriple-fold Clasp",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "OCW-S100-1AJF",
+      "series": "Oceanus",
+      "url": "https://www.casio.com/jp/watches/oceanus/product.OCW-S100-1A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "45.7 × 41.5 × 10.5 mm",
+        "質量": "90 g",
+        "ケース・ベゼル材質": "チタン",
+        "バンド": "無垢バンド\n\nメタルバンド（チタン）\n\nワンプッシュ三つ折れ式中留",
+        "防水性": "10気圧防水",
+        "ガラス": "内面反射防止コーティングサファイアガラス（デュアルカーブ）"
+      }
+    },
+    {
+      "id": "OCW-T200S-1AJF",
+      "series": "Oceanus",
+      "url": "https://www.casio.com/jp/watches/oceanus/product.OCW-T200S-1A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "49.5 × 41.4 × 10.7 mm",
+        "質量": "133 g",
+        "ケース・ベゼル材質": "ステンレススチール",
+        "バンド": "メタルバンド（ステンレスムクバンド）\n\nワンプッシュ三つ折れ式中留",
+        "防水性": "10気圧防水",
+        "ガラス": "内面反射防止コーティングサファイアガラス"
+      }
+    },
+    {
+      "id": "OCW-T200S-7AJF",
+      "series": "Oceanus",
+      "url": "https://www.casio.com/jp/watches/oceanus/product.OCW-T200S-7A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "49.5 × 41.4 × 10.7 mm",
+        "質量": "133 g",
+        "ケース・ベゼル材質": "ステンレススチール",
+        "バンド": "メタルバンド（ステンレスムクバンド）\n\nワンプッシュ三つ折れ式中留",
+        "防水性": "10気圧防水",
+        "ガラス": "内面反射防止コーティングサファイアガラス"
+      }
+    },
+    {
+      "id": "OCW-T2600-1AJF",
+      "series": "Oceanus",
+      "url": "https://www.casio.com/jp/watches/oceanus/product.OCW-T2600-1A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "48.2 × 42.8 × 10.7 mm",
+        "質量": "90 g",
+        "ケース・ベゼル材質": "チタン",
+        "バンド": "無垢バンド\n\nメタルバンド（チタン）\n\nスライドアジャスト機構付きワンプッシュ三つ折れ式中留",
+        "防水性": "10気圧防水",
+        "ガラス": "両面反射防止コーティングサファイアガラス"
+      }
+    },
+    {
+      "id": "PRG-270-1",
+      "series": "Pro Trek",
+      "url": "https://www.casio.com/europe/watches/protrek/product.PRG-270-1/",
+      "fields": {
+        "Case size (L× W× H)": "54.6 × 52.4 × 15 mm",
+        "Weight": "67 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-metre water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "PRG-340-1",
+      "series": "Pro Trek",
+      "url": "https://www.casio.com/intl/watches/protrek/product.PRG-340-1/",
+      "fields": {
+        "Case size (L× W× H)": "54.7 × 51.7 × 15.1 mm",
+        "Weight": "54 g",
+        "Case and bezel material": "Bio-based resin",
+        "Band": "Soft urethane band (Bio-based resin)",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "PRW-35-1A",
+      "series": "Pro Trek",
+      "url": "https://www.casio.com/intl/watches/protrek/product.PRW-35-1A/",
+      "fields": {
+        "Case size (L× W× H)": "51.2 × 44.6 × 13 mm",
+        "Weight": "45 g",
+        "Case and bezel material": "Bio-based resin / Stainless steel",
+        "Band": "Bio-based resin band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "id": "W-218H-1AV",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.W-218H-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "44.4 × 43.2 × 10.8 mm",
+        "Weight": "37 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "W-800H-1AV",
+      "series": "Casio Standard",
+      "url": "https://www.casio.com/intl/watches/casio/product.W-800H-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "44.2 × 36.8 × 13.4 mm",
+        "Weight": "37 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Resin Glass"
+      }
+    },
+    {
+      "id": "WV-58R-1A",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/europe/watches/casio/product.WV-58R-1A/",
+      "fields": {
+        "Case size (L× W× H)": "53.4 × 43.7 × 12 mm",
+        "Weight": "43 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Resin Glass / Spherical Glass"
+      }
+    },
+    {
+      "id": "WV-59R-1A",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/europe/watches/casio/product.WV-59R-1A/",
+      "fields": {
+        "Case size (L× W× H)": "48.3 × 39 × 12.5 mm",
+        "Weight": "40 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "50-metre water resistance",
+        "Glass": "Resin Glass / Spherical Glass"
+      }
+    },
+    {
+      "id": "WVA-M640-1AJF",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/jp/watches/casio/product.WVA-M640-1A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "52 × 43.5 × 12.3 mm",
+        "質量": "45 g",
+        "ケース・ベゼル材質": "樹脂／ステンレススチール",
+        "バンド": "樹脂バンド",
+        "防水性": "10気圧防水",
+        "ガラス": "樹脂ガラス（表面形状：球面・曲面）"
+      }
+    },
+    {
+      "id": "WVA-M650-1AJF",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/jp/watches/casio/product.WVA-M650-1A/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "48.8 × 43.5 × 14.5 mm",
+        "質量": "47 g",
+        "ケース・ベゼル材質": "樹脂／ステンレススチール",
+        "バンド": "樹脂バンド",
+        "防水性": "10気圧防水",
+        "ガラス": "樹脂ガラス（表面形状：球面・曲面）"
+      }
+    }
+  ]
+}
