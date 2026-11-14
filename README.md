@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **142 models, 90 modules and 1,767 source-backed candidate
+The catalog now contains **142 models, 96 modules and 1,820 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -494,7 +494,7 @@ remain separate: G7700-1 is listed at 58 g, while existing G7710-1 is 56 g.
 
 The paired references for BG169R-1, BG1006SA-1 and G100-1BV stay unresolved.
 No first module is selected, and shared listing text is not copied into both
-module profiles. Six candidate modules still need module-specific research;
+module profiles. At that batch stage, six candidate modules still needed module-specific research;
 `candidate_module_ids_without_specs` now exposes that gap in the coverage report.
 The existing `models_with_ambiguous_manual` key includes these historical
 product-listing candidate sets as well as shared-manual references.
@@ -511,3 +511,25 @@ band and a 2039 calendar endpoint. G300-3AV retains its two SR927W batteries and
 2039 calendar. BG1006SA weight uses its own row, not the neighboring BG1005M row.
 The [discovery report](research/wayback-gshock-babyg-discovery-2026-11-14.json)
 records inspected URLs and captures. All additions await independent review.
+
+## Official manuals for the six paired-listing modules
+
+The [paired-module manual batch](research/paired-module-manuals-2026-11-14.json)
+adds 53 pending specification fields across **2327, 3188, 3189, 3252, 3288 and
+5158**. Every candidate module now has a researched profile:
+`candidate_module_ids_without_specs` is empty. This fills module information,
+not exact watch-to-module assignments; the three archived paired references
+remain unresolved, and model lookup shows both separate module options.
+
+The official guides establish an important distinction: **2327** accepts dates
+from **1995 through 2039**, whereas **5158** has an automatic calendar covering
+**2000 through 2099**. Both stopwatch profiles retain the change from hundredths
+to whole seconds after the first hour. The 2327 operation-only guide does not
+provide accuracy or battery specifications, so those values remain unknown.
+
+The guide headed 3189/3252 explicitly covers both modules; its common facts are
+recorded separately for each. Modules 3188 and 3288 each use their own named
+guide, including selectable illumination durations and the snooze alarm. No
+function facts are inferred from the archived product listing. All previously
+imported models, modules and legacy data remain unchanged. All additions require
+independent review.

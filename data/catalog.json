@@ -36402,6 +36402,1081 @@
           "candidate_sha256": "7e60c831a5a3073de3730b4a8cd3d1bd92471992ebedfc0ba5d80563392b6047"
         }
       }
+    },
+    "3189": {
+      "id": "3189",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: world_time_cities = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "duration_seconds": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3189/qw3189_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3189: illumination = {'type': 'EL', 'duration_seconds': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5cc789e411d25bb7f5048e0b93f702459ae2049768311fab4edcf154d6383822"
+        }
+      }
+    },
+    "3252": {
+      "id": "3252",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: world_time_cities = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "duration_seconds": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3252/qw3252_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 4 / E-35–E-36 Specifications; PDF page 2 / E-10 Backlight Precautions",
+              "evidence": "Module 3252: illumination = {'type': 'EL', 'duration_seconds': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Guide explicitly names both 3189 and 3252. Only the stated common module functions are transcribed; this does not resolve the exact module of BG169R-1. No snooze or auto-light inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f1e02aef9f00d6e3c236c47a6ec83902dac41c7098d6a9a6c24a3c02918c73ff"
+        }
+      }
+    },
+    "3188": {
+      "id": "3188",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "durations_seconds": [
+              1.5,
+              3
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: illumination = {'type': 'EL', 'durations_seconds': [1.5, 3]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3188/qw3188_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 3 / E-23 Illumination and E-27–E-28 Specifications",
+              "evidence": "Module 3188: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4e05632d4a9dd2d73a184d130d366ecb4f5f981905ff0cbbdf46726bdaa5cf18"
+        }
+      }
+    },
+    "3288": {
+      "id": "3288",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "durations_seconds": [
+              1.5,
+              3
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: illumination = {'type': 'EL', 'durations_seconds': [1.5, 3]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3288/qw3288_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF pages 3–4 / E-25 Illumination and E-29–E-30 Specifications",
+              "evidence": "Module 3288: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide title confirms this identifier. Facts are from its own specification and illumination sections, not copied from the historical paired-module product listing. BG1006SA-1 exact module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b178ebebf21a6563bdf83094cbb4b0d4ec7f037a1b9f82da303efb1094386175"
+        }
+      }
+    },
+    "2327": {
+      "id": "2327",
+      "specs": {
+        "calendar": {
+          "value": {
+            "start_year": 1995,
+            "end_year": 2039
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/23/2327/qw2327_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Calendar Mode, Alarm Mode, Stopwatch Mode and About the Backlight",
+              "evidence": "Module 2327: calendar = {'start_year': 1995, 'end_year': 2039}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operation-only guide supplies date-setting range and functions; it does not state accuracy or battery type. Neither is inferred from G100-1BV shared product listing. Calendar range is 1995–2039, distinct from 5158. Exact G100-1BV module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1355503425dfecb1d7b5ae9658bcaa7467dcea711961930c974c45e046fa6d35"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/23/2327/qw2327_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Calendar Mode, Alarm Mode, Stopwatch Mode and About the Backlight",
+              "evidence": "Module 2327: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operation-only guide supplies date-setting range and functions; it does not state accuracy or battery type. Neither is inferred from G100-1BV shared product listing. Calendar range is 1995–2039, distinct from 5158. Exact G100-1BV module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1355503425dfecb1d7b5ae9658bcaa7467dcea711961930c974c45e046fa6d35"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/23/2327/qw2327_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Calendar Mode, Alarm Mode, Stopwatch Mode and About the Backlight",
+              "evidence": "Module 2327: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operation-only guide supplies date-setting range and functions; it does not state accuracy or battery type. Neither is inferred from G100-1BV shared product listing. Calendar range is 1995–2039, distinct from 5158. Exact G100-1BV module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1355503425dfecb1d7b5ae9658bcaa7467dcea711961930c974c45e046fa6d35"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "duration_seconds": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/23/2327/qw2327_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Calendar Mode, Alarm Mode, Stopwatch Mode and About the Backlight",
+              "evidence": "Module 2327: illumination = {'type': 'EL', 'duration_seconds': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Operation-only guide supplies date-setting range and functions; it does not state accuracy or battery type. Neither is inferred from G100-1BV shared product listing. Calendar range is 1995–2039, distinct from 5158. Exact G100-1BV module remains unresolved.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "1355503425dfecb1d7b5ae9658bcaa7467dcea711961930c974c45e046fa6d35"
+        }
+      }
+    },
+    "5158": {
+      "id": "5158",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: calendar = {'type': 'auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: power_supply = {'battery_type': 'CR2016', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "duration_seconds": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5158/qw5158_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-18–E-19 Specifications; PDF page 1 / E-4 General Guide",
+              "evidence": "Module 5158: illumination = {'type': 'EL', 'duration_seconds': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms calendar range 2000–2099. Stopwatch precision changes after the first hour. Existence of this module profile does not assign G100-1BV to 5158 rather than 2327.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        }
+      }
     }
   },
   "legacy_watches": {
