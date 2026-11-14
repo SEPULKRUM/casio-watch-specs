@@ -1,0 +1,2 @@
+# Casio product pages to check
+# Add approved URLs below, one per line.
