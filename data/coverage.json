@@ -1,16 +1,16 @@
 {
-  "models": 134,
-  "modules": 86,
+  "models": 142,
+  "modules": 90,
   "facts_by_status": {
-    "pending_review": 1676
+    "pending_review": 1767
   },
   "models_by_series": {
-    "Baby-G": 1,
+    "Baby-G": 4,
     "Casio Databank": 2,
     "Casio Standard": 8,
     "Casio Vintage": 3,
     "Edifice": 3,
-    "G-SHOCK": 38,
+    "G-SHOCK": 43,
     "Lineage": 17,
     "Oceanus": 22,
     "Pathfinder": 3,
@@ -18,6 +18,22 @@
     "Wave Ceptor": 24
   },
   "models_missing_fields": {
+    "BG1006SA-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "BG169R-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "BG5601-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
     "DBC-32-1A": [
       "water_resistance_rating"
     ],
@@ -28,11 +44,38 @@
     "EQS500DB-1A1": [
       "dimensions_mm"
     ],
+    "G100-1BV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "G2300B-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "G2310R-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
     "G2900F-1V": [
       "dimensions_mm",
       "weight_g",
       "case_material",
       "band_material",
+      "glass"
+    ],
+    "G300-3AV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "G7700-1": [
+      "dimensions_mm",
+      "case_material",
       "glass"
     ],
     "G7710-1": [
@@ -114,9 +157,12 @@
     "A158WA-1",
     "A700W-1A",
     "AE-1200WH-1AV",
+    "BG1006SA-1",
+    "BG169R-1",
     "CA-53W-1",
     "F-91W-1",
     "G-9300-1",
+    "G100-1BV",
     "GA-110-1B",
     "GW-B5600-2",
     "LWA-M145-1AJF",
@@ -129,7 +175,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 117,
+  "models_with_single_module_reference": 122,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -162,6 +208,14 @@
       "3198",
       "3299"
     ],
+    "BG1006SA-1": [
+      "3188",
+      "3288"
+    ],
+    "BG169R-1": [
+      "3189",
+      "3252"
+    ],
     "CA-53W-1": [
       "437",
       "438",
@@ -174,6 +228,10 @@
     "G-9300-1": [
       "3261",
       "3281"
+    ],
+    "G100-1BV": [
+      "2327",
+      "5158"
     ],
     "GA-110-1B": [
       "5146",
@@ -222,19 +280,27 @@
   },
   "models_without_any_module_reference": [],
   "referenced_module_ids_without_specs": [],
+  "candidate_module_ids_without_specs": [
+    "2327",
+    "3188",
+    "3189",
+    "3252",
+    "3288",
+    "5158"
+  ],
   "module_field_coverage": {
     "accuracy_condition": 77,
-    "accuracy_seconds_per_month": 83,
-    "alarm_count": 52,
-    "calendar": 76,
-    "illumination": 18,
-    "power_supply": 59,
+    "accuracy_seconds_per_month": 87,
+    "alarm_count": 56,
+    "calendar": 80,
+    "illumination": 22,
+    "power_supply": 63,
     "radio_reception": 7,
-    "snooze_alarm": 21,
-    "stopwatch": 21,
-    "timer": 15,
-    "world_time_cities": 48,
-    "world_time_zones": 48
+    "snooze_alarm": 24,
+    "stopwatch": 25,
+    "timer": 19,
+    "world_time_cities": 52,
+    "world_time_zones": 52
   },
   "module_profiles_by_fact_count": {
     "1": 1,
@@ -245,8 +311,8 @@
     "6": 11,
     "7": 10,
     "8": 6,
-    "9": 1,
-    "10": 7,
+    "9": 2,
+    "10": 10,
     "11": 8,
     "12": 1
   },

@@ -1,0 +1,218 @@
+{
+  "accessed": "2026-11-14",
+  "requested_capture_date": "20130101",
+  "availability": [
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G2300B-1V/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+          "timestamp": "20161031034652"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G2310R-1/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+          "timestamp": "20130101101754"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G700D-1A/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G8000-1V/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G7700-1/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+          "timestamp": "20130104205830"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G7600-1V/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G7500-1V/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BG169R-1/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+          "timestamp": "20130103030950"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BG5601-1/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+          "timestamp": "20161103111925"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BG6900-1/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BG1006SA-1/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+          "timestamp": "20130101052431"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BGD140-1A/",
+      "archived_snapshots": {},
+      "timestamp": "20130101",
+      "error": {
+        "code": "timeout",
+        "message": "client timeout at 5.0 seconds"
+      }
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Baby-G/BG3000-1/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G100-1BV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+          "timestamp": "20130106040752"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/G300-3AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+          "timestamp": "20130115000542"
+        }
+      },
+      "timestamp": "20130101"
+    }
+  ],
+  "retrieval": [
+    {
+      "slug": "g2300b-1v",
+      "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+      "final_url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+      "bytes": 59005,
+      "sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g2310r-1",
+      "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+      "final_url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+      "bytes": 28438,
+      "sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g7700-1",
+      "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+      "final_url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+      "bytes": 28893,
+      "sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+      "status": "downloaded"
+    },
+    {
+      "slug": "bg169r-1",
+      "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+      "final_url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+      "bytes": 33330,
+      "sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+      "status": "downloaded"
+    },
+    {
+      "slug": "bg5601-1",
+      "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+      "final_url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+      "bytes": 66765,
+      "sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+      "status": "downloaded"
+    },
+    {
+      "slug": "bg1006sa-1",
+      "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+      "final_url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+      "bytes": 30191,
+      "sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g100-1bv",
+      "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+      "final_url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+      "bytes": 28202,
+      "sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+      "status": "downloaded"
+    },
+    {
+      "slug": "g300-3av",
+      "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+      "final_url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+      "bytes": 27778,
+      "sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+      "status": "downloaded"
+    }
+  ],
+  "imported": [
+    "G2300B-1V",
+    "G2310R-1",
+    "G7700-1",
+    "BG169R-1",
+    "BG5601-1",
+    "BG1006SA-1",
+    "G100-1BV",
+    "G300-3AV"
+  ],
+  "note": "Empty availability results and API timeout results do not establish no archives exist. Three paired module listings remain unresolved rather than being assigned to their first number."
+}

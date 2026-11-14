@@ -1,0 +1,1809 @@
+[
+  {
+    "kind": "model",
+    "id": "G2300B-1V",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Nylon",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V: band_material = Nylon"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black band",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V: color = Black band"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "2184",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "G2300B-1V page explicitly lists Module 2184"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "2184",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: alarm_count = 5"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 27,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: world_time_cities = 27"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: calendar = {'type': 'auto', 'end_year': 2039}"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ],
+          "auto_start": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes'], 'auto_start': True}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 0.1,
+          "min_countdown_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "auto_repeat": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: timer = {'measurement_unit_seconds': 0.1, 'min_countdown_seconds': 1, 'max_countdown_seconds': 86400, 'auto_repeat': True}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery_type": "ML2016"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+            "archive_timestamp": "20161031034652",
+            "snapshot_sha256": "9a52dba05f6a95f3f70db0a4faf4af1552c9fd18e63114f3f3835256766f0632",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "6b17cbfa22c10b0b4038e7b0fddf60d49eb6a61b8fef5406a9bcecdb4ca8bffb",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2184: power_supply = {'energy_source': 'solar', 'battery_type': 'ML2016'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G2310R-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G2310R-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G2310R-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G2310R-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G2310R-1: band_material = Resin"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3192",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G2310R-1 page explicitly lists Module 3192"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3192",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: alarm_count = 5"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: world_time_zones = 31"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: calendar = {'type': 'full_auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: snooze_alarm = True"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "auto_light": true,
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: illumination = {'type': 'EL', 'auto_light': True, 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101101754/http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G2310R-1",
+            "archive_timestamp": "20130101101754",
+            "snapshot_sha256": "ab8f81048e8f25ad31a58757c02b611b6f06a0dca413292d35c53e3011b3316e",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "a2938ca2bf4f01fce4ee7e2f18a90532a7027b65f88113ccf62e2933b3490602",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3192: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G7700-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Neutral",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: color = Neutral"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 58,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1: weight_g = 58"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3095",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130104205830/http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G7700-1",
+            "archive_timestamp": "20130104205830",
+            "snapshot_sha256": "aedc70f31395bba182a9e91f0b8a5f71ae8bbab1174ce16ecc43ac5110454122",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "3d9a2fc5633d8b1bacb4b0cab10f87c875ae040ddf0814e5ba50591a95e1a3e9",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G7700-1 page explicitly lists Module 3095"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BG169R-1",
+    "specs": {
+      "series": {
+        "value": "Baby-G",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: series = Baby-G"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: color = Black"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 43,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1: weight_g = 43"
+          }
+        ]
+      },
+      "module_candidates": {
+        "value": [
+          "3189",
+          "3252"
+        ],
+        "uncertainty": "Historical page lists multiple modules; exact watch module unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130103030950/http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG169R-1/",
+            "archive_timestamp": "20130103030950",
+            "snapshot_sha256": "a48b798ccadfe29df4194eb7334dbe61dceaa9558d4f8f859859ebf442f09b48",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "40de59e13e981901f7442acd429e1b338e9cdda66f12f93e2ef90edfe3376e1c",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG169R-1 page explicitly lists Module 3189/3252"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BG5601-1",
+    "specs": {
+      "series": {
+        "value": "Baby-G",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1: series = Baby-G"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1: water_resistance_rating = 100M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1: water_resistance_m = 100"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black band; pink face",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1: color = Black band; pink face"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "2994",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "BG5601-1 page explicitly lists Module 2994"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "2994",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: alarm_count = 5"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: world_time_cities = 48"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: accuracy_seconds_per_month = 30"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: calendar = {'type': 'full_auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: snooze_alarm = True"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "max_countdown_seconds": 86400
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: timer = {'measurement_unit_seconds': 1, 'max_countdown_seconds': 86400}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "LED",
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: illumination = {'type': 'LED', 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "CR1616"
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20161103111925/http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG5601-1",
+            "archive_timestamp": "20161103111925",
+            "snapshot_sha256": "1e327dfa7fd25210fce2f9b9931b71664c9fc91728b1fe9d94478501d23a865f",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "e5b0f8a55d160f02edfaef1026b302a7e737079f9c1903c4ac137b144ee55347",
+            "locator": "Overview / At a glance / Specifications",
+            "evidence": "2994: power_supply = {'battery_type': 'CR1616'}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BG1006SA-1",
+    "specs": {
+      "series": {
+        "value": "Baby-G",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: series = Baby-G"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: water_resistance_rating = 100M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: water_resistance_m = 100"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: color = Black"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 42,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1: weight_g = 42"
+          }
+        ]
+      },
+      "module_candidates": {
+        "value": [
+          "3188",
+          "3288"
+        ],
+        "uncertainty": "Historical page lists multiple modules; exact watch module unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130101052431/http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "original_url": "http://www.casio.com:80/products/Watches/Baby-G/BG1006SA-1/",
+            "archive_timestamp": "20130101052431",
+            "snapshot_sha256": "830349b19476bcb11190ace9de192970f74c8a2e62bc2830567a7bdf374f2cd3",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "c7e8f94c239e0d720ab189eedd897f6917151d1a340bb7682583bdfe67d683fb",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "BG1006SA-1 page explicitly lists Module 3188/3288"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G100-1BV",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black band and face",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: color = Black band and face"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 59,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV: weight_g = 59"
+          }
+        ]
+      },
+      "module_candidates": {
+        "value": [
+          "2327",
+          "5158"
+        ],
+        "uncertainty": "Historical page lists multiple modules; exact watch module unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130106040752/http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "original_url": "http://www.casio.com:80/products/Watches/g-shock/g100-1bv",
+            "archive_timestamp": "20130106040752",
+            "snapshot_sha256": "312346d097f45532755868a20116df53d4e6ddea635fcc4be8367f72a4ddc913",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "48247bc3f2927181b7d0008b628b65e9ef147cecc867035546be6421654d7956",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G100-1BV page explicitly lists Module 2327/5158"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G300-3AV",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200M Water Resistant",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: water_resistance_rating = 200M Water Resistant"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: water_resistance_m = 200"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: band_material = Resin"
+          }
+        ]
+      },
+      "color": {
+        "value": "Green band",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: color = Green band"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 59,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV: weight_g = 59"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3750",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "G300-3AV page explicitly lists Module 3750"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3750",
+    "specs": {
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: alarm_count = 5"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 27,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: world_time_cities = 27"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: world_time_zones = 29"
+          }
+        ]
+      },
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: calendar = {'type': 'auto', 'end_year': 2039}"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: snooze_alarm = True"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 3600,
+          "auto_repeat": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 3600, 'auto_repeat': True}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "afterglow": true
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: illumination = {'type': 'EL', 'afterglow': True}"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "SR927W",
+          "count": 2
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130115000542/http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "original_url": "http://www.casio.com:80/products/Watches/G-Shock/G300-3AV/",
+            "archive_timestamp": "20130115000542",
+            "snapshot_sha256": "bb2b5540a705c9cc1360cbed8716761d4bac340c7d6049af3dd538f462bc2001",
+            "accessed": "2026-11-14",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "55661d146f331757716139e0e29679c6ca14c31d12d59d719ee8a145f948648e",
+            "locator": "At A Glance / Attributes / Technical Specs",
+            "evidence": "3750: power_supply = {'battery_type': 'SR927W', 'count': 2}"
+          }
+        ]
+      }
+    }
+  }
+]

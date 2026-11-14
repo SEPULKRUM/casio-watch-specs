@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **134 models, 86 modules and 1,676 source-backed candidate
+The catalog now contains **142 models, 90 modules and 1,767 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 117 single-module references (one legacy association and
-  116 pending references), plus 17 shared-manual candidate sets. No model now
+  module links. There are 122 single-module references (one legacy association and
+  121 pending references), plus 20 unresolved shared-manual or historical-listing candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -473,3 +473,41 @@ Radio-reception profiles retain named signals, frequencies in kHz and documented
 receive limits. No radio function is inferred for solar-only PAG240-1. Sensor
 functions outside the current schema remain unimported. All new facts remain
 historical candidates awaiting independent review.
+
+### Fourth archive batch: G-SHOCK and Baby-G
+
+The [fourth batch](research/archived-gshock-babyg-2026-11-14.json) adds eight
+models and 91 pending fields. Four exact module profiles are new; G7700-1 reuses
+existing module 3095 without copying or duplicating its facts. Model weights
+remain separate: G7700-1 is listed at 58 g, while existing G7710-1 is 56 g.
+
+| Model | Module reference |
+| --- | --- |
+| G2300B-1V | 2184 |
+| G2310R-1 | 3192 |
+| G7700-1 | 3095 |
+| BG169R-1 | 3189 / 3252 |
+| BG5601-1 | 2994 |
+| BG1006SA-1 | 3188 / 3288 |
+| G100-1BV | 2327 / 5158 |
+| G300-3AV | 3750 |
+
+The paired references for BG169R-1, BG1006SA-1 and G100-1BV stay unresolved.
+No first module is selected, and shared listing text is not copied into both
+module profiles. Six candidate modules still need module-specific research;
+`candidate_module_ids_without_specs` now exposes that gap in the coverage report.
+The existing `models_with_ambiguous_manual` key includes these historical
+product-listing candidate sets as well as shared-manual references.
+
+The archive adapter accepts `module_candidates` instead of `module_id` for these
+listings, requires empty `module_specs`, and produces a model-only proposal.
+An exact association can also omit repeated function facts when its module is
+already present in the existing catalog; an unknown empty exact profile is
+rejected. Both cases have regression tests.
+
+Source qualifications: G2310R-1's measurement row is labeled G2300GR, so its
+weight and dimensions are excluded. G2300B-1V has an explicitly described nylon
+band and a 2039 calendar endpoint. G300-3AV retains its two SR927W batteries and
+2039 calendar. BG1006SA weight uses its own row, not the neighboring BG1005M row.
+The [discovery report](research/wayback-gshock-babyg-discovery-2026-11-14.json)
+records inspected URLs and captures. All additions await independent review.
