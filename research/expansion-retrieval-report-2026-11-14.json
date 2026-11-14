@@ -1,0 +1,36 @@
+{
+  "accessed": "2026-11-14",
+  "product_research": {
+    "attempted": 92,
+    "successful": 77,
+    "unavailable_urls": [
+      "https://www.casio.com/intl/watches/gshock/product.GWG-B1000-1A/",
+      "https://www.casio.com/intl/watches/gshock/product.GD-350-1B/",
+      "https://www.casio.com/intl/watches/gshock/product.G-9000-1/",
+      "https://www.casio.com/intl/watches/gshock/product.AWG-M100-1A/",
+      "https://www.casio.com/intl/watches/gshock/product.GW-2310-1/",
+      "https://www.casio.com/intl/watches/gshock/product.GAW-100-1A/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-6900-1/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-6600Y-1A/",
+      "https://www.casio.com/intl/watches/protrek/product.PRG-600-1/",
+      "https://www.casio.com/intl/watches/protrek/product.PRG-650-1/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-70Y-1/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-30-1A/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-3500-1/",
+      "https://www.casio.com/intl/watches/protrek/product.PRW-3400-1/",
+      "https://www.casio.com/jp/watches/oceanus/product.OCW-S400-1A/"
+    ]
+  },
+  "older_support_gap_checks": {
+    "status": "No usable exact-model reference retrieved; prior gaps retained",
+    "urls": [
+      "https://www.casio.com/hk-en/watches/casio/support.DBC-32-1A/",
+      "https://www.casio.com/in/watches/casio/support.F-105W-1A/",
+      "https://www.casio.com/hk-en/watches/casio/support.MTP-1302D-1A1V/",
+      "https://www.casio.com/in/watches/protrek/support.PRG-270-1/",
+      "https://www.casio.com/uk/watches/casio/support.WV-58R-1A/",
+      "https://www.casio.com/uk/watches/casio/support.WV-59R-1A/"
+    ]
+  },
+  "note": "Retrieval failure is not evidence that a product or feature is absent. No HTTP status is inferred from tool retrieval failures; no access restriction was bypassed."
+}

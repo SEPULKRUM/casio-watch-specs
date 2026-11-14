@@ -19,6 +19,7 @@ LABELS = {
 }
 TRANSLATIONS = {
     'チタン': 'Titanium',
+    '本革バンド': 'Genuine leather',
     'ステンレススチール': 'Stainless steel',
     '樹脂／ステンレススチール': 'Resin / Stainless steel',
     '樹脂バンド': 'Resin',
@@ -68,7 +69,7 @@ def convert(notes):
                 value = float(match[1])
             elif field == 'band_material':
                 parts = raw.splitlines()
-                selected = [p for p in parts if re.search(r'resin|urethane|steel|titanium|樹脂|メタルバンド', p, re.I)]
+                selected = [p for p in parts if re.search(r'resin|urethane|steel|titanium|leather|cloth|nylon|cordura|composite|樹脂|メタルバンド|本革|クロス|布', p, re.I)]
                 if not selected:
                     continue
                 value = TRANSLATIONS.get(selected[0], selected[0])

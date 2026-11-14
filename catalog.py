@@ -73,6 +73,8 @@ def coverage(catalog):
     referenced = {key for r in models.values() for key in
                   ([str(field_value(r, 'module_id') or r.get('module'))]
                    if field_value(r, 'module_id') or r.get('module') else [])}
+    module_fields = Counter(field for record in catalog['modules'].values() for field in record['specs'])
+    profile_sizes = Counter(str(len(record['specs'])) for record in catalog['modules'].values())
     return {'models': len(models), 'modules': len(catalog['modules']),
             'facts_by_status': dict(sorted(counts.items())),
             'models_by_series': dict(sorted(series.items())),
@@ -82,6 +84,10 @@ def coverage(catalog):
             'models_with_ambiguous_manual': dict(sorted(ambiguous.items())),
             'models_without_any_module_reference': sorted(set(unknown_links) - set(ambiguous)),
             'referenced_module_ids_without_specs': sorted(referenced - set(catalog['modules'])),
+            'module_field_coverage': dict(sorted(module_fields.items())),
+            'module_profiles_by_fact_count': dict(sorted(profile_sizes.items(), key=lambda p: int(p[0]))),
+            'modules_with_sparse_profiles': sorted(key for key, record in catalog['modules'].items()
+                                                  if len(record['specs']) < 4),
             'note': 'Coverage counts include pending candidates; unknown does not mean absent.'}
 
 
