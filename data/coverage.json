@@ -1,30 +1,48 @@
 {
-  "models": 121,
-  "modules": 74,
+  "models": 126,
+  "modules": 79,
   "facts_by_status": {
-    "pending_review": 1473
+    "pending_review": 1549
   },
   "models_by_series": {
     "Baby-G": 1,
     "Casio Databank": 2,
     "Casio Standard": 8,
     "Casio Vintage": 3,
-    "Edifice": 1,
-    "G-SHOCK": 36,
+    "Edifice": 3,
+    "G-SHOCK": 38,
     "Lineage": 17,
     "Oceanus": 22,
-    "Pro Trek": 11,
+    "Pro Trek": 12,
     "Wave Ceptor": 20
   },
   "models_missing_fields": {
     "DBC-32-1A": [
       "water_resistance_rating"
     ],
+    "EF527D-1AV": [
+      "dimensions_mm",
+      "case_material"
+    ],
+    "EQS500DB-1A1": [
+      "dimensions_mm"
+    ],
     "G2900F-1V": [
       "dimensions_mm",
       "weight_g",
       "case_material",
       "band_material",
+      "glass"
+    ],
+    "G7710-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "G9000-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
       "glass"
     ],
     "GW5600J-1": [
@@ -40,6 +58,13 @@
     ],
     "MTP-1302D-1A1V": [
       "case_material"
+    ],
+    "PRW3500-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
     ]
   },
   "models_without_module_link": [
@@ -61,7 +86,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 104,
+  "models_with_single_module_reference": 109,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -155,29 +180,29 @@
   "models_without_any_module_reference": [],
   "referenced_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 68,
-    "accuracy_seconds_per_month": 71,
-    "alarm_count": 42,
-    "calendar": 64,
-    "illumination": 8,
-    "power_supply": 47,
-    "snooze_alarm": 18,
-    "stopwatch": 9,
-    "timer": 7,
-    "world_time_cities": 37,
-    "world_time_zones": 37
+    "accuracy_condition": 71,
+    "accuracy_seconds_per_month": 76,
+    "alarm_count": 45,
+    "calendar": 69,
+    "illumination": 11,
+    "power_supply": 52,
+    "snooze_alarm": 21,
+    "stopwatch": 14,
+    "timer": 10,
+    "world_time_cities": 41,
+    "world_time_zones": 41
   },
   "module_profiles_by_fact_count": {
     "1": 1,
     "2": 4,
     "3": 11,
     "4": 10,
-    "5": 15,
+    "5": 16,
     "6": 11,
-    "7": 9,
+    "7": 10,
     "8": 6,
-    "10": 3,
-    "11": 4
+    "10": 5,
+    "11": 5
   },
   "modules_with_sparse_profiles": [
     "1572",
