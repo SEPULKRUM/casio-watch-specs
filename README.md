@@ -333,3 +333,23 @@ Coverage lists the 17 owner-supplied mappings separately in
 `user_provided_module_references`. The 17 shared-guide candidate sets are a
 different group and are unchanged. No earlier import batch, legacy watch record
 or verified fact is replaced by the supplied mappings.
+
+## Follow-up case-back photographs
+
+[Case-back observations](research/caseback-observations-2026-11-14.json) record
+visual transcriptions of the 11 photographs subsequently supplied by SEPULKRUM.
+They corroborate visible family/module pairs such as WV-58R/3476,
+WV-59R/3476, PRJ-B001/5732, PRG-270/3415, GD-010CE/3569, F-105/1572,
+DBC-32/2888 and A168/3298. The MTP-1302 engraving is partly cropped/faint;
+its reading is explicitly lower confidence.
+
+The Lineage pictures show LCW-M170T/5161 and LCW-M100TS/5161. The latter
+is a titanium-family marking and is not used to establish the separate
+LCW-M100DSE stainless-steel association. Case backs generally omit colour and
+regional suffixes, so these pictures do not independently verify every complete
+catalogue identifier in the supplied list. Associations retain their existing
+user-provided provenance and pending-review status.
+
+The observation file references conversation attachment order. Original image
+files were not available in the execution workspace and are not archived in this
+repository; no image hashes or public source URLs have been invented.
