@@ -9,7 +9,7 @@ from urllib.parse import urlsplit
 
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_material',
                 'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish',
-                'promotional_thickness_mm', 'technical_table_thickness_mm'}
+                'promotional_thickness_mm', 'technical_table_thickness_mm', 'display_polarity'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity'}

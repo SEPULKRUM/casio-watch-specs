@@ -1,8 +1,8 @@
 {
-  "models": 148,
-  "modules": 103,
+  "models": 153,
+  "modules": 107,
   "facts_by_status": {
-    "pending_review": 1921
+    "pending_review": 1999
   },
   "models_by_series": {
     "Baby-G": 4,
@@ -12,10 +12,10 @@
     "Casio Standard": 8,
     "Casio Vintage": 3,
     "Edifice": 4,
-    "G-SHOCK": 44,
+    "G-SHOCK": 48,
     "Lineage": 17,
     "Oceanus": 22,
-    "Pathfinder": 3,
+    "Pathfinder": 4,
     "Pro Trek": 13,
     "Wave Ceptor": 24
   },
@@ -115,6 +115,17 @@
       "case_material",
       "glass"
     ],
+    "G9000MS-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW2500-1A": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
     "GW5600J-1": [
       "dimensions_mm",
       "case_material",
@@ -123,6 +134,16 @@
     "GW7900B-1": [
       "dimensions_mm",
       "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "GW9100-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "GW9200-1": [
+      "dimensions_mm",
       "case_material",
       "glass"
     ],
@@ -135,6 +156,11 @@
       "case_material"
     ],
     "PAG240-1": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "PAG80-1V": [
       "dimensions_mm",
       "case_material",
       "glass"
@@ -207,7 +233,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 127,
+  "models_with_single_module_reference": 132,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -318,19 +344,19 @@
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 83,
-    "accuracy_seconds_per_month": 97,
-    "alarm_count": 69,
-    "calendar": 92,
+    "accuracy_condition": 85,
+    "accuracy_seconds_per_month": 101,
+    "alarm_count": 73,
+    "calendar": 96,
     "display_polarity": 2,
-    "illumination": 33,
-    "power_supply": 76,
-    "radio_reception": 7,
-    "snooze_alarm": 30,
-    "stopwatch": 40,
-    "timer": 28,
-    "world_time_cities": 59,
-    "world_time_zones": 59
+    "illumination": 37,
+    "power_supply": 80,
+    "radio_reception": 10,
+    "snooze_alarm": 33,
+    "stopwatch": 44,
+    "timer": 32,
+    "world_time_cities": 63,
+    "world_time_zones": 63
   },
   "module_profiles_by_fact_count": {
     "1": 1,
@@ -341,10 +367,10 @@
     "6": 13,
     "7": 11,
     "8": 7,
-    "9": 2,
+    "9": 3,
     "10": 13,
-    "11": 10,
-    "12": 3
+    "11": 11,
+    "12": 5
   },
   "modules_with_sparse_profiles": [
     "1572",
