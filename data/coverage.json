@@ -1,16 +1,18 @@
 {
-  "models": 142,
-  "modules": 96,
+  "models": 148,
+  "modules": 103,
   "facts_by_status": {
-    "pending_review": 1820
+    "pending_review": 1901
   },
   "models_by_series": {
     "Baby-G": 4,
-    "Casio Databank": 2,
+    "Casio Databank": 3,
+    "Casio Dress": 1,
+    "Casio Sports": 2,
     "Casio Standard": 8,
     "Casio Vintage": 3,
-    "Edifice": 3,
-    "G-SHOCK": 43,
+    "Edifice": 4,
+    "G-SHOCK": 44,
     "Lineage": 17,
     "Oceanus": 22,
     "Pathfinder": 3,
@@ -18,6 +20,16 @@
     "Wave Ceptor": 24
   },
   "models_missing_fields": {
+    "AMW320R-1EV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "AW80-1AV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
     "BG1006SA-1": [
       "dimensions_mm",
       "case_material",
@@ -34,8 +46,22 @@
       "case_material",
       "glass"
     ],
+    "DB36-1AV": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
     "DBC-32-1A": [
       "water_resistance_rating"
+    ],
+    "DW9052-1V": [
+      "dimensions_mm",
+      "case_material",
+      "glass"
+    ],
+    "EF503D-1AV": [
+      "dimensions_mm",
+      "case_material"
     ],
     "EF527D-1AV": [
       "dimensions_mm",
@@ -103,6 +129,11 @@
     "MTP-1302D-1A1V": [
       "case_material"
     ],
+    "MTP4500D-1AV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material"
+    ],
     "PAG240-1": [
       "dimensions_mm",
       "case_material",
@@ -157,6 +188,7 @@
     "A158WA-1",
     "A700W-1A",
     "AE-1200WH-1AV",
+    "AMW320R-1EV",
     "BG1006SA-1",
     "BG169R-1",
     "CA-53W-1",
@@ -175,7 +207,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 122,
+  "models_with_single_module_reference": 127,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -207,6 +239,10 @@
     "AE-1200WH-1AV": [
       "3198",
       "3299"
+    ],
+    "AMW320R-1EV": [
+      "2701",
+      "5153"
     ],
     "BG1006SA-1": [
       "3188",
@@ -282,41 +318,43 @@
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 82,
-    "accuracy_seconds_per_month": 92,
-    "alarm_count": 62,
-    "calendar": 86,
-    "illumination": 28,
-    "power_supply": 68,
+    "accuracy_condition": 83,
+    "accuracy_seconds_per_month": 97,
+    "alarm_count": 67,
+    "calendar": 92,
+    "illumination": 31,
+    "power_supply": 74,
     "radio_reception": 7,
-    "snooze_alarm": 26,
-    "stopwatch": 31,
-    "timer": 23,
-    "world_time_cities": 56,
-    "world_time_zones": 56
+    "snooze_alarm": 28,
+    "stopwatch": 38,
+    "timer": 26,
+    "world_time_cities": 57,
+    "world_time_zones": 57
   },
   "module_profiles_by_fact_count": {
     "1": 1,
     "2": 4,
-    "3": 11,
-    "4": 11,
+    "3": 13,
+    "4": 12,
     "5": 16,
-    "6": 11,
+    "6": 13,
     "7": 11,
-    "8": 6,
+    "8": 7,
     "9": 2,
-    "10": 12,
+    "10": 13,
     "11": 10,
     "12": 1
   },
   "modules_with_sparse_profiles": [
     "1572",
+    "2701",
     "2784",
     "3261",
     "3281",
     "3482",
     "3506",
     "3515",
+    "4755",
     "5125",
     "5128",
     "5227",

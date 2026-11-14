@@ -1,0 +1,57 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-14",
+  "note": "Independent official manuals contradict archived AMW320R-1EV 24-hour stopwatch listing. Manual values are imported per module; model association remains unresolved.",
+  "modules": [
+    {
+      "id": "2701",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+      "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+      "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+      "specs": {
+        "alarm_count": 1,
+        "calendar": {
+          "display": [
+            "month",
+            "day_of_month",
+            "day_of_week"
+          ]
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed"
+          ]
+        }
+      }
+    },
+    {
+      "id": "5153",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+      "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13\u2013E-14 Specifications",
+      "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+      "specs": {
+        "accuracy_seconds_per_month": 30,
+        "accuracy_condition": "At normal temperature",
+        "alarm_count": 1,
+        "calendar": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "normal_time",
+            "net_time"
+          ]
+        },
+        "power_supply": {
+          "battery_type": "SR920W",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

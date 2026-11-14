@@ -1,0 +1,174 @@
+[
+  {
+    "kind": "module",
+    "id": "2701",
+    "specs": {
+      "alarm_count": {
+        "value": 1,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+            "evidence": "Module 2701: alarm_count = 1",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "display": [
+            "month",
+            "day_of_month",
+            "day_of_week"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+            "evidence": "Module 2701: calendar = {'display': ['month', 'day_of_month', 'day_of_week']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+            "evidence": "Module 2701: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5153",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: accuracy_seconds_per_month = 30",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 1,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: alarm_count = 1",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "february_days": 28
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: calendar = {'type': 'auto', 'february_days': 28}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "normal_time",
+            "net_time"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['normal_time', 'net_time']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "SR920W",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+            "accessed": "2026-11-14",
+            "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+            "evidence": "Module 5153: power_supply = {'battery_type': 'SR920W', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

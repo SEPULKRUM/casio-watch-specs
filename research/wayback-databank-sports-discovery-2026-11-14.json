@@ -1,0 +1,201 @@
+{
+  "accessed": "2026-11-14",
+  "requested_capture_date": "20130101",
+  "availability": [
+    {
+      "url": "http://www.casio.com/products/Watches/Sports/AMW320R-1EV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+          "timestamp": "20121218030558"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Sports/AMW330-1AV/",
+      "archived_snapshots": {},
+      "timestamp": "20130101",
+      "error": {
+        "code": "timeout",
+        "message": "client timeout at 5.0 seconds"
+      }
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Sports/AW80-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+          "timestamp": "20130107220531"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Sports/AE1000W-1AV/",
+      "archived_snapshots": {},
+      "timestamp": "20130101",
+      "error": {
+        "code": "timeout",
+        "message": "client timeout at 5.0 seconds"
+      }
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Sports/W96H-1AV/",
+      "archived_snapshots": {},
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Databank/DBC611-1/",
+      "archived_snapshots": {},
+      "timestamp": "20130101",
+      "error": {
+        "code": "timeout",
+        "message": "client timeout at 5.0 seconds"
+      }
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Databank/DB360-1A/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20190524061705/https://www.casio.com/products/watches/databank/db360-1a",
+          "timestamp": "20190524061705"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Databank/DB36-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+          "timestamp": "20130101091012"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/Dress/MTP4500D-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+          "timestamp": "20130111143907"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/EDIFICE/EF503D-1AV/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+          "timestamp": "20130101052451"
+        }
+      },
+      "timestamp": "20130101"
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/EDIFICE/EFA119BK-1AV/",
+      "archived_snapshots": {},
+      "timestamp": "20130101",
+      "error": {
+        "code": "timeout",
+        "message": "client timeout at 5.0 seconds"
+      }
+    },
+    {
+      "url": "http://www.casio.com/products/Watches/G-Shock/DW9052-1V/",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+          "timestamp": "20130102034904"
+        }
+      },
+      "timestamp": "20130101"
+    }
+  ],
+  "retrieval": [
+    {
+      "slug": "amw320r-1ev",
+      "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+      "final_url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+      "bytes": 30147,
+      "sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+      "status": "downloaded"
+    },
+    {
+      "slug": "aw80-1av",
+      "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+      "final_url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+      "bytes": 32025,
+      "sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+      "status": "downloaded"
+    },
+    {
+      "slug": "db360-1a",
+      "url": "https://web.archive.org/web/20190524061705/https://www.casio.com/products/watches/databank/db360-1a",
+      "final_url": "https://web.archive.org/web/20190524061705/https://www.casio.com/products/watches/databank/db360-1a",
+      "bytes": 59299,
+      "sha256": "e6f7dda56eee00c213a4575af9253c15e654e73925d1a7315dcaf199a0ff3d0b",
+      "status": "downloaded"
+    },
+    {
+      "slug": "db36-1av",
+      "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+      "final_url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+      "bytes": 27904,
+      "sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+      "status": "downloaded"
+    },
+    {
+      "slug": "mtp4500d-1av",
+      "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+      "final_url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+      "bytes": 27238,
+      "sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+      "status": "downloaded"
+    },
+    {
+      "slug": "ef503d-1av",
+      "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+      "final_url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+      "bytes": 27978,
+      "sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+      "status": "downloaded"
+    },
+    {
+      "slug": "dw9052-1v",
+      "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+      "final_url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+      "bytes": 27870,
+      "sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+      "status": "downloaded"
+    }
+  ],
+  "imported": [
+    "AMW320R-1EV",
+    "AW80-1AV",
+    "DB36-1AV",
+    "MTP4500D-1AV",
+    "EF503D-1AV",
+    "DW9052-1V"
+  ],
+  "excluded": {
+    "DB360-1A": "Retrieved capture has no detailed Technical Specs section."
+  },
+  "note": "API timeouts and empty availability results are retained as different outcomes; neither proves no archives exist. Scanned official module 1659 PDF was not used for specification transcription."
+}
