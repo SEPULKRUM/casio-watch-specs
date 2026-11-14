@@ -1,0 +1,99 @@
+[
+  {
+    "kind": "module",
+    "id": "3495",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "Accuracy at normal temperature",
+            "evidence": "±15 seconds per month average when time adjustment using signal reception is not possible.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "When signal reception cannot adjust time",
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "Accuracy at normal temperature",
+            "evidence": "Accuracy when time adjustment using signal reception is not possible.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": "Solar panel and rechargeable battery",
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "Power Supply",
+            "evidence": "Solar panel and one rechargeable battery",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "48 cities (31 time zones) and Coordinated Universal Time (UTC)",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "World Time",
+            "evidence": "48 cities (31 time zones) and Coordinated Universal Time (UTC)",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "Alarm",
+            "evidence": "Alarms: 5 (with one snooze alarm)",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Pending independent review of official manual transcription",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-14",
+            "locator": "Alarm",
+            "evidence": "Alarms: 5 (with one snooze alarm)",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]
