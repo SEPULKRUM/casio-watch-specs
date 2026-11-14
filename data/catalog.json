@@ -24712,6 +24712,859 @@
           "candidate_sha256": "fdd129bc2655e11b7a74309ad802730fd62971f43036b03f34e9f8a6dea7cda2"
         }
       }
+    },
+    "AMW320R-1EV": {
+      "id": "AMW320R-1EV",
+      "specs": {
+        "series": {
+          "value": "Casio Sports",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: series = Casio Sports"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "weight_g": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV: weight_g = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        },
+        "module_candidates": {
+          "value": [
+            "2701",
+            "5153"
+          ],
+          "uncertainty": "Historical page lists multiple modules; exact watch module unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+              "archive_timestamp": "20121218030558",
+              "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9ec31c199b5e4aef6c2c05fafa8c078d786fa6106cef1e5bc13debece88327e7",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AMW320R-1EV page explicitly lists Module 2701/5153"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a0a4fffeb9783c7d573ac57f191fbed41c7da0e2d9ec42b24068379a5b0be85b"
+        }
+      }
+    },
+    "AW80-1AV": {
+      "id": "AW80-1AV",
+      "specs": {
+        "series": {
+          "value": "Casio Sports",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: series = Casio Sports"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "water_resistance_rating": {
+          "value": "50M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: water_resistance_rating = 50M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "water_resistance_m": {
+          "value": 50,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: water_resistance_m = 50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "color": {
+          "value": "Black",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: color = Black"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "weight_g": {
+          "value": 34,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV: weight_g = 34"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        },
+        "module_id": {
+          "value": "2747",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "AW80-1AV page explicitly lists Module 2747"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "afcf0d7ed760cefa5c2caef0bd1e2c89251441eec5a8b42ce849a74a84d7e6ca"
+        }
+      }
+    },
+    "DB36-1AV": {
+      "id": "DB36-1AV",
+      "specs": {
+        "series": {
+          "value": "Casio Databank",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV: series = Casio Databank"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        },
+        "water_resistance_rating": {
+          "value": "50M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV: water_resistance_rating = 50M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        },
+        "water_resistance_m": {
+          "value": 50,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV: water_resistance_m = 50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        },
+        "weight_g": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV: weight_g = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        },
+        "module_id": {
+          "value": "2515",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DB36-1AV page explicitly lists Module 2515"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "33b3146635bee699426abb64a55791d73ad2da24a60f22078ad8db8a90565e20"
+        }
+      }
+    },
+    "MTP4500D-1AV": {
+      "id": "MTP4500D-1AV",
+      "specs": {
+        "series": {
+          "value": "Casio Dress",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV: series = Casio Dress"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        },
+        "water_resistance_rating": {
+          "value": "50M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV: water_resistance_rating = 50M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        },
+        "water_resistance_m": {
+          "value": 50,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV: water_resistance_m = 50"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        },
+        "band_material": {
+          "value": "Metal",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV: band_material = Metal"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        },
+        "glass": {
+          "value": "Mineral",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV: glass = Mineral"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        },
+        "module_id": {
+          "value": "4755",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "MTP4500D-1AV page explicitly lists Module 4755"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b8ec745b2a80072a26ed8a26ae1a505d25d4b251de8fd919ec3c7fe08febca54"
+        }
+      }
+    },
+    "EF503D-1AV": {
+      "id": "EF503D-1AV",
+      "specs": {
+        "series": {
+          "value": "Edifice",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: series = Edifice"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "water_resistance_rating": {
+          "value": "100M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: water_resistance_rating = 100M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: water_resistance_m = 100"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "band_material": {
+          "value": "Stainless steel",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: band_material = Stainless steel"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "color": {
+          "value": "Silver",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: color = Silver"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "weight_g": {
+          "value": 135,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: weight_g = 135"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "glass": {
+          "value": "Spherical mineral",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV: glass = Spherical mineral"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        },
+        "module_id": {
+          "value": "2328",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "EF503D-1AV page explicitly lists Module 2328"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "918a24696e7f316c1ed579fcc1fcd51bdfc2bb916aa073ed83d1b202ed7eb897"
+        }
+      }
+    },
+    "DW9052-1V": {
+      "id": "DW9052-1V",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: series = G-SHOCK"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "water_resistance_rating": {
+          "value": "200M Water Resistant",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: water_resistance_rating = 200M Water Resistant"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "color": {
+          "value": "Black band and face",
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: color = Black band and face"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "weight_g": {
+          "value": 59,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V: weight_g = 59"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        },
+        "module_id": {
+          "value": "1659",
+          "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "DW9052-1V page explicitly lists Module 1659"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "34249a74421afca17df061fe2421946a77989a43a81e7060da644b88a8f084ff"
+        }
+      }
     }
   },
   "modules": {
@@ -36403,6 +37256,735 @@
         }
       }
     },
+    "2747": {
+      "id": "2747",
+      "specs": {
+        "alarm_count": {
+          "value": 3,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: alarm_count = 3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: snooze_alarm = True"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "world_time_cities": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: world_time_cities = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: world_time_zones = 29"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: accuracy_seconds_per_month = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2099
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: calendar = {'type': 'auto', 'end_year': 2099}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "lap",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'lap', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: illumination = {'type': 'LED', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+              "archive_timestamp": "20130107220531",
+              "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "6a03016816ce5ab69b894e03380fff648bc21f7a692571a116b6a2356a473d12",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2747: power_supply = {'battery_type': 'CR2025'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6f19b849ecccc78446f33b3e8f0f50504650c6ee706b85f4ec77629919266a53"
+        }
+      }
+    },
+    "2515": {
+      "id": "2515",
+      "specs": {
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: alarm_count = 5"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: snooze_alarm = True"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: accuracy_seconds_per_month = 30"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2039
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: calendar = {'type': 'auto', 'end_year': 2039}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: illumination = {'type': 'LED', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2025"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+              "archive_timestamp": "20130101091012",
+              "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "e9adf921342bcbabbca92634906a8012d376296555e3c28ed8c448e341a36417",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2515: power_supply = {'battery_type': 'CR2025'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9593944c4dab30ac50a4867ec7782853c9ad7278945369b7aab72835845b2c20"
+        }
+      }
+    },
+    "4755": {
+      "id": "4755",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "4755: accuracy_seconds_per_month = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d82b8f02dd5c93a457597bad13456e4adf162f337f906225213f4704533b077"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 1
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "4755: stopwatch = {'resolution_seconds': 1}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d82b8f02dd5c93a457597bad13456e4adf162f337f906225213f4704533b077"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR927W"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+              "archive_timestamp": "20130111143907",
+              "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "9815736f45cc876b94e77db17b77867b81189fb21fca42ede6909fe51e8f08f3",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "4755: power_supply = {'battery_type': 'SR927W'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d82b8f02dd5c93a457597bad13456e4adf162f337f906225213f4704533b077"
+        }
+      }
+    },
+    "2328": {
+      "id": "2328",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2328: accuracy_seconds_per_month = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8af7b79355d9f4b02e15f37aefc64b57472cd3faad6af7096d12f8ac16d4882d"
+        },
+        "calendar": {
+          "value": {
+            "display": "day_of_month"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2328: calendar = {'display': 'day_of_month'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8af7b79355d9f4b02e15f37aefc64b57472cd3faad6af7096d12f8ac16d4882d"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 1,
+            "max_display_seconds": 43199,
+            "modes": [
+              "elapsed"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2328: stopwatch = {'resolution_seconds': 1, 'max_display_seconds': 43199, 'modes': ['elapsed']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8af7b79355d9f4b02e15f37aefc64b57472cd3faad6af7096d12f8ac16d4882d"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR927W"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+              "archive_timestamp": "20130101052451",
+              "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "d5115d36e189144dc0f4c29e794a3ea6f2892871093188ad54bcef1a7051ef63",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "2328: power_supply = {'battery_type': 'SR927W'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8af7b79355d9f4b02e15f37aefc64b57472cd3faad6af7096d12f8ac16d4882d"
+        }
+      }
+    },
+    "1659": {
+      "id": "1659",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: alarm_count = 1"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "end_year": 2039
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: calendar = {'type': 'auto', 'end_year': 2039}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'modes': ['elapsed', 'split', 'two_finishes']}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "auto_repeat": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'auto_repeat': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "afterglow": true
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: illumination = {'type': 'EL', 'afterglow': True}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR2016"
+          },
+          "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+              "archive_timestamp": "20130102034904",
+              "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+              "accessed": "2026-11-14",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+              "locator": "At A Glance / Attributes / Technical Specs",
+              "evidence": "1659: power_supply = {'battery_type': 'CR2016'}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "470000a84e26f25ad7fd16ad772e4c92c5540021fb87756477508f3b19e271a9"
+        }
+      }
+    },
     "3189": {
       "id": "3189",
       "specs": {
@@ -37475,6 +39057,194 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "669e7418b4b2c1b47d2e1e14968fe7cc1e9e6459d5b9dfd7ee732aa200b2c419"
+        }
+      }
+    },
+    "2701": {
+      "id": "2701",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+              "evidence": "Module 2701: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6c8a4b9e96fa7264b6a7c55a7785091f09fb499b5a226a336da753b2ce74142b"
+        },
+        "calendar": {
+          "value": {
+            "display": [
+              "month",
+              "day_of_month",
+              "day_of_week"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+              "evidence": "Module 2701: calendar = {'display': ['month', 'day_of_month', 'day_of_week']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6c8a4b9e96fa7264b6a7c55a7785091f09fb499b5a226a336da753b2ce74142b"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/27/2701/qw2701_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 1 / Module No. 1302/1374/2701 / Setting Calendar, Setting Daily Alarm, Stopwatch Operation",
+              "evidence": "Module 2701: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Title explicitly includes 2701. Operation-only guide lacks battery and accuracy specs; no values copied from paired product listing. Stopwatch working range is 59:59.99, not archived 24-hour claim.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6c8a4b9e96fa7264b6a7c55a7785091f09fb499b5a226a336da753b2ce74142b"
+        }
+      }
+    },
+    "5153": {
+      "id": "5153",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "february_days": 28
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: calendar = {'type': 'auto', 'february_days': 28}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "normal_time",
+              "net_time"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['normal_time', 'net_time']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR920W",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/51/5153/qw5153_EN.pdf",
+              "accessed": "2026-11-14",
+              "locator": "PDF page 2 / E-12 Stopwatch Operation, E-13–E-14 Specifications",
+              "evidence": "Module 5153: power_supply = {'battery_type': 'SR920W', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific guide confirms 59:59.99 stopwatch capacity and February fixed at 28 days. No leap-year-aware full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
         }
       }
     }

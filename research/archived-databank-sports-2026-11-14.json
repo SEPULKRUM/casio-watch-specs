@@ -1,0 +1,249 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-14",
+  "note": "Fifth archive batch: six exact historical US identifiers. Model/module scopes separated. AMW320R shared module reference remains unresolved, and its contradictory stopwatch claim is excluded in favor of separately cited module manuals. All fields pending review; no current or legacy facts overwritten.",
+  "documents": [
+    {
+      "displayed_model": "AMW320R-1EV",
+      "archive_url": "https://web.archive.org/web/20121218030558/http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+      "original_url": "http://www.casio.com:80/products/Watches/Sports/AMW320R-1EV",
+      "archive_timestamp": "20121218030558",
+      "snapshot_sha256": "b14c46f3578f639d368384a5274a7154404111f7d79bb7a2b8b040df28ba22c8",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "AMW320R-1EV page explicitly lists Module 2701/5153",
+      "model_specs": {
+        "series": "Casio Sports",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 100
+      },
+      "module_specs": {},
+      "scope_note": "Archived stopwatch capacity 23:59:59.99 conflicts with official 2701 and 5153 manuals, which both specify 59:59.99. No function text from shared listing imported. Exact module remains unresolved. Weight uses AMW320R row, not AMW320RD 167 g. Dimensions omitted because L/W order is unlabeled.",
+      "module_candidates": [
+        "2701",
+        "5153"
+      ]
+    },
+    {
+      "displayed_model": "AW80-1AV",
+      "archive_url": "https://web.archive.org/web/20130107220531/http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+      "original_url": "http://www.casio.com:80/products/Watches/Sports/AW80-1AV/",
+      "archive_timestamp": "20130107220531",
+      "snapshot_sha256": "08b09e84b6f17b149eeab3d57c3777521f7c7120bdebdade68dff6521588dd51",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "AW80-1AV page explicitly lists Module 2747",
+      "model_specs": {
+        "series": "Casio Sports",
+        "water_resistance_rating": "50M Water Resistant",
+        "water_resistance_m": 50,
+        "band_material": "Resin",
+        "color": "Black",
+        "weight_g": 34
+      },
+      "module_specs": {
+        "alarm_count": 3,
+        "snooze_alarm": true,
+        "world_time_cities": 30,
+        "world_time_zones": 29,
+        "accuracy_seconds_per_month": 30,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "lap",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400
+        },
+        "illumination": {
+          "type": "LED",
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2025"
+        }
+      },
+      "scope_note": "Weight uses AW80 resin row 34 g, not AW80D metal 85 g or AW80V 32 g. Stopwatch modes follow historical listing wording and remain pending review. No auto-light or L/W dimension order inferred.",
+      "module_id": "2747"
+    },
+    {
+      "displayed_model": "DB36-1AV",
+      "archive_url": "https://web.archive.org/web/20130101091012/http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+      "original_url": "http://www.casio.com:80/products/Watches/databank/DB36-1AV",
+      "archive_timestamp": "20130101091012",
+      "snapshot_sha256": "393bdcf7b5ec456dd51ede7e63222e7b862a7e3219d8f772859869be157b9748",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "DB36-1AV page explicitly lists Module 2515",
+      "model_specs": {
+        "series": "Casio Databank",
+        "water_resistance_rating": "50M Water Resistant",
+        "water_resistance_m": 50,
+        "band_material": "Resin",
+        "weight_g": 30
+      },
+      "module_specs": {
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "accuracy_seconds_per_month": 30,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400
+        },
+        "illumination": {
+          "type": "LED",
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2025"
+        }
+      },
+      "scope_note": "Historical 2039 calendar endpoint retained. No world-time city count inferred from dual time or language display. Databank capacity and language fields remain outside current schema. No unstated color or L/W dimension inference.",
+      "module_id": "2515"
+    },
+    {
+      "displayed_model": "MTP4500D-1AV",
+      "archive_url": "https://web.archive.org/web/20130111143907/http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+      "original_url": "http://www.casio.com:80/products/Watches/Dress/MTP4500D-1AV",
+      "archive_timestamp": "20130111143907",
+      "snapshot_sha256": "fbe5ffdbbf914cd44235facfae05040d4d450654820e8eb03ff9fcac3ef663a7",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "MTP4500D-1AV page explicitly lists Module 4755",
+      "model_specs": {
+        "series": "Casio Dress",
+        "water_resistance_rating": "50M Water Resistant",
+        "water_resistance_m": 50,
+        "band_material": "Metal",
+        "glass": "Mineral"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 20,
+        "stopwatch": {
+          "resolution_seconds": 1
+        },
+        "power_supply": {
+          "battery_type": "SR927W"
+        }
+      },
+      "scope_note": "Band is described only as Metal; no stainless-steel case or band composition inferred. One-second chronograph stated without a capacity, so maximum is unknown. No unsupported calendar, weight or dimensions imported.",
+      "module_id": "4755"
+    },
+    {
+      "displayed_model": "EF503D-1AV",
+      "archive_url": "https://web.archive.org/web/20130101052451/http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+      "original_url": "http://www.casio.com:80/products/Watches/EDIFICE/EF503D-1AV/",
+      "archive_timestamp": "20130101052451",
+      "snapshot_sha256": "fda7f86ec223abbe9ce5330f2f691bbd8bcfb580daea1d6082e0bc733f8028ff",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "EF503D-1AV page explicitly lists Module 2328",
+      "model_specs": {
+        "series": "Edifice",
+        "water_resistance_rating": "100M Water Resistant",
+        "water_resistance_m": 100,
+        "band_material": "Stainless steel",
+        "color": "Silver",
+        "weight_g": 135,
+        "glass": "Spherical mineral"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 20,
+        "calendar": {
+          "display": "day_of_month"
+        },
+        "stopwatch": {
+          "resolution_seconds": 1,
+          "max_display_seconds": 43199,
+          "modes": [
+            "elapsed"
+          ]
+        },
+        "power_supply": {
+          "battery_type": "SR927W"
+        }
+      },
+      "scope_note": "Stainless-steel band does not establish case metal. Chronograph limit 11:59:59 is explicit. Weight from EF503D row retained; unlabeled L/W order omitted.",
+      "module_id": "2328"
+    },
+    {
+      "displayed_model": "DW9052-1V",
+      "archive_url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+      "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
+      "archive_timestamp": "20130102034904",
+      "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
+      "locator": "At A Glance / Attributes / Technical Specs",
+      "module_evidence": "DW9052-1V page explicitly lists Module 1659",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_rating": "200M Water Resistant",
+        "water_resistance_m": 200,
+        "band_material": "Resin",
+        "color": "Black band and face",
+        "weight_g": 59
+      },
+      "module_specs": {
+        "alarm_count": 1,
+        "calendar": {
+          "type": "auto",
+          "end_year": 2039
+        },
+        "stopwatch": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "timer": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "auto_repeat": true
+        },
+        "illumination": {
+          "type": "EL",
+          "afterglow": true
+        },
+        "power_supply": {
+          "battery_type": "CR2016"
+        }
+      },
+      "scope_note": "Archive accuracy symbol is corrupted, so accuracy omitted. Stopwatch capacity text uses hundredths but precision is stated to change after first hour; maximum display value omitted rather than choosing an inconsistent representation. Official guide 1659 is scanned and was not transcribed in this batch.",
+      "module_id": "1659"
+    }
+  ]
+}

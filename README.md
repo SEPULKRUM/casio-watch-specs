@@ -1,8 +1,8 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **142 models, 96 modules and 1,820 source-backed candidate
+The catalog now contains **148 models, 103 modules and 1,901 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
-Vintage, Databank, Edifice and Baby-G. All newly researched facts are pending
+Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
 
 ## Use the database now
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 122 single-module references (one legacy association and
-  121 pending references), plus 20 unresolved shared-manual or historical-listing candidate sets. No model now
+  module links. There are 127 single-module references (one legacy association and
+  126 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -533,3 +533,41 @@ guide, including selectable illumination durations and the snooze alarm. No
 function facts are inferred from the archived product listing. All previously
 imported models, modules and legacy data remain unchanged. All additions require
 independent review.
+
+### Fifth archive batch: Sports, Databank and analog watches
+
+The [fifth archive batch](research/archived-databank-sports-2026-11-14.json) and
+[AMW module manuals](research/amw-module-manuals-2026-11-14.json) add six models,
+seven module profiles and 81 pending fields. Historical Sports and Dress categories
+are retained as Casio Sports and Casio Dress.
+
+| Model | Module reference |
+| --- | --- |
+| AMW320R-1EV | 2701 / 5153 |
+| AW80-1AV | 2747 |
+| DB36-1AV | 2515 |
+| MTP4500D-1AV | 4755 |
+| EF503D-1AV | 2328 |
+| DW9052-1V | 1659 |
+
+AMW320R-1EV is a source-conflict case: the archived page claims a 24-hour
+stopwatch, whereas the official guides for **both 2701 and 5153 specify
+59 minutes 59.99 seconds**. The archived function claim is excluded. Both
+manual-sourced module profiles are available, but the exact watch association
+remains unresolved. The 2701 operation-only guide does not supply accuracy or
+battery specifications. Module 5153's calendar fixes February at 28 days; no
+leap-year-aware calendar is inferred.
+
+DW9052-1V's archived accuracy symbol is corrupted, so accuracy is omitted. Its
+stopwatch lists a change in resolution after one hour alongside a hundredths-based
+capacity string; the resolution change is retained, but no maximum display value
+is selected. The scanned official 1659 PDF was not transcribed in this batch.
+MTP4500D-1AV's band is only described as **Metal**; no alloy or case material is
+inferred, and its chronograph capacity remains unknown. DB36-1AV keeps its
+historical 2039 calendar endpoint. AW80-1AV uses its resin-row weight rather
+than metal or cloth variants.
+
+The [discovery report](research/wayback-databank-sports-discovery-2026-11-14.json)
+records archive timeouts separately from empty results. DB360-1A's retrieved
+capture lacks detailed specifications and is excluded. All previous records are
+unchanged; all new facts remain pending independent review.
