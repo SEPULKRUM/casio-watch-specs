@@ -1189,7 +1189,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: series = G-SHOCK"
           }
@@ -1207,7 +1207,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: water_resistance_rating = 200M Water Resistant"
           }
@@ -1225,7 +1225,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: water_resistance_m = 200"
           }
@@ -1243,7 +1243,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: band_material = Resin"
           }
@@ -1261,7 +1261,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: color = Black band and face"
           }
@@ -1279,7 +1279,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V: weight_g = 59"
           }
@@ -1297,7 +1297,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "DW9052-1V page explicitly lists Module 1659"
           }
@@ -1309,123 +1309,6 @@
     "kind": "module",
     "id": "1659",
     "specs": {
-      "alarm_count": {
-        "value": 1,
-        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
-        "sources": [
-          {
-            "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "archive_timestamp": "20130102034904",
-            "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
-            "accessed": "2026-11-14",
-            "permission": "official_public_reference",
-            "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
-            "locator": "At A Glance / Attributes / Technical Specs",
-            "evidence": "1659: alarm_count = 1"
-          }
-        ]
-      },
-      "calendar": {
-        "value": {
-          "type": "auto",
-          "end_year": 2039
-        },
-        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
-        "sources": [
-          {
-            "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "archive_timestamp": "20130102034904",
-            "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
-            "accessed": "2026-11-14",
-            "permission": "official_public_reference",
-            "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
-            "locator": "At A Glance / Attributes / Technical Specs",
-            "evidence": "1659: calendar = {'type': 'auto', 'end_year': 2039}"
-          }
-        ]
-      },
-      "stopwatch": {
-        "value": {
-          "resolution_segments": [
-            {
-              "elapsed_seconds_below": 3600,
-              "resolution_seconds": 0.01
-            },
-            {
-              "elapsed_seconds_at_least": 3600,
-              "resolution_seconds": 1
-            }
-          ],
-          "modes": [
-            "elapsed",
-            "split",
-            "two_finishes"
-          ]
-        },
-        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
-        "sources": [
-          {
-            "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "archive_timestamp": "20130102034904",
-            "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
-            "accessed": "2026-11-14",
-            "permission": "official_public_reference",
-            "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
-            "locator": "At A Glance / Attributes / Technical Specs",
-            "evidence": "1659: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'modes': ['elapsed', 'split', 'two_finishes']}"
-          }
-        ]
-      },
-      "timer": {
-        "value": {
-          "measurement_unit_seconds": 1,
-          "min_countdown_seconds": 60,
-          "max_countdown_seconds": 86400,
-          "auto_repeat": true
-        },
-        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
-        "sources": [
-          {
-            "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "archive_timestamp": "20130102034904",
-            "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
-            "accessed": "2026-11-14",
-            "permission": "official_public_reference",
-            "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
-            "locator": "At A Glance / Attributes / Technical Specs",
-            "evidence": "1659: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'auto_repeat': True}"
-          }
-        ]
-      },
-      "illumination": {
-        "value": {
-          "type": "EL",
-          "afterglow": true
-        },
-        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
-        "sources": [
-          {
-            "url": "https://web.archive.org/web/20130102034904/http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "original_url": "http://www.casio.com:80/products/Watches/g-shock/DW9052-1V",
-            "archive_timestamp": "20130102034904",
-            "snapshot_sha256": "aff502dd604a0c1420fe941f703b740e4324bde3ef6bdf814563c2c846ff30df",
-            "accessed": "2026-11-14",
-            "permission": "official_public_reference",
-            "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
-            "locator": "At A Glance / Attributes / Technical Specs",
-            "evidence": "1659: illumination = {'type': 'EL', 'afterglow': True}"
-          }
-        ]
-      },
       "power_supply": {
         "value": {
           "battery_type": "CR2016"
@@ -1440,7 +1323,7 @@
             "accessed": "2026-11-14",
             "permission": "official_public_reference",
             "evidence_type": "historical_technical_fact",
-            "research_sha256": "dc5d3e518278abce69544254ab898475c9d3e81f3e9f6947d50cb6315fd4f973",
+            "research_sha256": "8ae62e519393dc62ac880ce74126410bc0fbe10c253e12f1780d9b26e26fe0be",
             "locator": "At A Glance / Attributes / Technical Specs",
             "evidence": "1659: power_supply = {'battery_type': 'CR2016'}"
           }
