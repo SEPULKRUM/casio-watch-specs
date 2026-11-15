@@ -55,3 +55,8 @@ export function splitVariant(tail){
  return {variant:match?match[1]:rest,order:match?match[2]:'',market};
 }
 export function evidenceName(status){return ({official_explicit:'Explicit Casio definition',official_observed:'Casio source observation',community_interpretation:'Watch-community interpretation',secondary_reported:'Secondary / supplied reference',unverified:'Meaning unverified'})[status]||status}
+
+export function normalizeBCModel(prefix,key,fallback){
+ const match=key.slice(prefix.length).match(/^([A-Z]*)(\d+)([A-Z]*BC)([1-9][A-Z0-9]*)?$/);
+ return match?`${prefix}-${match[1]}${match[2]}${match[3]}${match[4]?'-'+match[4]:''}`:fallback;
+}
