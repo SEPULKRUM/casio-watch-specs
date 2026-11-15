@@ -2,7 +2,7 @@
   "models": 195,
   "modules": 113,
   "facts_by_status": {
-    "pending_review": 2352
+    "pending_review": 2376
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -102,22 +102,6 @@
       "water_resistance_rating"
     ],
     "GW-M5610B-1": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "GW-M5610BB-1": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "GW-M5610BW-7": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -444,14 +428,14 @@
     "accuracy_condition": 90,
     "accuracy_seconds_per_month": 106,
     "alarm_count": 77,
-    "calendar": 101,
+    "calendar": 102,
     "display_polarity": 2,
-    "illumination": 41,
+    "illumination": 42,
     "power_supply": 85,
-    "radio_reception": 10,
+    "radio_reception": 12,
     "snooze_alarm": 35,
-    "stopwatch": 48,
-    "timer": 34,
+    "stopwatch": 50,
+    "timer": 36,
     "world_time_cities": 65,
     "world_time_zones": 65
   },
@@ -462,12 +446,12 @@
     "4": 13,
     "5": 17,
     "6": 13,
-    "7": 11,
+    "7": 10,
     "8": 8,
-    "9": 4,
+    "9": 3,
     "10": 13,
     "11": 12,
-    "12": 5
+    "12": 7
   },
   "modules_with_sparse_profiles": [
     "1275",
