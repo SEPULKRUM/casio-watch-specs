@@ -947,3 +947,23 @@ facts, source URLs, capture dates and checksums; no scans, photographs, complete
 OCR transcripts or advertising prose are published. Remaining older colourway
 case specifications require exact primary sources; this is not an exhaustive
 all-variants completion claim.
+
+## Additional square colourway specifications · 15 November 2026
+
+Fill physical specifications for **GW-M5610MR-4**, **GW-M5610TH-1** and
+**GW-M5610PC-1** from exact archived official European ER listings. Each lists
+46.7 × 43.2 × 12.7 mm dimensions, resin case, resin band and mineral glass.
+MR-4ER and PC-1ER list approximately 52 g; TH-1ER lists approximately **51.7 g**,
+which is preserved without rounding to another variant's weight.
+
+MR-4ER and TH-1ER explicitly list both 20 bar and 200 metres as pressure-test
+ratings. PC-1ER lists **20 bar only**, so no metre figure is inferred. Case
+material does not assert a separately specified bezel material. Citations retain
+the exact ER identity, original URL, capture timestamp and source checksum.
+Colour, LCD polarity, module association and release date are not inferred.
+
+This adds **23 fields** while retaining all 2,376 earlier facts unchanged:
+**195 models, 113 module profiles and 2,399 candidate specification fields**.
+No full publications, OCR transcripts or images are included. Remaining identity-
+only variants still require exact source pages; these archive searches do not
+establish that an unlocated model or regional listing never existed.

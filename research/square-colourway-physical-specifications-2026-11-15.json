@@ -1,0 +1,98 @@
+{
+  "accessed": "2026-11-15",
+  "method": "Each exact archived Casio Europe heading and physical-specification labels checked separately. No scans, images, complete page text or advertising prose included.",
+  "products": [
+    {
+      "catalog_model": "GW-M5610MR-4",
+      "displayed_model": "GW-M5610MR-4ER",
+      "source": {
+        "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+        "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+        "archive_timestamp": "20150814184426",
+        "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+        "accessed": "2026-11-15",
+        "permission": "official_public_reference",
+        "evidence_type": "historical_technical_fact",
+        "displayed_model": "GW-M5610MR-4ER",
+        "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical."
+      },
+      "specifications": {
+        "dimensions_mm": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "weight_g": 52,
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "glass": "Mineral glass",
+        "water_resistance_rating": "20 bar / 200 metres",
+        "water_resistance_bar": 20,
+        "water_resistance_m": 200
+      },
+      "scope": "Selected physical specifications only. No colour, LCD polarity, release date or module assignment inferred.",
+      "water_resistance_scope": "Both 20 bar and 200 metres are explicit on this exact source page."
+    },
+    {
+      "catalog_model": "GW-M5610TH-1",
+      "displayed_model": "GW-M5610TH-1ER",
+      "source": {
+        "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+        "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+        "archive_timestamp": "20130122051915",
+        "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+        "accessed": "2026-11-15",
+        "permission": "official_public_reference",
+        "evidence_type": "historical_technical_fact",
+        "displayed_model": "GW-M5610TH-1ER",
+        "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical."
+      },
+      "specifications": {
+        "dimensions_mm": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "weight_g": 51.7,
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "glass": "Mineral glass",
+        "water_resistance_rating": "20 bar / 200 metres",
+        "water_resistance_bar": 20,
+        "water_resistance_m": 200
+      },
+      "scope": "Selected physical specifications only. No colour, LCD polarity, release date or module assignment inferred.",
+      "water_resistance_scope": "Both 20 bar and 200 metres are explicit on this exact source page."
+    },
+    {
+      "catalog_model": "GW-M5610PC-1",
+      "displayed_model": "GW-M5610PC-1ER",
+      "source": {
+        "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+        "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+        "archive_timestamp": "20180717234437",
+        "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+        "accessed": "2026-11-15",
+        "permission": "official_public_reference",
+        "evidence_type": "historical_technical_fact",
+        "displayed_model": "GW-M5610PC-1ER",
+        "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical."
+      },
+      "specifications": {
+        "dimensions_mm": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "weight_g": 52,
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "glass": "Mineral glass",
+        "water_resistance_rating": "20 bar",
+        "water_resistance_bar": 20
+      },
+      "scope": "Selected physical specifications only. No colour, LCD polarity, release date or module assignment inferred.",
+      "water_resistance_scope": "PC-1 lists 20 bar only; metres deliberately omitted."
+    }
+  ]
+}
