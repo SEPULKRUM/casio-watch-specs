@@ -1,0 +1,102 @@
+{
+  "type": "owner_supplied_variant_discovery",
+  "provided_by": "SEPULKRUM",
+  "received": "2026-11-15",
+  "attachment": {
+    "filename": "gw5000.pdf",
+    "sha256": "bced617e314acee02e351d4dfeb7248ddbfd91c7633ec87bb0014e62ce1356d0",
+    "displayed_site": "CasioPart"
+  },
+  "scope": "Six GW-5000 search matches; supplied PDF used for discovery only, no live blocked site scraped. Original, U and HS generations remain distinct. Anniversary relatives are not present in this PDF.",
+  "models": [
+    {
+      "listed_model": "GW5000-1",
+      "canonical_model": "GW-5000-1",
+      "listing_year": 2009,
+      "year_status": "Third-party listing year, not an official release date"
+    },
+    {
+      "listed_model": "GW5000B-1",
+      "canonical_model": "GW-5000B-1",
+      "listing_year": 2009,
+      "year_status": "Third-party listing year, not an official release date"
+    },
+    {
+      "listed_model": "GW5000HR-1",
+      "canonical_model": "GW-5000HR-1",
+      "listing_year": 2017,
+      "year_status": "Third-party listing year, not an official release date"
+    },
+    {
+      "listed_model": "GW5000HS-1",
+      "canonical_model": "GW-5000HS-1",
+      "listing_year": 2025,
+      "year_status": "Third-party listing year, not an official release date"
+    },
+    {
+      "listed_model": "GW5000HS-7",
+      "canonical_model": "GW-5000HS-7",
+      "listing_year": 2025,
+      "year_status": "Third-party listing year, not an official release date"
+    },
+    {
+      "listed_model": "GW5000U-1",
+      "canonical_model": "GW-5000U-1",
+      "listing_year": 2021,
+      "year_status": "Third-party listing year, not an official release date"
+    }
+  ],
+  "claims": [
+    {
+      "model": "GW-5000-1",
+      "module": "3159",
+      "year": 2009,
+      "description": "Stainless steel screw-back case, DLC, Tough Solar, Multi-Band 6"
+    },
+    {
+      "model": "GW-5000B-1",
+      "module": "3159",
+      "year": 2009,
+      "description": "Stealth negative display with bronze/gold accents"
+    },
+    {
+      "model": "GW-T5030C-1",
+      "module": "3159",
+      "year": 2013,
+      "description": "Limited 30th-anniversary titanium/carbon composite model"
+    },
+    {
+      "model": "GW-5000HR-1",
+      "module": "3159",
+      "year": 2016,
+      "description": "Hour Resister black/red accents"
+    },
+    {
+      "model": "GW-5035A-1",
+      "module": "3159",
+      "year": 2017,
+      "description": "35th anniversary Big Bang Black with gold caseback"
+    }
+  ],
+  "claim_status": "Owner-supplied; only independently retrieved Casio identity/module evidence is imported in this batch. Other claims remain for exact-model primary corroboration.",
+  "reconciliation": [
+    {
+      "model": "GW-5000HR-1",
+      "issue": "PDF year 2017 differs from owner year 2016",
+      "retailer_source": "https://www.yodobashi.com/product/100000001003243429/",
+      "retailer_evidence": "Sales start date 2016/09/23",
+      "decision": "Keep source-specific dates separate; do not adopt parts listing year as release date. Hour Resister expansion not established by retrieved Casio sources."
+    },
+    {
+      "model": "GW-T5030C-1",
+      "issue": "Exact official product/support pages unavailable in this pass",
+      "lead_url": "https://blog.livedoor.jp/aoyamaishida/archives/1776226.html",
+      "lead_evidence": "Contemporary retailer announcement dated 2013-05-16 describes the 30th-anniversary PORTER model and 6-4 titanium alloy",
+      "decision": "Retain supplied module/material claims in queue; no carbon composite construction inferred. No existing GW-5000 physical specs propagated."
+    },
+    {
+      "model": "GW-5035A-1",
+      "decision": "Distinct anniversary identity; official support primary manual confirms 3159. Edition name, finish and caseback material remain research claims until exact primary evidence is acquired."
+    }
+  ]
+}

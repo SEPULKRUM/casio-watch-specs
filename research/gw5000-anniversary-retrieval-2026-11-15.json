@@ -1,0 +1,25 @@
+{
+  "accessed": "2026-11-15",
+  "complete": false,
+  "scope": "First official-source discovery pass, not an exhaustive all-variants claim",
+  "casiopart": {
+    "url": "https://www.casiopart.com/",
+    "status": "http_403",
+    "robots_status": "http_403",
+    "use": "Variant/image discovery only; no specifications or image reuse assumed"
+  },
+  "models": [
+    {
+      "model": "GW-T5030C-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-T5030C-1/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "model": "GW-5035A-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5035A-1/",
+      "status": "http_error",
+      "http_status": 404
+    }
+  ]
+}

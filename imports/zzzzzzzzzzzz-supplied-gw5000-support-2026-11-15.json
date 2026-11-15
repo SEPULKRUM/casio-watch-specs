@@ -1,0 +1,116 @@
+[
+  {
+    "kind": "model",
+    "id": "GW-5000B-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Official support brand classification; physical specifications not yet researched",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000B-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5000B-1JR",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5000B-1JR: primary operation guide qw3159",
+            "snapshot_sha256": "c662af5f04872fa8362b0f054221dc2dafd632c7b94073f7a6815b7cb8c9ee8a",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3159",
+        "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000B-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5000B-1JR",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5000B-1JR: primary operation guide qw3159",
+            "snapshot_sha256": "c662af5f04872fa8362b0f054221dc2dafd632c7b94073f7a6815b7cb8c9ee8a",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-5000HR-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Official support brand classification; physical specifications not yet researched",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000HR-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5000HR-1JF",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5000HR-1JF: primary operation guide qw3159",
+            "snapshot_sha256": "ef37ce20378089174d69c7d9bbc07dc73a845cdf64a66d77a362eab825e01415",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3159",
+        "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000HR-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5000HR-1JF",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5000HR-1JF: primary operation guide qw3159",
+            "snapshot_sha256": "ef37ce20378089174d69c7d9bbc07dc73a845cdf64a66d77a362eab825e01415",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-5035A-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Official support brand classification; physical specifications not yet researched",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5035A-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5035A-1JR",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5035A-1JR: primary operation guide qw3159",
+            "snapshot_sha256": "357994dfde852c08ef658982be2cf953a423de09c1e100dd1069795e65f0ba46",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3159",
+        "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/support.GW-5035A-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model support heading and primary operation-guide link",
+            "displayed_model": "GW-5035A-1JR",
+            "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+            "evidence": "GW-5035A-1JR: primary operation guide qw3159",
+            "snapshot_sha256": "357994dfde852c08ef658982be2cf953a423de09c1e100dd1069795e65f0ba46",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

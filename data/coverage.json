@@ -1,8 +1,8 @@
 {
-  "models": 192,
+  "models": 195,
   "modules": 112,
   "facts_by_status": {
-    "pending_review": 2343
+    "pending_review": 2349
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -12,7 +12,7 @@
     "Casio Standard": 8,
     "Casio Vintage": 3,
     "Edifice": 6,
-    "G-SHOCK": 82,
+    "G-SHOCK": 85,
     "Lineage": 17,
     "Oceanus": 22,
     "Pathfinder": 4,
@@ -76,6 +76,30 @@
       "dimensions_mm",
       "case_material",
       "glass"
+    ],
+    "GW-5000B-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-5000HR-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-5035A-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "GW-M5610B-1": [
       "dimensions_mm",
@@ -306,7 +330,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 171,
+  "models_with_single_module_reference": 174,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",

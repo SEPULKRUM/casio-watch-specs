@@ -1,0 +1,39 @@
+{
+  "accessed": "2026-11-15",
+  "method": "Owner-supplied GW-5000 and related anniversary references missing from catalog; exact official support identity and unique primary PDF module link. No physical specs inferred.",
+  "observations": [
+    {
+      "model": "GW-5000B-1",
+      "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000B-1/",
+      "status": "official_identity_and_module_only",
+      "displayed_model": "GW-5000B-1JR",
+      "module_id": "3159",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+      "snapshot_sha256": "c662af5f04872fa8362b0f054221dc2dafd632c7b94073f7a6815b7cb8c9ee8a"
+    },
+    {
+      "model": "GW-5000HR-1",
+      "url": "https://www.casio.com/jp/watches/gshock/support.GW-5000HR-1/",
+      "status": "official_identity_and_module_only",
+      "displayed_model": "GW-5000HR-1JF",
+      "module_id": "3159",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+      "snapshot_sha256": "ef37ce20378089174d69c7d9bbc07dc73a845cdf64a66d77a362eab825e01415"
+    },
+    {
+      "model": "GW-T5030C-1",
+      "url": "https://www.casio.com/jp/watches/gshock/support.GW-T5030C-1/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "model": "GW-5035A-1",
+      "url": "https://www.casio.com/jp/watches/gshock/support.GW-5035A-1/",
+      "status": "official_identity_and_module_only",
+      "displayed_model": "GW-5035A-1JR",
+      "module_id": "3159",
+      "manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+      "snapshot_sha256": "357994dfde852c08ef658982be2cf953a423de09c1e100dd1069795e65f0ba46"
+    }
+  ]
+}
