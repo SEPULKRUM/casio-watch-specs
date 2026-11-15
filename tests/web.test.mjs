@@ -24,13 +24,7 @@ const {partsForModel,validateParts}=await import('../web/parts.mjs');
 test('parts links preserve exact variants and reject unsafe destinations',()=>{const id='GW-M5610-1',row={listed_model:id,url:'https://boley.de/en/case-parts/casio/25194.gw-m5610-1',observed_qw_codes:['QW3159-01']},p={schema_version:1,supplier:'Boley',models:{[id]:row}};assert.equal(validateParts(p),p);assert.equal(partsForModel(p,id).url,row.url);assert.equal(partsForModel(p,'GW-M5610-1B'),null);for(const url of ['javascript:alert(1)','https://boley.de.evil.example/en/case-parts/casio/25194.gw-m5610-1','https://boley.de/en/case-parts/casio/25195.gw-m5610-1b','https://boley.de/en/search?q=5610'])assert.equal(partsForModel({models:{[id]:{...row,url}}},id),null);assert.throws(()=>validateParts({schema_version:1,supplier:'Other',models:{}}))});
 test('published parts manifest links only exact catalog models',()=>{const p=validateParts(JSON.parse(fs.readFileSync(new URL('../data/parts-links.json',import.meta.url))));assert.ok(Object.keys(p.models).length>0);for(const [id,row] of Object.entries(p.models)){assert.ok(data.models[id],id);assert.ok(partsForModel(p,id),id);assert.ok(row.accessed);assert.ok(/^[0-9a-f]{64}$/.test(row.snapshot_sha256))}});
 
-const {prefixLetters,modelColor,officialProductLink,letterPalette}=await import('../web/decoder-presentation.mjs');
-test('letter tiles preserve order, position, repeated G distinction and uncertainty',()=>{
- const letters=prefixLetters('GWG');assert.deepEqual(letters.map(x=>x.letter),['G','W','G']);assert.deepEqual(letters.map(x=>x.position),[1,2,3]);assert.notEqual(letters[0].background,letters[2].background);assert.equal(letters[2].meaning,'Meaning unverified');assert.equal(letters[2].evidence,'unverified');assert.equal(letters[1].evidence,'community_interpretation');assert.match(prefixLetters('GPW')[1].meaning,/Positioning/);assert.equal(prefixLetters('DW')[0].evidence,'community_interpretation');
-});
-test('letter tile palette has WCAG AA contrast with white text',()=>{
- const luminance=hex=>{const rgb=hex.match(/[0-9a-f]{2}/gi).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return .2126*rgb[0]+.7152*rgb[1]+.0722*rgb[2]};for(const color of letterPalette)assert.ok(1.05/(luminance(color)+.05)>=4.5,color);
-});
+const {modelColor,officialProductLink}=await import('../web/decoder-presentation.mjs');
 test('colour code requires an explicit variant and never uses series digits',()=>{
  assert.equal(modelColor(decodeModel('GPW-1000')),null);assert.equal(modelColor(decodeModel('GWG-B1000')),null);const color=modelColor(decodeModel('GWG-B1000-1A'));assert.equal(color.digit,'1');assert.equal(color.label,'Black');assert.equal(color.evidence,'unverified');assert.match(color.note,/heuristic/);const result=decodeModel('GWG-B1000-7');result.exact={specs:{color:{value:'Ivory',status:'pending_review'}}};assert.equal(modelColor(result).actual,'Ivory');assert.equal(modelColor(result).label,'Ivory');
 });
@@ -55,7 +49,7 @@ test('research identifiers remain separate from catalog models and candidates st
  const missing=Object.values(refs.models).find(m=>m.observations.every(o=>o.role==='prior_machine_index'));assert.equal(missing.status,'machine_candidate');assert.match(referenceStatus(missing),/unverified/);
 });
 test('historical prefix collisions do not inherit modern G-SHOCK features or colour guesses',()=>{
- for(const id of ['GM-40','GMW-15-1V','GD-8-1','GM-40-1']){const result=decodeModel(id,data,refs);assert.equal(result.family,'HISTORICAL CASIO',id);assert.equal(result.historicalReference,true);assert.doesNotMatch(result.segments[0].description,/Full-metal|Metal-covered/);assert.equal(modelColor(result),null);for(const letter of prefixLetters(result.prefix,{historical:true}))assert.equal(letter.evidence,'unverified')}
+ for(const id of ['GM-40','GMW-15-1V','GD-8-1','GM-40-1']){const result=decodeModel(id,data,refs);assert.equal(result.family,'HISTORICAL CASIO',id);assert.equal(result.historicalReference,true);assert.doesNotMatch(result.segments[0].description,/Full-metal|Metal-covered/);assert.equal(modelColor(result),null);assert.equal(result.segments[0].communityMeaning,null)}
  assert.equal(decodeModel('GMW-B5000D-1',data,refs).family,'G-SHOCK');assert.equal(decodeModel('GW-M5610U-1',data,refs).segments.find(s=>s.token==='U').title,'Updated model');
 });
 test('numeric-leading historical identifiers are references without guessed prefixes or modules',()=>{
@@ -75,15 +69,15 @@ test('GW-B5600BC-1BER separates feature B, bracelet BC, colour, order B and ER',
  assert.equal(modelColor(decodeModel('GW-B5600BC-1BJR',data,refs)).evidence,'unverified');
 });
 test('GMW-B5000 metal and Bluetooth associations are scoped and separate from features',()=>{
- const r=decodeModel('gmw-b5000',data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GMW','B','5000']);assert.equal(modelColor(r),null);assert.match(r.segments[1].description,/Bluetooth/);assert.equal(r.segments[1].status,'community_interpretation');assert.match(r.officialFeatures.description,/metal construction/);assert.match(prefixLetters('GMW')[1].meaning,/Metal/);assert.equal(prefixLetters('GMW')[1].evidence,'community_interpretation');assert.deepEqual(decodeModel('GMW-B5000D-1ER').segments.map(s=>s.token),['GMW','B','5000','D','1','ER']);
+ const r=decodeModel('gmw-b5000',data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GMW','B','5000']);assert.equal(modelColor(r),null);assert.match(r.segments[1].description,/Bluetooth/);assert.equal(r.segments[1].status,'community_interpretation');assert.match(r.officialFeatures.description,/metal construction/);assert.match(r.segments[0].communityMeaning.meaning,/Metal-construction/);assert.equal(r.segments[0].communityMeaning.status,'community_interpretation');assert.deepEqual(decodeModel('GMW-B5000D-1ER').segments.map(s=>s.token),['GMW','B','5000','D','1','ER']);
  assert.match(decodeModel('GMW-B9999').segments[1].description,/not been established/);assert.match(decodeModel('GW-B9999').segments[1].description,/not been established/);assert.equal(decodeModel('GMW-15-1V',data,refs).officialFeatures,null);
 });
 test('GPW alternatives remain community interpretations alongside official technology wording',()=>{
  for(const model of ['GPW-1000','GPW-2000']){const r=decodeModel(model,data,refs);assert.equal(r.family,'G-SHOCK / GRAVITYMASTER');assert.equal(r.officialFeatures.technologyName,'GPS Hybrid Wave Ceptor');assert.match(r.segments[0].description,/not an official acronym/)}
- const p=prefixLetters('GPW')[1];assert.match(p.meaning,/Positioning.*Pilot/);assert.equal(p.evidence,'community_interpretation');assert.notEqual(prefixLetters('GPW')[2].evidence,'official_explicit');assert.deepEqual(decodeModel('GPW-2000-1A2').segments.map(s=>s.token),['GPW','2000','1','A2']);
+ const p=decodeModel('GPW-2000').segments[0].communityMeaning;assert.match(p.meaning,/positioning.*Pilot/);assert.equal(p.status,'community_interpretation');assert.deepEqual(decodeModel('GPW-2000-1A2').segments.map(s=>s.token),['GPW','2000','1','A2']);
 });
 test('DW community interpretation never assigns a universal depth or G-SHOCK identity',()=>{
- const r=decodeModel('DW-291H-1AV',data,refs);assert.match(r.segments[0].description,/Digital Water Resistant/);assert.match(r.segments[0].description,/non-G-SHOCK/);assert.match(r.segments[0].description,/prefix alone does not establish/);assert.equal(r.segments[0].status,'community_interpretation');assert.notEqual(prefixLetters('DW')[0].evidence,'official_explicit');assert.equal(r.officialFeatures,null);assert.deepEqual(decodeModel('GW-M5610U-1').segments.slice(0,4).map(s=>s.token),['GW','M','5610','U']);assert.match(decodeModel('GW-M5610U-1').segments[3].description,/Updated/);
+ const r=decodeModel('DW-291H-1AV',data,refs);assert.match(r.segments[0].description,/Digital Water Resistant/);assert.match(r.segments[0].description,/non-G-SHOCK/);assert.match(r.segments[0].description,/prefix alone does not establish/);assert.equal(r.segments[0].status,'community_interpretation');assert.equal(r.segments[0].communityMeaning.status,'community_interpretation');assert.equal(r.officialFeatures,null);assert.deepEqual(decodeModel('GW-M5610U-1').segments.slice(0,4).map(s=>s.token),['GW','M','5610','U']);assert.match(decodeModel('GW-M5610U-1').segments[3].description,/Updated/);
 });
 
 test('official-feature source links have reviewed checksums without claiming letter definitions',()=>{
@@ -125,4 +119,14 @@ test('multi-line guide adds qualified prefix associations and references without
  for(const prefix of ['CMK','MDV','AEQ','WVQ','LIN','BGS','MTD','MRW'])assert.equal(decodeModel(prefix,data,refs).prefix,prefix);
  assert.equal(decodeModel('CMK',data,refs).family,'CASIO AUTOMATIC');assert.equal(decodeModel('CMK',data,refs).segments[0].status,'official_observed');assert.match(decodeModel('MDV',data,refs).segments[0].description,/do not infer 200 m/);
  const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,195);
+});
+
+const {prefixMeaning}=await import('../web/prefix-meanings.mjs');
+test('whole-prefix cards replace individual-letter cards and guide meanings appear in the family row',()=>{
+ const r=decodeModel('AE1200',data,refs);assert.equal(r.segments[0].token,'AE');assert.equal(r.segments[0].communityMeaning.meaning,'Digital multi-function / world-time family');assert.equal(r.segments[0].communityMeaning.status,'community_interpretation');assert.match(r.segments[0].communityMeaning.locator,/PDF page 3/);assert.deepEqual(r.segments.map(s=>s.token),['AE','1200']);
+ const app=fs.readFileSync(new URL('../web/app.mjs',import.meta.url),'utf8');assert.doesNotMatch(app,/prefixLetters|prefix-letters|letter-tile/);assert.match(app,/for\(const segment of result.segments\)chips.append/);assert.match(app,/The community understands this prefix as:/);
+});
+test('supplied guide family explanations remain scoped community readings rather than universal specs',()=>{
+ for(const prefix of ['WV','WVA','WVQ','LCW','LIW','LIN','BG','BGA','BGD','BGS','BLX','MSG','F','A','W','LA','CA','DB','DBC','MQ','LQ','AE','AEQ','MDV','MTD','MRW','MTP','LTP','CMK']){const meaning=prefixMeaning(prefix);assert.ok(meaning,prefix);assert.equal(meaning.status,'community_interpretation');assert.match(meaning.note,/not an official universal/);assert.ok(meaning.source.endsWith('guide-v3-2026-11-15.json'))}
+ assert.equal(prefixMeaning('NOTKNOWN'),null);assert.equal(decodeModel('GMW-15-1V',data,refs).segments[0].communityMeaning,null);assert.match(decodeModel('GW-M5610U-1').segments[3].description,/Updated/);assert.deepEqual(decodeModel('GW-B5600BC-1BER').segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);
 });

@@ -2,7 +2,7 @@
 
 Every search displays this distinction: the sources reviewed do not provide a complete universal Casio letter-by-letter key. Some readings follow watch-community naming patterns. Official model features and proposed letter expansions are labelled separately. A confirmed Bluetooth feature does not by itself make a B expansion an explicit Casio definition.
 
-Use the longest family prefix, preserve individual-letter positions, and scope interpretations to the relevant model line and era. Unknown meanings remain unknown. The supplied infographic is secondary guidance; its optional-letter suggestions do not become universal rules. In particular U does not universally mean solar, and MV/GMV revision theories do not establish fitted module references.
+Keep the longest family prefix together as one token and one model-family row. Do not display individual-letter meaning cards. Scope interpretations to the relevant model line and era. Unknown meanings remain unknown. The supplied infographic is secondary guidance; its optional-letter suggestions do not become universal rules. In particular U does not universally mean solar, and MV/GMV revision theories do not establish fitted module references.
 
 ## GPW-1000 and GPW-2000
 
@@ -62,3 +62,18 @@ GWF / D / 1000 / BC / 1. That parsing alone does not establish the exact model
 or a bracelet configuration. GW-M5610BC-1 splits into GW / M / 5610 / BC / 1;
 GW-M5610UBC-1 retains the scoped Updated U before BC. Original and compact input
 forms agree. Unknown meanings and unconfirmed model identities remain labelled.
+
+
+## Whole-prefix presentation
+
+The model-family row now carries the supplied guide's whole-prefix meaning under
+**The community understands this prefix as:**. For AE, show **Digital multi-function /
+world-time family** with the guide's PDF page 3 citation and a community label.
+AE stays one prefix; the decoder must not render separate A and E cards.
+
+Whole-prefix guide readings cover Wave Ceptor, Lineage, BABY-G, Classic/Standard,
+AE/AEQ, MDV-related families, MTP/LTP and CMK. Earlier community examples GW, GMW,
+GPW and DW are also shown as grouped readings. Unknown or historical-collision
+contexts keep their qualified reference description. Model-series, BC/U, colour,
+order and market segments remain separate as before. Official feature observations
+and community meanings retain their separate classifications.

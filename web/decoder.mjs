@@ -1,3 +1,4 @@
+import {prefixMeaning} from './prefix-meanings.mjs';
 import {appearanceForModel,variantOrderInterpretation} from './variant-interpretations.mjs';
 import {normalizeKnownModel,normalizeBCModel,modelRule,splitVariant,ruleSources} from './decoder-rules.mjs';
 import {exactReferences} from './model-references.mjs';
@@ -23,7 +24,8 @@ export function decodeModel(input,data=null,references=null){
  if(/^GWGB1000(?:1A)?$/.test(key))normalized=key==='GWGB1000'?'GWG-B1000':'GWG-B1000-1A';
  if(/^GWM5610U?$/.test(key))normalized=key.endsWith('U')?'GW-M5610U':'GW-M5610';
  const prefix=family[1],body=normalized.slice(0,prefix.length).replace(/-/g,'')===prefix?normalized.slice(prefix.length).replace(/^-/,''):key.slice(prefix.length);
- const segments=[{type:'prefix',token:prefix,title:'Model family',description:family[2],source:family[4]?.source||referenceUrl,status:family[4]?.status||'Established family reference'}];
+ const communityPrefixMeaning=historicalReference?null:prefixMeaning(prefix);
+ const segments=[{type:'prefix',token:prefix,communityMeaning:communityPrefixMeaning,title:'Model family',description:family[2],source:family[4]?.source||referenceUrl,status:family[4]?.status||'Established family reference'}];
  if(prefix==='DW'){segments[0].description='DW is commonly read by the watch community as Digital Water Resistant. It is used on G-SHOCK and non-G-SHOCK Casio watches. Check the exact model’s water-resistance rating; the prefix alone does not establish 200 m / 20 bar.';segments[0].status='community_interpretation';segments[0].source=ruleSources.dw291;}
  if(key===prefix)return {recognized:true,prefix,family:family[0],normalized,segments,exact,references:matches,historicalReference,prefixOnly:true};
  // Known lines are normalized above; other compact inputs do not receive invented variant boundaries.
