@@ -42,3 +42,25 @@ test('official product cards require exact-model reviewed links and reject sibli
  const app=fs.readFileSync(new URL('../web/app.mjs',import.meta.url),'utf8');assert.match(app,/noopener noreferrer/);assert.match(app,/target='_blank'/);assert.match(app,/Official Casio product page unavailable/);
  const links=JSON.parse(fs.readFileSync(new URL('../data/official-product-links.json',import.meta.url)));for(const [id,row] of Object.entries(links.models)){assert.ok(data.models[id]);if(row.official_url_verified)assert.ok(officialProductLink(row,id),id);else assert.equal(officialProductLink(row,id),null)};
 });
+
+const {validateReferences,findReferences,exactReferences,referenceStatus}=await import('../web/model-references.mjs');
+const refs=validateReferences(JSON.parse(fs.readFileSync(new URL('../data/model-references.json',import.meta.url))));
+test('expanded prefix library recognizes extracted families without inventing expansions',()=>{
+ for(const prefix of ['CFX','TC','TGW','DGW','AWG','GPW','IRW','PRX','SPF','LP','MQW','PRJ']){const result=decodeModel(prefix,data,refs);assert.equal(result.prefix,prefix);assert.equal(result.prefixOnly,true);assert.match(result.segments[0].status,/secondary_reported|unverified/)}
+ assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,129);
+});
+const {entries:entriesForReferenceTest}=await import('../web/decoder.mjs');
+test('research identifiers remain separate from catalog models and candidates stay labelled',()=>{
+ assert.equal(findReferences(refs,'CFX').total>0,true);assert.equal(findReferences(refs,'',12).total,0);const matches=exactReferences(refs,'gmw151v');assert.equal(matches[0].id,'GMW-15-1V');assert.match(referenceStatus(matches[0]),/secondary/);assert.ok(!data.models['GMW-15-1V']);assert.ok(findReferences(refs,'DW').total>12);assert.equal(findReferences(refs,'DW').models.length,12);
+ const missing=Object.values(refs.models).find(m=>m.observations.every(o=>o.role==='prior_machine_index'));assert.equal(missing.status,'machine_candidate');assert.match(referenceStatus(missing),/unverified/);
+});
+test('historical prefix collisions do not inherit modern G-SHOCK features or colour guesses',()=>{
+ for(const id of ['GM-40','GMW-15-1V','GD-8-1','GM-40-1']){const result=decodeModel(id,data,refs);assert.equal(result.family,'HISTORICAL CASIO',id);assert.equal(result.historicalReference,true);assert.doesNotMatch(result.segments[0].description,/Full-metal|Metal-covered/);assert.equal(modelColor(result),null);for(const letter of prefixLetters(result.prefix,{historical:true}))assert.equal(letter.evidence,'unverified')}
+ assert.equal(decodeModel('GMW-B5000D-1',data,refs).family,'G-SHOCK');assert.equal(decodeModel('GW-M5610U-1',data,refs).segments.find(s=>s.token==='U').title,'Updated model');
+});
+test('numeric-leading historical identifiers are references without guessed prefixes or modules',()=>{
+ const result=decodeModel('110QS-37B',data,refs);assert.equal(result.recognized,true);assert.equal(result.prefix,'');assert.equal(result.family,'HISTORICAL MODEL REFERENCE');assert.equal(result.exact,undefined);assert.equal(result.segments.length,1);assert.match(result.segments[0].description,/No alphabetical prefix or module/);
+});
+test('invalid reference manifests fail safely and cannot introduce markup as model IDs',()=>{
+ const bad=structuredClone(refs);bad.models['<img>']={id:'<img>',status:'machine_candidate',observations:[]};assert.throws(()=>validateReferences(bad));const missing=structuredClone(refs);delete missing.sources[Object.keys(missing.sources)[0]];assert.throws(()=>validateReferences(missing));
+});

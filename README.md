@@ -996,3 +996,18 @@ profiles and 2,496 candidate specification fields** (+97). These new fields rema
 pending independent review. Only selected technical facts and provenance are
 published; no source images, source publications, complete JSON responses, OCR
 transcripts or advertising prose are included.
+
+## Extracted model-reference and prefix library · 15 November 2026
+
+Expand the decoder from **57 to 129 prefix patterns** using the supplied research
+ZIP and historical compilation. A separate searchable library contains **2,325
+model/series strings**: 58 selected index identifiers checked, 155 supplied
+transcriptions and 2,112 unverified machine candidates. These are **not** 2,325
+verified watches or additional specification records. New prefix entries preserve
+uncertainty and do not invent letter expansions.
+
+Model-reference searches expose source/page provenance and unavailable originals;
+numeric-leading historical IDs remain intact. Historical GM/GMW/GD/GG/BA contexts
+do not inherit modern family features or unsupported colour guesses. The existing
+195-model specification catalog and its 2,496 facts are unchanged. See the
+[extraction scope, counts and rebuild instructions](research/prefix-library-2026-11-15/README.md).
