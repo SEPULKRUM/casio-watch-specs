@@ -967,3 +967,32 @@ This adds **23 fields** while retaining all 2,376 earlier facts unchanged:
 No full publications, OCR transcripts or images are included. Remaining identity-
 only variants still require exact source pages; these archive searches do not
 establish that an unlocated model or regional listing never existed.
+
+## Discontinued square support-feed specifications · 15 November 2026
+
+Casio's public support pages request an official model-specific product-data feed.
+That feed still provides selected facts for discontinued variants whose current
+product pages are unavailable. Add **96 missing fields across 16 existing
+models**: dimensions, weight, manufacturer colour categories, resin-band tags and
+explicit 20-bar ratings. Product name, displayed JF/JR identity, SKU and existing
+module reference must agree before conversion. The dimension/weight field mapping
+was checked against the visible GW-M5610U-1 product specification's mm/g labels.
+Every source retains the exact feed URL, displayed regional identity and checksum.
+
+Differences remain intact: GW-5000B-1 lists **73.8 g**, GW-5000HR-1 **74 g**, and
+several earlier GW-M5610 variants **51.7 g**. Feed release dates are not imported
+because their historical date semantics need further checking. No case/bezel
+material, glass, LCD polarity or metre rating is inferred from sibling variants,
+photographs or machine tags. These remaining unknowns stay blank.
+
+An official Origin catalogue separately identifies **GW-5000-1's DLC-coated
+screw-back**, adding one finish field scoped to that model and component. For
+**GW-M5610SD-8**, the feed's broad Brown category is retained alongside a source
+note for the catalogue's more specific desert-beige description; neither is
+silently discarded.
+
+All **2,399 earlier fields remain unchanged**. Totals are **195 models, 113 module
+profiles and 2,496 candidate specification fields** (+97). These new fields remain
+pending independent review. Only selected technical facts and provenance are
+published; no source images, source publications, complete JSON responses, OCR
+transcripts or advertising prose are included.
