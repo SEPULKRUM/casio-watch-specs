@@ -23,3 +23,22 @@ test('evidence labels preserve conflicts, archives and owner supplied distinctio
 const {partsForModel,validateParts}=await import('../web/parts.mjs');
 test('parts links preserve exact variants and reject unsafe destinations',()=>{const id='GW-M5610-1',row={listed_model:id,url:'https://boley.de/en/case-parts/casio/25194.gw-m5610-1',observed_qw_codes:['QW3159-01']},p={schema_version:1,supplier:'Boley',models:{[id]:row}};assert.equal(validateParts(p),p);assert.equal(partsForModel(p,id).url,row.url);assert.equal(partsForModel(p,'GW-M5610-1B'),null);for(const url of ['javascript:alert(1)','https://boley.de.evil.example/en/case-parts/casio/25194.gw-m5610-1','https://boley.de/en/case-parts/casio/25195.gw-m5610-1b','https://boley.de/en/search?q=5610'])assert.equal(partsForModel({models:{[id]:{...row,url}}},id),null);assert.throws(()=>validateParts({schema_version:1,supplier:'Other',models:{}}))});
 test('published parts manifest links only exact catalog models',()=>{const p=validateParts(JSON.parse(fs.readFileSync(new URL('../data/parts-links.json',import.meta.url))));assert.ok(Object.keys(p.models).length>0);for(const [id,row] of Object.entries(p.models)){assert.ok(data.models[id],id);assert.ok(partsForModel(p,id),id);assert.ok(row.accessed);assert.ok(/^[0-9a-f]{64}$/.test(row.snapshot_sha256))}});
+
+const {prefixLetters,modelColor,officialProductLink,letterPalette}=await import('../web/decoder-presentation.mjs');
+test('letter tiles preserve order, position, repeated G distinction and uncertainty',()=>{
+ const letters=prefixLetters('GWG');assert.deepEqual(letters.map(x=>x.letter),['G','W','G']);assert.deepEqual(letters.map(x=>x.position),[1,2,3]);assert.notEqual(letters[0].background,letters[2].background);assert.equal(letters[2].meaning,'Meaning unverified');assert.equal(letters[2].evidence,'unverified');assert.equal(letters[1].evidence,'community_interpretation');assert.match(prefixLetters('GPW')[1].meaning,/Positioning/);assert.equal(prefixLetters('DW')[0].evidence,'unverified');
+});
+test('letter tile palette has WCAG AA contrast with white text',()=>{
+ const luminance=hex=>{const rgb=hex.match(/[0-9a-f]{2}/gi).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return .2126*rgb[0]+.7152*rgb[1]+.0722*rgb[2]};for(const color of letterPalette)assert.ok(1.05/(luminance(color)+.05)>=4.5,color);
+});
+test('colour code requires an explicit variant and never uses series digits',()=>{
+ assert.equal(modelColor(decodeModel('GPW-1000')),null);assert.equal(modelColor(decodeModel('GWG-B1000')),null);const color=modelColor(decodeModel('GWG-B1000-1A'));assert.equal(color.digit,'1');assert.equal(color.label,'Black');assert.equal(color.evidence,'unverified');assert.match(color.note,/heuristic/);const result=decodeModel('GWG-B1000-7');result.exact={specs:{color:{value:'Ivory',status:'pending_review'}}};assert.equal(modelColor(result).actual,'Ivory');assert.equal(modelColor(result).label,'Ivory');
+});
+test('official product cards require exact-model reviewed links and reject sibling/unsafe links',()=>{
+ const model='GW-M5610U-1',record={model,verified_exact_model:model,official_product_url:'https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/',official_url_verified:true,official_url_source:{title:model},official_url_checked_at:'2026-11-15'};
+ assert.ok(officialProductLink(record,model));assert.equal(officialProductLink(null,model),null);assert.equal(officialProductLink(record,'GW-M5610U-1B'),null);
+ for(const url of ['https://casio.com.evil.example/product.GW-M5610U-1/','http://www.casio.com/product.GW-M5610U-1/','https://name:secret@casio.com/product.GW-M5610U-1/','https://www.casio.com/product.GW-M5610U-1B/'])assert.equal(officialProductLink({...record,official_product_url:url},model),null);
+ assert.equal(officialProductLink({...record,official_url_verified:false},model),null);
+ const app=fs.readFileSync(new URL('../web/app.mjs',import.meta.url),'utf8');assert.match(app,/noopener noreferrer/);assert.match(app,/target='_blank'/);assert.match(app,/Official Casio product page unavailable/);
+ const links=JSON.parse(fs.readFileSync(new URL('../data/official-product-links.json',import.meta.url)));for(const [id,row] of Object.entries(links.models)){assert.ok(data.models[id]);if(row.official_url_verified)assert.ok(officialProductLink(row,id),id);else assert.equal(officialProductLink(row,id),null)};
+});

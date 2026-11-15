@@ -2,9 +2,9 @@
 // Additional catalog-backed EFB, BGD, BA and GD family associations.
 export const entries=[
   [
-    "G-SHOCK",
+    "Casio / G-SHOCK",
     "DW",
-    "Classic digital G-SHOCK family",
+    "Digital family used by both G-SHOCK and earlier non-G-SHOCK Casio watches; exact model classification requires evidence",
     "DW-5600"
   ],
   [

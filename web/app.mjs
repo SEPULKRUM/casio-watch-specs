@@ -1,8 +1,9 @@
 import {value,moduleIds,findModels,stats,safeUrl,validateData,label,display,evidenceLabel,recordEvidenceLabel} from './core.mjs';
 import {decodeModel} from './decoder.mjs';
+import {prefixLetters,modelColor,officialProductLink} from './decoder-presentation.mjs';
 import {validateParts,partsForModel} from './parts.mjs';
 const $=s=>document.querySelector(s), el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
-let data=null,parts=null,partsUnavailable=false,state={query:'',family:'',verified:false},activeModel=null,lastDecode=null;
+let productLinks=null,data=null,parts=null,partsUnavailable=false,state={query:'',family:'',verified:false},activeModel=null,lastDecode=null;
 const repo='https://github.com/SEPULKRUM/casio-watch-specs';
 function link(text,url){const a=el('a',text);const valid=safeUrl(url);if(valid){a.href=valid;a.target='_blank';a.rel='noopener noreferrer'}return a}
 function status(text){$('#data-status').textContent=text}
@@ -38,9 +39,17 @@ function partsSection(model){
  }else section.append(el('p',partsUnavailable?'Parts links are temporarily unavailable.':parts?'No exact Boley model listing has been linked yet.':'Loading parts references…','detail-description'),link('Browse Boley’s Casio directory ↗','https://boley.de/en/case-parts/casio'));
  return section;
 }
+function watchCard(model){
+ const card=el('section',undefined,'watch-link-card');
+ const url=officialProductLink(productLinks?.models?.[model.id],model.id);
+ const icon=el('span','◷','watch-outline');icon.setAttribute('aria-hidden','true');card.append(icon);
+ if(url)card.append(link(`SEE THE WATCH · ${model.id} ↗`,url));
+ else card.append(el('p','Official Casio product page unavailable'));
+ return card;
+}
 function openModel(id,write=true){
  const model=data.models[id];if(!model)return;activeModel=id;const body=$('#detail-body');body.replaceChildren();body.append(el('div',value(model,'series')||'Casio','detail-family'),el('h2',id));body.querySelector('h2').id='detail-title';body.append(el('span',recordEvidenceLabel(model),'pill'));
- const share=el('button','Copy model link','text-button detail-link');share.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);share.textContent='Link copied'}catch{share.textContent='Copy the address from your browser'}});body.append(share,partsSection(model));
+ const share=el('button','Copy model link','text-button detail-link');share.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);share.textContent='Link copied'}catch{share.textContent='Copy the address from your browser'}});body.append(share,watchCard(model),partsSection(model));
  const section=el('section',undefined,'detail-section');section.append(el('h3','Watch specifications'),el('p','Case, materials and appearance belong to this model.','detail-description'));addFacts(section,model,['series','module_id','module_candidates']);
  const missing=['dimensions_mm','weight_g','case_material','band_material','glass','water_resistance_rating'].filter(k=>!model.specs[k]);if(missing.length)section.append(el('p','Not recorded: '+missing.map(label).join(' · '),'unknowns'));body.append(section);
  const moduleSection=el('section',undefined,'detail-section'),ids=moduleIds(model),ambiguous=Boolean(value(model,'module_candidates'));moduleSection.append(el('h3',ambiguous?'Module options':'Module functions'));
@@ -55,8 +64,16 @@ function renderPrefix(query,force=false){
  const result=decodeModel(query,data),root=$('#prefix-result');lastDecode=result;
  if(!result.recognized){root.replaceChildren();root.hidden=!force||result.empty;if(!root.hidden)root.append(el('p',result.reason,'decode-missing'));return result}
  root.hidden=false;root.replaceChildren();const header=el('div',undefined,'decode-header');header.append(el('h3',result.normalized),el('span',result.family,'decode-family'));root.append(header);
- const chips=el('div',undefined,'decode-chips');for(const segment of result.segments)chips.append(el('span',segment.token,'decode-chip '+segment.type));root.append(chips);
+ const letters=el('div',undefined,'prefix-letters');
+ for(const item of prefixLetters(result.prefix)){
+  const cell=el('div',undefined,'prefix-letter'),tile=el('span',item.letter,'letter-tile');tile.style.backgroundColor=item.background;tile.setAttribute('aria-label',`Prefix letter ${item.position}: ${item.letter}`);
+  cell.append(tile,el('p',item.meaning),el('small',item.evidence));letters.append(cell);
+ }
+ root.append(letters,el('p','Casio has no established universal official prefix acronym key. Family associations do not prove individual letter definitions.','decoder-disclosure'));
+ const chips=el('div',undefined,'decode-chips');for(const segment of result.segments.filter(s=>s.type!=='prefix'))chips.append(el('span',segment.token,'decode-chip '+segment.type));root.append(chips);
  for(const segment of result.segments){const row=el('div',undefined,'decode-row'),description=el('div');description.append(el('h4',segment.title),el('p',segment.description),el('small',segment.status||'Reference'));if(segment.source)description.append(link('Reference source ↗',segment.source));row.append(el('div',segment.token,'decode-token'),description);root.append(row)}
+ const color=modelColor(result);
+ if(color){const section=el('section',undefined,'model-color');section.append(el('h4','Model color code'));const swatch=el('span',undefined,'color-swatch');swatch.style.backgroundColor=color.swatch;swatch.setAttribute('aria-hidden','true');const line=el('p');line.append(swatch,el('strong',`${color.digit} · ${color.label}`));section.append(line,el('p',color.note),el('small',color.evidence));if(color.actual)section.append(el('p',`Exact catalog colour: ${color.actual}. Catalog evidence takes precedence over the heuristic (${color.actualStatus}).`));root.append(section)}
  const coverage=el('div',undefined,'decode-coverage');
  if(result.exact){coverage.append(el('div',`Full specification record available: ${result.exact.id}`));const button=el('button','Open watch specifications','primary');button.addEventListener('click',()=>openModel(result.exact.id));coverage.append(button)}
  else coverage.append(el('div',result.prefixOnly?'Family decoded. Enter a complete model to check for an exact specification record.':`Prefix decoded. This exact model is not yet in the ${data?Object.keys(data.models).length:'current'}-model specification catalog. The model-family interpretation is available independently.`));root.append(coverage);return result;
@@ -74,5 +91,6 @@ function installData(next){data=validateData(next);const s=stats(data);$('#model
  if(state.family&&!s.families[state.family])state.family='';select.value=state.family;$('#load-error').hidden=true;render();const id=readHash();if(id)openModel(id,false);
 }
 async function loadParts(remote=false){try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/parts-links.json':'parts-links.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Parts references unavailable');parts=validateParts(await r.json());partsUnavailable=false}catch{if(!parts)partsUnavailable=true}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
-async function load(remote=false){loadParts(remote);$('#refresh').disabled=true;status(remote?'Checking GitHub…':'Loading catalog…');try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/catalog.json':'catalog.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error(`Catalog request returned ${r.status}.`);const next=await r.json();installData(next);status(remote?'Latest GitHub data loaded':'Bundled catalog loaded');$('#updated').textContent=remote?'Refreshed just now · main branch':'Snapshot · 15 November 2026'}catch(e){if(data)status('Refresh unavailable · showing saved snapshot');else{$('#load-error').hidden=false;$('#load-message').textContent=e.message;status('Catalog unavailable')}}finally{$('#refresh').disabled=false}}
+async function loadProductLinks(){try{const r=await fetch('official-product-links.json',{cache:'no-store'});if(!r.ok)throw Error();const next=await r.json();if(next.schema_version===1&&next.models)productLinks=next}catch{productLinks=null}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
+async function load(remote=false){loadParts(remote);loadProductLinks();$('#refresh').disabled=true;status(remote?'Checking GitHub…':'Loading catalog…');try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/catalog.json':'catalog.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error(`Catalog request returned ${r.status}.`);const next=await r.json();installData(next);status(remote?'Latest GitHub data loaded':'Bundled catalog loaded');$('#updated').textContent=remote?'Refreshed just now · main branch':'Snapshot · 15 November 2026'}catch(e){if(data)status('Refresh unavailable · showing saved snapshot');else{$('#load-error').hidden=false;$('#load-message').textContent=e.message;status('Catalog unavailable')}}finally{$('#refresh').disabled=false}}
 $('#prefix-form').addEventListener('submit',e=>{e.preventDefault();submitPrefix($('#prefix-input').value)});for(const b of document.querySelectorAll('[data-model]'))b.addEventListener('click',()=>submitPrefix(b.dataset.model));$('#prefix-input').addEventListener('input',e=>renderPrefix(e.target.value));$('#search').addEventListener('input',e=>{state.query=e.target.value;const decoded=decodeModel(state.query,data);if(decoded.recognized)$('#prefix-input').value=state.query;render()});$('#family-select').addEventListener('change',e=>setFamily(e.target.value));$('#verified').addEventListener('change',e=>{state.verified=e.target.checked;render()});$('#refresh').addEventListener('click',()=>load(true));$('#retry').addEventListener('click',()=>load());$('#reset').addEventListener('click',()=>{state={query:'',family:'',verified:false};$('#search').value='';$('#prefix-input').value='';$('#verified').checked=false;setFamily('')});$('#close').addEventListener('click',closeDetail);$('#detail').addEventListener('cancel',e=>{e.preventDefault();closeDetail()});$('#detail').addEventListener('click',e=>{if(e.target===$('#detail')){const r=$('#detail').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right)closeDetail()}});window.addEventListener('hashchange',()=>{const id=readHash();if(id&&data)openModel(id,false);else closeDetail()});document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName)&&!$('#detail').open){e.preventDefault();$('#search').focus()}});load();
