@@ -33,3 +33,4 @@ jobs:
             data/catalog.json
             data/watches.csv
             data/coverage.json
+            data/parts-links.json
