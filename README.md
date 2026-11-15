@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **153 models, 107 modules and 2,051 source-backed candidate
+The catalog now contains **158 models, 111 modules and 2,124 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -12,8 +12,8 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 132 single-module references (one legacy association and
-  131 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
+  module links. There are 137 single-module references (one legacy association and
+  136 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
   lacks a reported module reference. Seventeen single-module mappings were supplied
   by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
   historical production revisions.
@@ -748,3 +748,37 @@ Likewise, Mineral versus Mineral Glass is classified as wording only. The
 distinguishes these from the numerical weight discrepancy and records four
 404 endpoints. Per-product exclusions reproduce the additive import without
 duplicate existing facts. All 20 additions remain pending independent review.
+
+## Edifice and Baby-G coverage expansion
+
+The [current official product batch](research/edifice-babyg-products-2026-11-15.json)
+adds five models and four separately researched module profiles, totaling 73
+pending facts. Edifice coverage rises from four to **six** models; Baby-G rises
+from four to **seven**.
+
+| Exact displayed model | Series | Current manual selector |
+| --- | --- | --- |
+| EFB108D-1AV | Edifice | 5664 |
+| EFSS570D-1A | Edifice | 5634 |
+| BGD565-1 | Baby-G | 3489 |
+| BGD565-7 | Baby-G | 3489 |
+| BA110-1A | Baby-G | 5338 |
+
+Each exact-model page embeds an official manual selector explicitly naming its
+module; the selector strings, page checksum and page URL are retained in the
+notes. These are current official references, not proof of all historical
+production revisions. In particular, the BGD565 product selectors explicitly
+name 3489. Its shared guide also covers 3229/3421, which does not establish
+that those modules were fitted to either BGD565 variant.
+
+The [module research](research/edifice-babyg-manuals-2026-11-15.json) keeps
+module-specific distinctions: 3489 uses **CR1616**, not the **CR2016** row for
+3229/3421; 5338 uses **two SR726W** batteries. The analog date mechanisms
+5664/5634 use a 31-day month and need manual shorter-month adjustment, rather
+than a full automatic calendar. Module 5634's one-second chronograph stops at
+60 minutes; model sapphire glass and water ratings remain separate from functions.
+
+The [discovery report](research/edifice-babyg-discovery-report-2026-11-15.json)
+records five usable pages and five 404 endpoints, without substituting similar
+models. All previous model/module records and verified legacy data are unchanged.
+All new facts remain pending independent review.
