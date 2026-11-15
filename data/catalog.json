@@ -35359,6 +35359,220 @@
           "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
         }
       }
+    },
+    "GWF-D1035B-1": {
+      "id": "GWF-D1035B-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "productBrand",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: series = \"G-SHOCK\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "module_id": {
+          "value": "3445",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "moduleNumber",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: module_id = \"3445\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 59.2,
+            "width": 53.3,
+            "thickness": 18.0
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "height / width / depth, mm",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: dimensions_mm = {\"length\": 59.2, \"width\": 53.3, \"thickness\": 18.0}"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "weight_g": {
+          "value": 141,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "weight, g",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: weight_g = 141"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "water_resistance_rating": {
+          "value": "ISO 200 m diving water resistance",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "hashTagPath wp200-iso",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: water_resistance_rating = \"ISO 200 m diving water resistance\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "hashTagPath wp200-iso",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: water_resistance_m = 200"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "color": {
+          "value": "Gold / red / black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+              "permission": "official_public_reference",
+              "locator": "colorName",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GWF-D1035B-1JR",
+              "scope_note": "Japanese regional SKU observed under the base designation; no equivalence of other regional variants asserted.",
+              "evidence": "GWF-D1035B-1: color = \"Gold / red / black\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "case_material": {
+          "value": "Asymmetric stainless-steel inner case with resin bezel and screw-lock caseback",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/anniversary-evidence-2026-11-15.json",
+              "provided_by": "Repository owner",
+              "source_sha256": "6adb0ae50ddd2752b7474c2d81c185702250499c6481513f5e30eada48189292",
+              "permission": "user_provided",
+              "locator": "Featured model exterior specifications",
+              "accessed": "2026-11-15",
+              "evidence": "GWF-D1035B-1: case_material = \"Asymmetric stainless-steel inner case with resin bezel and screw-lock caseback\""
+            }
+          ],
+          "uncertainty": "Owner-supplied watch specification; not independently confirmed by checked primary sources.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "case_finish": {
+          "value": "Black DLC-coated caseback with Eric Haze 35th Anniversary emblem; gold ion-plated hardware",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/anniversary-evidence-2026-11-15.json",
+              "provided_by": "Repository owner",
+              "source_sha256": "6adb0ae50ddd2752b7474c2d81c185702250499c6481513f5e30eada48189292",
+              "permission": "user_provided",
+              "locator": "Featured model exterior specifications",
+              "accessed": "2026-11-15",
+              "evidence": "GWF-D1035B-1: case_finish = \"Black DLC-coated caseback with Eric Haze 35th Anniversary emblem; gold ion-plated hardware\""
+            }
+          ],
+          "uncertainty": "Owner-supplied watch specification; not independently confirmed by checked primary sources.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "glass": {
+          "value": "Sapphire crystal with anti-reflective coating",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/anniversary-evidence-2026-11-15.json",
+              "provided_by": "Repository owner",
+              "source_sha256": "6adb0ae50ddd2752b7474c2d81c185702250499c6481513f5e30eada48189292",
+              "permission": "user_provided",
+              "locator": "Featured model exterior specifications",
+              "accessed": "2026-11-15",
+              "evidence": "GWF-D1035B-1: glass = \"Sapphire crystal with anti-reflective coating\""
+            }
+          ],
+          "uncertainty": "Owner-supplied watch specification; not independently confirmed by checked primary sources.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        },
+        "band_material": {
+          "value": "Black/red resin with carbon-fibre inserts; gold ion-plated star-engraved metal keeper",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/anniversary-evidence-2026-11-15.json",
+              "provided_by": "Repository owner",
+              "source_sha256": "6adb0ae50ddd2752b7474c2d81c185702250499c6481513f5e30eada48189292",
+              "permission": "user_provided",
+              "locator": "Featured model exterior specifications",
+              "accessed": "2026-11-15",
+              "evidence": "GWF-D1035B-1: band_material = \"Black/red resin with carbon-fibre inserts; gold ion-plated star-engraved metal keeper\""
+            }
+          ],
+          "uncertainty": "Owner-supplied watch specification; not independently confirmed by checked primary sources.",
+          "status": "pending_review",
+          "candidate_sha256": "01de72ac5c700519f2bd69dce623e4763c86209bf7c05e9fd1f9a9b64bc42858"
+        }
+      }
     }
   },
   "modules": {
@@ -51544,6 +51758,346 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "98d7c7ee34b225e94b3f74bc4fa4165b4d477831bdcea15674dc0b0e17928310"
+        }
+      }
+    },
+    "3445": {
+      "id": "3445",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: accuracy_seconds_per_month = 15"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "accuracy_condition": {
+          "value": "With no signal calibration, at normal temperature",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: accuracy_condition = \"With no signal calibration, at normal temperature\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "power_supply": {
+          "value": "Solar panel and rechargeable battery; approximately 7 months under the manual’s specified operating conditions",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: power_supply = \"Solar panel and rechargeable battery; approximately 7 months under the manual’s specified operating conditions\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: world_time_cities = 48"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "world_time_zones": {
+          "value": 31,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: world_time_zones = 31"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "alarm_count": {
+          "value": 5,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: alarm_count = 5"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: snooze_alarm = true"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "stopwatch": {
+          "value": "1/100 second; capacity 99:59:59.99; elapsed, split and two finishes",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: stopwatch = \"1/100 second; capacity 99:59:59.99; elapsed, split and two finishes\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "timer": {
+          "value": "24-hour countdown, one-second measurement, one-minute setting unit",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: timer = \"24-hour countdown, one-second measurement, one-minute setting unit\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "illumination": {
+          "value": "LED; selectable approximately 1.5 or 3 seconds; full-auto light in darkness",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: illumination = \"LED; selectable approximately 1.5 or 3 seconds; full-auto light in darkness\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "calendar": {
+          "value": "Full auto-calendar 2000–2099",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: calendar = \"Full auto-calendar 2000–2099\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "radio_reception": {
+          "value": "Automatic and manual calibration; JJY (two Japan transmitters), WWVB, MSF, DCF77 and BPC",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: radio_reception = \"Automatic and manual calibration; JJY (two Japan transmitters), WWVB, MSF, DCF77 and BPC\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "depth_meter": {
+          "value": {
+            "range_m": "0.0–80.0",
+            "range_ft": "0.0–262.5",
+            "step_m": 0.1,
+            "step_ft": 0.5,
+            "auto_start_stop_depth_m": 1.5,
+            "ascent_alarm": "5-second ascent-rate alarm"
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: depth_meter = {\"range_m\": \"0.0–80.0\", \"range_ft\": \"0.0–262.5\", \"step_m\": 0.1, \"step_ft\": 0.5, \"auto_start_stop_depth_m\": 1.5, \"ascent_alarm\": \"5-second ascent-rate alarm\"}"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "digital_compass": {
+          "value": {
+            "range_degrees": "0–359",
+            "continuous_seconds": 60,
+            "diving_continuous_seconds": 20,
+            "correction": "Auto level correction; figure-8 and 3-point calibration; magnetic declination correction",
+            "bearing_memory": "Available outside Diving Mode",
+            "step_degrees": 1
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-123; diving measurements E-41",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "Module 3445 compass: 0–359 degrees, 1-degree units, auto level correction, 60 seconds normal / 20 seconds diving"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "thermometer": {
+          "value": {
+            "range_c": "−10.0–60.0",
+            "range_f": "14.0–140.0",
+            "step_c": 0.1,
+            "step_f": 0.2
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: thermometer = {\"range_c\": \"−10.0–60.0\", \"range_f\": \"14.0–140.0\", \"step_c\": 0.1, \"step_f\": 0.2}"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "dive_log": {
+          "value": {
+            "records": 20,
+            "fields": [
+              "Dive start date/time",
+              "Dive time",
+              "Maximum depth",
+              "Lowest water temperature"
+            ],
+            "surface_time": "Up to 48 hours"
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: dive_log = {\"records\": 20, \"fields\": [\"Dive start date/time\", \"Dive time\", \"Maximum depth\", \"Lowest water temperature\"], \"surface_time\": \"Up to 48 hours\"}"
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "tide_moon": {
+          "value": "Tide graph with selectable date/time; moon phase and moon age",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+              "accessed": "2026-11-15",
+              "snapshot_sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+              "permission": "official_public_reference",
+              "locator": "Specifications E-122–E-125",
+              "evidence_type": "normalized_technical_fact",
+              "evidence": "3445: tide_moon = \"Tide graph with selectable date/time; moon phase and moon age\""
+            }
+          ],
+          "uncertainty": "Official-source candidate; independent review pending.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
+        },
+        "battery_cell": {
+          "value": "CTL1616 rechargeable cell; approximately 23 months on Power Save (owner-supplied, not established in checked manual)",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "reference": "research/anniversary-evidence-2026-11-15.json",
+              "provided_by": "Repository owner",
+              "source_sha256": "6adb0ae50ddd2752b7474c2d81c185702250499c6481513f5e30eada48189292",
+              "permission": "user_provided",
+              "locator": "Featured module power claims",
+              "accessed": "2026-11-15",
+              "evidence": "3445: battery_cell = \"CTL1616 rechargeable cell; approximately 23 months on Power Save (owner-supplied, not established in checked manual)\""
+            }
+          ],
+          "uncertainty": "Owner-supplied watch specification; not independently confirmed by checked primary sources.",
+          "status": "pending_review",
+          "candidate_sha256": "521a5065b23bd394fc28302153e35f8af02d20dfd5f18c155ce198acea2c7ce4"
         }
       }
     }

@@ -1,3 +1,4 @@
+import {normalizeAnniversary} from './anniversary.mjs';
 import {ownerPattern} from './owner-prefix-readings.mjs';
 import {applyGuide} from './guide-interpretations.mjs';
 import {prefixMeaning} from './prefix-meanings.mjs';
@@ -29,6 +30,7 @@ export function decodeModel(input,data=null,references=null){
  if(/^GWM5610U?$/.test(key))normalized=key.endsWith('U')?'GW-M5610U':'GW-M5610';
  if(['LCW','LIW','LIN','MTP','LTP','CMK','MDV','MTD','MRW','WV','WVA','WVQ'].includes(family[1])&&!cleaned.includes('-')){const m=key.slice(family[1].length).match(/^([A-Z]*\d+[A-Z]*)([1-9][A-Z][A-Z0-9]*)?$/);if(m)normalized=family[1]+'-'+m[1]+(m[2]?'-'+m[2]:'');}
  if(suppliedPattern?.code.includes('-')&&!cleaned.includes('-')&&normalized===cleaned){const [base,mod]=suppliedPattern.code.split('-');normalized=base+'-'+mod+key.slice(base.length+mod.length);}
+ normalized=normalizeAnniversary(key,normalized);
  const prefix=family[1],body=normalized.slice(0,prefix.length).replace(/-/g,'')===prefix?normalized.slice(prefix.length).replace(/^-/,''):key.slice(prefix.length);
  const communityPrefixMeaning=historicalReference?null:prefixMeaning(prefix);
  const segments=[{type:'prefix',token:prefix,communityMeaning:communityPrefixMeaning,title:'Model family',description:family[2],source:family[4]?.source||referenceUrl,status:family[4]?.status||'Established family reference'}];

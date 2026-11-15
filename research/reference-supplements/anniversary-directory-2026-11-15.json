@@ -1,0 +1,879 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:anniversary-directory-2026-11-15",
+  "source": {
+    "filename": "ANNIVERSARY.txt",
+    "sha256": "a3cba01227c52f0ba9520d303b671caf6a2af92839829a84fd556724b3d59478",
+    "pages": 1,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied anniversary directory; page 1 is the logical text document, not a PDF page"
+  },
+  "models": [
+    {
+      "id": "AWG-525A-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-525C-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M535C-4A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-S290SS-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-S565ZE-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CRW-001-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CRW-001G-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5025B-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5025D-8",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5025SP-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5030-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5030C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5035D-1B",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5035E-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5040PG-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5040RX-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5600GU-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5600VT",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5625E-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5635-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5635C-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5640RX-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5735C-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5735D-1B",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5735E-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6640RE-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6900FS-8",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6930A-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6930BS-8",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6930C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6935C-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-6940RX-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DWE-5640RX-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DWE-5657RE-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "ECB-2000SS-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EFS-S640ZE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EFS-S641TMS-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-9025A-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-9330A-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-D001",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-110EH-8A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-113B-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-114RE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-114RX-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-135A-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-2140RE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-2140RX-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-303B-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-735A-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-735C-4A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-735E-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-835A-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-835E-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GB-5600AA-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GB-6900AA-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GCW-B5000UN-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GCW-B5000UN-6",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GD-X6930E-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GF-8230A-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GF-8230E-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GF-8235D-1B",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GG-1035A-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-114GEM-1A9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-2140GEM-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-5640GEM-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-S114GEM-1A2",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-S2140GEM-9A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GM-S5640GEM-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMA-S114RX-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMA-S2140RX-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMC-B2100ZE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000EH-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000PG-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000PS-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000SS-2",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000TFC-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GMW-B5000TFG-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GPR-B1000TF-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GPW-2000TFB-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GS-1150D-7A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GST-B100TFB-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-225A-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-225C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-225E-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-5035A-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-5525A-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-5530C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-5625C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-8201K-7JR",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-8202K-2JR",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-8230B-9A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-8230NT-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9025C-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9125D-8",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9225E-7",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9230BJ-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9330B-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9430EJ-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-M5630A-4",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-1035F-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-A1000APF-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-D1035B-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-T1030A-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-T1030E-9",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWG-2040FR-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MRG-B2000SG-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MRG-B5000SA-2",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MRG-BF1000EB-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MRG-G2000HA-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-B1000TF-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-B3000FR-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-S1030BD-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S7000SS-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-SG1000ZE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRJ-B001WM-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-61SS-2",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-6900ZE-1",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "TRN-50-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "TRN-50SS-2A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "TRN-50ZE-1A",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "TRN",
+      "family": "CASIOTRON / supplied anniversary reference",
+      "description": "Casiotron revival family association in the owner-supplied anniversary directory. Model details require exact-source confirmation.",
+      "status": "unverified"
+    },
+    {
+      "prefix": "CRW",
+      "family": "CASIO RING WATCH",
+      "description": "Ring-watch family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified"
+    },
+    {
+      "prefix": "GMC",
+      "family": "G-SHOCK",
+      "description": "Full-metal chronograph family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified"
+    },
+    {
+      "prefix": "DWE",
+      "family": "G-SHOCK",
+      "description": "Interchangeable-bezel digital family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified"
+    }
+  ]
+}

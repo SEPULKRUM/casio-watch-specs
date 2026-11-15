@@ -1,0 +1,59 @@
+{
+  "owner_source": {
+    "filename": "ANNIVERSARY.txt",
+    "sha256": "a3cba01227c52f0ba9520d303b671caf6a2af92839829a84fd556724b3d59478"
+  },
+  "checked_sources": [
+    {
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GWF-D1035B-1.json",
+      "sha256": "848d74c86b661669f231b958dd401f0a93fb4c3ee38c32c72ecab6407c12bae2",
+      "displayed_sku": "GWF-D1035B-1JR"
+    },
+    {
+      "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3445/qw3445_EN.pdf",
+      "sha256": "882a5a5edf330aad20f4e2b2ba85c93038456f0067f9877fa7d2e97621df6392",
+      "locator": "Specifications E-122\u2013E-125"
+    }
+  ],
+  "limits": [
+    "No claim of worldwide release-date agreement",
+    "Detailed exterior, cell identifier and 23-month power-saving estimate remain owner supplied",
+    "Regional aliases are research references, not independently verified identical watch records"
+  ],
+  "directory_entries": 124,
+  "unique_directory_ids": 120,
+  "type": "user_watch_specifications",
+  "provided_by": "Repository owner",
+  "claims": [
+    {
+      "kind": "model",
+      "id": "GWF-D1035B-1",
+      "field": "case_material",
+      "value": "Asymmetric stainless-steel inner case with resin bezel and screw-lock caseback"
+    },
+    {
+      "kind": "model",
+      "id": "GWF-D1035B-1",
+      "field": "case_finish",
+      "value": "Black DLC-coated caseback with Eric Haze 35th Anniversary emblem; gold ion-plated hardware"
+    },
+    {
+      "kind": "model",
+      "id": "GWF-D1035B-1",
+      "field": "glass",
+      "value": "Sapphire crystal with anti-reflective coating"
+    },
+    {
+      "kind": "model",
+      "id": "GWF-D1035B-1",
+      "field": "band_material",
+      "value": "Black/red resin with carbon-fibre inserts; gold ion-plated star-engraved metal keeper"
+    },
+    {
+      "kind": "module",
+      "id": "3445",
+      "field": "battery_cell",
+      "value": "CTL1616 rechargeable cell; approximately 23 months on Power Save (owner-supplied, not established in checked manual)"
+    }
+  ]
+}
