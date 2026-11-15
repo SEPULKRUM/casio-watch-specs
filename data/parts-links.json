@@ -149,9 +149,9 @@
         "1275"
       ],
       "recorded_module_ids": [
-        "1572"
+        "1275"
       ],
-      "module_comparison": "needs_review",
+      "module_comparison": "agrees_with_recorded_reference",
       "evidence_status": "supplier_listing_checked; not independent specification verification"
     },
     "G-5600UE-1": {

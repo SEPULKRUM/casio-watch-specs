@@ -3009,22 +3009,22 @@
           "candidate_sha256": "0aad5e4ed730c177488e6b867be8f2cba2d5c6b5432823ea6dbf44fe0a410564"
         },
         "module_id": {
-          "value": "1572",
+          "value": "1275",
           "uncertainty": "User-supplied association; official model-to-module confirmation pending",
           "sources": [
             {
               "kind": "user_provided",
-              "reference": "research/user-module-mappings-2026-11-14.json",
+              "reference": "research/f105-module-correction-2026-11-15.json",
               "provided_by": "SEPULKRUM",
-              "source_sha256": "6f2aa52ce71beac6e2f3127b873af5df5998e647b8de0c88c9eaffa1ef855647",
-              "accessed": "2026-11-14",
-              "locator": "Mappings / entry 3",
-              "evidence": "F-105W-1A → module 1572",
+              "source_sha256": "56563af86616293d4e2e0f3c9ca443f494ed5bf043b2dc87f603a93be3c593c2",
+              "accessed": "2026-11-15",
+              "locator": "Mappings / entry 1",
+              "evidence": "F-105W-1A → module 1275",
               "permission": "user_provided"
             }
           ],
           "status": "pending_review",
-          "candidate_sha256": "fd2cd0bf1645558d8b52a5243be520134d934bdefcfec5a9811075e9057fe657"
+          "candidate_sha256": "3a3488f0efe1d96bd7b2c77758b8070693e6ecb309c70324b78d79a371328bdb"
         }
       }
     },
@@ -48458,6 +48458,70 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        }
+      }
+    },
+    "1275": {
+      "id": "1275",
+      "specs": {
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/12/1275/qw1275_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Alarm Mode, Stopwatch Mode, About the backlight",
+              "evidence": "Module 1275: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "98d7c7ee34b225e94b3f74bc4fa4165b4d477831bdcea15674dc0b0e17928310"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 3599.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/12/1275/qw1275_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Alarm Mode, Stopwatch Mode, About the backlight",
+              "evidence": "Module 1275: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 3599.99, 'modes': ['elapsed', 'split', 'two finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "98d7c7ee34b225e94b3f74bc4fa4165b4d477831bdcea15674dc0b0e17928310"
+        },
+        "illumination": {
+          "value": "Electroluminescent (EL) backlight; hold light button to illuminate",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/12/1275/qw1275_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Alarm Mode, Stopwatch Mode, About the backlight",
+              "evidence": "Module 1275: illumination = Electroluminescent (EL) backlight; hold light button to illuminate",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "98d7c7ee34b225e94b3f74bc4fa4165b4d477831bdcea15674dc0b0e17928310"
         }
       }
     }
