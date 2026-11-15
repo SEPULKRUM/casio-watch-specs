@@ -42,6 +42,10 @@ export function applyGuide(result,{modifier,number,seriesTail,tail}){
  });
  }
  if(['LCW','LIW','WVA','WVQ'].includes(p)&&modifier==='M'){const s=result.segments.find(s=>s.type==='modifier');if(s)Object.assign(s,note('Modern radio-controlled / frequently solar series association in the supplied guide. For LCW-M100, M100 identifies the base series associated with Multi-Band 6; M alone does not prove solar power or a particular reception system.'));}
+ if(p==='GW'&&modifier==='M'&&['5600','5610'].includes(number)){
+ const segment=result.segments.find(s=>s.type==='modifier'&&s.token==='M');
+ if(segment)Object.assign(segment,{title:'Multi-Band reception',description:'M is understood by the watch community as Multi-Band in the GW-M5600 / GW-M5610 lines, specifically Multi-Band 6 radio reception. The six transmitters are Japan ×2, United States, United Kingdom, Germany and China. This scoped reading also applies to GW-M5610U; it differs from the metal association inside GMW and Bluetooth B in GW-B5600. Casio documents the reception system; the letter expansion is a community interpretation.',status:'community_interpretation',source:'https://support.casio.com/storage/en/manual/pdf/EN/009/qw3159.pdf'});
+ }
  if(p==='GWF'&&modifier==='D'&&number==='1000'){const s=result.segments.find(s=>s.type==='modifier');if(s)Object.assign(s,note('D is associated by the watch community with the depth-measurement / diving-sensor GWF-D1000 FROGMAN series. It is a model-line reading, not the steel-bracelet D used in other positions.'));}
  for(const s of result.segments){
  if(context&&s.type==='variant'&&guideColours[s.token]&&!result.exact?.specs?.color&&s.status!=='official_observed')Object.assign(s,note(`The guide’s common colour reading is ${guideColours[s.token]}. Exact dial, case, strap, accents and LCD polarity vary by model.`));

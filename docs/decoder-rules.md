@@ -77,3 +77,10 @@ GPW and DW are also shown as grouped readings. Unknown or historical-collision
 contexts keep their qualified reference description. Model-series, BC/U, colour,
 order and market segments remain separate as before. Official feature observations
 and community meanings retain their separate classifications.
+
+
+### M before 5600 / 5610 in GW squares
+
+For GW-M5600 and GW-M5610 (including GW-M5610U), show **M — Multi-Band**, specifically the Multi-Band 6 reception association, as a scoped community interpretation. Six transmitters: Japan (two), United States, United Kingdom, Germany and China. Casio module [3159](https://support.casio.com/storage/en/manual/pdf/EN/009/qw3159.pdf) and [3495](https://support.casio.com/storage/en/manual/pdf/EN/009/qw3495.pdf) manuals document reception; they are feature evidence, not an official acronym definition.
+
+The owner supplied the naming-history association with the earlier GW-5600 generation. Earlier radio coverage varies by exact regional model; no universal band count is assigned to GW-5600 here. M inside GMW retains its metal interpretation, B in GW-B5600 its Bluetooth interpretation, and U remains a separate Updated marker. Do not extend this rule to unrelated M series.

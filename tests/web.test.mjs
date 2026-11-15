@@ -152,3 +152,14 @@ test('guide regions and material meanings remain contextual',()=>{
 test('branding and disclaimer match the requested sample',()=>{
  const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(!html.includes('CASIO REPAIR'));assert.ok(html.includes('Unofficial project · Not affiliated with or endorsed by Casio Computer Co., Ltd.'));assert.ok(html.includes('REPAIR · MODS · COLLECTING'));
 });
+
+
+test('M in GW-M5600 and GW-M5610 means Multi-Band within those square lines',()=>{
+ for(const input of ['GW-M5600','GW-M5600-1','GW-M5610','GW-M5610-1','GW-M5610U','GW-M5610U-1','gwm5610u','gwm5610u1','GW-M5610UBC-1']){
+  const r=decodeModel(input),m=r.segments.find(s=>s.type==='modifier'&&s.token==='M');assert.match(m.description,/Multi-Band 6/);assert.match(m.description,/Japan ×2/);assert.match(m.description,/community interpretation/);assert.equal(m.status,'community_interpretation');assert.equal(m.title,'Multi-Band reception');
+  if(input.toUpperCase().includes('U'))assert.ok(r.segments.some(s=>s.token==='U'&&s.title==='Updated model'));
+ }
+ assert.match(decodeModel('GW-M9999').segments.find(s=>s.token==='M').description,/not been established/);
+ assert.match(decodeModel('GMW-B5000').segments[0].communityMeaning.meaning,/Metal/);
+ assert.match(decodeModel('GW-B5600').segments.find(s=>s.token==='B').description,/Bluetooth/);
+});

@@ -22,6 +22,8 @@ export const ruleSources={
  dw291:'https://www.casio.com/intl/watches/casio/product.DW-291H-1AV/'
 };
 export function normalizeKnownModel(key,fallback){
+ const square=key.match(/^GWM(5600|5610)(U)?(BC)?([1-9][A-Z0-9]*)?$/);
+ if(square)return `GW-M${square[1]}${square[2]||''}${square[3]||''}${square[4]?'-'+square[4]:''}`;
  for(const [pattern,prefix,series] of [
   [/^GWB5600(BC)?(?:([1-9])([A-Z0-9]*))?$/,'GW','B5600'],
   [/^GMWB5000([A-Z]*)(?:([1-9])([A-Z0-9]*))?$/,'GMW','B5000'],
