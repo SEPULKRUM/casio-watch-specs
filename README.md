@@ -5,6 +5,36 @@ facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, W
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
 
+## Try the private beta
+
+Open **[SEPULKRUM Casio Specifications](https://sepulkrum-casio-specs-beta.miniatureagave.chatgpt.site)**
+using the ChatGPT account that owns this Site. The hosted beta is owner-private.
+
+Search by model, module or material; filter by family; open a model to inspect
+physical specifications, separate module options and field-level sources.
+Pending research, unknown measurements, unresolved module references and both
+PAW2000 thickness claims remain explicit. The verified-only filter intentionally
+returns no results until independently reviewed facts are available.
+
+The bundled snapshot contains the current 158 models and 111 module profiles.
+**Refresh data** fetches the latest catalog from this repository's main branch
+without republishing the interface. If refresh fails, the bundled catalog stays
+available. Download CSV exports the bundled spreadsheet snapshot. No visitor
+input writes to the research database.
+
+The interface source lives in `web/`. Package a local static copy with:
+
+```sh
+python build_web.py
+node tests/web.test.mjs
+```
+
+The resulting `build/site` contains HTML, CSS, JavaScript, JSON and CSV with no
+runtime package dependencies. Source checks cover search, family counts, shared
+module references, both thickness claims, verified filtering and safe source
+links. Deployment succeeded; interactive browser QA was unavailable in the
+execution environment, so actual browser/device behavior still needs user testing.
+
 ## Use the database now
 
 - [Spreadsheet / CSV](data/watches.csv): browse or download all model rows, with

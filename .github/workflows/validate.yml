@@ -14,6 +14,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest discover -s tests -v
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check beta browser logic and package static assets
+        run: |
+          node tests/web.test.mjs
+          node --check web/app.mjs
+          python build_web.py
       - name: Check reproducible catalog, CSV and coverage
         run: python catalog.py build --check
       - name: Build separate proposal artifact
