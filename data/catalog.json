@@ -31907,6 +31907,178 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "547d5ba3bab73604c4e8187f323cb8259a80ee0503c4f9e96acdbf92ddd428aa"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Dimensions / approx. H × W × D; mm",
+              "evidence": "GW-M5610BB-1ER: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "weight_g": {
+          "value": 52,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Weight / approx.; g",
+              "evidence": "GW-M5610BB-1ER: weight_g = 52"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Resin case (case only; bezel not separately specified)",
+              "evidence": "GW-M5610BB-1ER: case_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Resin band",
+              "evidence": "GW-M5610BB-1ER: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Mineral glass",
+              "evidence": "GW-M5610BB-1ER: glass = Mineral glass"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar / 200 metres",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification",
+              "evidence": "GW-M5610BB-1ER: water_resistance_rating = 20 bar / 200 metres"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification",
+              "evidence": "GW-M5610BB-1ER: water_resistance_bar = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+              "archive_timestamp": "20160205145142",
+              "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BB-1ER",
+              "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification; pressure-test rating, not diving depth",
+              "evidence": "GW-M5610BB-1ER: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "373137598b8c8cb0fe255bbaac7df6025615fde375ea12f4b77bf8783919ce27"
         }
       }
     },
@@ -31948,6 +32120,178 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "8a2485c65dfb21f209092de7cd02d0b2e3b50d42eae8d801131f1539bd0bd948"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Dimensions / approx. H × W × D; mm",
+              "evidence": "GW-M5610BW-7ER: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "weight_g": {
+          "value": 52,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Weight / approx.; g",
+              "evidence": "GW-M5610BW-7ER: weight_g = 52"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Resin case (case only; bezel not separately specified)",
+              "evidence": "GW-M5610BW-7ER: case_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Resin band",
+              "evidence": "GW-M5610BW-7ER: band_material = Resin"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Mineral glass",
+              "evidence": "GW-M5610BW-7ER: glass = Mineral glass"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar / 200 metres",
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification",
+              "evidence": "GW-M5610BW-7ER: water_resistance_rating = 20 bar / 200 metres"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification",
+              "evidence": "GW-M5610BW-7ER: water_resistance_bar = 20"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Archived official European-market specification; independent review pending. Dimensions and weight are approximate as listed.",
+          "sources": [
+            {
+              "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+              "archive_timestamp": "20160325002427",
+              "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+              "accessed": "2026-11-15",
+              "permission": "official_public_reference",
+              "evidence_type": "historical_technical_fact",
+              "displayed_model": "GW-M5610BW-7ER",
+              "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical.",
+              "locator": "Functions / Water resistance classification; pressure-test rating, not diving depth",
+              "evidence": "GW-M5610BW-7ER: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2a893ce67ae7f5e20b8ad7ce2f0fbe668e1b25848278ced2d0f230bef9ff60e9"
         }
       }
     },
@@ -40138,6 +40482,166 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c2cde271f3e19dbd62b76a9e1172ed09cee9836633d575ad41bcbe082402eb3a"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "measurement_modes": [
+              "elapsed_time",
+              "split_time",
+              "first_and_second_finisher"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+              "evidence": "Module 3495: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'measurement_modes': ['elapsed_time', 'split_time', 'first_and_second_finisher']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b9f46fc3037de5c64a0fd4aaf35f2e71cacc967b5fe52279db20c53035eebffb"
+        },
+        "timer": {
+          "value": {
+            "resolution_seconds": 1,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 1,
+            "end_signal_seconds": 10
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+              "evidence": "Module 3495: timer = {'resolution_seconds': 1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'end_signal_seconds': 10}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b9f46fc3037de5c64a0fd4aaf35f2e71cacc967b5fe52279db20c53035eebffb"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED",
+            "full_auto_light": true,
+            "adjustable_duration": true
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+              "evidence": "Module 3495: illumination = {'type': 'LED', 'full_auto_light': True, 'adjustable_duration': True}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b9f46fc3037de5c64a0fd4aaf35f2e71cacc967b5fe52279db20c53035eebffb"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+              "evidence": "Module 3495: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b9f46fc3037de5c64a0fd4aaf35f2e71cacc967b5fe52279db20c53035eebffb"
+        },
+        "radio_reception": {
+          "value": {
+            "automatic": true,
+            "manual": true,
+            "automatic_transmitter_selection": [
+              "JJY",
+              "MSF/DCF77"
+            ],
+            "signals": [
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+              "evidence": "Module 3495: radio_reception = {'automatic': True, 'manual': True, 'automatic_transmitter_selection': ['JJY', 'MSF/DCF77'], 'signals': [{'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b9f46fc3037de5c64a0fd4aaf35f2e71cacc967b5fe52279db20c53035eebffb"
         }
       }
     },
@@ -48458,6 +48962,115 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "measurement_modes": [
+              "elapsed_time",
+              "split_time",
+              "first_and_second_finisher"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+              "evidence": "Module 3159: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'measurement_modes': ['elapsed_time', 'split_time', 'first_and_second_finisher']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d2ff68a1c1bd656056bd45cf2e1242ff2fb4c536e2ed9e5dc6b956a2a952ded2"
+        },
+        "timer": {
+          "value": {
+            "resolution_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_increments_seconds": [
+              60,
+              3600
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+              "evidence": "Module 3159: timer = {'resolution_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_increments_seconds': [60, 3600]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d2ff68a1c1bd656056bd45cf2e1242ff2fb4c536e2ed9e5dc6b956a2a952ded2"
+        },
+        "radio_reception": {
+          "value": {
+            "automatic": true,
+            "manual": true,
+            "max_automatic_attempts_per_day": 6,
+            "max_automatic_attempts_per_day_china": 5,
+            "remaining_attempts_cancelled_after_success": true,
+            "signals": [
+              {
+                "call_sign": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "call_sign": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "call_sign": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "call_sign": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+              "evidence": "Module 3159: radio_reception = {'automatic': True, 'manual': True, 'max_automatic_attempts_per_day': 6, 'max_automatic_attempts_per_day_china': 5, 'remaining_attempts_cancelled_after_success': True, 'signals': [{'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}]}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d2ff68a1c1bd656056bd45cf2e1242ff2fb4c536e2ed9e5dc6b956a2a952ded2"
         }
       }
     },

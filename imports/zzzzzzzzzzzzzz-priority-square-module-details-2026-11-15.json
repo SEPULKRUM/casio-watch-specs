@@ -1,0 +1,267 @@
+[
+  {
+    "kind": "module",
+    "id": "3159",
+    "specs": {
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "measurement_modes": [
+            "elapsed_time",
+            "split_time",
+            "first_and_second_finisher"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+            "evidence": "Module 3159: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'measurement_modes': ['elapsed_time', 'split_time', 'first_and_second_finisher']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "resolution_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_increments_seconds": [
+            60,
+            3600
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+            "evidence": "Module 3159: timer = {'resolution_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_increments_seconds': [60, 3600]}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+          }
+        ]
+      },
+      "radio_reception": {
+        "value": {
+          "automatic": true,
+          "manual": true,
+          "max_automatic_attempts_per_day": 6,
+          "max_automatic_attempts_per_day_china": 5,
+          "remaining_attempts_cancelled_after_success": true,
+          "signals": [
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications / Stopwatch, Countdown Timer and Time Calibration Signal Reception",
+            "evidence": "Module 3159: radio_reception = {'automatic': True, 'manual': True, 'max_automatic_attempts_per_day': 6, 'max_automatic_attempts_per_day_china': 5, 'remaining_attempts_cancelled_after_success': True, 'signals': [{'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}]}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3495",
+    "specs": {
+      "stopwatch": {
+        "value": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 86399,
+          "measurement_modes": [
+            "elapsed_time",
+            "split_time",
+            "first_and_second_finisher"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+            "evidence": "Module 3495: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'measurement_modes': ['elapsed_time', 'split_time', 'first_and_second_finisher']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "resolution_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 1,
+          "end_signal_seconds": 10
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+            "evidence": "Module 3495: timer = {'resolution_seconds': 1, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 1, 'end_signal_seconds': 10}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "LED",
+          "full_auto_light": true,
+          "adjustable_duration": true
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+            "evidence": "Module 3495: illumination = {'type': 'LED', 'full_auto_light': True, 'adjustable_duration': True}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+            "evidence": "Module 3495: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+          }
+        ]
+      },
+      "radio_reception": {
+        "value": {
+          "automatic": true,
+          "manual": true,
+          "automatic_transmitter_selection": [
+            "JJY",
+            "MSF/DCF77"
+          ],
+          "signals": [
+            {
+              "call_sign": "JJY",
+              "frequencies_khz": [
+                40,
+                60
+              ]
+            },
+            {
+              "call_sign": "WWVB",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "MSF",
+              "frequencies_khz": [
+                60
+              ]
+            },
+            {
+              "call_sign": "DCF77",
+              "frequencies_khz": [
+                77.5
+              ]
+            },
+            {
+              "call_sign": "BPC",
+              "frequencies_khz": [
+                68.5
+              ]
+            }
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://support.casio.com/global/en/wat/manual/3495_en/UQIDSYgokejxbm.html",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Stopwatch, Timer, Other, Timekeeping and Signal Receive Functions",
+            "evidence": "Module 3495: radio_reception = {'automatic': True, 'manual': True, 'automatic_transmitter_selection': ['JJY', 'MSF/DCF77'], 'signals': [{'call_sign': 'JJY', 'frequencies_khz': [40, 60]}, {'call_sign': 'WWVB', 'frequencies_khz': [60]}, {'call_sign': 'MSF', 'frequencies_khz': [60]}, {'call_sign': 'DCF77', 'frequencies_khz': [77.5]}, {'call_sign': 'BPC', 'frequencies_khz': [68.5]}]}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "84263fa593b3d8748a703efff1fba5f03f558d2e8f16bb42a01009d6e1117eb7"
+          }
+        ]
+      }
+    }
+  }
+]

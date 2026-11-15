@@ -1,0 +1,78 @@
+{
+  "accessed": "2026-11-15",
+  "scope": "Selected technical specifications only; archived source pages and advertising prose excluded. Each page identity, dimensions, weight and labelled material/rating entries checked separately.",
+  "products": [
+    {
+      "catalog_model": "GW-M5610BB-1",
+      "displayed_model": "GW-M5610BB-1ER",
+      "source": {
+        "url": "https://web.archive.org/web/20160205145142/http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+        "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610bb-1er/",
+        "archive_timestamp": "20160205145142",
+        "snapshot_sha256": "1550373d45125ce282da1327c2356b78cd0af5b3b52dc59621fe1827ae4d117d",
+        "accessed": "2026-11-15",
+        "permission": "official_public_reference",
+        "evidence_type": "historical_technical_fact",
+        "displayed_model": "GW-M5610BB-1ER",
+        "scope_note": "European GW-M5610BB-1ER listing retained under existing base-variant identity GW-M5610BB-1; ER suffix is explicit in source. No assertion that every regional or production version is identical."
+      },
+      "specifications": {
+        "dimensions_mm": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "weight_g": 52,
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "glass": "Mineral glass",
+        "water_resistance_rating": "20 bar / 200 metres",
+        "water_resistance_bar": 20,
+        "water_resistance_m": 200
+      },
+      "module_link_observed": "3159",
+      "excluded_claims": [
+        "No colour inferred from suffix or photograph",
+        "No LCD polarity inferred from photograph",
+        "Battery type is model listing information; not added to shared module power-supply fact",
+        "No release date inferred from archive capture"
+      ]
+    },
+    {
+      "catalog_model": "GW-M5610BW-7",
+      "displayed_model": "GW-M5610BW-7ER",
+      "source": {
+        "url": "https://web.archive.org/web/20160325002427/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+        "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610bw-7er/",
+        "archive_timestamp": "20160325002427",
+        "snapshot_sha256": "23482f8ab2be0af7923ea28c1dcad7c130177def674fe2a716f9d53704b59ac7",
+        "accessed": "2026-11-15",
+        "permission": "official_public_reference",
+        "evidence_type": "historical_technical_fact",
+        "displayed_model": "GW-M5610BW-7ER",
+        "scope_note": "European GW-M5610BW-7ER listing retained under existing base-variant identity GW-M5610BW-7; ER suffix is explicit in source. No assertion that every regional or production version is identical."
+      },
+      "specifications": {
+        "dimensions_mm": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "weight_g": 52,
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "glass": "Mineral glass",
+        "water_resistance_rating": "20 bar / 200 metres",
+        "water_resistance_bar": 20,
+        "water_resistance_m": 200
+      },
+      "module_link_observed": "3159",
+      "excluded_claims": [
+        "No colour inferred from suffix or photograph",
+        "No LCD polarity inferred from photograph",
+        "Battery type is model listing information; not added to shared module power-supply fact",
+        "No release date inferred from archive capture"
+      ]
+    }
+  ]
+}

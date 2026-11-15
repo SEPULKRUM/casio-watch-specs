@@ -919,3 +919,31 @@ revision is made. Original watch data and all verified facts remain protected.
 To regenerate the historical mapping import, convert its original note and
 exclude only F-105W-1A, then import the replacement note separately. The
 reproduction test checks both the unchanged original claim and current correction.
+
+## Priority square specifications · 15 November 2026
+
+Add eight physical-specification fields each for **GW-M5610BB-1** and
+**GW-M5610BW-7**, independently read from archived official Casio Europe ER
+listings captured on 5 February and 25 March 2016. Their dimensions are
+approximately 46.7 × 43.2 × 12.7 mm and weight approximately 52 g. Each exact
+listing separately identifies a resin case, resin band, mineral glass and
+20 bar / 200 m pressure-test rating. The ER market designation stays in every
+citation. Case material does not assert a separately documented bezel material;
+water-resistance metres do not state a permitted diving depth. Colour and LCD
+polarity remain unfilled rather than inferred from photographs or model codes.
+
+Extend the existing **3159** and **3495** module profiles with eight fields from
+their official manuals. Module 3159 measures stopwatch time at 1/100 second;
+3495 changes from 1/100 second to one-second resolution after the first hour.
+The original timer starts at one minute, while 3495 permits one-second setting
+units. The 3495 profile gains LED/full-auto illumination and its documented
+2000–2099 calendar. Both profiles gain separately sourced radio reception
+specifications; 3159's 6-attempt limit (5 for China) is not inferred for 3495.
+
+The catalog retains **195 models and 113 module profiles**, with **2,376
+specification fields**. All 2,352 pre-existing fields are unchanged. New fields
+remain candidates pending independent review. Sources contain selected technical
+facts, source URLs, capture dates and checksums; no scans, photographs, complete
+OCR transcripts or advertising prose are published. Remaining older colourway
+case specifications require exact primary sources; this is not an exhaustive
+all-variants completion claim.
