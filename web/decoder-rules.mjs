@@ -1,5 +1,9 @@
 export const decoderDisclosure='Casio does not publish a complete, universal letter-by-letter decoding key in the sources reviewed here. Some suggested meanings follow watch-community naming patterns. We label community interpretations separately from features confirmed by Casio; meanings can vary by model, family and era.';
 export const decoderRules=[
+ "Supplied-guide structure: [Prefix]-[Series / Base Model][Material / Feature Modifier]-[Colour][Variation / Order][Market]. Actual naming conventions vary by family and era.",
+ "Guide material / edition readings before the final hyphen: D steel bracelet; T titanium; L leather; B cloth / nylon or MDV bezel variant; C cloth / nylon or coloured ion plating; G gold-tone / two-tone; V Velcro / fabric; E expansion band or Lineage sapphire / slim trim; AR Arabic edition. These are contextual readings, not universal definitions.",
+ "Guide colour digits: 1 black; 2 blue; 3 green; 4 red / pink; 5 brown / beige; 6 purple; 7 white / silver; 8 gray / silver; 9 gold / yellow. Following letters and digits distinguish variants; exact colours take precedence.",
+ "Guide market suffixes: JF / J Japan; CR Americas; ER Europe; V / VER / DR / DF international / export. Trailing V differs from a pre-hyphen V fabric-strap modifier.",
  'Keep the longest family prefix together, such as AE, LCW or GPW. Show its whole-prefix community reading in the model-family row; do not split it into individual letter cards.',
  'An official feature is evidence about the watch, not proof of what a letter stands for. Community readings remain labelled even when the related feature is confirmed.',
  'Keep the family, feature modifier, series number, series suffix, colour digit, additional variant/order marker and market suffix separate. A series number is not a module number or production date.',
@@ -50,7 +54,7 @@ export function modelRule(prefix,modifier,number){
 }
 export function splitVariant(tail){
  let market='',rest=tail;
- for(const suffix of ['ER','JF','JR'])if(rest.endsWith(suffix)&&rest.length>suffix.length){market=suffix;rest=rest.slice(0,-suffix.length);break}
+ for(const suffix of ['VER','ER','JF','JR','CR','DR','DF','J','V'])if(rest.endsWith(suffix)&&rest.length>suffix.length){market=suffix;rest=rest.slice(0,-suffix.length);break}
  const match=rest.match(/^([1-9])([A-Z][A-Z0-9]*)$/);
  return {variant:match?match[1]:rest,order:match?match[2]:'',market};
 }
