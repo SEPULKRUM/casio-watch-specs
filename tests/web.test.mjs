@@ -110,3 +110,13 @@ test('visual observation provenance is complete without publishing or embedding 
  for(const row of note.observations){assert.match(row.page_snapshot_sha256,/^[a-f0-9]{64}$/);assert.match(row.image_snapshot_sha256,/^[a-f0-9]{64}$/);assert.equal(row.image_published,false);assert.equal(appearanceForModel(row.model).polarity,row.polarity);assert.ok(row.source.startsWith('https://www.casio.com/'))}
  const code=fs.readFileSync(new URL('../web/variant-interpretations.mjs',import.meta.url),'utf8');assert.doesNotMatch(code,/https?:[^\s]+\.(?:png|jpg|jpeg)/i);assert.doesNotMatch(note.scope,/official universal definition/);
 });
+
+test('BC separates from the series for both reported examples and compact input',()=>{
+ for(const input of ['GW-B5600BC-1BER','gwb5600bc1ber'])assert.deepEqual(decodeModel(input,data,refs).segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);
+ for(const input of ['GWF-D1000BC-1','gwfd1000bc1']){const r=decodeModel(input,data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GWF','D','1000','BC','1']);const bc=r.segments.find(s=>s.token==='BC');assert.match(bc.description,/exact model.*unverified/);assert.equal(r.exact,undefined)}
+});
+test('original and updated 5610 BC suffixes retain separate U and avoid global U expansion',()=>{
+ for(const input of ['GW-M5610BC-1','gwm5610bc1'])assert.deepEqual(decodeModel(input,data,refs).segments.map(s=>s.token),['GW','M','5610','BC','1']);
+ for(const input of ['GW-M5610UBC-1','gwm5610ubc1']){const r=decodeModel(input,data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GW','M','5610','U','BC','1']);assert.match(r.segments[3].description,/Updated/)}
+ assert.deepEqual(decodeModel('GW-M9999U').segments.map(s=>s.token),['GW','M','9999U']);
+});

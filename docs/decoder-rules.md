@@ -53,3 +53,12 @@ The original GW-M5610-1 / -1B and updated GW-M5610U-1 / -1B pairs provide two ad
 For an unreviewed -1B model, explain the recurring community pattern but leave actual display polarity unverified. It is not universal: the official F-91WM-1B image shows a positive LCD, and AE-1200WH-1BV likewise has a light-background main LCD. Exact checked observations take precedence over naming patterns. Other B positions and suffixes do not automatically acquire this meaning.
 
 The eight selected image observations, source-page and image checksums are recorded in [the observation note](../research/negative-variant-observations-2026-11-15.json). Images were inspected locally only; none is added to GitHub, embedded in the website or hotlinked. These decoder observations do not alter specification-catalog or module records.
+
+## BC suffix boundaries
+
+BC is separated structurally wherever it ends the series portion, even when the
+model lacks a specification record. For example GWF-D1000BC-1 splits into
+GWF / D / 1000 / BC / 1. That parsing alone does not establish the exact model
+or a bracelet configuration. GW-M5610BC-1 splits into GW / M / 5610 / BC / 1;
+GW-M5610UBC-1 retains the scoped Updated U before BC. Original and compact input
+forms agree. Unknown meanings and unconfirmed model identities remain labelled.

@@ -1040,3 +1040,17 @@ polarity. Exact positive-display examples F-91WM-1B and AE-1200WH-1BV demonstrat
 why it is not universal. Appearance observations, with source-page/image checksums,
 are separate from an official letter definition. No product images are published,
 embedded or hotlinked, and specification/module records and counts are unchanged.
+
+## BC suffix and live-build correction · 15 November 2026
+
+Separate BC from the series in both the established GW-B5600BC line and other
+BC-ending inputs, including GWF-D1000BC-1 and GW-M5610BC-1. GW-M5610UBC-1 keeps
+5610, Updated U and BC separate. Compact forms receive the same segmentation.
+Splitting an identifier does not verify that the exact model exists or prove
+its band material: unverified BC references retain qualified community wording.
+
+Static builds now use a deterministic content version for the entrypoint,
+stylesheet and every module import, preventing an older cached decoder from
+surviving an updated application entrypoint. The live Site is refreshed with the
+merged research/decoder updates and this correction; source-image exclusions and
+owner-private access are preserved. Specification and reference counts are unchanged.
