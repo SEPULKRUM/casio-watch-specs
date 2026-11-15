@@ -2,10 +2,10 @@
   "schema_version": 1,
   "scope": "Model/series strings only; not verified watch or specification records. Index checks do not establish official letter meanings. Candidate strings may be partial or false positives.",
   "counts": {
-    "model_strings": 2699,
+    "model_strings": 2715,
     "index_checked": 58,
     "supplied_transcription": 155,
-    "machine_candidate": 2486,
+    "machine_candidate": 2502,
     "rejected_occurrences": 189
   },
   "sources": {
@@ -218,6 +218,13 @@
       "pages": 12,
       "availability": "received_secondary_guide",
       "classification": "Owner-supplied consolidation of nine PDFs and one packaging photo; original sources not independently rechecked"
+    },
+    "guide:protrek-combined-specifications-2026-11-15": {
+      "filename": "Casio_Pro_Trek_Combined_Model_Specifications_TEXT_ONLY.pdf",
+      "sha256": "73170b7c36de2e30465eaab36bb67669cf4099ada0310cad2d08d664eb37c9cc",
+      "pages": 11,
+      "availability": "received_secondary_guide",
+      "classification": "Owner-supplied text-only consolidation; underlying catalogs, listing, archive and graphic not independently rechecked"
     }
   },
   "models": {
@@ -39246,6 +39253,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 11
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39260,6 +39273,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39274,6 +39293,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39313,6 +39338,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 11
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39327,6 +39358,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39341,6 +39378,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39355,6 +39398,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39414,6 +39463,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39428,6 +39483,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39442,6 +39503,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39456,6 +39523,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39470,6 +39543,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39503,6 +39582,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39517,6 +39602,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39531,6 +39622,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 16
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39545,6 +39642,117 @@
           "source_id": "note:FINAL_SOURCE_INTAKE.md",
           "role": "research_note_mention",
           "line": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001-1": {
+      "id": "PRJ-B001-1",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001-5": {
+      "id": "PRJ-B001-5",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001-7": {
+      "id": "PRJ-B001-7",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001B-1": {
+      "id": "PRJ-B001B-1",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001B-2": {
+      "id": "PRJ-B001B-2",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001B-5": {
+      "id": "PRJ-B001B-5",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRJ-B001EX-1": {
+      "id": "PRJ-B001EX-1",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39588,6 +39796,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 17
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39602,6 +39816,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39621,6 +39841,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39635,6 +39861,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39684,6 +39916,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 11
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39698,6 +39936,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39712,6 +39956,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39726,6 +39976,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39740,6 +39996,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39768,6 +40030,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39782,6 +40050,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39796,6 +40070,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39810,6 +40090,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39824,6 +40110,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 8
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39838,6 +40130,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39866,6 +40164,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39880,6 +40184,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39899,6 +40209,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -39913,6 +40229,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39941,6 +40263,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -39990,6 +40318,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -40004,6 +40338,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40018,6 +40358,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40046,6 +40392,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40060,6 +40412,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40074,6 +40432,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40088,6 +40452,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40142,6 +40512,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -40175,6 +40551,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 7
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40189,6 +40571,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40222,6 +40610,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 7
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40236,6 +40630,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 7
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40250,6 +40650,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40264,6 +40670,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40292,6 +40704,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 7
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40306,6 +40724,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40320,6 +40744,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40334,6 +40764,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40426,6 +40862,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -40440,6 +40882,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40454,6 +40902,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40468,6 +40922,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40482,6 +40942,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40496,6 +40962,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40510,6 +40982,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40543,6 +41021,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40557,6 +41041,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40585,6 +41075,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40599,6 +41095,72 @@
           "source_id": "note:FINAL_SOURCE_INTAKE.md",
           "role": "research_note_mention",
           "line": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-B1000-1": {
+      "id": "PRW-B1000-1",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-B1000-5": {
+      "id": "PRW-B1000-5",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-B1000B-2": {
+      "id": "PRW-B1000B-2",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-B1000WM-1": {
+      "id": "PRW-B1000WM-1",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40627,6 +41189,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40641,6 +41209,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 14
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40655,6 +41229,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40683,6 +41263,12 @@
           "source_id": "original:source_07",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40697,6 +41283,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40721,6 +41313,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -40735,6 +41333,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40769,6 +41373,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 17
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -40797,6 +41407,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40811,6 +41427,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -40825,6 +41447,12 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -41661,6 +42289,27 @@
           "source_id": "note:CODEX_START_HERE.md",
           "role": "research_note_mention",
           "line": 20
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "SPF-100-1V": {
+      "id": "SPF-100-1V",
+      "prefix": "SPF",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "graphic_only_reference_module_unconfirmed"
         }
       ],
       "status": "machine_candidate",
@@ -41680,6 +42329,27 @@
           "source_id": "note:CODEX_START_HERE.md",
           "role": "research_note_mention",
           "line": 21
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "SPF-100S-1V": {
+      "id": "SPF-100S-1V",
+      "prefix": "SPF",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "graphic_only_reference_module_unconfirmed"
         }
       ],
       "status": "machine_candidate",
@@ -41713,6 +42383,12 @@
           "source_id": "note:CODEX_START_HERE.md",
           "role": "research_note_mention",
           "line": 21
+        },
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
         }
       ],
       "status": "machine_candidate",
@@ -43891,6 +44567,51 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "WSD-F20": {
+      "id": "WSD-F20",
+      "prefix": "WSD",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WSD-F20-BK": {
+      "id": "WSD-F20-BK",
+      "prefix": "WSD",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WSD-F20-RG": {
+      "id": "WSD-F20-RG",
+      "prefix": "WSD",
+      "observations": [
+        {
+          "source_id": "guide:protrek-combined-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9,
+          "reading_scope": "exact_regional_reference_preserved_as_printed"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "WV-200": {
       "id": "WV-200",
       "prefix": "WV",
@@ -44235,6 +44956,20 @@
       "description": "AWM is associated with the full-metal radio-solar AWM-500UA-1AJR in the supplied collaboration dossier. No universal individual-letter expansion is established.",
       "status": "unverified",
       "source_id": "guide:combined-model-specifications-2026-11-15"
+    },
+    {
+      "prefix": "WSD",
+      "family": "PRO TREK SMART",
+      "description": "PRO TREK Smart wearable family in the supplied 2017 catalog; WSD-F20 uses rechargeable power, mapping and GPS. No universal individual-letter meaning or numeric module is inferred.",
+      "status": "secondary_reported",
+      "source_id": "guide:protrek-combined-specifications-2026-11-15"
+    },
+    {
+      "prefix": "SPF",
+      "family": "SEA-PATHFINDER",
+      "description": "SEA-PATHFINDER family in the supplied archive-derived SPF-100 reference and comparison graphic. Depth/pressure and temperature sensor claims retain source scope; graphic/module mapping is unverified.",
+      "status": "secondary_reported",
+      "source_id": "guide:protrek-combined-specifications-2026-11-15"
     }
   ]
 }

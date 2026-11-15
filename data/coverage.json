@@ -1,8 +1,8 @@
 {
-  "models": 526,
+  "models": 598,
   "modules": 213,
   "facts_by_status": {
-    "pending_review": 4549
+    "pending_review": 5084
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -19,7 +19,8 @@
     "Lineage": 17,
     "Oceanus": 58,
     "Pathfinder": 4,
-    "Pro Trek": 13,
+    "Pro Trek": 81,
+    "Sea-Pathfinder": 4,
     "Wave Ceptor": 24
   },
   "models_missing_fields": {
@@ -2535,6 +2536,454 @@
       "glass",
       "water_resistance_rating"
     ],
+    "PRG-240-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-240T-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-270-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRG-270-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRG-600-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRG-600-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRG-600Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-600Y-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-600YB-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-600YB-3JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRG-600YL-5JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRJ-B001EX-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-2500-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3000-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-3100-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100-6": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100-6JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100FC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-3100FC-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-3100T-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100T-7JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100Y-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100YT-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3100YT-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3500SYT-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3500T-7JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3510-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3510-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3510FC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-3510FC-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-3510Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-3510Y-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100FC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-6100FC-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-6100Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100Y-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100Y-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100Y-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100YT-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100YT-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100YT-1BJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-6100YT-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-1BJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-3JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000-8JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-7000FC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-7000FC-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-7000V-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-B1000-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-B1000-5": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-B1000B-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-B1000WM-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-S3100-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-S3100-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-S3500-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRW-S6100Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRW-S6100Y-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "PRX-7000T-7JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRX-8000T-7AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRX-8000T-7BJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "PRX-8000YT-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
     "S-220-1": [
       "dimensions_mm",
       "weight_g",
@@ -2542,6 +2991,31 @@
       "band_material",
       "glass",
       "water_resistance_rating"
+    ],
+    "SPF-100-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "SPF-100J-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "SPF-100S-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "SPF-100SJ-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
     ],
     "TS-100-1V": [
       "dimensions_mm",
@@ -2690,6 +3164,18 @@
       "glass",
       "water_resistance_rating"
     ],
+    "WSD-F20-BK": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
+    "WSD-F20-RG": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "glass"
+    ],
     "WVA430J-1A": [
       "dimensions_mm",
       "case_material",
@@ -2767,8 +3253,80 @@
     "OCW-T6000A-1AJF",
     "OCW-T6000BV-2AJR",
     "PQ-5",
+    "PRG-240-1",
+    "PRG-240T-7",
+    "PRG-270-1AJF",
+    "PRG-270-1JF",
+    "PRG-600-1",
+    "PRG-600-1JF",
+    "PRG-600Y-1",
+    "PRG-600Y-1JF",
+    "PRG-600YB-3",
+    "PRG-600YB-3JF",
+    "PRG-600YL-5JF",
+    "PRJ-B001EX-1",
+    "PRW-2500-1JF",
+    "PRW-3000-1A",
+    "PRW-3100-1",
+    "PRW-3100-1JF",
+    "PRW-3100-6",
+    "PRW-3100-6JF",
+    "PRW-3100FC-1",
+    "PRW-3100FC-1JF",
+    "PRW-3100T-7",
+    "PRW-3100T-7JF",
+    "PRW-3100Y-1",
+    "PRW-3100Y-1JF",
+    "PRW-3100YT-1",
+    "PRW-3100YT-1JF",
+    "PRW-3500SYT-1JF",
+    "PRW-3500T-7JF",
+    "PRW-3510-1",
+    "PRW-3510-1JF",
+    "PRW-3510FC-1",
+    "PRW-3510FC-1JF",
+    "PRW-3510Y-1",
+    "PRW-3510Y-1JF",
+    "PRW-6100FC-1",
+    "PRW-6100FC-1JF",
+    "PRW-6100Y-1",
+    "PRW-6100Y-1A",
+    "PRW-6100Y-1AJF",
+    "PRW-6100Y-1JF",
+    "PRW-6100YT-1",
+    "PRW-6100YT-1B",
+    "PRW-6100YT-1BJF",
+    "PRW-6100YT-1JF",
+    "PRW-7000-1A",
+    "PRW-7000-1AJF",
+    "PRW-7000-1B",
+    "PRW-7000-1BJF",
+    "PRW-7000-3JF",
+    "PRW-7000-8JF",
+    "PRW-7000FC-1",
+    "PRW-7000FC-1JF",
+    "PRW-7000V-1JF",
+    "PRW-B1000-1",
+    "PRW-B1000-5",
+    "PRW-B1000B-2",
+    "PRW-B1000WM-1",
+    "PRW-S3100-1",
+    "PRW-S3100-1JF",
+    "PRW-S3500-1JF",
+    "PRW-S6100Y-1",
+    "PRW-S6100Y-1JF",
+    "PRX-7000T-7JF",
+    "PRX-8000T-7AJF",
+    "PRX-8000T-7BJF",
+    "PRX-8000YT-1JF",
+    "SPF-100-1V",
+    "SPF-100J-1JF",
+    "SPF-100S-1V",
+    "SPF-100SJ-1JF",
     "W-800H-1AV",
-    "W150C-1"
+    "W150C-1",
+    "WSD-F20-BK",
+    "WSD-F20-RG"
   ],
   "models_with_single_module_reference": 475,
   "user_provided_module_references": {
@@ -3216,7 +3774,79 @@
     "OCW-T6000A-1AJF",
     "OCW-T6000BV-2AJR",
     "PQ-5",
-    "W150C-1"
+    "PRG-240-1",
+    "PRG-240T-7",
+    "PRG-270-1AJF",
+    "PRG-270-1JF",
+    "PRG-600-1",
+    "PRG-600-1JF",
+    "PRG-600Y-1",
+    "PRG-600Y-1JF",
+    "PRG-600YB-3",
+    "PRG-600YB-3JF",
+    "PRG-600YL-5JF",
+    "PRJ-B001EX-1",
+    "PRW-2500-1JF",
+    "PRW-3000-1A",
+    "PRW-3100-1",
+    "PRW-3100-1JF",
+    "PRW-3100-6",
+    "PRW-3100-6JF",
+    "PRW-3100FC-1",
+    "PRW-3100FC-1JF",
+    "PRW-3100T-7",
+    "PRW-3100T-7JF",
+    "PRW-3100Y-1",
+    "PRW-3100Y-1JF",
+    "PRW-3100YT-1",
+    "PRW-3100YT-1JF",
+    "PRW-3500SYT-1JF",
+    "PRW-3500T-7JF",
+    "PRW-3510-1",
+    "PRW-3510-1JF",
+    "PRW-3510FC-1",
+    "PRW-3510FC-1JF",
+    "PRW-3510Y-1",
+    "PRW-3510Y-1JF",
+    "PRW-6100FC-1",
+    "PRW-6100FC-1JF",
+    "PRW-6100Y-1",
+    "PRW-6100Y-1A",
+    "PRW-6100Y-1AJF",
+    "PRW-6100Y-1JF",
+    "PRW-6100YT-1",
+    "PRW-6100YT-1B",
+    "PRW-6100YT-1BJF",
+    "PRW-6100YT-1JF",
+    "PRW-7000-1A",
+    "PRW-7000-1AJF",
+    "PRW-7000-1B",
+    "PRW-7000-1BJF",
+    "PRW-7000-3JF",
+    "PRW-7000-8JF",
+    "PRW-7000FC-1",
+    "PRW-7000FC-1JF",
+    "PRW-7000V-1JF",
+    "PRW-B1000-1",
+    "PRW-B1000-5",
+    "PRW-B1000B-2",
+    "PRW-B1000WM-1",
+    "PRW-S3100-1",
+    "PRW-S3100-1JF",
+    "PRW-S3500-1JF",
+    "PRW-S6100Y-1",
+    "PRW-S6100Y-1JF",
+    "PRX-7000T-7JF",
+    "PRX-8000T-7AJF",
+    "PRX-8000T-7BJF",
+    "PRX-8000YT-1JF",
+    "SPF-100-1V",
+    "SPF-100J-1JF",
+    "SPF-100S-1V",
+    "SPF-100SJ-1JF",
+    "W150C-1",
+    "WSD-F20-BK",
+    "WSD-F20-RG"
   ],
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
