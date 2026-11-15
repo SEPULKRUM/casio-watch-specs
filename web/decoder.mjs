@@ -15,14 +15,21 @@ export function decodeModel(input,data=null,references=null){
  if(!/^[A-Z0-9-]+$/.test(cleaned))return {recognized:false,reason:'Enter a Casio model or prefix using letters, numbers and hyphens.',segments:[]};
  const key=compact(cleaned),exact=data?Object.values(data.models).find(m=>compact(m.id)===key):null;
  const matches=exactReferences(references,cleaned);
+ if(exact?.specs?.catalog_year){
+  const historicalPrefix=exact.id.match(/^[A-Z]+/)?.[0]||'',segments=[];
+  if(historicalPrefix)segments.push({type:'prefix',token:historicalPrefix,title:'Historical model family',communityMeaning:null,description:`Historical Casio identifier in the supplied ${exact.specs.catalog_year.value} catalog extraction. Modern same-prefix letter interpretations are not applied.`,status:'secondary_reported',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/research/historical-catalog-1980-1989.json'});
+  segments.push({type:'series',token:historicalPrefix?exact.id.slice(historicalPrefix.length).replace(/^-/,''):exact.id,title:'Historical model identifier',description:'Model designation as transcribed in the supplied extraction. No letter, colour, production-date or module meaning is inferred from its digits.',status:'secondary_reported'});
+  return {recognized:true,prefix:historicalPrefix,family:'HISTORICAL CASIO',normalized:exact.id,segments,exact,references:matches,historicalReference:true};
+ }
+
  if(/^\d{2,3}[A-Z]/.test(cleaned)&&matches.length)return {recognized:true,prefix:'',family:'HISTORICAL MODEL REFERENCE',normalized:cleaned,segments:[{type:'series',token:cleaned,title:'Historical numeric model identifier',description:'This source reference uses a numeric-leading designation. No alphabetical prefix or module assignment is inferred.',status:'Research reference · not a verified specification record'}],exact,references:matches,historicalReference:true};
  const suppliedPattern=ownerPattern(key);
  let family=[...entries].sort((a,b)=>b[1].length-a[1].length).find(e=>key===e[1]||(key.startsWith(e[1])&&/\d/.test(key.slice(e[1].length))));
  if(suppliedPattern){const suppliedFamily=suppliedPattern.code.split('-')[0];family=entries.find(e=>e[1]===suppliedFamily)||family;}
  if(!family)return {recognized:false,reason:'This prefix is not yet covered by the reference. The model may still be valid.',segments:[],exact};
  const historicalMatches=[...matches,...(references?Object.values(references.models).filter(m=>cleaned.startsWith(m.id+'-')):[])];
- const historicalReference=historicalMatches.some(m=>m.observations.some(o=>['checked_compilation_index','supplied_transcription'].includes(o.role)));
- const historicalCollision=historicalReference&&['GM','GMW','GD','GG','GR','BA'].includes(family[1]);
+ const historicalReference=historicalMatches.some(m=>m.observations.some(o=>o.historical_context||['checked_compilation_index','supplied_transcription'].includes(o.role)));
+ const historicalCollision=historicalReference&&(historicalMatches.some(m=>m.observations.some(o=>o.historical_context))||['GM','GMW','GD','GG','GR','BA'].includes(family[1]));
  if(historicalCollision)family=['HISTORICAL CASIO',family[1],'Historical use of this identifier appears in the compilation index. Features of the modern same-prefix family are not inferred.',family[3],{status:'secondary_reported',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json'}];
  let normalized=normalizeBCModel(family[1],key,normalizeKnownModel(key,exact?.id||cleaned));
  if(/^PRWS3100(?:1JF)?$/.test(key))normalized=key==='PRWS3100'?'PRW-S3100':'PRW-S3100-1JF';

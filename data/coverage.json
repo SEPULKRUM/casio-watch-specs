@@ -1,13 +1,15 @@
 {
-  "models": 196,
-  "modules": 114,
+  "models": 459,
+  "modules": 202,
   "facts_by_status": {
-    "pending_review": 2525
+    "pending_review": 3916
   },
   "models_by_series": {
     "Baby-G": 7,
     "Casio Databank": 3,
     "Casio Dress": 1,
+    "Casio Historical": 259,
+    "Casio Historical Clocks": 4,
     "Casio Sports": 2,
     "Casio Standard": 8,
     "Casio Vintage": 3,
@@ -20,10 +22,321 @@
     "Wave Ceptor": 24
   },
   "models_missing_fields": {
+    "29CS-49B-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "56CS-528-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "56QS-38B-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "59CGS-57B-5": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "79CS-51B-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "87QL-20B-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A153": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A153G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A153WG-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A155W-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A160B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A250-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A663": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "A663G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AB-100-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AE-20-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AE-60W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AE-80": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AE-8BW": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AE2ZNAV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AET2W-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-10-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-11L-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-20-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-21L-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-30-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AG-31L-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "AMW320R-1EV": [
       "dimensions_mm",
       "case_material",
       "glass"
+    ],
+    "AQ-331B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AQ-340-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AQ-340-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AQ-410": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AQ-410G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "ARW-320AT-1E2V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AT-552": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AT-552G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AX-250": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "B-210": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "B612W-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "B612WG-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "BG1006SA-1": [
       "dimensions_mm",
@@ -41,8 +354,303 @@
       "case_material",
       "glass"
     ],
+    "C-80": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "C-801-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "C-801-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-50": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-502": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-85": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-86": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-95": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CA-951": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CFS-80": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CFX-200": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CS-82": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "CS-821": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DA-101": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DA-106": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DB-20W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DB-510": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DB-52W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "DBC-32-1A": [
       "water_resistance_rating"
+    ],
+    "DBC-60": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DBC-600": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DBC-600G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DQ-300": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-1000": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-1000C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-1500C-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-210": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-260-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-300": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-3000C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-310-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-500C-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-500C-9BV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-5200C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5400C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5500C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5600C-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-5600C-9BV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "DW-5700C-9V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
     ],
     "EF503D-1AV": [
       "dimensions_mm",
@@ -50,6 +658,253 @@
     ],
     "EQS500DB-1A1": [
       "dimensions_mm"
+    ],
+    "F-14": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-18-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-200": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-21W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-28W-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-300": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-300G-5": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-76W-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-77W-1D": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-7C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-80C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-80E-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-85": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "F-85-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-85P": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-87W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "F-88W-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-10": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-11": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-12-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-12-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-12-1C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20B-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20B-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20B-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20C-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20C-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-20C-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-21A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-21B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "FS-50": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "G100-1BV": [
       "dimensions_mm",
@@ -76,6 +931,62 @@
       "dimensions_mm",
       "case_material",
       "glass"
+    ],
+    "GF-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GF-11": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GF-87W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GM-30": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GM-301": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GM-40": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GM-50": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "GW-5000B-1": [
       "case_material",
@@ -169,8 +1080,1008 @@
       "case_material",
       "glass"
     ],
+    "L-10-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-20-28": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-20-2A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-2FW-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-2FW-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-2FW-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-2W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-50G-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-7-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "L-7P-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LA-11W-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LA-11W-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LA-660": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LA-660G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LAW45-2EV": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LB-610": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LB-610G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LM-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LM-320GL": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LP-210G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LP-300": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LP-82G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-11W-1G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-11W-4G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-11W-7G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-14W-1E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-14W-6E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-14W-7E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-14W-9E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-14WG": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-15C-1G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-15C-2G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-15C-7G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-15C-8G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-18-3B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-18-4B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-18-9B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-23FW-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-23FW-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-23FW-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-23FW-8": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-302": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-302G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-30W-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-30W-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-313": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-313G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-31W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-33W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-50F-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-50F-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-50F-6": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-50F-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-804G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-809G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-811G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-817G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-818G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-820G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-821": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQ-821G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LQW-100": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-10": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-11": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-11F-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-11F-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-11F-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-30-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-30-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-30-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-30-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-303C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-40-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-40-7A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-401C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-60": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-601": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LW-610": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "M-12-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "M1200-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "M1200G-5": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MAP-100-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14W-7B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14W-8E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14W-9E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14WF-1G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14WF-1G2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14WF-8B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-14WF-8G1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-20W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-30": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-303": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-303G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-307": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-307G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-30W-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-30W-7B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-31-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-31-5B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-31-8B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-33": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-330G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-331": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-400W-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-400W-7A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-503": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-503G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-51W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-530": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-530G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-60W-1E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQ-60W-7B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQA-100": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQA-100G": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQD-200W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQD-3000W": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-10-1E1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-10-7E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-100": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-30": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-40": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-500": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MQW-500C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "MTP-1302D-1A1V": [
       "case_material"
+    ],
+    "MW-101-7A2V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "MW31-98V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "PAG240-1": [
       "dimensions_mm",
@@ -192,6 +2103,169 @@
       "case_material",
       "glass"
     ],
+    "PQ-5": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "S-220-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "TS-100-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "TS-1200": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "TS-1200-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-10": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-100-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-10SC": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-11": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-20-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "W-23": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "W-26": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-34": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-35": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "W-350": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "W-450": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass"
+    ],
+    "W-700": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-760": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W-760C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W150-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "W150C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "WVA430J-1A": [
       "dimensions_mm",
       "case_material",
@@ -201,6 +2275,22 @@
       "dimensions_mm",
       "case_material",
       "glass"
+    ],
+    "WW-15": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "WW-5100C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ]
   },
   "models_without_module_link": [
@@ -211,40 +2301,303 @@
     "BG1006SA-1",
     "BG169R-1",
     "CA-53W-1",
+    "DA-101",
+    "DA-106",
+    "DBC-600G",
+    "DQ-300",
     "F-91W-1",
     "G-9300-1",
     "G100-1BV",
     "GA-110-1B",
     "GW-B5600-2",
+    "LQ-11W-7G",
+    "LQ-820G",
+    "LW-11F-4",
+    "LW-401C-1",
     "LWA-M145-1AJF",
     "LWA-M145-4AJF",
     "LWA-M145L-4AJF",
     "LWA-M145L-8A2JF",
     "LWA-M145L-8AJF",
+    "MQ-60W-7B",
     "MRW-200H-1BV",
     "OCW-S100-1AJF",
     "OCW-T150-1AJF",
-    "W-800H-1AV"
+    "PQ-5",
+    "W-800H-1AV",
+    "W150C-1"
   ],
-  "models_with_single_module_reference": 175,
+  "models_with_single_module_reference": 427,
   "user_provided_module_references": {
+    "29CS-49B-1": "29",
+    "56CS-528-2": "56",
+    "56QS-38B-1": "56",
+    "59CGS-57B-5": "59",
+    "79CS-51B-1": "79",
+    "87QL-20B-1": "87",
+    "A153": "415",
+    "A153G": "415",
+    "A153WG-9": "587",
+    "A155W-1": "587",
+    "A160B": "415",
     "A168WA-1W": "3298",
+    "A250-1": "106",
+    "A663": "145",
+    "A663G": "145",
+    "AB-100-1A": "344",
+    "AE-20-1": "588",
+    "AE-60W": "188",
+    "AE-80": "287",
+    "AE-8BW": "188",
+    "AE2ZNAV": "809",
+    "AET2W-1V": "604",
+    "AG-10-1": "164",
+    "AG-11L-4": "164",
+    "AG-20-1": "207",
+    "AG-21L-4": "207",
+    "AG-30-1": "226",
+    "AG-31L-4": "226",
+    "AQ-331B": "305",
+    "AQ-340-1": "309",
+    "AQ-340-7": "309",
+    "AQ-410": "307",
+    "AQ-410G": "307",
+    "ARW-320AT-1E2V": "376",
+    "AT-552": "320",
+    "AT-552G": "320",
+    "AX-250": "145",
+    "B-210": "400",
+    "B612W-1": "350",
+    "B612WG-9": "350",
+    "C-80": "133",
+    "C-801-1": "133",
+    "C-801-7": "133",
+    "CA-50": "437",
+    "CA-502": "197",
+    "CA-85": "134",
+    "CA-86": "134",
+    "CA-95": "166",
+    "CA-951": "166",
+    "CFS-80": "438",
+    "CFX-200": "437",
+    "CS-82": "231",
+    "CS-821": "231",
+    "DB-20W": "502",
+    "DB-510": "262",
+    "DB-52W": "262",
     "DBC-32-1A": "2888",
+    "DBC-60": "563",
+    "DBC-600": "563",
+    "DW-1000": "280",
+    "DW-1000C": "280",
+    "DW-1500C-1V": "690",
+    "DW-210": "548",
+    "DW-260-1V": "690",
+    "DW-300": "548",
+    "DW-3000C": "548",
+    "DW-310-1V": "690",
+    "DW-500C-1V": "540",
+    "DW-500C-9BV": "540",
+    "DW-5200C": "240",
+    "DW-5400C": "240",
+    "DW-5500C": "240",
+    "DW-5600C-1V": "691",
+    "DW-5600C-9BV": "691",
+    "DW-5700C-9V": "691",
     "F-105W-1A": "1275",
+    "F-14": "350",
+    "F-18-1": "695",
+    "F-200": "83",
+    "F-21W": "415",
+    "F-28W-1": "506",
+    "F-300": "110",
+    "F-300G-5": "110",
+    "F-76W-1A": "587",
+    "F-77W-1D": "587",
+    "F-7C": "83",
+    "F-80C-1": "83",
+    "F-80E-1": "83",
+    "F-85": "160",
+    "F-85-1": "160",
+    "F-85P": "160",
+    "F-87W": "595",
+    "F-88W-1A": "593",
+    "FS-10": "465",
+    "FS-11": "467",
+    "FS-12-1A": "475",
+    "FS-12-1B": "475",
+    "FS-12-1C": "475",
+    "FS-20B-2": "465",
+    "FS-20B-4": "465",
+    "FS-20B-9": "465",
+    "FS-20C-2": "465",
+    "FS-20C-4": "465",
+    "FS-20C-9": "465",
+    "FS-21A": "465",
+    "FS-21B": "465",
+    "FS-50": "466",
     "GD-010CE-5": "3569",
+    "GF-1": "209",
+    "GF-11": "209",
+    "GF-87W": "400",
+    "GM-30": "222",
+    "GM-301": "222",
+    "GM-40": "245",
+    "GM-50": "222",
+    "L-10-1": "83",
+    "L-20-28": "87",
+    "L-20-2A": "87",
+    "L-2FW-1": "401",
+    "L-2FW-2": "401",
+    "L-2FW-4": "401",
+    "L-2W": "401",
+    "L-50G-1": "125",
+    "L-7-1": "192",
+    "L-7P-1": "157",
+    "LA-11W-1": "506",
+    "LA-11W-7": "506",
+    "LA-660": "506",
+    "LA-660G": "506",
+    "LAW45-2EV": "340",
+    "LB-610": "401",
+    "LB-610G": "401",
     "LCW-M100DSE-1A": "5161",
     "LCW-M100TSE-1A": "5161",
     "LCW-M100TSE-1A2": "5161",
     "LCW-M170TD-1A": "5161",
     "LCW-M170TD-2A": "5161",
+    "LM-3": "123",
+    "LM-320GL": "123",
+    "LP-210G": "191",
+    "LP-300": "210",
+    "LP-82G": "85",
+    "LQ-11W-1G": "319",
+    "LQ-11W-4G": "319",
+    "LQ-14W-1E": "319",
+    "LQ-14W-6E": "319",
+    "LQ-14W-7E": "319",
+    "LQ-14W-9E": "319",
+    "LQ-14WG": "319",
+    "LQ-15C-1G1": "319",
+    "LQ-15C-2G1": "319",
+    "LQ-15C-7G1": "319",
+    "LQ-15C-8G1": "319",
+    "LQ-18-3B": "339",
+    "LQ-18-4B": "339",
+    "LQ-18-9B": "339",
+    "LQ-23FW-2": "319",
+    "LQ-23FW-3": "319",
+    "LQ-23FW-4": "319",
+    "LQ-23FW-8": "319",
+    "LQ-302": "319",
+    "LQ-302G": "319",
+    "LQ-30W-1": "319",
+    "LQ-30W-7": "319",
+    "LQ-313": "319",
+    "LQ-313G": "319",
+    "LQ-31W": "337",
+    "LQ-33W": "319",
+    "LQ-50F-2": "319",
+    "LQ-50F-3": "319",
+    "LQ-50F-6": "319",
+    "LQ-50F-9": "319",
+    "LQ-804G": "319",
+    "LQ-809G": "319",
+    "LQ-811G": "319",
+    "LQ-817G": "319",
+    "LQ-818G": "319",
+    "LQ-821": "319",
+    "LQ-821G": "319",
+    "LQW-100": "319",
+    "LW-10": "220",
+    "LW-11": "401",
+    "LW-11F-2": "401",
+    "LW-11F-3": "401",
+    "LW-30-1": "506",
+    "LW-30-2": "220",
+    "LW-30-3": "220",
+    "LW-30-4": "401",
+    "LW-303C-1": "192",
+    "LW-40-1A": "506",
+    "LW-40-7A": "506",
+    "LW-60": "506",
+    "LW-601": "126",
+    "LW-610": "470",
+    "M-12-1": "87",
+    "M1200-1": "82",
+    "M1200G-5": "82",
+    "MAP-100-1V": "644",
+    "MQ-14W-7B": "317",
+    "MQ-14W-8E": "317",
+    "MQ-14W-9E": "317",
+    "MQ-14WF-1G1": "317",
+    "MQ-14WF-1G2": "317",
+    "MQ-14WF-8B": "317",
+    "MQ-14WF-8G1": "310",
+    "MQ-20W": "313",
+    "MQ-30": "317",
+    "MQ-303": "317",
+    "MQ-303G": "317",
+    "MQ-307": "319",
+    "MQ-307G": "319",
+    "MQ-30W-1B": "317",
+    "MQ-30W-7B": "317",
+    "MQ-31-1B": "317",
+    "MQ-31-5B": "317",
+    "MQ-31-8B": "317",
+    "MQ-33": "310",
+    "MQ-330G": "310",
+    "MQ-331": "310",
+    "MQ-400W-1A": "317",
+    "MQ-400W-7A": "317",
+    "MQ-503": "328",
+    "MQ-503G": "328",
+    "MQ-51W": "336",
+    "MQ-530": "313",
+    "MQ-530G": "313",
+    "MQ-60W-1E": "313",
+    "MQA-100": "333",
+    "MQA-100G": "333",
+    "MQD-200W": "328",
+    "MQD-3000W": "328",
+    "MQW-10-1E1": "317",
+    "MQW-10-7E": "317",
+    "MQW-100": "311",
+    "MQW-30": "328",
+    "MQW-40": "328",
+    "MQW-500": "311",
+    "MQW-500C": "311",
     "MTP-1302D-1A1V": "2784",
+    "MW-101-7A2V": "394",
+    "MW31-98V": "388",
     "PRG-270-1": "3415",
     "PRJ-B001-1": "5732",
     "PRJ-B001-7": "5732",
     "PRJ-B001B-1": "5732",
     "PRJ-B001B-2": "5732",
+    "S-220-1": "135",
+    "TS-100-1V": "830",
+    "TS-1200": "515",
+    "TS-1200-1": "615",
+    "W-10": "596",
+    "W-100-1": "106",
+    "W-10SC": "415",
+    "W-11": "203",
+    "W-20-1": "152",
+    "W-23": "248",
+    "W-26": "415",
+    "W-34": "415",
+    "W-35": "248",
+    "W-350": "152",
+    "W-450": "248",
+    "W-700": "548",
+    "W-760": "548",
+    "W-760C": "548",
+    "W150-1": "106",
     "WV-58R-1A": "3476",
-    "WV-59R-1A": "3476"
+    "WV-59R-1A": "3476",
+    "WW-15": "189",
+    "WW-5100C": "491"
   },
   "models_with_ambiguous_manual": {
     "A158WA-1": [
@@ -333,7 +2686,19 @@
       "3240"
     ]
   },
-  "models_without_any_module_reference": [],
+  "models_without_any_module_reference": [
+    "DA-101",
+    "DA-106",
+    "DBC-600G",
+    "DQ-300",
+    "LQ-11W-7G",
+    "LQ-820G",
+    "LW-11F-4",
+    "LW-401C-1",
+    "MQ-60W-7B",
+    "PQ-5",
+    "W150C-1"
+  ],
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
@@ -342,6 +2707,8 @@
     "alarm_count": 78,
     "battery_cell": 1,
     "calendar": 103,
+    "catalog_features": 14,
+    "catalog_reference": 91,
     "depth_meter": 1,
     "digital_compass": 1,
     "display_polarity": 2,
@@ -358,12 +2725,12 @@
     "world_time_zones": 66
   },
   "module_profiles_by_fact_count": {
-    "1": 1,
-    "2": 4,
+    "1": 75,
+    "2": 18,
     "3": 12,
-    "4": 13,
-    "5": 17,
-    "6": 13,
+    "4": 12,
+    "5": 16,
+    "6": 15,
     "7": 10,
     "8": 8,
     "9": 3,
@@ -373,23 +2740,111 @@
     "18": 1
   },
   "modules_with_sparse_profiles": [
+    "106",
+    "110",
+    "123",
+    "125",
+    "126",
     "1275",
+    "133",
+    "134",
+    "135",
+    "145",
+    "152",
+    "157",
     "1572",
+    "160",
+    "164",
+    "166",
+    "188",
+    "189",
+    "191",
+    "192",
+    "197",
+    "203",
+    "207",
+    "209",
+    "210",
+    "220",
+    "222",
+    "226",
+    "231",
+    "240",
+    "245",
+    "248",
+    "262",
     "2701",
     "2784",
+    "280",
+    "287",
+    "29",
+    "305",
+    "307",
+    "309",
+    "310",
+    "311",
+    "313",
+    "317",
+    "319",
+    "320",
+    "328",
+    "333",
+    "336",
+    "337",
+    "339",
+    "340",
+    "344",
     "3482",
+    "350",
     "3506",
     "3515",
+    "376",
+    "388",
+    "394",
+    "400",
+    "401",
+    "415",
+    "465",
+    "466",
+    "467",
+    "470",
+    "475",
     "4755",
+    "491",
+    "502",
+    "506",
     "5125",
     "5128",
+    "515",
     "5227",
+    "540",
+    "548",
+    "56",
+    "563",
     "5644",
     "5652",
     "5665",
     "5671",
     "5672",
-    "5701"
+    "5701",
+    "587",
+    "588",
+    "59",
+    "595",
+    "596",
+    "604",
+    "615",
+    "644",
+    "690",
+    "691",
+    "695",
+    "79",
+    "809",
+    "82",
+    "83",
+    "830",
+    "85",
+    "87"
   ],
   "note": "Coverage counts include pending candidates; unknown does not mean absent."
 }

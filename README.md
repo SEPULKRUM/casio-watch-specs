@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **196 models, 114 modules and 2,525 source-backed candidate
+The catalog now contains **459 catalog models, 202 module identities/profiles and 3,916 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 196 models and 114 module profiles.
+The bundled snapshot contains the current 459 catalog models and 202 module identities/profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -1092,3 +1092,5 @@ collisions and unknown references stay qualified. BC/U, colour/order and regiona
 segmentation and all specification/reference counts are unchanged.
 
 Anniversary editions are documented in [anniversary interpretations](docs/anniversary-interpretations.md). The supplied directory contributes 120 unique research identifiers; only the featured GWF-D1035B-1 is added as a specification record, with Casio-confirmed and owner-supplied claims labelled separately.
+
+The [1980–1989 historical catalog import](docs/historical-catalog-1980-1989.md) adds 263 readable entries (259 watches and four clocks), with 56 uncertain labels preserved separately. Historical source transcriptions remain pending review. Module identities without a supplied function table carry only model-association notes.

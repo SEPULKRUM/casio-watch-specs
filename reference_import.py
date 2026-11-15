@@ -110,6 +110,11 @@ def add_supplement(library, supplement):
             if not isinstance(page, int) or not 1 <= page <= source['pages']:
                 raise ValueError('Invalid supplement page')
             observation = {'source_id': source_id, 'role': 'supplied_guide_text', 'pdf_page': page}
+            if item.get('historical_context'):
+                if item.get('catalog_year') not in {1980, 1982, 1985, 1989} or not isinstance(item.get('catalog_page'), int) or item['catalog_page'] < 1:
+                    raise ValueError('Invalid historical catalog locator')
+                observation.update(historical_context=True, catalog_year=item['catalog_year'], catalog_page=item['catalog_page'])
+
             if item.get('reading_status') == 'explicit_shorthand_expanded_under_same_model_heading':
                 observation['derivation'] = 'Explicit shorthand expanded under same model heading'
                 if 'expanded_shorthand' not in row['reading_flags']: row['reading_flags'].append('expanded_shorthand')

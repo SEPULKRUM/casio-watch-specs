@@ -9,11 +9,11 @@ from urllib.parse import urlsplit
 
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_material',
                 'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish',
-                'promotional_thickness_mm', 'technical_table_thickness_mm', 'display_polarity'}
+                'promotional_thickness_mm', 'technical_table_thickness_mm', 'display_polarity', 'catalog_year', 'catalog_description', 'catalog_material_finish'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity',
-                 'depth_meter', 'digital_compass', 'thermometer', 'dive_log', 'tide_moon', 'battery_cell'}
+                 'depth_meter', 'digital_compass', 'thermometer', 'dive_log', 'tide_moon', 'battery_cell', 'catalog_reference', 'catalog_features'}
 
 
 def identity(value):
@@ -65,8 +65,8 @@ def validate(record):
     if record.get('kind') not in ('model', 'module'):
         raise ValueError('kind must be model or module')
     key = identity(record['id'])
-    if record['kind'] == 'module' and not re.fullmatch(r'\d{3,4}', key):
-        raise ValueError('Module ID must have 3 or 4 digits')
+    if record['kind'] == 'module' and not re.fullmatch(r'\d{2,4}', key):
+        raise ValueError('Module ID must have 2 to 4 digits')
     if not record.get('specs') or not isinstance(record['specs'], dict):
         raise ValueError('Nonempty specs object required')
     allowed = MODEL_FIELDS if record['kind'] == 'model' else MODULE_FIELDS
@@ -100,11 +100,11 @@ def validate(record):
         if field == 'module_candidates':
             value = fact['value']
             if (not isinstance(value, list) or len(value) < 2
-                    or any(not isinstance(v, str) or not re.fullmatch(r'\d{3,4}', v) for v in value)
+                    or any(not isinstance(v, str) or not re.fullmatch(r'\d{2,4}', v) for v in value)
                     or len(set(value)) != len(value)):
                 raise ValueError('module_candidates requires distinct documented module IDs')
-        if field == 'module_id' and not re.fullmatch(r'\d{3,4}', str(fact['value'])):
-            raise ValueError('module_id must identify a 3 or 4 digit module')
+        if field == 'module_id' and not re.fullmatch(r'\d{2,4}', str(fact['value'])):
+            raise ValueError('module_id must identify a 2 to 4 digit module')
         if not isinstance(fact.get('uncertainty'), str):
             raise ValueError(f'{field}: explicit uncertainty string required')
         if not isinstance(fact.get('sources'), list) or not fact['sources']:

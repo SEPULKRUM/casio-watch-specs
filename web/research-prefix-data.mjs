@@ -32,6 +32,16 @@ export const researchEntries=[
   ],
   [
     "HISTORICAL CASIO",
+    "AET",
+    "AET appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "AET2W-1V",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "HISTORICAL CASIO",
     "AG",
     "AG is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
     "AG-101",
@@ -262,6 +272,16 @@ export const researchEntries=[
   ],
   [
     "HISTORICAL CASIO",
+    "DA",
+    "DA appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "DA-101",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "HISTORICAL CASIO",
     "DBA",
     "DBA appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "DBA-80-1",
@@ -315,6 +335,16 @@ export const researchEntries=[
     "DGW",
     "DGW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "DGW-30-1V",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "HISTORICAL CASIO",
+    "DQ",
+    "DQ appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "DQ-300",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -501,6 +531,26 @@ export const researchEntries=[
     }
   ],
   [
+    "HISTORICAL CASIO",
+    "LAW",
+    "LAW appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "LAW45-2EV",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "HISTORICAL CASIO",
+    "LB",
+    "LB appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "LB-610",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "RESEARCH REFERENCE",
     "LIN",
     "Earlier Lineage family proposed by the supplied guide; historical association and exact features need primary evidence.",
@@ -651,12 +701,32 @@ export const researchEntries=[
     }
   ],
   [
+    "HISTORICAL CASIO",
+    "MW",
+    "MW appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "MW-101-7A2V",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "RESEARCH REFERENCE",
     "OAW",
     "OAW is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
     "OAW-100TDJ",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "HISTORICAL CASIO",
+    "PQ",
+    "PQ appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+    "PQ-5",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],

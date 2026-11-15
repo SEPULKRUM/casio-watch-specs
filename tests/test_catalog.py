@@ -58,7 +58,7 @@ class CatalogTests(unittest.TestCase):
         self.assertGreaterEqual(len(results), 4)
         rows = list(csv.DictReader(io.StringIO(catalog.export_csv(self.catalog))))
         self.assertEqual(len(rows), len(self.catalog['models']))
-        self.assertTrue(all(row['source_urls'].startswith('https://') for row in rows))
+        self.assertTrue(all(row['source_urls'].startswith('https://') or row['source_references'].startswith('research/') for row in rows))
         self.assertEqual(catalog.search(self.catalog, verified_only=True), [])
 
     def test_verified_only_results_hide_pending_values(self):

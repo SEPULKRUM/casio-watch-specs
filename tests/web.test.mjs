@@ -41,7 +41,7 @@ const {validateReferences,findReferences,exactReferences,referenceStatus}=await 
 const refs=validateReferences(JSON.parse(fs.readFileSync(new URL('../data/model-references.json',import.meta.url))));
 test('expanded prefix library recognizes extracted families without inventing expansions',()=>{
  for(const prefix of ['CFX','TC','TGW','DGW','AWG','GPW','IRW','PRX','SPF','LP','MQW','PRJ']){const result=decodeModel(prefix,data,refs);assert.equal(result.prefix,prefix);assert.equal(result.prefixOnly,true);assert.match(result.segments[0].status,/secondary_reported|unverified/)}
- assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,162);
+ assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,169);
 });
 const {entries:entriesForReferenceTest}=await import('../web/decoder.mjs');
 test('research identifiers remain separate from catalog models and candidates stay labelled',()=>{
@@ -118,7 +118,7 @@ test('original and updated 5610 BC suffixes retain separate U and avoid global U
 test('multi-line guide adds qualified prefix associations and references without catalog inflation',()=>{
  for(const prefix of ['CMK','MDV','AEQ','WVQ','LIN','BGS','MTD','MRW'])assert.equal(decodeModel(prefix,data,refs).prefix,prefix);
  assert.equal(decodeModel('CMK',data,refs).family,'CASIO AUTOMATIC');assert.equal(decodeModel('CMK',data,refs).segments[0].status,'official_observed');assert.match(decodeModel('MDV',data,refs).segments[0].description,/do not infer 200 m/);
- const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,196);
+ const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,459);
 });
 
 const {prefixMeaning}=await import('../web/prefix-meanings.mjs');
@@ -200,5 +200,14 @@ test('Gold Tornado commemorative code and module specifications stay correctly s
 test('anniversary directory exposes every supplied entry without importing all as verified watches',async()=>{
  const {anniversaryDirectory}=await import('../web/anniversary.mjs');assert.equal(anniversaryDirectory.length,124);assert.equal(new Set(anniversaryDirectory.map(r=>r.id)).size,120);
  for(const item of anniversaryDirectory){assert.ok(refs.models[item.id],item.id);const r=decodeModel(item.id,data,refs);assert.ok(r.editionNotes?.length,item.id);}
- assert.equal(stats(data).models,196);
+ assert.equal(stats(data).models,459);
+});
+
+test('historical catalog rows display exact facts without modern prefix or colour inference',()=>{
+ for(const id of ['GM-40','DW-1000','AE-60W','GF-1','56CS-528-2','PQ-5','AE2ZNAV']){const r=decodeModel(id,data,refs);assert.equal(r.exact.id,id);assert.equal(r.family,'HISTORICAL CASIO');assert.equal(r.historicalReference,true);assert.equal(modelColor(r),null);assert.ok(!r.segments[0].communityMeaning);}
+ assert.equal(value(data.models['56CS-528-2'],'module_id'),'56');assert.equal(value(data.models['GM-40'],'catalog_year'),1982);assert.equal(value(data.models['W150C-1'],'module_id'),null);assert.ok(findModels(data,{query:'Pyramid'}).some(m=>m.id==='GM-40'));
+ assert.match(decodeModel('GMW-B5000',data,refs).segments[0].communityMeaning.meaning,/Metal/);
+});
+test('uncertain historical readings remain separate from imported model identities',async()=>{
+ const {historicalReview}=await import('../web/historical-review.mjs');assert.equal(historicalReview.length,56);assert.equal(historicalReview.filter(r=>r.catalog_year===1989).length,41);assert.ok(historicalReview.some(r=>r.reading==='MQ.S0W.18'));assert.ok(!data.models['MQ.S0W.18']);assert.equal(stats(data).models,459);
 });
