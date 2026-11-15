@@ -26,7 +26,7 @@ test('published parts manifest links only exact catalog models',()=>{const p=val
 
 const {prefixLetters,modelColor,officialProductLink,letterPalette}=await import('../web/decoder-presentation.mjs');
 test('letter tiles preserve order, position, repeated G distinction and uncertainty',()=>{
- const letters=prefixLetters('GWG');assert.deepEqual(letters.map(x=>x.letter),['G','W','G']);assert.deepEqual(letters.map(x=>x.position),[1,2,3]);assert.notEqual(letters[0].background,letters[2].background);assert.equal(letters[2].meaning,'Meaning unverified');assert.equal(letters[2].evidence,'unverified');assert.equal(letters[1].evidence,'community_interpretation');assert.match(prefixLetters('GPW')[1].meaning,/Positioning/);assert.equal(prefixLetters('DW')[0].evidence,'unverified');
+ const letters=prefixLetters('GWG');assert.deepEqual(letters.map(x=>x.letter),['G','W','G']);assert.deepEqual(letters.map(x=>x.position),[1,2,3]);assert.notEqual(letters[0].background,letters[2].background);assert.equal(letters[2].meaning,'Meaning unverified');assert.equal(letters[2].evidence,'unverified');assert.equal(letters[1].evidence,'community_interpretation');assert.match(prefixLetters('GPW')[1].meaning,/Positioning/);assert.equal(prefixLetters('DW')[0].evidence,'community_interpretation');
 });
 test('letter tile palette has WCAG AA contrast with white text',()=>{
  const luminance=hex=>{const rgb=hex.match(/[0-9a-f]{2}/gi).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return .2126*rgb[0]+.7152*rgb[1]+.0722*rgb[2]};for(const color of letterPalette)assert.ok(1.05/(luminance(color)+.05)>=4.5,color);
@@ -63,4 +63,31 @@ test('numeric-leading historical identifiers are references without guessed pref
 });
 test('invalid reference manifests fail safely and cannot introduce markup as model IDs',()=>{
  const bad=structuredClone(refs);bad.models['<img>']={id:'<img>',status:'machine_candidate',observations:[]};assert.throws(()=>validateReferences(bad));const missing=structuredClone(refs);delete missing.sources[Object.keys(missing.sources)[0]];assert.throws(()=>validateReferences(missing));
+});
+
+const {decoderDisclosure,decoderRules,evidenceName,ruleSources}=await import('../web/decoder-rules.mjs');
+test('every search has a community disclosure and official-feature distinction',()=>{
+ assert.match(decoderDisclosure,/Casio.*complete, universal/);assert.match(decoderDisclosure,/watch-community/);assert.match(decoderDisclosure,/features confirmed by Casio/);
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.match(html,/id="decoder-disclosure"/);assert.match(html,/id="decoder-rules"/);assert.ok(decoderRules.some(s=>s.includes('model-dependent')));assert.equal(evidenceName('community_interpretation'),'Watch-community interpretation');
+});
+test('GW-B5600BC-1BER separates feature B, bracelet BC, colour, order B and ER',()=>{
+ for(const input of ['GW-B5600BC-1BER','gwb5600bc1ber']){const r=decodeModel(input,data,refs);assert.equal(r.normalized,'GW-B5600BC-1BER');assert.deepEqual(r.segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);assert.match(r.segments[1].description,/Bluetooth/);assert.match(r.segments[3].description,/bracelet.*composite-band/);assert.equal(r.segments[3].status,'community_interpretation');assert.match(r.segments[5].description,/not automatically Bluetooth/);assert.equal(r.segments[5].status,'unverified');assert.match(r.segments[6].description,/European-market/);assert.match(r.segments[6].description,/not.*manufacturing/);assert.equal(r.officialFeatures.status,'official_observed');assert.match(r.officialFeatures.description,/composite band/);assert.equal(modelColor(r).label,'Black');assert.equal(modelColor(r).evidence,'official_observed')}
+ assert.equal(modelColor(decodeModel('GW-B5600BC-1BJR',data,refs)).evidence,'unverified');
+});
+test('GMW-B5000 metal and Bluetooth associations are scoped and separate from features',()=>{
+ const r=decodeModel('gmw-b5000',data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GMW','B','5000']);assert.equal(modelColor(r),null);assert.match(r.segments[1].description,/Bluetooth/);assert.equal(r.segments[1].status,'community_interpretation');assert.match(r.officialFeatures.description,/metal construction/);assert.match(prefixLetters('GMW')[1].meaning,/Metal/);assert.equal(prefixLetters('GMW')[1].evidence,'community_interpretation');assert.deepEqual(decodeModel('GMW-B5000D-1ER').segments.map(s=>s.token),['GMW','B','5000','D','1','ER']);
+ assert.match(decodeModel('GMW-B9999').segments[1].description,/not been established/);assert.match(decodeModel('GW-B9999').segments[1].description,/not been established/);assert.equal(decodeModel('GMW-15-1V',data,refs).officialFeatures,null);
+});
+test('GPW alternatives remain community interpretations alongside official technology wording',()=>{
+ for(const model of ['GPW-1000','GPW-2000']){const r=decodeModel(model,data,refs);assert.equal(r.family,'G-SHOCK / GRAVITYMASTER');assert.equal(r.officialFeatures.technologyName,'GPS Hybrid Wave Ceptor');assert.match(r.segments[0].description,/not an official acronym/)}
+ const p=prefixLetters('GPW')[1];assert.match(p.meaning,/Positioning.*Pilot/);assert.equal(p.evidence,'community_interpretation');assert.notEqual(prefixLetters('GPW')[2].evidence,'official_explicit');assert.deepEqual(decodeModel('GPW-2000-1A2').segments.map(s=>s.token),['GPW','2000','1','A2']);
+});
+test('DW community interpretation never assigns a universal depth or G-SHOCK identity',()=>{
+ const r=decodeModel('DW-291H-1AV',data,refs);assert.match(r.segments[0].description,/Digital Water Resistant/);assert.match(r.segments[0].description,/non-G-SHOCK/);assert.match(r.segments[0].description,/prefix alone does not establish/);assert.equal(r.segments[0].status,'community_interpretation');assert.notEqual(prefixLetters('DW')[0].evidence,'official_explicit');assert.equal(r.officialFeatures,null);assert.deepEqual(decodeModel('GW-M5610U-1').segments.slice(0,4).map(s=>s.token),['GW','M','5610','U']);assert.match(decodeModel('GW-M5610U-1').segments[3].description,/Updated/);
+});
+
+test('official-feature source links have reviewed checksums without claiming letter definitions',()=>{
+ const evidence=JSON.parse(fs.readFileSync(new URL('../research/decoder-rule-evidence-2026-11-15.json',import.meta.url)));
+ for(const url of Object.values(ruleSources)){const row=evidence.observations.find(x=>x.url===url);assert.ok(row,url);assert.match(row.snapshot_sha256,/^[0-9a-f]{64}$/);assert.equal(row.letter_expansion_proved,false)}
+ assert.equal(evidence.observations.find(x=>x.id==='gw-b5600bc').selected_observations.european_sku,'GW-B5600BC-1BER');
 });

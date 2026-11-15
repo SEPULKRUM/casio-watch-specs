@@ -1011,3 +1011,18 @@ numeric-leading historical IDs remain intact. Historical GM/GMW/GD/GG/BA context
 do not inherit modern family features or unsupported colour guesses. The existing
 195-model specification catalog and its 2,496 facts are unchanged. See the
 [extraction scope, counts and rebuild instructions](research/prefix-library-2026-11-15/README.md).
+
+## Model-code interpretation rules · 15 November 2026
+
+Searches now display a community-interpretation notice and an expandable rules
+guide. GPW alternatives, GMW-B5000's metal/Bluetooth associations, DW's community
+reading and the GW-B5600BC-1BER example are scoped and labelled. Casio-confirmed
+features appear separately from suggested letter definitions, with official
+source links. GW-B5600BC-1BER splits into **GW / B / 5600 / BC / 1 / B / ER**;
+the later B remains an unverified variant marker. Exact Casio colour metadata
+supports Black for the cited European SKU. No universal B, BC, DW-depth or U-solar
+rule is introduced. See [decoder rules and examples](docs/decoder-rules.md).
+
+The 195-model specification catalog, 2,496 fields, 129 prefix patterns and 2,325
+research-reference strings are unchanged. No images or advertising prose are
+published by this update.

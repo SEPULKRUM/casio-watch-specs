@@ -1,0 +1,133 @@
+{
+  "accessed": "2026-11-15",
+  "scope": "Selected official feature observations are separate from user-supplied watch-community naming interpretations. No comprehensive official acronym key is asserted. The supplied infographic is secondary guidance, not an official Casio source.",
+  "observations": [
+    {
+      "id": "gw-b5600bc",
+      "url": "https://www.casio.com/europe/watches/casio/product.GW-B5600BC-1B/",
+      "accessed": "2026-11-15",
+      "snapshot_sha256": "5ed2fd5d6a9fa264f8e1bae28e3ef6f2118751d5cf1ad36c70829f0a5989f393",
+      "evidence_class": "official_observed",
+      "selected_observations": {
+        "product": "GW-B5600BC-1B",
+        "european_sku": "GW-B5600BC-1BER",
+        "manufacturer_colour": "Black",
+        "features": [
+          "Bluetooth smartphone linking",
+          "Multi-Band 6",
+          "Tough Solar"
+        ],
+        "band": "Stainless steel / resin composite band"
+      },
+      "letter_expansion_proved": false
+    },
+    {
+      "id": "gmw-b5000",
+      "url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/",
+      "accessed": "2026-11-15",
+      "snapshot_sha256": "6bc7ad84bcb04721d841b57391fd4f311297692d14e88ec10634f1d26dc26adc",
+      "evidence_class": "official_observed",
+      "selected_observations": {
+        "product": "GMW-B5000D-1",
+        "features": [
+          "Metal construction",
+          "Bluetooth smartphone linking",
+          "Multi-Band 6",
+          "Tough Solar"
+        ],
+        "scope": "Specific cited model; band configuration varies across GMW-B5000 variants"
+      },
+      "letter_expansion_proved": false
+    },
+    {
+      "id": "gpw1000",
+      "url": "https://support.casio.com/wat/hybrid/",
+      "accessed": "2026-11-15",
+      "snapshot_sha256": "a03d74fb7f22c771789c97915c2f857d2702f62a2cfebf1de3400415497d8ae1",
+      "evidence_class": "official_observed",
+      "selected_observations": {
+        "product": "GPW-1000",
+        "official_technology_name": "GPS Hybrid Wave Ceptor"
+      },
+      "letter_expansion_proved": false
+    },
+    {
+      "id": "gpw2000",
+      "url": "https://gshock.casio.com/europe/products/gravitymaster/gpw-2000/",
+      "accessed": "2026-11-15",
+      "snapshot_sha256": "4163bbead521ba477e01902f172b34385e18b48770bcb296900c44ad3f8ecb48",
+      "evidence_class": "official_observed",
+      "selected_observations": {
+        "model_line": "GPW-2000",
+        "features": [
+          "GPS positioning/time reception",
+          "Radio-controlled timekeeping",
+          "Bluetooth",
+          "Solar power"
+        ],
+        "scope": "Official model-line technology page"
+      },
+      "letter_expansion_proved": false
+    },
+    {
+      "id": "dw291",
+      "url": "https://www.casio.com/intl/watches/casio/product.DW-291H-1AV/",
+      "accessed": "2026-11-15",
+      "snapshot_sha256": "f849e9f238e708ebd6ffd18c812a900ce3bb609664b6d8ba18646193fe51bb88",
+      "evidence_class": "official_observed",
+      "selected_observations": {
+        "product": "DW-291H-1AV",
+        "line": "CASIO standard watches; not a G-SHOCK classification",
+        "water_resistance_rating": "200-meter water resistance",
+        "scope": "Exact model only; no universal DW depth claim"
+      },
+      "letter_expansion_proved": false
+    }
+  ],
+  "community_interpretations": [
+    {
+      "scope": "GPW-1000 / GPW-2000",
+      "readings": {
+        "G": "G-SHOCK brand association",
+        "P": [
+          "Positioning / GPS",
+          "Pilot"
+        ],
+        "W": "Wave Ceptor association"
+      },
+      "status": "community_interpretation; official individual-letter expansions unverified"
+    },
+    {
+      "scope": "DW",
+      "reading": "Digital Water Resistant",
+      "status": "community_interpretation; exact-model water rating required"
+    },
+    {
+      "scope": "GMW-B5000",
+      "readings": {
+        "M": "Metal",
+        "B": "Bluetooth",
+        "W": "Wave Ceptor association"
+      },
+      "status": "community_interpretation; related features confirmed separately"
+    },
+    {
+      "scope": "GW-B5600BC",
+      "readings": {
+        "B_before_5600": "Bluetooth",
+        "BC": "Bracelet / composite-band configuration",
+        "B_after_colour": "Additional variant/order marker; exact meaning unverified",
+        "ER": "European-market suffix reference; not manufacturing country"
+      },
+      "status": "Model-scoped interpretations; no universal suffix or acronym rule"
+    }
+  ],
+  "excluded_universal_claims": [
+    "No universal B=Bluetooth or BC=bracelet rule",
+    "Wave Ceptor is not synonymous with every Multi-Band 6 implementation or a universal W expansion",
+    "No universal 200 m rating from DW",
+    "No universal U=Tough Solar: preserve GW-M5610U Updated rule",
+    "No adoption of infographic feature/acronym guesses without model-specific evidence",
+    "MV/GMV module-version interpretations remain unverified; no fitted-module inference"
+  ]
+}

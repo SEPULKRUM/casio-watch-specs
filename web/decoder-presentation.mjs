@@ -6,8 +6,10 @@ export function prefixLetters(prefix,context={}){
  return [...prefix].map((letter,index)=>{
   let meaning='Meaning unverified',evidence='unverified';
   if(index===0&&letter==='G'&&!context.historical&&['G','GA','GW','GMW','GM','GST','GBD','GBA','GBX','GWF','GG','GWG','GPR','GX','GR','GWX','GWN','GD','GPW'].includes(prefix)){meaning='G-SHOCK brand association; no universal letter expansion established';evidence='secondary_reported'}
-  if(!context.historical&&prefix==='GPW'&&letter==='P'){meaning='Positioning / GPS — proposed community interpretation';evidence='community_interpretation'}
+  if(!context.historical&&prefix==='GPW'&&letter==='P'){meaning='Positioning / GPS, or Pilot — alternative watch-community interpretations; official letter expansion unverified';evidence='community_interpretation'}
   if(!context.historical&&['GPW','GWG','GW','GMW','PRW'].includes(prefix)&&letter==='W'){meaning='Wave Ceptor — proposed community interpretation';evidence='community_interpretation'}
+  if(!context.historical&&prefix==='GMW'&&letter==='M'){meaning='Metal — community association for the GMW-B5000 line; metal construction is confirmed separately, not a universal letter definition';evidence='community_interpretation'}
+  if(prefix==='DW'){meaning=letter==='D'?'Digital — watch-community interpretation':'Water Resistant — watch-community interpretation; check the exact rating';evidence='community_interpretation'}
   return {letter,position:index+1,meaning,evidence,background:letterPalette[index%letterPalette.length]};
  });
 }
@@ -17,6 +19,7 @@ export function modelColor(result){
  const digit=variant?.token.match(/^[1-9]/)?.[0];
  if(!digit)return null;
  const fact=result.exact?.specs?.color;
+ if(!fact&&result.scopedColor)return {digit:result.scopedColor.digit,label:result.scopedColor.label,swatch:colorSwatches[1],evidence:result.scopedColor.status,note:result.scopedColor.scope,actual:result.scopedColor.label,actualStatus:'Casio metadata · exact cited variant'};
  if(fact){const actual=String(fact.value),index=colorNames.findIndex(name=>name&&actual.toLowerCase()===name.toLowerCase());return {digit,label:actual,swatch:colorSwatches[index>0?index:8],evidence:'secondary_reported',note:`Exact catalog colour overrides the working ${colorNames[Number(digit)]} heuristic. Inspect the model specification evidence for provenance.`,actual,actualStatus:fact.status||'unverified'};}
  return {digit,label:colorNames[Number(digit)],swatch:colorSwatches[Number(digit)],evidence:'unverified',note:'Working colour heuristic; not a universal official Casio key.',actual:fact?String(fact.value):null,actualStatus:fact?.status||null};
 }
