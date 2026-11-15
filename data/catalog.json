@@ -30627,6 +30627,23 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "case_finish": {
+          "value": "DLC-coated screw-back",
+          "uncertainty": "Official model-specific catalogue label; coating scope is screw-back, not every component. Independent review pending.",
+          "sources": [
+            {
+              "url": "https://gshock.casio.com/content/dam/casio/global/watch/g_shock/other/17aw_origin_en.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 9 / printed page 16 / item 07 GW-5000-1",
+              "evidence": "GW-5000-1: DLC coating screwback",
+              "snapshot_sha256": "3b324d12ffff0481c62b6ad181432efd5905aa616ece92b4a7a1a42946233e7a",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "556637daa0fa2e909ee4ef636806f05464e427f9fab389b3d551cbdacc24c3c6"
         }
       }
     },
@@ -31528,6 +31545,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "0120803ff98a15deb55dfc3adce2171d1b1cb0120c3a8e9031d5ee9a2172f7db"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-5000B-1JR: dimensions_mm = {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
+        },
+        "weight_g": {
+          "value": 73.8,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-5000B-1JR: weight_g = 73.8",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
+        },
+        "color": {
+          "value": "Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-5000B-1JR: color = Black",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-5000B-1JR: band_material = Resin",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-5000B-1JR: water_resistance_bar = 20",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-5000B-1JR: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000B-1JR",
+              "scope_note": "Japanese-market GW-5000B-1JR feed under existing base variant GW-5000B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "77727a441533269c9655da929c4a6b7f0fa1e223634f7d7fa82543a2bb1fa8b4"
         }
       }
     },
@@ -31569,6 +31704,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "17965b8f987cb663039df31678b002d2ed2d472abe7e9fd001dc8da218d0b645"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-5000HR-1JF: dimensions_mm = {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
+        },
+        "weight_g": {
+          "value": 74.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-5000HR-1JF: weight_g = 74.0",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
+        },
+        "color": {
+          "value": "Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-5000HR-1JF: color = Black",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-5000HR-1JF: band_material = Resin",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-5000HR-1JF: water_resistance_bar = 20",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-5000HR-1JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-5000HR-1JF",
+              "scope_note": "Japanese-market GW-5000HR-1JF feed under existing base variant GW-5000HR-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ee6c21e692d6aed371388d5675c0f47e12f4c6c9d71f1e40c42d91c8d0ac4d5b"
         }
       }
     },
@@ -31866,6 +32119,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "a380a740ee0b2913273e8dc6cc2c0a65c8d42fbddc69268c9bdd681b29fc9c29"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610B-1JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610B-1JF: weight_g = 51.7",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
+        },
+        "color": {
+          "value": "Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610B-1JF: color = Black",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610B-1JF: band_material = Resin",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610B-1JF: water_resistance_bar = 20",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610B-1JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610B-1JF",
+              "scope_note": "Japanese-market GW-M5610B-1JF feed under existing base variant GW-M5610B-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "3d8ae94a6b1737662ba90b4b9268ef1fc3f1c46888733671828960ccdbfa3929"
         }
       }
     },
@@ -32333,6 +32704,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "4a4c519d486eaf8f56c0b050803185f13fd421175ffcbd94fcac3f1adeebe122"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610BY-1JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610BY-1JF: weight_g = 52.0",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
+        },
+        "color": {
+          "value": "Yellow / Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610BY-1JF: color = Yellow / Black",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610BY-1JF: band_material = Resin",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610BY-1JF: water_resistance_bar = 20",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610BY-1JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610BY-1JF",
+              "scope_note": "Japanese-market GW-M5610BY-1JF feed under existing base variant GW-M5610BY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "479901d850aec415a319e72cb11619c8a9a4bb20b036747beef611c6d90e5598"
         }
       }
     },
@@ -32374,6 +32863,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "efa93b550611340c3d9edfc34248acd688a49da7076c23ba7142a8da2c6ebae6"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610CC-2JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610CC-2JF: weight_g = 51.7",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
+        },
+        "color": {
+          "value": "Blue",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610CC-2JF: color = Blue",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610CC-2JF: band_material = Resin",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610CC-2JF: water_resistance_bar = 20",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610CC-2JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-2JF",
+              "scope_note": "Japanese-market GW-M5610CC-2JF feed under existing base variant GW-M5610CC-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "8410d037d844a32ac0b2c7b3cf578f5e4946b89d4df48fcfb2f2e0776e2d9f96"
         }
       }
     },
@@ -32415,6 +33022,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "46d593f91dc6ffe813a79b305e39859eaff1febf0f8272be42234ec6cfea7317"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610CC-3JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610CC-3JF: weight_g = 51.7",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
+        },
+        "color": {
+          "value": "Green",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610CC-3JF: color = Green",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610CC-3JF: band_material = Resin",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610CC-3JF: water_resistance_bar = 20",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610CC-3JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610CC-3JF",
+              "scope_note": "Japanese-market GW-M5610CC-3JF feed under existing base variant GW-M5610CC-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ac7d774ff1624f1cb33bc31804abc786f0aa645bdfb4a229282c21fd2dabdec2"
         }
       }
     },
@@ -32456,6 +33181,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "9fafe01d4b520cf850baac6906e3df20e67b54f55ca72ec45519e73cda3f17c0"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610EW-4JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610EW-4JF: weight_g = 52.0",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
+        },
+        "color": {
+          "value": "Red",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610EW-4JF: color = Red",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610EW-4JF: band_material = Resin",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610EW-4JF: water_resistance_bar = 20",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610EW-4JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610EW-4JF",
+              "scope_note": "Japanese-market GW-M5610EW-4JF feed under existing base variant GW-M5610EW-4; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7b881674371f1640fbbe2f18fb998b4f2be6c0cb770585476eb263ac7287a0e8"
         }
       }
     },
@@ -32497,6 +33340,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "e51b168e2481f6c693aba40db152b22673b40482b4a0fb5e49cbcf621106a901"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610K-1JR: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610K-1JR: weight_g = 52.0",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
+        },
+        "color": {
+          "value": "White / Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610K-1JR: color = White / Black",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610K-1JR: band_material = Resin",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610K-1JR: water_resistance_bar = 20",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610K-1JR: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610K-1JR",
+              "scope_note": "Japanese-market GW-M5610K-1JR feed under existing base variant GW-M5610K-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "781f56fd42cb3fb3bc8429ba97baf7b5121eac4cf2c8e088268427558ba72773"
         }
       }
     },
@@ -32538,6 +33499,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "f8c196125b772b0a8e6fbb46e24ca911d876b57b65e55cb85aebe9b85e0a53d9"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610KG-3JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610KG-3JF: weight_g = 51.7",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
+        },
+        "color": {
+          "value": "Green",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610KG-3JF: color = Green",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610KG-3JF: band_material = Resin",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610KG-3JF: water_resistance_bar = 20",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610KG-3JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610KG-3JF",
+              "scope_note": "Japanese-market GW-M5610KG-3JF feed under existing base variant GW-M5610KG-3; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "b1e1ef955141f5519402676aa482c8a20b856b26bf44e9386389b899eb1a64d4"
         }
       }
     },
@@ -32579,6 +33658,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "5f9d349ce69019713f85403ac017aefec19f34427f8391093bd563c3028ef18b"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610LG-8JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610LG-8JF: weight_g = 52.0",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
+        },
+        "color": {
+          "value": "Gray",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610LG-8JF: color = Gray",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610LG-8JF: band_material = Resin",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610LG-8JF: water_resistance_bar = 20",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610LG-8JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LG-8JF",
+              "scope_note": "Japanese-market GW-M5610LG-8JF feed under existing base variant GW-M5610LG-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "0f8bfdbc0675158e97dd6cf80af80878bcb794f5b452e4186df5c346d7a14823"
         }
       }
     },
@@ -32620,6 +33817,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "d4b524912d3fd804fda91685fef2d7a0d3dc9d5dbca78f1b6e6860a18e30db76"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610LY-1JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610LY-1JF: weight_g = 52.0",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
+        },
+        "color": {
+          "value": "Green / Black",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610LY-1JF: color = Green / Black",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610LY-1JF: band_material = Resin",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610LY-1JF: water_resistance_bar = 20",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610LY-1JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610LY-1JF",
+              "scope_note": "Japanese-market GW-M5610LY-1JF feed under existing base variant GW-M5610LY-1; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "fb5657778b9d43b858c211dfadc1bbae990a0fed259d427997633d6c0fb16ae9"
         }
       }
     },
@@ -32661,6 +33976,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "825f65aa723474c241cf19a6f9367e3808dc53b2f945e54d01cf548a780a8bf3"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610MD-2JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610MD-2JF: weight_g = 52.0",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
+        },
+        "color": {
+          "value": "Blue",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610MD-2JF: color = Blue",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610MD-2JF: band_material = Resin",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MD-2JF: water_resistance_bar = 20",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MD-2JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-2JF",
+              "scope_note": "Japanese-market GW-M5610MD-2JF feed under existing base variant GW-M5610MD-2; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "ae8f1bfa85bf5e0f42c160bd0891f341676060320cf4a651e84d5c5f1a92bb0a"
         }
       }
     },
@@ -32702,6 +34135,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "78081c841305986e1b7f788df26fd858fab9a77b56cce6f80632bd2106db9517"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610MD-9JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610MD-9JF: weight_g = 52.0",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
+        },
+        "color": {
+          "value": "Yellow",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610MD-9JF: color = Yellow",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610MD-9JF: band_material = Resin",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MD-9JF: water_resistance_bar = 20",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MD-9JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MD-9JF",
+              "scope_note": "Japanese-market GW-M5610MD-9JF feed under existing base variant GW-M5610MD-9; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "cb731b986b72a7072b9c0944b4d144a637b372b5a4ff8786fc7f00b0237a6f14"
         }
       }
     },
@@ -32956,6 +34507,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c5064190237c0c1b9da68300a7b9622ced7cd9034380269dfd4a166509cf8b46"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610MW-7JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610MW-7JF: weight_g = 52.0",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
+        },
+        "color": {
+          "value": "White",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610MW-7JF: color = White",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610MW-7JF: band_material = Resin",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MW-7JF: water_resistance_bar = 20",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610MW-7JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610MW-7JF",
+              "scope_note": "Japanese-market GW-M5610MW-7JF feed under existing base variant GW-M5610MW-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "7fa47effa39242b8091d011e580a28caccda60bda2e8832ba54ad7cd66d551f8"
         }
       }
     },
@@ -33189,6 +34858,133 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "3d6d907da640b0cc4e850c11616a89f2bd997404de3f064a5b7cf59704448c1b"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610SD-8JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610SD-8JF: weight_g = 51.7",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
+        },
+        "color": {
+          "value": "Brown",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610SD-8JF: color = Brown",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            },
+            {
+              "url": "https://gshock.casio.com/content/dam/casio/global/watch/g_shock/other/17aw_origin_en.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 10 / printed page 18 / GW-M5610SD-8 chronology entry",
+              "evidence": "GW-M5610SD-8: desert beige model",
+              "snapshot_sha256": "3b324d12ffff0481c62b6ad181432efd5905aa616ece92b4a7a1a42946233e7a",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact"
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component. Official Origin catalogue PDF page 10 (printed page 18) describes this exact model as desert beige; retained as design wording rather than replacing the feed category.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610SD-8JF: band_material = Resin",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610SD-8JF: water_resistance_bar = 20",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610SD-8JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610SD-8JF",
+              "scope_note": "Japanese-market GW-M5610SD-8JF feed under existing base variant GW-M5610SD-8; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "73387159cc82d9c64171e1e2d8d1c11e67c3f6d32b9cb5eb52d379e6c2cea120"
         }
       }
     },
@@ -33443,6 +35239,124 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "0a8540c143b759d78185e1a326f654413828fa22d29968409995037471763164"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / height, width, depth (mm)",
+              "evidence": "GW-M5610TR-7JF: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / weight (g)",
+              "evidence": "GW-M5610TR-7JF: weight_g = 52.0",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
+        },
+        "color": {
+          "value": "White",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / colorName (manufacturer colour categories; translated)",
+              "evidence": "GW-M5610TR-7JF: color = White",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
+        },
+        "band_material": {
+          "value": "Resin",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 樹脂バンド (resin band)",
+              "evidence": "GW-M5610TR-7JF: band_material = Resin",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610TR-7JF: water_resistance_bar = 20",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
+        },
+        "water_resistance_rating": {
+          "value": "20 bar",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+              "accessed": "2026-11-15",
+              "locator": "Public support product-data feed / hashTag / 20気圧防水 (20 bar)",
+              "evidence": "GW-M5610TR-7JF: water_resistance_rating = 20 bar",
+              "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+              "permission": "official_public_reference",
+              "evidence_type": "normalized_technical_fact",
+              "displayed_model": "GW-M5610TR-7JF",
+              "scope_note": "Japanese-market GW-M5610TR-7JF feed under existing base variant GW-M5610TR-7; no cross-region or production-revision equivalence asserted."
+            }
+          ],
+          "uncertainty": "Official Japanese-market support-feed candidate; independent review pending. Colour is a broad manufacturer category, not a complete description of every component.",
+          "status": "pending_review",
+          "candidate_sha256": "24e2a34b30e94fae8d1a82b9163988dcee344087fa1245ddc140bc04a4218909"
         }
       }
     }

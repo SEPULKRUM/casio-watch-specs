@@ -2,7 +2,7 @@
   "models": 195,
   "modules": 113,
   "facts_by_status": {
-    "pending_review": 2399
+    "pending_review": 2496
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -78,20 +78,12 @@
       "glass"
     ],
     "GW-5000B-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-5000HR-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-5035A-1": [
       "dimensions_mm",
@@ -102,116 +94,60 @@
       "water_resistance_rating"
     ],
     "GW-M5610B-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610BY-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610CC-2": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610CC-3": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610EW-4": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610K-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610KG-3": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610LG-8": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610LY-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610MD-2": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610MD-9": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610MW-7": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610SD-8": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-M5610TR-7": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW2500-1A": [
       "dimensions_mm",

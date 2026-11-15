@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "model",
+    "id": "GW-5000-1",
+    "specs": {
+      "case_finish": {
+        "value": "DLC-coated screw-back",
+        "uncertainty": "Official model-specific catalogue label; coating scope is screw-back, not every component. Independent review pending.",
+        "sources": [
+          {
+            "url": "https://gshock.casio.com/content/dam/casio/global/watch/g_shock/other/17aw_origin_en.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 9 / printed page 16 / item 07 GW-5000-1",
+            "evidence": "GW-5000-1: DLC coating screwback",
+            "snapshot_sha256": "3b324d12ffff0481c62b6ad181432efd5905aa616ece92b4a7a1a42946233e7a",
+            "permission": "official_public_reference",
+            "evidence_type": "normalized_technical_fact"
+          }
+        ]
+      }
+    }
+  }
+]

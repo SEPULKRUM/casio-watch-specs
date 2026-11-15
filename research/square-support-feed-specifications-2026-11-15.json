@@ -1,0 +1,398 @@
+{
+  "accessed": "2026-11-15",
+  "source_discovery": "The public Casio support-page script requests /content/casio/locales/jp/ja/products/product.data.MODEL.json. Only selected technical fields are retained; product assets, marketing prose and unrelated metadata excluded.",
+  "unit_validation": {
+    "checked_against_visible_product_page": true,
+    "control_model": "GW-M5610U-1",
+    "visible_product_url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+    "visible_page_snapshot_sha256": "69ef8c6dfbb6279001c5516723f260993c7308206917640ce52f1660ebabb86a",
+    "feed_url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610U-1.json",
+    "feed_snapshot_sha256": "96d9c4a293bba3681cea18a0813bdde66bf49cbbb95cffdca5f10b353e70ed98",
+    "checked_values": {
+      "dimensions_mm": {
+        "length": 46.7,
+        "width": 43.2,
+        "thickness": 12.7
+      },
+      "weight_g": 52
+    },
+    "scope": "Visible specification mm/g labels checked against corresponding numerical feed fields; same field mapping applied to exact feed records."
+  },
+  "excluded_claims": [
+    "No release dates imported: historical feed date semantics need further checking",
+    "No case/bezel material or glass inferred from other variants",
+    "No LCD polarity inferred",
+    "No metre depth inferred from tags or 20 bar",
+    "Existing module references corroborated, not rewritten"
+  ],
+  "products": [
+    {
+      "model": "GW-M5610B-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610B-1.json",
+      "snapshot_sha256": "6df8645d1f556d3c3f48aa6f575d907d624019af89cb4f95d0f2174df236548e",
+      "fields": {
+        "productName": "GW-M5610B-1",
+        "productDisplayName": "GW-M5610B-1JF",
+        "sku": "GW-M5610B-1JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 51.7,
+        "colorName": "ブラック",
+        "hashTag": [
+          "20気圧防水",
+          "樹脂バンド",
+          "ソーラー充電",
+          "標準電波受信",
+          "5600 Series"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610BY-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610BY-1.json",
+      "snapshot_sha256": "cc9346fe69a106ca59a6690083d5a6a08b600150019b23f93e38fea0a7479d15",
+      "fields": {
+        "productName": "GW-M5610BY-1",
+        "productDisplayName": "GW-M5610BY-1JF",
+        "sku": "GW-M5610BY-1JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "イエロー,ブラック",
+        "hashTag": [
+          "5600 Series",
+          "標準電波受信",
+          "20気圧防水",
+          "ソーラー充電",
+          "樹脂バンド"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610CC-2",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-2.json",
+      "snapshot_sha256": "71837e792fd19a4e2451cf8e7e6ebd592748f4ecb40e96b823f73c416b7c9656",
+      "fields": {
+        "productName": "GW-M5610CC-2",
+        "productDisplayName": "GW-M5610CC-2JF",
+        "sku": "GW-M5610CC-2JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 51.7,
+        "colorName": "ブルー",
+        "hashTag": [
+          "標準電波受信",
+          "ソーラー充電",
+          "樹脂バンド",
+          "5600 Series",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610CC-3",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610CC-3.json",
+      "snapshot_sha256": "3fc8793da5ec075c0d4fb606c8015e98a7f004d55d0f4d986d765422c262799b",
+      "fields": {
+        "productName": "GW-M5610CC-3",
+        "productDisplayName": "GW-M5610CC-3JF",
+        "sku": "GW-M5610CC-3JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 51.7,
+        "colorName": "グリーン",
+        "hashTag": [
+          "20気圧防水",
+          "5600 Series",
+          "標準電波受信",
+          "樹脂バンド",
+          "ソーラー充電"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610EW-4",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610EW-4.json",
+      "snapshot_sha256": "bc7de733d9441b9d51043fe1fe036a3960a4ee3c05cb0ead8384a69226f59c12",
+      "fields": {
+        "productName": "GW-M5610EW-4",
+        "productDisplayName": "GW-M5610EW-4JF",
+        "sku": "GW-M5610EW-4JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "レッド",
+        "hashTag": [
+          "ソーラー充電",
+          "20気圧防水",
+          "5600 Series",
+          "標準電波受信",
+          "樹脂バンド"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610K-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610K-1.json",
+      "snapshot_sha256": "af7dcc5ed34523a2584f3bd14b58fef65b28f107e54d7f458707f82ec28c6bc3",
+      "fields": {
+        "productName": "GW-M5610K-1",
+        "productDisplayName": "GW-M5610K-1JR",
+        "sku": "GW-M5610K-1JR",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "ホワイト,ブラック",
+        "hashTag": [
+          "標準電波受信",
+          "樹脂バンド",
+          "5600 Series",
+          "ソーラー充電",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610KG-3",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610KG-3.json",
+      "snapshot_sha256": "68a850604245f91338c17e4d53520098b05ae33d8e3d5bcf5847a96fc4e58f89",
+      "fields": {
+        "productName": "GW-M5610KG-3",
+        "productDisplayName": "GW-M5610KG-3JF",
+        "sku": "GW-M5610KG-3JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 51.7,
+        "colorName": "グリーン",
+        "hashTag": [
+          "樹脂バンド",
+          "5600 Series",
+          "標準電波受信",
+          "ソーラー充電",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610LG-8",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LG-8.json",
+      "snapshot_sha256": "c30cd3b7c5cbef0a730a84f0a98e815f3cc732e364fbef15637a66cd736b8f81",
+      "fields": {
+        "productName": "GW-M5610LG-8",
+        "productDisplayName": "GW-M5610LG-8JF",
+        "sku": "GW-M5610LG-8JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "グレー",
+        "hashTag": [
+          "20気圧防水",
+          "標準電波受信",
+          "ソーラー充電",
+          "5600 Series",
+          "樹脂バンド"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610LY-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610LY-1.json",
+      "snapshot_sha256": "cff499d25d457c1acd57aff3e169b250087a9890a2b0dbbbaf2a3c0b67af457d",
+      "fields": {
+        "productName": "GW-M5610LY-1",
+        "productDisplayName": "GW-M5610LY-1JF",
+        "sku": "GW-M5610LY-1JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "グリーン,ブラック",
+        "hashTag": [
+          "5600 Series",
+          "樹脂バンド",
+          "標準電波受信",
+          "ソーラー充電",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610MD-2",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-2.json",
+      "snapshot_sha256": "737ee78cd4680abeed4e051c2762392036641a8782be3044e83018c0c83503fd",
+      "fields": {
+        "productName": "GW-M5610MD-2",
+        "productDisplayName": "GW-M5610MD-2JF",
+        "sku": "GW-M5610MD-2JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "ブルー",
+        "hashTag": [
+          "ソーラー充電",
+          "標準電波受信",
+          "5600 Series",
+          "樹脂バンド",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610MD-9",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MD-9.json",
+      "snapshot_sha256": "3e0b9a541f70b40132925b2f42e4eb366bef053f076a23c42ddf2c51af578460",
+      "fields": {
+        "productName": "GW-M5610MD-9",
+        "productDisplayName": "GW-M5610MD-9JF",
+        "sku": "GW-M5610MD-9JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "イエロー",
+        "hashTag": [
+          "標準電波受信",
+          "樹脂バンド",
+          "5600 Series",
+          "ソーラー充電",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610MW-7",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610MW-7.json",
+      "snapshot_sha256": "2404c55c01dcd08bfec43656c47a017673e62cf991f3b396dff0b71bad76785f",
+      "fields": {
+        "productName": "GW-M5610MW-7",
+        "productDisplayName": "GW-M5610MW-7JF",
+        "sku": "GW-M5610MW-7JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "ホワイト",
+        "hashTag": [
+          "5600 Series",
+          "ソーラー充電",
+          "20気圧防水",
+          "樹脂バンド",
+          "標準電波受信"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610SD-8",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610SD-8.json",
+      "snapshot_sha256": "4cf98b59966e538e083ffd46df0a6a2d7ed763f098786881f67deba2838cbbb2",
+      "fields": {
+        "productName": "GW-M5610SD-8",
+        "productDisplayName": "GW-M5610SD-8JF",
+        "sku": "GW-M5610SD-8JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 51.7,
+        "colorName": "ブラウン",
+        "hashTag": [
+          "樹脂バンド",
+          "標準電波受信",
+          "20気圧防水",
+          "5600 Series",
+          "ソーラー充電"
+        ]
+      }
+    },
+    {
+      "model": "GW-M5610TR-7",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-M5610TR-7.json",
+      "snapshot_sha256": "e23c933ddddfca012f7a67cf59087bffa8eb88deaed2678066f2abfaa420fd04",
+      "fields": {
+        "productName": "GW-M5610TR-7",
+        "productDisplayName": "GW-M5610TR-7JF",
+        "sku": "GW-M5610TR-7JF",
+        "moduleNumber": "3159",
+        "height": 46.7,
+        "width": 43.2,
+        "depth": 12.7,
+        "weight": 52.0,
+        "colorName": "ホワイト",
+        "hashTag": [
+          "標準電波受信",
+          "樹脂バンド",
+          "ソーラー充電",
+          "5600 Series",
+          "20気圧防水"
+        ]
+      }
+    },
+    {
+      "model": "GW-5000B-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000B-1.json",
+      "snapshot_sha256": "b5a11bb9f27ce6d789ccfd1e5da612fd8a95d9de9a3e7def226d007e93dc26b6",
+      "fields": {
+        "productName": "GW-5000B-1",
+        "productDisplayName": "GW-5000B-1JR",
+        "sku": "GW-5000B-1JR",
+        "moduleNumber": "3159",
+        "height": 48.9,
+        "width": 42.8,
+        "depth": 13.5,
+        "weight": 73.8,
+        "colorName": "ブラック",
+        "hashTag": [
+          "5000 Series",
+          "ソーラー充電",
+          "標準電波受信",
+          "20気圧防水",
+          "樹脂バンド"
+        ]
+      }
+    },
+    {
+      "model": "GW-5000HR-1",
+      "url": "https://www.casio.com/content/casio/locales/jp/ja/products/product.data.GW-5000HR-1.json",
+      "snapshot_sha256": "06bd4a781a7f64f5ea2e8c81aa336e3e7eed58c7376d269e60d375ef8210b493",
+      "fields": {
+        "productName": "GW-5000HR-1",
+        "productDisplayName": "GW-5000HR-1JF",
+        "sku": "GW-5000HR-1JF",
+        "moduleNumber": "3159",
+        "height": 48.9,
+        "width": 42.8,
+        "depth": 13.5,
+        "weight": 74.0,
+        "colorName": "ブラック",
+        "hashTag": [
+          "5000 Series",
+          "ソーラー充電",
+          "標準電波受信",
+          "樹脂バンド",
+          "20気圧防水"
+        ]
+      }
+    }
+  ]
+}
