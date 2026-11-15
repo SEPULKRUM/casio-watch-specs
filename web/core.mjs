@@ -31,3 +31,24 @@ export function display(v,k=''){
  if(k==='display_polarity')return v==='positive'?'Positive · dark figures on light':'Negative · light figures on dark';
  return typeof v==='string'?v.replace(/_/g,' '):String(v);
 }
+
+// Evidence provenance and verification are separate: a Casio URL does not verify a transcription.
+export function evidenceLabel(f){
+ const note=f?.uncertainty||'';
+ if(/different values|source discrepancy|source error/i.test(note)||['conflict','conflicting'].includes(f?.status))return 'Conflicting evidence';
+ if(f?.status==='verified')return 'Verified';
+ const sources=f?.sources||[];
+ const official=sources.some(s=>{const u=safeUrl(s.original_url||s.url);if(!u)return false;const h=new URL(u).hostname;return ['casio.com','casio.jp','casio-europe.com'].some(d=>h===d||h.endsWith('.'+d))});
+ if(official)return sources.some(s=>s.archive_timestamp)?'Archived Casio source':'Official Casio source';
+ if(sources.some(s=>s.kind==='user_provided'))return 'Owner-supplied evidence';
+ return sources.length?'Other source · unverified':'Unverified';
+}
+export function recordEvidenceLabel(record){
+ const facts=Object.values(record?.specs||{});
+ if(!facts.length)return 'No evidence recorded';
+ const labels=new Set(facts.map(evidenceLabel));
+ if(labels.has('Conflicting evidence'))return 'Contains conflicting evidence';
+ if(facts.every(f=>f.status==='verified'))return 'Verified';
+ if(labels.size===1)return [...labels][0];
+ return 'Mixed source evidence';
+}
