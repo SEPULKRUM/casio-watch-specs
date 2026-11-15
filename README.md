@@ -1079,3 +1079,14 @@ and selected technical comparisons are published; no PDF, full text or images.
 See [guide-v3 review](research/guide-v3-review-2026-11-15.json). Supplementary
 reference manifests under `research/reference-supplements/` are included when
 rebuilding the identifier library.
+
+## Whole-prefix explanations · 15 November 2026
+
+Remove individual-letter meaning cards and retain the complete family prefix in
+one chip and one model-family row. AE1200 now displays **AE / 1200**, and the AE
+row says **The community understands this prefix as: Digital multi-function /
+world-time family**, citing PDF page 3 of the supplied guide. The guide's other
+prefix-family readings receive the same grouped treatment and community labels.
+Existing grouped GPW/GMW/GW/DW interpretations remain available, while historical
+collisions and unknown references stay qualified. BC/U, colour/order and regional
+segmentation and all specification/reference counts are unchanged.

@@ -1,6 +1,6 @@
 export const decoderDisclosure='Casio does not publish a complete, universal letter-by-letter decoding key in the sources reviewed here. Some suggested meanings follow watch-community naming patterns. We label community interpretations separately from features confirmed by Casio; meanings can vary by model, family and era.';
 export const decoderRules=[
- 'Read the longest family prefix first. Individual letter tiles show proposed associations; a family code is not necessarily an acronym.',
+ 'Keep the longest family prefix together, such as AE, LCW or GPW. Show its whole-prefix community reading in the model-family row; do not split it into individual letter cards.',
  'An official feature is evidence about the watch, not proof of what a letter stands for. Community readings remain labelled even when the related feature is confirmed.',
  'Keep the family, feature modifier, series number, series suffix, colour digit, additional variant/order marker and market suffix separate. A series number is not a module number or production date.',
  'Use exact-model evidence before colour heuristics. Additional letters can distinguish configurations; their precise meaning may remain unknown.',

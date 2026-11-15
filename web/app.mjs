@@ -2,7 +2,7 @@ import {decoderDisclosure,decoderRules,evidenceName} from './decoder-rules.mjs';
 import {value,moduleIds,findModels,stats,safeUrl,validateData,label,display,evidenceLabel,recordEvidenceLabel} from './core.mjs';
 import {decodeModel,entries} from './decoder.mjs';
 import {validateReferences,findReferences,referenceStatus} from './model-references.mjs';
-import {prefixLetters,modelColor,officialProductLink} from './decoder-presentation.mjs';
+import {modelColor,officialProductLink} from './decoder-presentation.mjs';
 import {validateParts,partsForModel} from './parts.mjs';
 const $=s=>document.querySelector(s), el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
 let references=null,productLinks=null,data=null,parts=null,partsUnavailable=false,state={query:'',family:'',verified:false},activeModel=null,lastDecode=null;
@@ -95,14 +95,15 @@ function renderPrefix(query,force=false){
  if(!result.recognized){root.replaceChildren();root.hidden=!force||result.empty;if(!root.hidden)root.append(el('p',result.reason,'decode-missing'));return result}
  root.hidden=false;root.replaceChildren();const header=el('div',undefined,'decode-header');header.append(el('h3',result.normalized),el('span',result.family,'decode-family'));root.append(header);
  if(result.references?.length)root.append(el('p',referenceStatus(result.references[0])+' · Model / series mention only; specifications are separate.','decode-coverage'));
- const letters=el('div',undefined,'prefix-letters');
- for(const item of prefixLetters(result.prefix,{historical:result.historicalReference})){
-  const cell=el('div',undefined,'prefix-letter'),tile=el('span',item.letter,'letter-tile');tile.style.backgroundColor=item.background;tile.setAttribute('aria-label',`Prefix letter ${item.position}: ${item.letter}`);
-  cell.append(tile,el('p',item.meaning),el('small',evidenceName(item.evidence)));letters.append(cell);
+ const chips=el('div',undefined,'decode-chips');for(const segment of result.segments)chips.append(el('span',segment.token,'decode-chip '+segment.type));root.append(chips);
+ for(const segment of result.segments){
+  const row=el('div',undefined,'decode-row'),description=el('div');description.append(el('h4',segment.title));
+  if(segment.type==='prefix'&&segment.communityMeaning){
+   const meaning=segment.communityMeaning;
+   description.append(el('p','The community understands this prefix as:','community-meaning-label'),el('p',meaning.meaning,'community-meaning'),el('small',evidenceName(meaning.status)),el('small',meaning.note),link(meaning.locator+' ↗',meaning.source));
+  }else{description.append(el('p',segment.description),el('small',evidenceName(segment.status||'Reference')));if(segment.source)description.append(link('Reference source ↗',segment.source));}
+  row.append(el('div',segment.token,'decode-token'),description);root.append(row);
  }
- root.append(letters);
- const chips=el('div',undefined,'decode-chips');for(const segment of result.segments.filter(s=>s.type!=='prefix'))chips.append(el('span',segment.token,'decode-chip '+segment.type));root.append(chips);
- for(const segment of result.segments){const row=el('div',undefined,'decode-row'),description=el('div');description.append(el('h4',segment.title),el('p',segment.description),el('small',evidenceName(segment.status||'Reference')));if(segment.source)description.append(link('Reference source ↗',segment.source));row.append(el('div',segment.token,'decode-token'),description);root.append(row)}
  const color=modelColor(result);
  if(color){const section=el('section',undefined,'model-color');section.append(el('h4','Model color code'));const swatch=el('span',undefined,'color-swatch');swatch.style.backgroundColor=color.swatch;swatch.setAttribute('aria-hidden','true');const line=el('p');line.append(swatch,el('strong',`${color.digit} · ${color.label}`));section.append(line,el('p',color.note),el('small',evidenceName(color.evidence)));if(color.actual)section.append(el('p',`Exact catalog colour: ${color.actual}. Catalog evidence takes precedence over the heuristic (${color.actualStatus}).`));root.append(section)}
  if(result.officialFeatures){const box=el('section',undefined,'confirmed-features');box.append(el('h4','Features confirmed by Casio'),el('p',result.officialFeatures.description));if(result.officialFeatures.technologyName)box.append(el('p','Official technology name: '+result.officialFeatures.technologyName));box.append(link('Casio feature reference ↗',result.officialFeatures.source),el('small','Confirms the cited model’s features; individual letter expansions remain interpretations.'));root.append(box)}
