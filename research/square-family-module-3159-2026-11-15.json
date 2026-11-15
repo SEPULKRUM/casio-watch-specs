@@ -1,0 +1,27 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-15",
+  "modules": [
+    {
+      "id": "3159",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+      "locator": "PDF page 6 / Specifications",
+      "snapshot_sha256": "3394e49b5589ede3ae6c499cbf5542751aba8880b19f728a5d5e13b5a052ce75",
+      "specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "At normal temperature, without time calibration signal",
+        "world_time_cities": 48,
+        "world_time_zones": 29,
+        "alarm_count": 5,
+        "snooze_alarm": true,
+        "power_supply": "Solar cell and one rechargeable battery",
+        "illumination": "Electroluminescent panel; full-auto light",
+        "calendar": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        }
+      }
+    }
+  ]
+}

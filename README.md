@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **158 models, 111 modules and 2,124 source-backed candidate
+The catalog now contains **172 models, 112 modules and 2,294 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 158 models and 111 module profiles.
+The bundled snapshot contains the current 172 models and 112 module profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -821,3 +821,22 @@ The [discovery report](research/edifice-babyg-discovery-report-2026-11-15.json)
 records five usable pages and five 404 endpoints, without substituting similar
 models. All previous model/module records and verified legacy data are unchanged.
 All new facts remain pending independent review.
+
+## Square G-SHOCK priority batch · 15 November 2026
+
+Research now prioritizes GW-M5610, GW-M5610U, GW-5000 and GW-5000U in that
+order, followed by further important G-SHOCK families and regional Casio
+bestsellers. See [collection priorities](docs/collection-priorities.md).
+
+The first pass checked 28 exact product URLs, extracted specifications from 16,
+and added 14 models plus 170 fields. Original module 3159 now has a separate
+9-field official-manual profile; U/UBC and current HS references retain module
+3495. Existing model facts are excluded from replacement. Case, band, mass,
+color and release metadata are researched separately for each exact variant.
+Japanese-market labels and official image references remain in the research
+notes; no third-party images were copied or displayed.
+
+This is not an exhaustive family inventory: 12 product URLs remain unavailable
+and further historical discovery is needed. CasioPart returned 403, including
+its robots.txt, so its listings were not collected. Casio regional bestseller
+pages are confirmed, but no numeric sales rankings were inferred.
