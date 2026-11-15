@@ -21,6 +21,16 @@ export const researchEntries=[
     }
   ],
   [
+    "RESEARCH REFERENCE",
+    "AEQ",
+    "Analog-digital Casio family proposed by the supplied guide; world-time and Telememo features require exact-model evidence.",
+    "AEQ-100",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "AG",
     "AG is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
@@ -105,6 +115,16 @@ export const researchEntries=[
     "B",
     "B appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "B815",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "RESEARCH REFERENCE",
+    "BGS",
+    "BABY-G family proposed by the supplied guide; step tracking must be checked per model.",
+    "BGS",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -208,6 +228,16 @@ export const researchEntries=[
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "CASIO AUTOMATIC",
+    "CMK",
+    "CMK-100 automatic mechanical line confirmed by Casio. Individual letters are not established here as an official acronym.",
+    "CMK-100",
+    {
+      "status": "official_observed",
+      "source": "https://www.casio.com/intl/news/2026/1029-CMK-100/"
     }
   ],
   [
@@ -441,6 +471,16 @@ export const researchEntries=[
     }
   ],
   [
+    "RESEARCH REFERENCE",
+    "LIN",
+    "Earlier Lineage family proposed by the supplied guide; historical association and exact features need primary evidence.",
+    "LIN",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "LM",
     "LM is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
@@ -511,6 +551,16 @@ export const researchEntries=[
     }
   ],
   [
+    "RESEARCH REFERENCE",
+    "MDV",
+    "Casio marine-style model family. Ratings vary by model; do not infer 200 m or dive certification from MDV.",
+    "MDV-106",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "MQ",
     "MQ is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
@@ -547,6 +597,26 @@ export const researchEntries=[
     "MQW-100",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "RESEARCH REFERENCE",
+    "MRW",
+    "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+    "MRW",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "RESEARCH REFERENCE",
+    "MTD",
+    "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+    "MTD",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -705,6 +775,16 @@ export const researchEntries=[
     "WS",
     "WS appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "WS-76",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "RESEARCH REFERENCE",
+    "WVQ",
+    "Wave Ceptor chronograph family proposed by the supplied guide; exact model features and letter expansions need separate evidence.",
+    "WVQ-M410",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"

@@ -94,6 +94,38 @@ def build(intake, observations):
             'models': dict(sorted(models.items()))}, rejected
 
 
+def add_supplement(library, supplement):
+    """Merge identifiers only; a secondary guide does not verify its feature claims."""
+    source_id = supplement['source_id']
+    source = supplement['source']
+    if source_id in library['sources'] and library['sources'][source_id] != source:
+        raise ValueError('Supplement source identity conflict')
+    library['sources'][source_id] = source
+    for item in supplement['models']:
+        model = item['id']
+        if not MODEL.fullmatch(model): raise ValueError('Malformed supplementary identifier')
+        prefix = re.match(r'[A-Z]+', model)
+        row = library['models'].setdefault(model, {'id': model, 'prefix': prefix.group() if prefix else '', 'observations': [], 'status': 'machine_candidate', 'evidence_status': 'unverified', 'reading_flags': []})
+        for page in item['pages']:
+            if not isinstance(page, int) or not 1 <= page <= source['pages']:
+                raise ValueError('Invalid supplement page')
+            observation = {'source_id': source_id, 'role': 'supplied_guide_text', 'pdf_page': page}
+            if item.get('reading_status') == 'explicit_shorthand_expanded_under_same_model_heading':
+                observation['derivation'] = 'Explicit shorthand expanded under same model heading'
+                if 'expanded_shorthand' not in row['reading_flags']: row['reading_flags'].append('expanded_shorthand')
+            if observation not in row['observations']: row['observations'].append(observation)
+    for item in supplement.get('prefix_observations', []):
+        if not re.fullmatch(r'[A-Z]{1,5}', item['prefix']): raise ValueError('Invalid supplementary prefix')
+        observation = dict(item, source_id=source_id)
+        target = library.setdefault('prefix_observations', [])
+        if observation not in target: target.append(observation)
+    library['models'] = dict(sorted(library['models'].items()))
+    library['counts']['model_strings'] = len(library['models'])
+    for status in ['index_checked', 'supplied_transcription', 'machine_candidate']:
+        library['counts'][status] = sum(row['status'] == status for row in library['models'].values())
+    return library
+
+
 def prefix_entries(library, existing):
     grouped = {}
     for model in library['models'].values():
@@ -109,7 +141,13 @@ def prefix_entries(library, existing):
         evidence = 'secondary_reported' if checked else 'unverified'
         description = (f'{prefix} appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.' if checked else f'{prefix} is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.')
         entries.append(['HISTORICAL CASIO' if historical else 'RESEARCH REFERENCE', prefix, description, models[0]['id'], {'status': evidence, 'source': 'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json'}])
-    return entries
+    for item in library.get('prefix_observations', []):
+        prefix = item['prefix']
+        if prefix in existing: continue
+        entries = [row for row in entries if row[1] != prefix]
+        example = next((m['id'] for m in library['models'].values() if m['prefix'] == prefix), prefix)
+        entries.append([item.get('family', 'RESEARCH REFERENCE'), prefix, item['description'], example, {'status': item['status'], 'source': item.get('official_source', 'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json')}])
+    return sorted(entries, key=lambda row: row[1])
 
 
 if __name__ == '__main__':
@@ -119,6 +157,8 @@ if __name__ == '__main__':
     parser.add_argument('--output', default='data/model-references.json')
     args = parser.parse_args()
     data, rejected = build(args.intake, json.loads(Path(args.observations).read_text()))
+    for path in sorted(Path('research/reference-supplements').glob('*.json')):
+        add_supplement(data, json.loads(path.read_text()))
     Path(args.output).write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
     existing_text = Path('web/prefix-data.mjs').read_text()
     match = re.search(r'(?:export )?const (?:baseEntries|entries)=(\[.*?\]);', existing_text, re.S)

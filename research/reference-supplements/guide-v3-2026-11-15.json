@@ -1,0 +1,638 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+  "source": {
+    "filename": "casio_multi_line_model_reference_guide-v3.pdf",
+    "sha256": "db61313be6fdc9869ee3284a3c3b279c7c9e3664b31b49c8dfa6fbc22e7a9eb2",
+    "pages": 5,
+    "availability": "received_secondary_guide",
+    "classification": "User-supplied reference guide; no official authorship or source citations established"
+  },
+  "models": [
+    {
+      "id": "A1000",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "A158W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "A168W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "A500W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "A700W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-1000W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-1200WH",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-1300WH",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-1400WH",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-1500WH",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-2000W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-3000W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AEQ-100",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AEQ-110",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AEQ-200",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BG-169",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-150",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-250",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-280",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-290",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-5000",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-560",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-565",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CA-500",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CA-53W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100",
+      "pages": [
+        4,
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TC-1A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TCC-8A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TCC-8AER",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TCL-5A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TD-1A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "CMK-100TL-1A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DBC-32",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DBC-611",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "F-105W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "F-201WA",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "F-84W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "F-91W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LA670W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LA680W",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100DSE",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100TSE",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100TSE-1AJF",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M170TD",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LIW-M610",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LIW-M700",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LQ-139",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LTP-B165",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LTP-V007",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106-1AV",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106B",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106B-1A2V",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106B-2AV",
+      "pages": [
+        1,
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-106DD-1A2V",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-107",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-107-1A1V",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MDV-107D-1A1V",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MQ-24",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-1302",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-B145D",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-E735",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-E735AR",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-E735AR-1AV",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-E735AR-2A1V",
+      "pages": [
+        4
+      ],
+      "reading_status": "explicit_shorthand_expanded_under_same_model_heading"
+    },
+    {
+      "id": "MTP-E735AR-2A2V",
+      "pages": [
+        1
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTP-E735AR-2A3V",
+      "pages": [
+        4
+      ],
+      "reading_status": "explicit_shorthand_expanded_under_same_model_heading"
+    },
+    {
+      "id": "MTP-E735AR-7AV",
+      "pages": [
+        4
+      ],
+      "reading_status": "explicit_shorthand_expanded_under_same_model_heading"
+    },
+    {
+      "id": "MTP-V001",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "W-217H",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "W-800H",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "W-86",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WV-200",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WV-58",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WV-59",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M630",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M640",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M650",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVQ-M410",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "WVQ",
+      "pdf_page": 2,
+      "description": "Wave Ceptor chronograph family proposed by the supplied guide; exact model features and letter expansions need separate evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "LIN",
+      "pdf_page": 2,
+      "description": "Earlier Lineage family proposed by the supplied guide; historical association and exact features need primary evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "BGS",
+      "pdf_page": 2,
+      "description": "BABY-G family proposed by the supplied guide; step tracking must be checked per model.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "AEQ",
+      "pdf_page": 3,
+      "description": "Analog-digital Casio family proposed by the supplied guide; world-time and Telememo features require exact-model evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "MDV",
+      "pdf_page": 3,
+      "description": "Casio marine-style model family. Ratings vary by model; do not infer 200 m or dive certification from MDV.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "MTD",
+      "pdf_page": 3,
+      "description": "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "MRW",
+      "pdf_page": 3,
+      "description": "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE"
+    },
+    {
+      "prefix": "CMK",
+      "pdf_page": 4,
+      "description": "CMK-100 automatic mechanical line confirmed by Casio. Individual letters are not established here as an official acronym.",
+      "status": "official_observed",
+      "family": "CASIO AUTOMATIC",
+      "official_source": "https://www.casio.com/intl/news/2026/1029-CMK-100/"
+    }
+  ],
+  "excluded_fragments": [
+    "CR2025",
+    "CR2032",
+    "DCF77",
+    "E735",
+    "M100",
+    "MB6",
+    "SR920SW",
+    "V007"
+  ],
+  "scope": "Identifiers and qualified prefix associations only. Not a specification import. General rating, material, suffix and acronym claims are not universally adopted."
+}
