@@ -1,0 +1,124 @@
+{
+  "accessed": "2026-11-14",
+  "outcomes": [
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EF-527D-1AV/",
+      "status": "imported_missing_fields",
+      "model": "EF527D-1AV",
+      "fields": [
+        "dimensions_mm",
+        "case_material"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "glass",
+          "existing_value": "Mineral",
+          "current_page_value": "Mineral Glass",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "wording_only"
+        }
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.WV-200A-1AV/",
+      "status": "imported_missing_fields",
+      "model": "WV200A-1AV",
+      "fields": [
+        "dimensions_mm",
+        "case_material",
+        "glass"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "weight_g",
+          "existing_value": 40,
+          "current_page_value": 58.0,
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "numerical_source_discrepancy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+      "status": "imported_missing_fields",
+      "model": "WV58A-1AV",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "glass"
+      ],
+      "existing_field_differences": []
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.WVA-470J-1A/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.WVA-430J-1A/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+      "status": "imported_missing_fields",
+      "model": "G9000-1V",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "glass"
+      ],
+      "existing_field_differences": []
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.G-100-1BV/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/gshock/product.G-300-3AV/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+      "status": "imported_missing_fields",
+      "model": "PRW3000-1A",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material",
+        "glass"
+      ],
+      "existing_field_differences": []
+    },
+    {
+      "url": "https://www.casio.com/us/watches/casio/product.MTP-4500D-1AV/",
+      "status": "imported_missing_fields",
+      "model": "MTP4500D-1AV",
+      "fields": [
+        "dimensions_mm",
+        "weight_g",
+        "case_material"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "band_material",
+          "existing_value": "Metal",
+          "current_page_value": "Stainless Steel Band",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "additional_material_specificity"
+        },
+        {
+          "field": "glass",
+          "existing_value": "Mineral",
+          "current_page_value": "Mineral Glass",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "wording_only"
+        }
+      ]
+    }
+  ]
+}

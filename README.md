@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **153 models, 107 modules and 2,031 source-backed candidate
+The catalog now contains **153 models, 107 modules and 2,051 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -723,3 +723,28 @@ weight is **27 g**, versus the archived **30 g**. The existing 30 g candidate
 is preserved, with the competing current claim retained in research for review.
 These claims are not silently combined into one production specification.
 All 27 additions remain pending independent review.
+
+### Second current-page gap-fill batch
+
+The [second additive batch](research/current-official-gap-fill-second-2026-11-14.json)
+adds 20 missing model fields from current official Casio pages for EF527D-1AV,
+WV200A-1AV, WV58A-1AV, G9000-1V, PRW3000-1A and MTP4500D-1AV. No previous
+values or source evidence are replaced. In particular, the current G9000-1V page
+provides correctly identified size/weight facts, separate from the archived
+G9000MS-labeled row that was previously excluded.
+
+WV200A's current page lists **58 g**, while its archived candidate is **40 g**.
+The existing 40 g remains unchanged; the competing 58 g claim is recorded for
+review. Its current explicit dimensions also differ from the archived size row.
+WV58A's current dimensions differ from the older generic WV58 rows; both raw
+readings are retained and its new dimensions carry a discrepancy annotation.
+These current measurements are not asserted to describe every historical revision.
+
+The current MTP4500D page adds stainless-steel specificity beyond the earlier
+**Metal** band wording. Existing band data stays unchanged; the new description
+is retained as additional specificity, not classified as a contradiction.
+Likewise, Mineral versus Mineral Glass is classified as wording only. The
+[comparison report](research/current-official-gap-fill-second-report-2026-11-14.json)
+distinguishes these from the numerical weight discrepancy and records four
+404 endpoints. Per-product exclusions reproduce the additive import without
+duplicate existing facts. All 20 additions remain pending independent review.
