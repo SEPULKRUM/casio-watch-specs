@@ -1,3 +1,4 @@
+import {ownerReadings,ownerReadingSource} from './owner-prefix-readings.mjs';
 import {researchEntries} from './research-prefix-data.mjs';
 // Family reference reused from SEPULKRUM/watch-code-decoder/prefixes (read-only).
 // Additional catalog-backed EFB, BGD, BA and GD family associations.
@@ -346,4 +347,6 @@ const baseEntries=[
   ]
 ];
 
-export const entries=[...baseEntries,...researchEntries];
+const existingEntries=[...baseEntries,...researchEntries];
+const suppliedFamilies=ownerReadings.filter(r=>!r.code.includes('-')&&!existingEntries.some(e=>e[1]===r.code)).map(r=>['G-SHOCK / owner-supplied reference',r.code,r.context,r.code,{status:'community_interpretation',source:ownerReadingSource}]);
+export const entries=[...existingEntries,...suppliedFamilies];

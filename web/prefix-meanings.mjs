@@ -1,3 +1,4 @@
+import {ownerPrefixMeaning} from './owner-prefix-readings.mjs';
 // Whole-prefix community readings. The guide is secondary evidence, not a Casio acronym key.
 const guide='https://github.com/SEPULKRUM/casio-watch-specs/blob/main/research/reference-supplements/guide-v3-2026-11-15.json';
 const meanings={
@@ -32,13 +33,14 @@ const meanings={
  CMK:['Casio Mechanical / Casio Automatic family association',4]
 };
 const communityExamples={
- GPW:'G-SHOCK GPS / positioning (Pilot alternative) and Wave Ceptor GRAVITYMASTER family association',
- GMW:'Metal-construction G-SHOCK / Wave Ceptor association in the GMW-B5000 line',
- GW:'G-SHOCK Wave Ceptor / solar-radio family association',
+ GPW:'G-Shock GPS Wave Ceptor — G-SHOCK GPS / positioning (Pilot alternative) and Wave Ceptor GRAVITYMASTER family association',
+ GMW:'G-Shock Metal Wave Ceptor — Metal-construction G-SHOCK / Wave Ceptor association in the GMW-B5000 line',
+ GW:'G-Shock Wave Ceptor — Tough Solar / radio atomic-timekeeping association; exact-model features vary',
  DW:'Digital Water Resistant — used across G-SHOCK and non-G-SHOCK models'
 };
 export function prefixMeaning(prefix){
  if(communityExamples[prefix])return {meaning:communityExamples[prefix],status:'community_interpretation',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/docs/decoder-rules.md',locator:'Scoped community interpretations and examples',note:'Community reading, not an official universal acronym key. Check exact-model features and water resistance.'};
+ const supplied=ownerPrefixMeaning(prefix);if(supplied)return supplied;
  const item=meanings[prefix];
  return item?{meaning:item[0],status:'community_interpretation',source:guide,locator:`Supplied multi-line reference guide v3 · PDF page ${item[1]}`,note:'Community / supplied-guide reading. It is not an official universal acronym expansion; exact features and materials vary by model.'}:null;
 }
