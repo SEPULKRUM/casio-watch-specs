@@ -801,12 +801,12 @@ export const researchEntries=[
     }
   ],
   [
-    "RESEARCH REFERENCE",
+    "SEA-PATHFINDER",
     "SPF",
-    "SPF is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
+    "SEA-PATHFINDER family in the supplied archive-derived SPF-100 reference and comparison graphic. Depth/pressure and temperature sensor claims retain source scope; graphic/module mapping is unverified.",
     "SPF-100",
     {
-      "status": "unverified",
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -895,6 +895,16 @@ export const researchEntries=[
     "WS",
     "WS appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "WS-76",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "PRO TREK SMART",
+    "WSD",
+    "PRO TREK Smart wearable family in the supplied 2017 catalog; WSD-F20 uses rechargeable power, mapping and GPS. No universal individual-letter meaning or numeric module is inferred.",
+    "WSD-F20",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"

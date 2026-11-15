@@ -110,7 +110,7 @@ def add_supplement(library, supplement):
             if not isinstance(page, int) or not 1 <= page <= source['pages']:
                 raise ValueError('Invalid supplement page')
             observation = {'source_id': source_id, 'role': 'supplied_guide_text', 'pdf_page': page}
-            if item.get('reading_status') in {'supplied_regional_or_short_alias_not_additional_variant', 'family_label_only_not_exact_variant', 'reported_identifier_verification_incomplete'}:
+            if item.get('reading_status') in {'supplied_regional_or_short_alias_not_additional_variant', 'family_label_only_not_exact_variant', 'reported_identifier_verification_incomplete', 'exact_regional_reference_preserved_as_printed', 'graphic_only_reference_module_unconfirmed'}:
                 observation['reading_scope'] = item['reading_status']
 
             if item.get('historical_context'):

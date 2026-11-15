@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:protrek-combined-specifications-2026-11-15",
+  "source": {
+    "filename": "Casio_Pro_Trek_Combined_Model_Specifications_TEXT_ONLY.pdf",
+    "sha256": "73170b7c36de2e30465eaab36bb67669cf4099ada0310cad2d08d664eb37c9cc",
+    "pages": 11,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied text-only consolidation; underlying catalogs, listing, archive and graphic not independently rechecked"
+  },
+  "models": [
+    {
+      "id": "PRX-8000T-7AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRX-8000T-7BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRX-8000YT-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRX-7000T-7JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-1A",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-1B",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-1BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-3JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000-8JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000FC-1",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000FC-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-7000V-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510FC-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510FC-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510Y-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3510Y-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3500SYT-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3500T-7JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-S3500-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-2500-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100FC-1",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100FC-1JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100Y-1",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100Y-1A",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100Y-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100Y-1JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100YT-1",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100YT-1B",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100YT-1BJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-6100YT-1JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-S6100Y-1",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-S6100Y-1JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100-1",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100-1JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100-6",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100-6JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100FC-1",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100FC-1JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100T-7",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100T-7JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100Y-1",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100Y-1JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100YT-1",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3100YT-1JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-S3100-1",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-S3100-1JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-3000-1A",
+      "pages": [
+        8
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600-1",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600-1JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600Y-1",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600Y-1JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600YB-3",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600YB-3JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-600YL-5JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-270-1",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-270-1AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-270-1JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-240-1",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRG-240T-7",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "WSD-F20-BK",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "WSD-F20-RG",
+      "pages": [
+        9
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-B1000-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-B1000-5",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-B1000B-2",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRW-B1000WM-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001-5",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001-7",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001B-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001B-2",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001B-5",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRJ-B001EX-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "SPF-100-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "graphic_only_reference_module_unconfirmed"
+    },
+    {
+      "id": "SPF-100J-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "SPF-100S-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "graphic_only_reference_module_unconfirmed"
+    },
+    {
+      "id": "SPF-100SJ-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "exact_regional_reference_preserved_as_printed"
+    },
+    {
+      "id": "PRX-8000",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRX-7000",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-7000",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-3510",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-3500",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-2500",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-6100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-3100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-3000",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-600",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-270",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-240",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WSD-F20",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-B1000",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRJ-B001",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SPF-100",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "WSD",
+      "family": "PRO TREK SMART",
+      "description": "PRO TREK Smart wearable family in the supplied 2017 catalog; WSD-F20 uses rechargeable power, mapping and GPS. No universal individual-letter meaning or numeric module is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "SPF",
+      "family": "SEA-PATHFINDER",
+      "description": "SEA-PATHFINDER family in the supplied archive-derived SPF-100 reference and comparison graphic. Depth/pressure and temperature sensor claims retain source scope; graphic/module mapping is unverified.",
+      "status": "secondary_reported"
+    }
+  ]
+}
