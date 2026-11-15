@@ -31489,6 +31489,1000 @@
           "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
         }
       }
+    },
+    "GW-M5610U-2": {
+      "id": "GW-M5610U-2",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 52.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "8c4d14a5ed9d1708ad81bc8afbf3ebb98a8dd973c304c90be3261dc5177911d9",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official Japanese product metadata; independent review pending. Historical revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber",
+              "evidence": "GW-M5610U-2JF: moduleNumber=3495",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "release_date": {
+          "value": "2021-10-01",
+          "uncertainty": "Exact-model official Japanese product metadata; independent review pending. Historical revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610U-2JF: releaseDate=2021-10-01",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        },
+        "color": {
+          "value": "ブルー",
+          "uncertainty": "Exact-model official Japanese product metadata; independent review pending. Historical revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610U-2JF: colorName=ブルー",
+              "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "05a9c020a0e7074b2e948a23ba8c6073e802d71a726d312588bf8e3c4ba6fcbc"
+        }
+      }
+    },
+    "GW-M5610B-1": {
+      "id": "GW-M5610B-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610B-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610B-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610B-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "a3644a3ad9d124dc69a986f9bb2543f7518b176647dd55cf395222c303d36721",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a380a740ee0b2913273e8dc6cc2c0a65c8d42fbddc69268c9bdd681b29fc9c29"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610B-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610B-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610B-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "a3644a3ad9d124dc69a986f9bb2543f7518b176647dd55cf395222c303d36721",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "a380a740ee0b2913273e8dc6cc2c0a65c8d42fbddc69268c9bdd681b29fc9c29"
+        }
+      }
+    },
+    "GW-M5610BB-1": {
+      "id": "GW-M5610BB-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BB-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BB-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BB-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "d21580890383484a2222ad5b4620bac821c74d625fbf6812866637635cff2e59",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "547d5ba3bab73604c4e8187f323cb8259a80ee0503c4f9e96acdbf92ddd428aa"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BB-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BB-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BB-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "d21580890383484a2222ad5b4620bac821c74d625fbf6812866637635cff2e59",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "547d5ba3bab73604c4e8187f323cb8259a80ee0503c4f9e96acdbf92ddd428aa"
+        }
+      }
+    },
+    "GW-M5610BW-7": {
+      "id": "GW-M5610BW-7",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BW-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BW-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BW-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "98281d5941942cd7e07df004880c70aa183a11a03723a9c9593dd842ee35c86c",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8a2485c65dfb21f209092de7cd02d0b2e3b50d42eae8d801131f1539bd0bd948"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BW-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BW-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BW-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "98281d5941942cd7e07df004880c70aa183a11a03723a9c9593dd842ee35c86c",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8a2485c65dfb21f209092de7cd02d0b2e3b50d42eae8d801131f1539bd0bd948"
+        }
+      }
+    },
+    "GW-M5610BY-1": {
+      "id": "GW-M5610BY-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BY-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BY-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BY-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "e3bb0eb90a071737c459cf6dae34914ae5f8e54cb831ad61eded84a36e7a3802",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4a4c519d486eaf8f56c0b050803185f13fd421175ffcbd94fcac3f1adeebe122"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610BY-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610BY-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610BY-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "e3bb0eb90a071737c459cf6dae34914ae5f8e54cb831ad61eded84a36e7a3802",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "4a4c519d486eaf8f56c0b050803185f13fd421175ffcbd94fcac3f1adeebe122"
+        }
+      }
+    },
+    "GW-M5610CC-2": {
+      "id": "GW-M5610CC-2",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610CC-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610CC-2JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610CC-2JF: primary operation guide qw3159",
+              "snapshot_sha256": "3341ea77289d230209df61e506c767fd03aff2905ef5a989ef9fbf3e489ef114",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "efa93b550611340c3d9edfc34248acd688a49da7076c23ba7142a8da2c6ebae6"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610CC-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610CC-2JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610CC-2JF: primary operation guide qw3159",
+              "snapshot_sha256": "3341ea77289d230209df61e506c767fd03aff2905ef5a989ef9fbf3e489ef114",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "efa93b550611340c3d9edfc34248acd688a49da7076c23ba7142a8da2c6ebae6"
+        }
+      }
+    },
+    "GW-M5610CC-3": {
+      "id": "GW-M5610CC-3",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610CC-3/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610CC-3JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610CC-3JF: primary operation guide qw3159",
+              "snapshot_sha256": "714989f3eb9fe49f1b0d443575476a57d1f4f58343f05a94aa8289027fbdcaf7",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "46d593f91dc6ffe813a79b305e39859eaff1febf0f8272be42234ec6cfea7317"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610CC-3/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610CC-3JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610CC-3JF: primary operation guide qw3159",
+              "snapshot_sha256": "714989f3eb9fe49f1b0d443575476a57d1f4f58343f05a94aa8289027fbdcaf7",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "46d593f91dc6ffe813a79b305e39859eaff1febf0f8272be42234ec6cfea7317"
+        }
+      }
+    },
+    "GW-M5610EW-4": {
+      "id": "GW-M5610EW-4",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610EW-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610EW-4JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610EW-4JF: primary operation guide qw3159",
+              "snapshot_sha256": "2f3976467cc32337d7304b77af54e2fecc4ed6da36558b429a5d554f070c8431",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9fafe01d4b520cf850baac6906e3df20e67b54f55ca72ec45519e73cda3f17c0"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610EW-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610EW-4JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610EW-4JF: primary operation guide qw3159",
+              "snapshot_sha256": "2f3976467cc32337d7304b77af54e2fecc4ed6da36558b429a5d554f070c8431",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "9fafe01d4b520cf850baac6906e3df20e67b54f55ca72ec45519e73cda3f17c0"
+        }
+      }
+    },
+    "GW-M5610K-1": {
+      "id": "GW-M5610K-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610K-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610K-1JR",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610K-1JR: primary operation guide qw3159",
+              "snapshot_sha256": "bbfc2ecbedc5b9d9732325a9333224cf5c36e5fbf73b2b658d52574ca3f411f3",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e51b168e2481f6c693aba40db152b22673b40482b4a0fb5e49cbcf621106a901"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610K-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610K-1JR",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610K-1JR: primary operation guide qw3159",
+              "snapshot_sha256": "bbfc2ecbedc5b9d9732325a9333224cf5c36e5fbf73b2b658d52574ca3f411f3",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e51b168e2481f6c693aba40db152b22673b40482b4a0fb5e49cbcf621106a901"
+        }
+      }
+    },
+    "GW-M5610KG-3": {
+      "id": "GW-M5610KG-3",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610KG-3/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610KG-3JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610KG-3JF: primary operation guide qw3159",
+              "snapshot_sha256": "3ed08e1455b6a3000793b79c5f0444ad6840c27117992875787265230e289003",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c196125b772b0a8e6fbb46e24ca911d876b57b65e55cb85aebe9b85e0a53d9"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610KG-3/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610KG-3JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610KG-3JF: primary operation guide qw3159",
+              "snapshot_sha256": "3ed08e1455b6a3000793b79c5f0444ad6840c27117992875787265230e289003",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f8c196125b772b0a8e6fbb46e24ca911d876b57b65e55cb85aebe9b85e0a53d9"
+        }
+      }
+    },
+    "GW-M5610LG-8": {
+      "id": "GW-M5610LG-8",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610LG-8/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610LG-8JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610LG-8JF: primary operation guide qw3159",
+              "snapshot_sha256": "55d2e42c48bbc9f014c2f40a83bd79e736c4c63cffe59b902e0a6ffa55cbf01a",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f9d349ce69019713f85403ac017aefec19f34427f8391093bd563c3028ef18b"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610LG-8/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610LG-8JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610LG-8JF: primary operation guide qw3159",
+              "snapshot_sha256": "55d2e42c48bbc9f014c2f40a83bd79e736c4c63cffe59b902e0a6ffa55cbf01a",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5f9d349ce69019713f85403ac017aefec19f34427f8391093bd563c3028ef18b"
+        }
+      }
+    },
+    "GW-M5610LY-1": {
+      "id": "GW-M5610LY-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610LY-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610LY-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610LY-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "3cc94d722f0f3e3f88743dae2653410b62b74fb0b2392ec2dd046241acb607f8",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d4b524912d3fd804fda91685fef2d7a0d3dc9d5dbca78f1b6e6860a18e30db76"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610LY-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610LY-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610LY-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "3cc94d722f0f3e3f88743dae2653410b62b74fb0b2392ec2dd046241acb607f8",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d4b524912d3fd804fda91685fef2d7a0d3dc9d5dbca78f1b6e6860a18e30db76"
+        }
+      }
+    },
+    "GW-M5610MD-2": {
+      "id": "GW-M5610MD-2",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MD-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MD-2JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MD-2JF: primary operation guide qw3159",
+              "snapshot_sha256": "3473b5e5abe433943424dc7536b933bb3582415faffc57dbd07e38e331367764",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "825f65aa723474c241cf19a6f9367e3808dc53b2f945e54d01cf548a780a8bf3"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MD-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MD-2JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MD-2JF: primary operation guide qw3159",
+              "snapshot_sha256": "3473b5e5abe433943424dc7536b933bb3582415faffc57dbd07e38e331367764",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "825f65aa723474c241cf19a6f9367e3808dc53b2f945e54d01cf548a780a8bf3"
+        }
+      }
+    },
+    "GW-M5610MD-9": {
+      "id": "GW-M5610MD-9",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MD-9/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MD-9JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MD-9JF: primary operation guide qw3159",
+              "snapshot_sha256": "82e81cbebf8e76615235ee9285283d6039f70a9ff1f9abd8752b0b0cac805bb4",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "78081c841305986e1b7f788df26fd858fab9a77b56cce6f80632bd2106db9517"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MD-9/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MD-9JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MD-9JF: primary operation guide qw3159",
+              "snapshot_sha256": "82e81cbebf8e76615235ee9285283d6039f70a9ff1f9abd8752b0b0cac805bb4",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "78081c841305986e1b7f788df26fd858fab9a77b56cce6f80632bd2106db9517"
+        }
+      }
+    },
+    "GW-M5610MR-4": {
+      "id": "GW-M5610MR-4",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MR-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MR-4JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MR-4JF: primary operation guide qw3159",
+              "snapshot_sha256": "ad70eab10fc32764770b15a7d1deda47d41963e9feff24a88ee8f50273402e09",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5e863feac0fedf4047bc649238ee9c780c64cecb96985fb1fce6b1d8ddbded25"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MR-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MR-4JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MR-4JF: primary operation guide qw3159",
+              "snapshot_sha256": "ad70eab10fc32764770b15a7d1deda47d41963e9feff24a88ee8f50273402e09",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5e863feac0fedf4047bc649238ee9c780c64cecb96985fb1fce6b1d8ddbded25"
+        }
+      }
+    },
+    "GW-M5610MW-7": {
+      "id": "GW-M5610MW-7",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MW-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MW-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MW-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "5a3c03782a08fb6ace713205e5d377311ab2215b173892b7fdd45d074689b8c9",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c5064190237c0c1b9da68300a7b9622ced7cd9034380269dfd4a166509cf8b46"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610MW-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610MW-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610MW-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "5a3c03782a08fb6ace713205e5d377311ab2215b173892b7fdd45d074689b8c9",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c5064190237c0c1b9da68300a7b9622ced7cd9034380269dfd4a166509cf8b46"
+        }
+      }
+    },
+    "GW-M5610PC-1": {
+      "id": "GW-M5610PC-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610PC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610PC-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610PC-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "757c7019fc0ee5c11783a2d0797b701945a61c0b88d139fdbb9378f596a66d45",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "87018d8ddd623c7030d7481eca60b70224271132a44a24b171a06a35389b8aa7"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610PC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610PC-1JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610PC-1JF: primary operation guide qw3159",
+              "snapshot_sha256": "757c7019fc0ee5c11783a2d0797b701945a61c0b88d139fdbb9378f596a66d45",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "87018d8ddd623c7030d7481eca60b70224271132a44a24b171a06a35389b8aa7"
+        }
+      }
+    },
+    "GW-M5610SD-8": {
+      "id": "GW-M5610SD-8",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610SD-8/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610SD-8JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610SD-8JF: primary operation guide qw3159",
+              "snapshot_sha256": "c4cdc854850b1d5ff2dad340d31c0f6eaf92c72ed292ef998ed744c99d74fcb7",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3d6d907da640b0cc4e850c11616a89f2bd997404de3f064a5b7cf59704448c1b"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610SD-8/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610SD-8JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610SD-8JF: primary operation guide qw3159",
+              "snapshot_sha256": "c4cdc854850b1d5ff2dad340d31c0f6eaf92c72ed292ef998ed744c99d74fcb7",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3d6d907da640b0cc4e850c11616a89f2bd997404de3f064a5b7cf59704448c1b"
+        }
+      }
+    },
+    "GW-M5610TH-1": {
+      "id": "GW-M5610TH-1",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610TH-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610TH-1JR",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610TH-1JR: primary operation guide qw3159",
+              "snapshot_sha256": "e65277d8343e308cff9192158c83f14f79c25b15b83a714c052e5c38b369cd52",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ded83508a5759d0604354fc66444cca3c60d3aac24264ca7b5ef9c6d8d0018f1"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610TH-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610TH-1JR",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610TH-1JR: primary operation guide qw3159",
+              "snapshot_sha256": "e65277d8343e308cff9192158c83f14f79c25b15b83a714c052e5c38b369cd52",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ded83508a5759d0604354fc66444cca3c60d3aac24264ca7b5ef9c6d8d0018f1"
+        }
+      }
+    },
+    "GW-M5610TR-7": {
+      "id": "GW-M5610TR-7",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Official support brand classification; physical specifications not yet researched",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610TR-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610TR-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610TR-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "44347c140bfcbbe70b9cfa7a15790ed1ecd2d43f6240c879c59f0be604a1cb4e",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0a8540c143b759d78185e1a326f654413828fa22d29968409995037471763164"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Current exact-model official primary manual reference; historical revisions remain unverified. This establishes no case, color, mass or display-polarity specification.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/support.GW-M5610TR-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model support heading and primary operation-guide link",
+              "displayed_model": "GW-M5610TR-7JF",
+              "linked_manual_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_JA.pdf",
+              "evidence": "GW-M5610TR-7JF: primary operation guide qw3159",
+              "snapshot_sha256": "44347c140bfcbbe70b9cfa7a15790ed1ecd2d43f6240c879c59f0be604a1cb4e",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0a8540c143b759d78185e1a326f654413828fa22d29968409995037471763164"
+        }
+      }
     }
   },
   "modules": {

@@ -28,3 +28,13 @@ Casio Europe offers a regional Top ten bestsellers page:
 https://www.casio.com/europe/watches/bestseller/
 
 Capture region, retrieval date, source URL, selected sorting/filter and displayed order when collecting ranks. A regional storefront position is not worldwide lifetime unit sales. The US curated page still refers to 2025 in the retrieved text; do not label it a measured 2026 sales ranking. No numerical sales ranking was extracted in the initial pass. Owner-selected family priority takes precedence over storefront popularity.
+
+## Supplied inventory follow-up
+
+The owner supplied a two-page CasioPart model-search PDF on 15 November 2026.
+Its 32 base references are now covered for official identity and module; 19
+newly added older variants still lack physical specifications. Finish those
+original-generation gaps before calling GW-M5610 research complete. Preserve
+all 33 supplied base-model claims in the reconciliation queue; the extra Bamford
+reference is not in the PDF. Regional suffix proposals and GW-M5630 sister
+models remain separate. See research/owner-gwm5610-variant-claims-2026-11-15.json.

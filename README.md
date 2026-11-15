@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **172 models, 112 modules and 2,294 source-backed candidate
+The catalog now contains **192 models, 112 modules and 2,343 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 172 models and 112 module profiles.
+The bundled snapshot contains the current 192 models and 112 module profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -840,3 +840,31 @@ This is not an exhaustive family inventory: 12 product URLs remain unavailable
 and further historical discovery is needed. CasioPart returned 403, including
 its robots.txt, so its listings were not collected. Casio regional bestseller
 pages are confirmed, but no numeric sales rankings were inferred.
+
+## Owner-supplied GW-M5610 inventory reconciliation · 15 November 2026
+
+The supplied two-page CasioPart PDF lists 32 base references. All 32 now have
+independently retrieved official Casio identity/module evidence in the catalog.
+This does **not** establish complete physical-specification coverage or an
+exhaustive worldwide family inventory.
+
+This batch adds 20 catalog models: GW-M5610U-2 has its own official product
+specifications, while 19 older references have **identity and module only**
+from exact-model support pages. Their case, band, mass, dimensions and LCD
+polarity remain unfilled. No specifications are copied from adjacent variants.
+The catalog gains 49 fields and retains all 2,294 existing fields unchanged.
+
+Research files retain the attachment hash, page locations, listed years, the
+33 owner-supplied base-model descriptions, proposed regional aliases and
+source-specific reconciliation notes. Parts-list years are not official release
+dates. The PDF is a supplied discovery source; no live blocked CasioPart page
+was scraped and no image assets were copied.
+
+The Hundreds' own announcement identifies GW-M5610TH-1 as its collaboration;
+Casio describes MD-7 as a white 1990s-inspired street-fashion model. Supplied
+Time Traveler / Men in Navy / Rescue descriptions are not adopted as official
+series names. TR-7's supplied titanium-style wording establishes no titanium
+material. Casio confirms the earlier Bamford collaboration line, but the exact
+BWD20 suffix remains queued for further primary research. Proposed PRDB/regional
+references and GW-M5630 sister models are retained separately, not counted as
+new physical GW-M5610 variants.
