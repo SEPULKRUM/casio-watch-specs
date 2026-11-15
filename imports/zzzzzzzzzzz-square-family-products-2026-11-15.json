@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 31258)
-Total output lines: 2836
-
 [
   {
     "kind": "model",
@@ -1369,7 +1366,129 @@ Total output lines: 2836
         "uncertainty": "Official-source candidate; independent review pending",
         "sources": [
           {
-            "ur…1258 tokens truncated…  "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / 防水性",
+            "evidence": "Product specification 防水性: 20気圧防水",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "jp",
+            "language": "ja",
+            "research_sha256": "d018469ee91225933f373a8dc6ee5568ea8e3edbf8c7ad59e966a9e3c9b4305b",
+            "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3495",
+        "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact product metadata / moduleNumber and manual selector",
+            "evidence": "GW-M5610U-1JF: moduleNumber=3495",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+          }
+        ]
+      },
+      "release_date": {
+        "value": "2021-07-01",
+        "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact product metadata / releaseDate",
+            "evidence": "GW-M5610U-1JF: releaseDate=2021-07-01",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+          }
+        ]
+      },
+      "color": {
+        "value": "ブラック",
+        "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact product metadata / colorName",
+            "evidence": "GW-M5610U-1JF: colorName=ブラック",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610U-1B",
+    "specs": {
+      "water_resistance_bar": {
+        "value": 20,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / 防水性",
+            "evidence": "Product specification 防水性: 20気圧防水",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "jp",
+            "language": "ja",
+            "research_sha256": "c69ac2cc84cb2390680e75a3b58195da7596d9db68428de5134105cd484fb6ab",
+            "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+          }
+        ]
+      },
+      "release_date": {
+        "value": "2021-07-01",
+        "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+            "accessed": "2026-11-15",
+            "locator": "Exact product metadata / releaseDate",
+            "evidence": "GW-M5610U-1BJF: releaseDate=2021-07-01",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+          }
+        ]
+      },
+      "color": {
+        "value": "ブラック",
+        "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+            "accessed": "2026-11-15",
+            "locator": "Exact product metadata / colorName",
+            "evidence": "GW-M5610U-1BJF: colorName=ブラック",
+            "permission": "official_public_reference",
+            "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610U-1C",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
             "accessed": "2026-11-15",
             "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
             "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
