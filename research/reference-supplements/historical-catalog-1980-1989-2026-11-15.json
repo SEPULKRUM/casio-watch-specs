@@ -1,0 +1,2687 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:historical-catalog-extraction-1980-1989",
+  "source": {
+    "filename": "Casio_1980_1982_1985_1989_Extracted_Models_Specifications_TEXT_ONLY.pdf",
+    "sha256": "3966c2d91a2548d5f0603a7a90dcc3b3bf2d741e63fc4ff9b91a6f2bfd670a05",
+    "pages": 14,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied secondary text extraction; original catalog scans not independently rechecked"
+  },
+  "models": [
+    {
+      "id": "A250-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 2
+    },
+    {
+      "id": "S-220-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 2
+    },
+    {
+      "id": "56CS-528-2",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 3
+    },
+    {
+      "id": "56QS-38B-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 3
+    },
+    {
+      "id": "79CS-51B-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 4
+    },
+    {
+      "id": "C-80",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 5
+    },
+    {
+      "id": "29CS-49B-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 6
+    },
+    {
+      "id": "C-801-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 6
+    },
+    {
+      "id": "C-801-7",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 6
+    },
+    {
+      "id": "59CGS-57B-5",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 7
+    },
+    {
+      "id": "M-12-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 7
+    },
+    {
+      "id": "M1200-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 7
+    },
+    {
+      "id": "M1200G-5",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 7
+    },
+    {
+      "id": "W-100-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 8
+    },
+    {
+      "id": "W150-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 8
+    },
+    {
+      "id": "W150C-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 8
+    },
+    {
+      "id": "L-10-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 9
+    },
+    {
+      "id": "L-20-28",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 9
+    },
+    {
+      "id": "L-20-2A",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 9
+    },
+    {
+      "id": "87QL-20B-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 10
+    },
+    {
+      "id": "F-200",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "F-300",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "F-300G-5",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "F-7C",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "F-80C-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "F-80E-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1980,
+      "catalog_page": 12
+    },
+    {
+      "id": "L-7-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 1
+    },
+    {
+      "id": "PQ-5",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 2
+    },
+    {
+      "id": "DA-101",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 3
+    },
+    {
+      "id": "DA-106",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 3
+    },
+    {
+      "id": "DQ-300",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 3
+    },
+    {
+      "id": "AG-10-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "AG-11L-4",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "AG-20-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "AG-21L-4",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "AG-30-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "AG-31L-4",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 4
+    },
+    {
+      "id": "F-85-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 5
+    },
+    {
+      "id": "F-85P",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 5
+    },
+    {
+      "id": "LP-210G",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 6
+    },
+    {
+      "id": "LP-300",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 6
+    },
+    {
+      "id": "LP-82G",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-401C-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 9
+    },
+    {
+      "id": "LW-601",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 9
+    },
+    {
+      "id": "LW-303C-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 10
+    },
+    {
+      "id": "LM-3",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 11
+    },
+    {
+      "id": "LM-320GL",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 11
+    },
+    {
+      "id": "L-50G-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 12
+    },
+    {
+      "id": "L-7P-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 12
+    },
+    {
+      "id": "GF-1",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "GF-11",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "GM-30",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "GM-301",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "GM-40",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "GM-50",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 13
+    },
+    {
+      "id": "CA-85",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "CA-86",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "CA-95",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "CA-951",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "CS-82",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "CS-821",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 14
+    },
+    {
+      "id": "DW-1000",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 16
+    },
+    {
+      "id": "W-350",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 17
+    },
+    {
+      "id": "W-450",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 17
+    },
+    {
+      "id": "W-20-1",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 18
+    },
+    {
+      "id": "W-23",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 18
+    },
+    {
+      "id": "W-35",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 18
+    },
+    {
+      "id": "AX-250",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 19
+    },
+    {
+      "id": "F-85",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1982,
+      "catalog_page": 20
+    },
+    {
+      "id": "LQ-30W-1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 2
+    },
+    {
+      "id": "LQ-30W-7",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 2
+    },
+    {
+      "id": "LQ-31W",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 2
+    },
+    {
+      "id": "LQ-33W",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 2
+    },
+    {
+      "id": "LQW-100",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 2
+    },
+    {
+      "id": "LQ-302",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-302G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-313",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-313G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-804G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-809G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-811G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-817G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-818G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-820G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-821",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-821G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 3
+    },
+    {
+      "id": "LQ-11W-1G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-11W-4G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-11W-7G",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-14W-1E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-14W-6E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-14W-7E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-14W-9E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-14WG",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-23FW-2",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-23FW-3",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-23FW-4",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-23FW-8",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 4
+    },
+    {
+      "id": "LQ-15C-1G1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-15C-2G1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-15C-7G1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-15C-8G1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-18-3B",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-18-4B",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-18-9B",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-50F-2",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-50F-3",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-50F-6",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LQ-50F-9",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 5
+    },
+    {
+      "id": "LW-10",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-30-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-30-2",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-30-3",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-30-4",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-40-1A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-40-7A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-60",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "LW-610",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "W-11",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 6
+    },
+    {
+      "id": "L-2FW-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "L-2FW-2",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "L-2FW-4",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "L-2W",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LA-11W-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LA-11W-7",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LW-11",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LW-11F-2",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LW-11F-3",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LW-11F-4",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 7
+    },
+    {
+      "id": "LA-660",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 8
+    },
+    {
+      "id": "LA-660G",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 8
+    },
+    {
+      "id": "LB-610",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 8
+    },
+    {
+      "id": "LB-610G",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 8
+    },
+    {
+      "id": "FS-11",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 9
+    },
+    {
+      "id": "FS-12-1A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 9
+    },
+    {
+      "id": "FS-12-1B",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 9
+    },
+    {
+      "id": "FS-12-1C",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 9
+    },
+    {
+      "id": "AQ-331B",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 12
+    },
+    {
+      "id": "AQ-410",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 12
+    },
+    {
+      "id": "AQ-410G",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 12
+    },
+    {
+      "id": "AT-552",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 12
+    },
+    {
+      "id": "AT-552G",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 12
+    },
+    {
+      "id": "AQ-340-1",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 13
+    },
+    {
+      "id": "AQ-340-7",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 13
+    },
+    {
+      "id": "MQA-100",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 13
+    },
+    {
+      "id": "MQA-100G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 13
+    },
+    {
+      "id": "MQD-200W",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 14
+    },
+    {
+      "id": "MQD-3000W",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 14
+    },
+    {
+      "id": "MQW-100",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 14
+    },
+    {
+      "id": "MQW-500",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 14
+    },
+    {
+      "id": "MQW-500C",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 14
+    },
+    {
+      "id": "MQ-400W-1A",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 15
+    },
+    {
+      "id": "MQ-400W-7A",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 15
+    },
+    {
+      "id": "MQ-51W",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 15
+    },
+    {
+      "id": "MQW-30",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 15
+    },
+    {
+      "id": "MQW-40",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 15
+    },
+    {
+      "id": "MQ-30W-1B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 16
+    },
+    {
+      "id": "MQ-30W-7B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 16
+    },
+    {
+      "id": "MQW-10-1E1",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 16
+    },
+    {
+      "id": "MQW-10-7E",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 16
+    },
+    {
+      "id": "MQ-14W-7B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14W-8E",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14W-9E",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14WF-1G1",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14WF-1G2",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14WF-8B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-14WF-8G1",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-20W",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-60W-1E",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-60W-7B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 17
+    },
+    {
+      "id": "MQ-307",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-307G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-330G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-503",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-503G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-530",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-530G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 18
+    },
+    {
+      "id": "MQ-30",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-303",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-303G",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-31-1B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-31-5B",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-31-8B",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-33",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "MQ-331",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 19
+    },
+    {
+      "id": "DB-20W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 20
+    },
+    {
+      "id": "DB-510",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 20
+    },
+    {
+      "id": "DB-52W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 20
+    },
+    {
+      "id": "DBC-60",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 21
+    },
+    {
+      "id": "DBC-600",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 21
+    },
+    {
+      "id": "DBC-600G",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 21
+    },
+    {
+      "id": "CA-50",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 22
+    },
+    {
+      "id": "CA-502",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 22
+    },
+    {
+      "id": "CFS-80",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 22
+    },
+    {
+      "id": "CFX-200",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 22
+    },
+    {
+      "id": "DW-300",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 24
+    },
+    {
+      "id": "DW-3000C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 24
+    },
+    {
+      "id": "DW-5500C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 24
+    },
+    {
+      "id": "WW-5100C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 24
+    },
+    {
+      "id": "DW-1000C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 25
+    },
+    {
+      "id": "DW-210",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 25
+    },
+    {
+      "id": "DW-5200C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 25
+    },
+    {
+      "id": "DW-5400C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 25
+    },
+    {
+      "id": "AE-60W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "AE-8BW",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "TS-1200",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "W-34",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "W-700",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "W-760",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "W-760C",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "WW-15",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 26
+    },
+    {
+      "id": "F-21W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "F-87W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "GF-87W",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "W-10",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "W-10SC",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "W-26",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 27
+    },
+    {
+      "id": "A153",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "A153G",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "A160B",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "A663",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "A663G",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "AE-80",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 28
+    },
+    {
+      "id": "B-210",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 29
+    },
+    {
+      "id": "F-14",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 29
+    },
+    {
+      "id": "FS-20C-2",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 30
+    },
+    {
+      "id": "FS-20C-4",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 30
+    },
+    {
+      "id": "FS-20C-9",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 30
+    },
+    {
+      "id": "FS-50",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 30
+    },
+    {
+      "id": "FS-10",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "FS-20B-2",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "FS-20B-4",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "FS-20B-9",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "FS-21A",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "FS-21B",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1985,
+      "catalog_page": 31
+    },
+    {
+      "id": "A153WG-9",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "A155W-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "B612W-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "B612WG-9",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "F-18-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "F-28W-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "F-76W-1A",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "F-77W-1D",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "F-88W-1A",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 2
+    },
+    {
+      "id": "TS-1200-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 4
+    },
+    {
+      "id": "AE-20-1",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 5
+    },
+    {
+      "id": "AE2ZNAV",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 5
+    },
+    {
+      "id": "AET2W-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 5
+    },
+    {
+      "id": "DW-1500C-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-260-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-310-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-500C-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-500C-9BV",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-5600C-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-5600C-9BV",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "DW-5700C-9V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 7
+    },
+    {
+      "id": "MAP-100-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 11
+    },
+    {
+      "id": "TS-100-1V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 11
+    },
+    {
+      "id": "AB-100-1A",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 12
+    },
+    {
+      "id": "ARW-320AT-1E2V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 12
+    },
+    {
+      "id": "MW31-98V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 14
+    },
+    {
+      "id": "MW-101-7A2V",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 17
+    },
+    {
+      "id": "LAW45-2EV",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide",
+      "historical_context": true,
+      "catalog_year": 1989,
+      "catalog_page": 22
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "PQ",
+      "family": "HISTORICAL CASIO",
+      "description": "PQ appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DA",
+      "family": "HISTORICAL CASIO",
+      "description": "DA appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DQ",
+      "family": "HISTORICAL CASIO",
+      "description": "DQ appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "LB",
+      "family": "HISTORICAL CASIO",
+      "description": "LB appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "AET",
+      "family": "HISTORICAL CASIO",
+      "description": "AET appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "MW",
+      "family": "HISTORICAL CASIO",
+      "description": "MW appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "LAW",
+      "family": "HISTORICAL CASIO",
+      "description": "LAW appears as a historical catalog identifier in the owner-supplied 1980\u20131989 extraction. No universal letter expansion or modern feature meaning is inferred.",
+      "status": "secondary_reported"
+    }
+  ]
+}

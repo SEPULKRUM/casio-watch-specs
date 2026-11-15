@@ -14,7 +14,7 @@ def build(output):
     if output == root or any(output == p or p in output.parents or output in p.parents for p in protected):
         raise ValueError('Output cannot replace repository sources')
     output.mkdir(parents=True, exist_ok=True)
-    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs')
+    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs', 'historical-review.mjs')
     datasets = ('catalog.json', 'watches.csv', 'parts-links.json', 'official-product-links.json', 'model-references.json')
     fingerprint = hashlib.sha256(Path(__file__).read_bytes())
     for folder, names in [('web', assets), ('data', datasets)]:

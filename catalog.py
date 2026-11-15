@@ -111,6 +111,7 @@ def export_csv(catalog):
                'promotional_thickness_mm', 'technical_table_thickness_mm',
                'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
+                     'catalog_year', 'catalog_description', 'catalog_material_finish',
                      'verified_facts', 'pending_facts', 'source_urls', 'source_references'])
     for record in search(catalog):
         value = lambda name: field_value(record, name)
@@ -125,6 +126,7 @@ def export_csv(catalog):
                value('promotional_thickness_mm'), value('technical_table_thickness_mm'), value('weight_g'),
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
+               value('catalog_year'), value('catalog_description'), value('catalog_material_finish'),
                sum(f['status'] == 'verified' for f in facts),
                sum(f['status'] == 'pending_review' for f in facts), ' | '.join(urls), ' | '.join(references)]
         writer.writerow(['' if v is None else spreadsheet_safe(v) for v in row])
@@ -142,9 +144,10 @@ def validate_user_evidence(root, records):
                 specs.validate(record)
                 reference = source['reference']
                 if reference not in cache:
-                    cache[reference] = specs.load(root / reference)
-                note = cache[reference]
-                if (specs.digest(note) != source['source_sha256']
+                    note = specs.load(root / reference)
+                    cache[reference] = (note, specs.digest(note))
+                note, note_digest = cache[reference]
+                if (note_digest != source['source_sha256']
                         or note.get('provided_by') != source['provided_by']):
                     raise ValueError('User evidence is stale or attribution does not match')
                 if note.get('type') == 'user_watch_specifications':
