@@ -13,7 +13,7 @@ export function decodeModel(input,data=null,references=null){
  const cleaned=String(input||'').trim().toUpperCase().replace(/[−–—]/g,'-').replace(/\s+/g,'');
  if(!cleaned)return {recognized:false,empty:true,segments:[]};
  if(!/^[A-Z0-9-]+$/.test(cleaned))return {recognized:false,reason:'Enter a Casio model or prefix using letters, numbers and hyphens.',segments:[]};
- const key=compact(cleaned),exact=data?Object.values(data.models).find(m=>compact(m.id)===key):null;
+ const key=compact(cleaned),exact=data?Object.values(data.models).find(m=>compact(m.id)===key||(m.specs?.supplied_aliases?.value||[]).some(alias=>compact(alias)===key)):null;
  const matches=exactReferences(references,cleaned);
  if(exact?.specs?.catalog_year){
   const historicalPrefix=exact.id.match(/^[A-Z]+/)?.[0]||'',segments=[];

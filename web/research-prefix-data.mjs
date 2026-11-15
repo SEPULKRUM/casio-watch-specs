@@ -111,6 +111,16 @@ export const researchEntries=[
     }
   ],
   [
+    "G-SHOCK / supplied reference",
+    "AWM",
+    "AWM is associated with the full-metal radio-solar AWM-500UA-1AJR in the supplied collaboration dossier. No universal individual-letter expansion is established.",
+    "AWM-500UA-1AJR",
+    {
+      "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "AX",
     "AX appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",

@@ -2,10 +2,10 @@
   "schema_version": 1,
   "scope": "Model/series strings only; not verified watch or specification records. Index checks do not establish official letter meanings. Candidate strings may be partial or false positives.",
   "counts": {
-    "model_strings": 2669,
+    "model_strings": 2699,
     "index_checked": 58,
     "supplied_transcription": 155,
-    "machine_candidate": 2456,
+    "machine_candidate": 2486,
     "rejected_occurrences": 189
   },
   "sources": {
@@ -211,6 +211,13 @@
       "pages": 14,
       "availability": "received_secondary_guide",
       "classification": "Owner-supplied secondary text extraction; original catalog scans not independently rechecked"
+    },
+    "guide:combined-model-specifications-2026-11-15": {
+      "filename": "Casio_Combined_Model_Specifications_TEXT_ONLY.pdf",
+      "sha256": "d38907805da25a4f2e406306a1f54fdd94317873260be02cd86ff0c8d530e2e1",
+      "pages": 12,
+      "availability": "received_secondary_guide",
+      "classification": "Owner-supplied consolidation of nine PDFs and one packaging photo; original sources not independently rechecked"
     }
   },
   "models": {
@@ -3787,6 +3794,48 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "AW-500": {
+      "id": "AW-500",
+      "prefix": "AW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AW-500BUA-1E": {
+      "id": "AW-500BUA-1E",
+      "prefix": "AW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AW-500UA-1E": {
+      "id": "AW-500UA-1E",
+      "prefix": "AW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AWG-1": {
       "id": "AWG-1",
       "prefix": "AWG",
@@ -4012,6 +4061,11 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -4106,6 +4160,11 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -4233,6 +4292,11 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -4299,6 +4363,11 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -4415,6 +4484,37 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AWG-M520UA-1EJR": {
+      "id": "AWG-M520UA-1EJR",
+      "prefix": "AWG",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -4445,6 +4545,20 @@
           "source_id": "guide:anniversary-directory-2026-11-15",
           "role": "supplied_guide_text",
           "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AWM-500UA-1AJR": {
+      "id": "AWM-500UA-1AJR",
+      "prefix": "AWM",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
         }
       ],
       "status": "machine_candidate",
@@ -5196,6 +5310,11 @@
           "source_id": "original:source_18",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
         }
       ],
       "status": "machine_candidate",
@@ -5215,6 +5334,11 @@
           "source_id": "original:source_18",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
         }
       ],
       "status": "machine_candidate",
@@ -5234,6 +5358,11 @@
           "source_id": "original:source_18",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
         }
       ],
       "status": "machine_candidate",
@@ -5253,6 +5382,11 @@
           "source_id": "original:source_18",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
         }
       ],
       "status": "machine_candidate",
@@ -9631,6 +9765,11 @@
           "source_id": "original:source_15",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9674,6 +9813,11 @@
           "source_id": "original:source_15",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9703,6 +9847,11 @@
           "source_id": "original:source_15",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9732,6 +9881,11 @@
           "source_id": "original:source_15",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9761,6 +9915,11 @@
           "source_id": "original:source_15",
           "role": "prior_machine_index",
           "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9804,6 +9963,18 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
         }
       ],
       "status": "machine_candidate",
@@ -9828,6 +9999,16 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9842,6 +10023,16 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9866,6 +10057,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -9895,6 +10092,16 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11
         }
       ],
       "status": "machine_candidate",
@@ -9909,6 +10116,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -9923,6 +10136,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -9937,6 +10156,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -9951,6 +10176,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -9970,6 +10201,12 @@
           "source_id": "original:source_19",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 11,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -11110,6 +11347,12 @@
           "source_id": "original:source_09",
           "role": "prior_machine_index",
           "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 5,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -17595,6 +17838,62 @@
           "source_id": "original:source_20",
           "role": "prior_machine_index",
           "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-H5600-1": {
+      "id": "DW-H5600-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-H5600-2": {
+      "id": "DW-H5600-2",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-H5600MB-1": {
+      "id": "DW-H5600MB-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-H5600MB-2": {
+      "id": "DW-H5600MB-2",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
         }
       ],
       "status": "machine_candidate",
@@ -24097,6 +24396,16 @@
           "source_id": "original:source_20",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -24116,6 +24425,16 @@
           "source_id": "original:source_20",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -24134,6 +24453,16 @@
         {
           "source_id": "original:source_20",
           "role": "prior_machine_index",
+          "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
           "pdf_page": 3
         }
       ],
@@ -30369,6 +30698,11 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
         }
       ],
       "status": "machine_candidate",
@@ -30383,6 +30717,12 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
         }
       ],
       "status": "machine_candidate",
@@ -30407,6 +30747,11 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
         }
       ],
       "status": "machine_candidate",
@@ -30421,6 +30766,12 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
         }
       ],
       "status": "machine_candidate",
@@ -30445,6 +30796,11 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
         }
       ],
       "status": "machine_candidate",
@@ -30459,6 +30815,12 @@
           "source_id": "original:source_21",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6,
+          "reading_scope": "supplied_regional_or_short_alias_not_additional_variant"
         }
       ],
       "status": "machine_candidate",
@@ -36934,6 +37296,254 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "OCW-70": {
+      "id": "OCW-70",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S100": {
+      "id": "OCW-S100",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S340": {
+      "id": "OCW-S340",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S3400-1AJF": {
+      "id": "OCW-S3400-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S400-1AJF": {
+      "id": "OCW-S400-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S400-2AJF": {
+      "id": "OCW-S400-2AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S400-3AJF": {
+      "id": "OCW-S400-3AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S5000B-1AJF": {
+      "id": "OCW-S5000B-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S5000E-1AJF": {
+      "id": "OCW-S5000E-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S6000-1AJF": {
+      "id": "OCW-S6000-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S6000BV-1AJR": {
+      "id": "OCW-S6000BV-1AJR",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S7000-1AJF": {
+      "id": "OCW-S7000-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S7000B-2AJF": {
+      "id": "OCW-S7000B-2AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S7000BV-2AJR": {
+      "id": "OCW-S7000BV-2AJR",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S7000D-7AJF": {
+      "id": "OCW-S7000D-7AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 6
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "OCW-S7000SS-2A": {
       "id": "OCW-S7000SS-2A",
       "prefix": "OCW",
@@ -37039,6 +37649,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37063,6 +37683,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37087,6 +37717,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37111,6 +37751,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37135,6 +37785,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37159,6 +37819,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 2
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
         }
       ],
       "status": "machine_candidate",
@@ -37173,6 +37843,36 @@
           "source_id": "original:source_17",
           "role": "prior_machine_index",
           "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T150": {
+      "id": "OCW-T150",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T200": {
+      "id": "OCW-T200",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
         }
       ],
       "status": "machine_candidate",
@@ -37240,6 +37940,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37254,6 +37964,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37268,6 +37988,21 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37282,6 +38017,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37310,6 +38055,21 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37324,6 +38084,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37338,6 +38108,12 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -37371,6 +38147,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37385,6 +38171,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37413,6 +38209,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37427,6 +38233,21 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37441,6 +38262,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37455,6 +38286,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37488,6 +38329,21 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37502,6 +38358,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37516,6 +38382,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 3
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37544,6 +38420,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37572,6 +38458,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37600,6 +38496,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 4
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37614,6 +38520,12 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10,
+          "reading_scope": "reported_identifier_verification_incomplete"
         }
       ],
       "status": "machine_candidate",
@@ -37647,6 +38559,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37661,6 +38583,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37675,6 +38607,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -37689,6 +38631,16 @@
           "source_id": "original:source_22",
           "role": "prior_machine_index",
           "pdf_page": 5
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 9
+        },
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 10
         }
       ],
       "status": "machine_candidate",
@@ -38083,6 +39035,63 @@
           "source_id": "original:source_11",
           "role": "prior_machine_index",
           "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T5000": {
+      "id": "OCW-T5000",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 8,
+          "reading_scope": "family_label_only_not_exact_variant"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T6000-1AJF": {
+      "id": "OCW-T6000-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T6000A-1AJF": {
+      "id": "OCW-T6000A-1AJF",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-T6000BV-2AJR": {
+      "id": "OCW-T6000BV-2AJR",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:combined-model-specifications-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 7
         }
       ],
       "status": "machine_candidate",
@@ -43219,6 +44228,13 @@
       "description": "LAW appears as a historical catalog identifier in the owner-supplied 1980–1989 extraction. No universal letter expansion or modern feature meaning is inferred.",
       "status": "secondary_reported",
       "source_id": "guide:historical-catalog-extraction-1980-1989"
+    },
+    {
+      "prefix": "AWM",
+      "family": "G-SHOCK / supplied reference",
+      "description": "AWM is associated with the full-metal radio-solar AWM-500UA-1AJR in the supplied collaboration dossier. No universal individual-letter expansion is established.",
+      "status": "unverified",
+      "source_id": "guide:combined-model-specifications-2026-11-15"
     }
   ]
 }

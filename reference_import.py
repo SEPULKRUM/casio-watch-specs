@@ -110,6 +110,9 @@ def add_supplement(library, supplement):
             if not isinstance(page, int) or not 1 <= page <= source['pages']:
                 raise ValueError('Invalid supplement page')
             observation = {'source_id': source_id, 'role': 'supplied_guide_text', 'pdf_page': page}
+            if item.get('reading_status') in {'supplied_regional_or_short_alias_not_additional_variant', 'family_label_only_not_exact_variant', 'reported_identifier_verification_incomplete'}:
+                observation['reading_scope'] = item['reading_status']
+
             if item.get('historical_context'):
                 if item.get('catalog_year') not in {1980, 1982, 1985, 1989} or not isinstance(item.get('catalog_page'), int) or item['catalog_page'] < 1:
                     raise ValueError('Invalid historical catalog locator')
