@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **192 models, 112 modules and 2,343 source-backed candidate
+The catalog now contains **195 models, 112 modules and 2,349 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 192 models and 112 module profiles.
+The bundled snapshot contains the current 195 models and 112 module profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -868,3 +868,20 @@ material. Casio confirms the earlier Bamford collaboration line, but the exact
 BWD20 suffix remains queued for further primary research. Proposed PRDB/regional
 references and GW-M5630 sister models are retained separately, not counted as
 new physical GW-M5610 variants.
+
+## GW-5000 supplied inventory · 15 November 2026
+
+The supplied CasioPart PDF lists six base references, including original, U and
+HS generations. All six are represented in the catalog. Add GW-5000B-1 and
+GW-5000HR-1 from exact official support pages, plus the separately identified
+GW-5035A-1 anniversary model. Each addition has identity and a primary
+module-3159 manual reference only; physical specifications remain unfilled.
+All 2,343 existing fields remain unchanged.
+
+GW-T5030C-1 is retained as a related anniversary research lead: no exact official
+product/support source was retrieved in this pass. Its owner-supplied module,
+material and edition claims are preserved without importing uncertain physical
+properties or copying GW-5000 specifications. The PDF lists HR-1 as 2017, while
+a retailer records sales starting 23 September 2016; the date discrepancy is
+retained in research notes rather than selecting a release date. Hour Resister
+is an unconfirmed supplied expansion and is not introduced as a decoder rule.
