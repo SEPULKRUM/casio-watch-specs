@@ -1,8 +1,8 @@
 {
-  "models": 158,
-  "modules": 111,
+  "models": 172,
+  "modules": 112,
   "facts_by_status": {
-    "pending_review": 2124
+    "pending_review": 2294
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -12,7 +12,7 @@
     "Casio Standard": 8,
     "Casio Vintage": 3,
     "Edifice": 6,
-    "G-SHOCK": 48,
+    "G-SHOCK": 62,
     "Lineage": 17,
     "Oceanus": 22,
     "Pathfinder": 4,
@@ -154,7 +154,7 @@
     "OCW-T150-1AJF",
     "W-800H-1AV"
   ],
-  "models_with_single_module_reference": 137,
+  "models_with_single_module_reference": 151,
   "user_provided_module_references": {
     "A168WA-1W": "3298",
     "DBC-32-1A": "2888",
@@ -265,19 +265,19 @@
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 89,
-    "accuracy_seconds_per_month": 105,
-    "alarm_count": 75,
-    "calendar": 100,
+    "accuracy_condition": 90,
+    "accuracy_seconds_per_month": 106,
+    "alarm_count": 76,
+    "calendar": 101,
     "display_polarity": 2,
-    "illumination": 39,
-    "power_supply": 84,
+    "illumination": 40,
+    "power_supply": 85,
     "radio_reception": 10,
-    "snooze_alarm": 34,
+    "snooze_alarm": 35,
     "stopwatch": 47,
     "timer": 34,
-    "world_time_cities": 64,
-    "world_time_zones": 64
+    "world_time_cities": 65,
+    "world_time_zones": 65
   },
   "module_profiles_by_fact_count": {
     "1": 1,
@@ -288,7 +288,7 @@
     "6": 13,
     "7": 11,
     "8": 8,
-    "9": 3,
+    "9": 4,
     "10": 13,
     "11": 12,
     "12": 5

@@ -159,6 +159,74 @@
           "uncertainty": "Research classification; regional marketing categories may differ",
           "status": "pending_review",
           "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "d018469ee91225933f373a8dc6ee5568ea8e3edbf8c7ad59e966a9e3c9b4305b",
+              "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610U-1JF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8"
+        },
+        "release_date": {
+          "value": "2021-07-01",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610U-1JF: releaseDate=2021-07-01",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610U-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8"
         }
       },
       "legacy_record_preserved": true
@@ -4236,6 +4304,58 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "c71517baaec1205ad86a463505b7da82b89af5f809c0e02b4f8aea57a2606edc"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c69ac2cc84cb2390680e75a3b58195da7596d9db68428de5134105cd484fb6ab",
+              "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d99d12f7e736b724aab0f800ae24aacdd34b6c0f80db4977122695b373300e70"
+        },
+        "release_date": {
+          "value": "2021-07-01",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610U-1BJF: releaseDate=2021-07-01",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d99d12f7e736b724aab0f800ae24aacdd34b6c0f80db4977122695b373300e70"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610U-1BJF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d99d12f7e736b724aab0f800ae24aacdd34b6c0f80db4977122695b373300e70"
         }
       }
     },
@@ -28359,6 +28479,3016 @@
           "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
         }
       }
+    },
+    "GW-M5610-1": {
+      "id": "GW-M5610-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 51.7",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "912045b4a3e775e98475484b93ee9020c2f6ed5cb64c6c60261fd7c013688f3b",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610-1JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "release_date": {
+          "value": "2012-03-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610-1JF: releaseDate=2012-03-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+        }
+      }
+    },
+    "GW-M5610-1B": {
+      "id": "GW-M5610-1B",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 51.7",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "268f08da0ed663ff2244f80efb7e14e78ac2acbd436bc8b8d39c83e31031334b",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610-1BJF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "release_date": {
+          "value": "2012-11-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610-1BJF: releaseDate=2012-11-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610-1BJF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7d8aaf14b28252cee9456e7fee3cf279a72068d389e8fb870f1dd3b4395216c8"
+        }
+      }
+    },
+    "GW-M5610BA-1": {
+      "id": "GW-M5610BA-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 51.7",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "75ea8b7cac8ff686550233e578e73b2dbd19283314e24ef4a087e94105a26bae",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610BA-1JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "release_date": {
+          "value": "2014-05-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610BA-1JF: releaseDate=2014-05-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610BA-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "196c8d888b8cdc500168fff8f1144301afd663a6522c5e06c8e6ae925d4d9818"
+        }
+      }
+    },
+    "GW-M5610BC-1": {
+      "id": "GW-M5610BC-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "weight_g": {
+          "value": 101.3,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 101.3",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "band_material": {
+          "value": "無垢バンド コンポジットバンド（メタル／樹脂） ワンプッシュ三つ折れ式中留",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: 無垢バンド コンポジットバンド（メタル／樹脂） ワンプッシュ三つ折れ式中留",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "b68cd0dd22bf6c87ff9911ae8da796cc3bc749a5d7d40bf41dbbf1ce749137c6",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610BC-1JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "release_date": {
+          "value": "2012-03-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610BC-1JF: releaseDate=2012-03-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610BC-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0f9b6b5004264a5598621948b3a2d72832b1c8f8485195942be8406d27f49391"
+        }
+      }
+    },
+    "GW-M5610MD-7": {
+      "id": "GW-M5610MD-7",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 52.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "01a9a0b1316f2efdeaba796df236f6356c0e4d9cd0206fc46e9182f20f841e01",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610MD-7JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "release_date": {
+          "value": "2015-11-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610MD-7JF: releaseDate=2015-11-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        },
+        "color": {
+          "value": "ホワイト",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610MD-7JF: colorName=ホワイト",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "16fbfabf543ef5e3f25bde7a2f104cde98715ddba078ec1fd3e6204bc9e8f260"
+        }
+      }
+    },
+    "GW-M5610R-1": {
+      "id": "GW-M5610R-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 51.7",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "afcc60ff1d582643a5eb023f97400633499f6faf9f49b261b71c9c882514d479",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610R-1JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "release_date": {
+          "value": "2012-03-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610R-1JF: releaseDate=2012-03-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610R-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "04446d3d10389c8cd6f782a0a918ca1ad560a34dba65713b562d085cf94a3c32"
+        }
+      }
+    },
+    "GW-M5610RB-4": {
+      "id": "GW-M5610RB-4",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 52.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "2c697cf83611a1d42ddab4daba0abbe2827a8eef693182f5b1a3c5ffe5b96fc3",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610RB-4JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "release_date": {
+          "value": "2019-05-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610RB-4JF: releaseDate=2019-05-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        },
+        "color": {
+          "value": "レッド",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610RB-4JF: colorName=レッド",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7cc6294b8631515960d8c358c63f91b9b145f0445085db19543db379a4712f7c"
+        }
+      }
+    },
+    "GW-M5610U-1C": {
+      "id": "GW-M5610U-1C",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "weight_g": {
+          "value": 52.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 52.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "4ec5e85f6ac3ca49f5ce874b0e550ac42e12dafb26a2dba002e05d4209b5ba86",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610U-1CJF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "release_date": {
+          "value": "2021-10-01",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610U-1CJF: releaseDate=2021-10-01",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610U-1CJF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "b2e1d7bb7788b405de1d2e51788e8f87c31708677199bd9306411f3c12130bff"
+        }
+      }
+    },
+    "GW-M5610UBC-1": {
+      "id": "GW-M5610UBC-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "weight_g": {
+          "value": 102.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 102.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "band_material": {
+          "value": "無垢バンド コンポジットバンド（メタル／樹脂） ワンプッシュ三つ折れ式中留",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: 無垢バンド コンポジットバンド（メタル／樹脂） ワンプッシュ三つ折れ式中留",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "1d5cdd9db3afdcc9b298d5cdc35db29d8956a3b112a9b4bb5d1dd874bc08f8cc",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610UBC-1JF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "release_date": {
+          "value": "2021-07-01",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610UBC-1JF: releaseDate=2021-07-01",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610UBC-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "e35bc4932206678b6b714377e95f8dd6e6ae082f8b141e275cb1990ff54ef812"
+        }
+      }
+    },
+    "GW-5000-1": {
+      "id": "GW-5000-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "weight_g": {
+          "value": 73.8,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 73.8",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "case_material": {
+          "value": "ステンレススチール／樹脂",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: ステンレススチール／樹脂",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "c07e306b6736b577ba1770427541c341ef84c82cc78474b3619de9fb059503b6",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-5000-1JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "release_date": {
+          "value": "2009-05-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-5000-1JF: releaseDate=2009-05-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-5000-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+        }
+      }
+    },
+    "GW-5000U-1": {
+      "id": "GW-5000U-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "weight_g": {
+          "value": 74.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 74.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "case_material": {
+          "value": "ステンレススチール／樹脂",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: ステンレススチール／樹脂",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "bf3b02b9aab2cc770cadd879f58dcdd941e69ecf0f8acd99331ffcb4103fa375",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-5000U-1JF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "release_date": {
+          "value": "2021-07-01",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-5000U-1JF: releaseDate=2021-07-01",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-5000U-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+        }
+      }
+    },
+    "GW-5000HS-1": {
+      "id": "GW-5000HS-1",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "weight_g": {
+          "value": 74.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 74.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "case_material": {
+          "value": "ステンレススチール／樹脂（バイオマスプラスチック）",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: ステンレススチール／樹脂（バイオマスプラスチック）",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "band_material": {
+          "value": "樹脂バンド（バイオマスプラスチック）",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: 樹脂バンド（バイオマスプラスチック）",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "62f5672e5bdb74fbafa89a8a95598201257da55f0a4961bf1f2ac496ecac1b8e",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-5000HS-1JF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "release_date": {
+          "value": "2025-02-28",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-5000HS-1JF: releaseDate=2025-02-28",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        },
+        "color": {
+          "value": "ブラック",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-5000HS-1JF: colorName=ブラック",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6eb7d6955dd57e8c7f8107c65f8f9e983fb5d6fc530c71af1f9d32a2c461f0c4"
+        }
+      }
+    },
+    "GW-5000HS-7": {
+      "id": "GW-5000HS-7",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.5
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 48.9, 'width': 42.8, 'thickness': 13.5}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "weight_g": {
+          "value": 74.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 74.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "case_material": {
+          "value": "ステンレススチール／樹脂（バイオマスプラスチック）",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: ステンレススチール／樹脂（バイオマスプラスチック）",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "band_material": {
+          "value": "樹脂バンド（バイオマスプラスチック）",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: 樹脂バンド（バイオマスプラスチック）",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "a7955d8e49fc780dad353e7dd8e14ee0c3cfdc3072d0fd41bd0353f54bb0a8c8",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "module_id": {
+          "value": "3495",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-5000HS-7JF: moduleNumber=3495",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "release_date": {
+          "value": "2025-02-28",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-5000HS-7JF: releaseDate=2025-02-28",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        },
+        "color": {
+          "value": "ホワイト",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-5000HS-7JF: colorName=ホワイト",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56abf54182ce6c2c659e1112d9bd5d4c4dd643b178d2b377e8c717c5bc351595"
+        }
+      }
+    },
+    "GW-M5610NV-2": {
+      "id": "GW-M5610NV-2",
+      "specs": {
+        "dimensions_mm": {
+          "value": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケースサイズ（縦×横×厚さ）",
+              "evidence": "Product specification ケースサイズ（縦×横×厚さ）: {'length': 46.7, 'width': 43.2, 'thickness': 12.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "weight_g": {
+          "value": 51.7,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 質量",
+              "evidence": "Product specification 質量: 51.7",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ケース・ベゼル材質",
+              "evidence": "Product specification ケース・ベゼル材質: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "band_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / バンド",
+              "evidence": "Product specification バンド: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / ガラス",
+              "evidence": "Product specification ガラス: Mineral glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "water_resistance_rating": {
+          "value": "20気圧防水",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "water_resistance_bar": {
+          "value": 20,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / 防水性",
+              "evidence": "Product specification 防水性: 20気圧防水",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja",
+              "research_sha256": "ba539e3e2841e0bef2958ca22ed4d36831be588d41de50f941a4e01b5fab06f2",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "series": {
+          "value": "G-SHOCK",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as G-SHOCK",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "jp",
+              "language": "ja"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "module_id": {
+          "value": "3159",
+          "uncertainty": "Exact-model official product metadata; independent review pending. Historical production revisions may differ.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / moduleNumber and manual selector",
+              "evidence": "GW-M5610NV-2JF: moduleNumber=3159",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "release_date": {
+          "value": "2012-10-20",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / releaseDate",
+              "evidence": "GW-M5610NV-2JF: releaseDate=2012-10-20",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        },
+        "color": {
+          "value": "ブルー",
+          "uncertainty": "Exact-model Japanese-market official product metadata; independent review pending.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+              "accessed": "2026-11-15",
+              "locator": "Exact product metadata / colorName",
+              "evidence": "GW-M5610NV-2JF: colorName=ブルー",
+              "permission": "official_public_reference",
+              "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "bbe567a2c70196a17cd450466ea2447b16097fc991e9764353075a608e54dda2"
+        }
+      }
     }
   },
   "modules": {
@@ -44049,6 +47179,168 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        }
+      }
+    },
+    "3159": {
+      "id": "3159",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature, without time calibration signal",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: accuracy_condition = At normal temperature, without time calibration signal",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "power_supply": {
+          "value": "Solar cell and one rechargeable battery",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: power_supply = Solar cell and one rechargeable battery",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "illumination": {
+          "value": "Electroluminescent panel; full-auto light",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: illumination = Electroluminescent panel; full-auto light",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 6 / Specifications",
+              "evidence": "Module 3159: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific specification",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5aa39e55f75407cb2dd3f9c4a1fdb96f1dfa21ef4ad9f924d6c8af345243e32a"
         }
       }
     }

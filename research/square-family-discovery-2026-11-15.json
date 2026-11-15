@@ -1,0 +1,242 @@
+{
+  "accessed": "2026-11-15",
+  "complete": false,
+  "scope": "First official-source discovery pass, not an exhaustive all-variants claim",
+  "casiopart": {
+    "url": "https://www.casiopart.com/",
+    "status": "http_403",
+    "robots_status": "http_403",
+    "use": "Variant/image discovery only; no specifications or image reuse assumed"
+  },
+  "models": [
+    {
+      "model": "GW-M5610-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610-1JF",
+      "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610-1/assets/GW-M5610-1_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610-1B",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610-1BJF",
+      "snapshot_sha256": "f1dd864bfa094a17ff70e4f49503713387d95ad3069c3efce28b04927b17f95e",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610-1B/assets/GW-M5610-1B_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610B-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610B-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610BA-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BA-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610BA-1JF",
+      "snapshot_sha256": "e9028e05a3c01e30b00c99e0c246986a0205e1c45f83d5cfc66c502448330505",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610BA-1/assets/GW-M5610BA-1_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610BB-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BB-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610BC-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610BC-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610BC-1JF",
+      "snapshot_sha256": "6f73da90c220b23a8c74c444bfe7e7d19f9d66b7e877cff9ef37329c73f6d1ff",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610BC-1/assets/GW-M5610BC-1_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610MD-2",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-2/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610MD-7",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610MD-7JF",
+      "snapshot_sha256": "193031859fe5e0f0327bd95f395dee3de0d7239219442a72e8a1304816102ee8",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610MD-7/assets/GW-M5610MD-7_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610MD-9",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-9/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610MR-4",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MR-4/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610R-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610R-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610R-1JF",
+      "snapshot_sha256": "50391911f01b5797fb3eafb11907924276cffb4995269ac4f55278ae38655728",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610R-1/assets/GW-M5610R-1_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610RB-4",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610RB-4/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610RB-4JF",
+      "snapshot_sha256": "2a2cda05d6cdcd4fdec528f638ef1b92a504b00952dccb9365363426ea06b0a3",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610RB-4/assets/GW-M5610RB-4_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610SD-8",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610SD-8/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610TH-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610TH-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610U-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610U-1JF",
+      "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/gw-m5610u-1/assets/GW-M5610U-1.png",
+      "family_priority": 2
+    },
+    {
+      "model": "GW-M5610U-1B",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610U-1BJF",
+      "snapshot_sha256": "518806799e8444d72ed2ed603f6b336304fde0a9b7138000cfbfbc7eee29b5d3",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/gw-m5610u-1b/assets/GW-M5610U-1B.png",
+      "family_priority": 2
+    },
+    {
+      "model": "GW-M5610U-1C",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610U-1CJF",
+      "snapshot_sha256": "0cc236e13d30184fbc521170352e18e234b4055a97fa5c47a3981d0c91ff2c05",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/gw-m5610u-1c/assets/GW-M5610U-1C.png",
+      "family_priority": 2
+    },
+    {
+      "model": "GW-M5610UBC-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610UBC-1JF",
+      "snapshot_sha256": "c6b981eae78d6bf00e914c44eebb306c90f89c723df82c0fe2d9d6866b3d9c8b",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/gw-m5610ubc-1/assets/GW-M5610UBC-1.png",
+      "family_priority": 2
+    },
+    {
+      "model": "GW-5000-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-5000-1JF",
+      "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GW5/GW-5000-1/assets/GW-5000-1_Seq1.png",
+      "family_priority": 3
+    },
+    {
+      "model": "GW-5000B-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000B-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 3
+    },
+    {
+      "model": "GW-5000HR-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HR-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 3
+    },
+    {
+      "model": "GW-5000U-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-5000U-1JF",
+      "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GW5/gw-5000u-1/assets/GW-5000U-1.png",
+      "family_priority": 4
+    },
+    {
+      "model": "GW-5000HS-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-1/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-5000HS-1JF",
+      "snapshot_sha256": "012f0bb25d5302628673850351609c79a07099f6bc8fb9dac11eaa12fd7f1094",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GW5/gw-5000hs-1/assets/GW-5000HS-1.png",
+      "family_priority": 5
+    },
+    {
+      "model": "GW-5000HS-7",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000HS-7/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-5000HS-7JF",
+      "snapshot_sha256": "c762b0a41a225489c687ee18bcee78e81ed4c6ce32fd2b8642d9450c9c0ae28d",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GW5/gw-5000hs-7/assets/GW-5000HS-7.png",
+      "family_priority": 5
+    },
+    {
+      "model": "GW-M5610CC-2",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610CC-2/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610CC-3",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610CC-3/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610NV-2",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610NV-2/",
+      "status": "specifications_extracted",
+      "displayed_model": "GW-M5610NV-2JF",
+      "snapshot_sha256": "c670bac4cc84f4ae1a92e974d29d169165b1ee049870ce6497acc316994ee967",
+      "image_reference": "https://www.casio.com/content/dam/casio/product-info/locales/jp/ja/timepiece/product/watch/G/GW/GWM/GW-M5610NV-2/assets/GW-M5610NV-2_Seq1.png",
+      "family_priority": 1
+    },
+    {
+      "model": "GW-M5610PC-1",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610PC-1/",
+      "status": "http_error",
+      "http_status": 404,
+      "family_priority": 1
+    }
+  ],
+  "next_action": "Resolve unavailable original GW-M5610 variants through exact-model official support, historical catalogs and archived official pages before declaring the family complete."
+}

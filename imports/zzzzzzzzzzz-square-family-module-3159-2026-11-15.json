@@ -1,0 +1,147 @@
+[
+  {
+    "kind": "module",
+    "id": "3159",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature, without time calibration signal",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: accuracy_condition = At normal temperature, without time calibration signal",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: snooze_alarm = True",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": "Solar cell and one rechargeable battery",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: power_supply = Solar cell and one rechargeable battery",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "illumination": {
+        "value": "Electroluminescent panel; full-auto light",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: illumination = Electroluminescent panel; full-auto light",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/31/3159/qw3159_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 6 / Specifications",
+            "evidence": "Module 3159: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific specification",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]
