@@ -1,0 +1,287 @@
+{
+  "type": "owner_supplied_variant_claims",
+  "received": "2026-11-15",
+  "provided_by": "SEPULKRUM",
+  "scope": "Attributed supplied descriptions and module claims, not independent verification. Regional suffix associations are proposals unless separately sourced. Do not infer image rights, specifications or display polarity from the parts inventory.",
+  "claims": [
+    {
+      "model": "GW-M5610-1",
+      "description": "Standard black resin; positive LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [
+        "GW-M5610-1ER",
+        "GW-M5610-1JF"
+      ],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610-1B",
+      "description": "Standard black resin; negative LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610B-1",
+      "description": "All-black; negative LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BC-1",
+      "description": "Black composite metal-resin bracelet; negative LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [
+        "GW-M5610BC-1JF"
+      ],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BA-1",
+      "description": "Black and blue accents; inverted LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BB-1",
+      "description": "Stealth black Solid Colors; negative LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BW-7",
+      "description": "Black and white patterned/camo-style accents",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BWD20-1",
+      "description": "Special collaboration edition",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610BY-1",
+      "description": "Black with yellow-gold dial accents",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610CC-2",
+      "description": "Blue Urban Navy / City Camo",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610CC-3",
+      "description": "Green Urban Navy / City Camo",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610EW-4",
+      "description": "Red accents",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610K-1",
+      "description": "ICERC Love the Sea and the Earth dolphin-whale collaboration",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610KG-3",
+      "description": "Military matte khaki green; negative LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610LG-8",
+      "description": "Light grey/slate Lighter Gray",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610LY-1",
+      "description": "Lime green accents",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610MD-2",
+      "description": "Navy blue Men in Navy",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610MD-7",
+      "description": "Off-white/cream Men in Navy / Rescue",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610MD-9",
+      "description": "Yellow Men in Yellow style",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610MR-4",
+      "description": "Orange/red military rescue theme",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610MW-7",
+      "description": "Glossy Monotone White",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610NV-2",
+      "description": "Navy case/band with orange/white text accents; Navy Blue",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610PC-1",
+      "description": "Polychromatic/gradient blue-purple face border",
+      "claimed_module": "3159",
+      "proposed_aliases": [
+        "GW-M5610PC-1PRDB"
+      ],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610R-1",
+      "description": "Black with orange/amber face accents; positive LCD",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610RB-4",
+      "description": "Red bezel; black resin band",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610SD-8",
+      "description": "Desert sand / grey beige",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610TH-1",
+      "description": "Time Traveler 90s retro aesthetic",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610TR-7",
+      "description": "Silver/titanium-style accents",
+      "claimed_module": "3159",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610U-1",
+      "description": "Updated standard black; positive LCD",
+      "claimed_module": "3495",
+      "proposed_aliases": [
+        "GW-M5610U-1ER",
+        "GW-M5610U-1JF"
+      ],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610U-1B",
+      "description": "Updated black; negative LCD",
+      "claimed_module": "3495",
+      "proposed_aliases": [
+        "GW-M5610U-1BER"
+      ],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610U-1C",
+      "description": "Black with blue dial-border accent",
+      "claimed_module": "3495",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610U-2",
+      "description": "Blue-gray with inverted LCD and red accent line",
+      "claimed_module": "3495",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    },
+    {
+      "model": "GW-M5610UBC-1",
+      "description": "Updated black composite bracelet",
+      "claimed_module": "3495",
+      "proposed_aliases": [],
+      "status": "needs_model_specific_reconciliation"
+    }
+  ],
+  "sister_models": {
+    "models": [
+      "GW-M5630A-4",
+      "GW-M5630D-1",
+      "GW-M5630E-9"
+    ],
+    "claim": "30th-anniversary sister series sharing module lineage and square architecture",
+    "status": "separate family research queue; not merged into GW-M5610 inventory"
+  },
+  "reconciliation": [
+    {
+      "model": "GW-M5610TH-1",
+      "status": "description_corrected_by_primary_partner_source",
+      "supplied_description": "Time Traveler 90s retro aesthetic",
+      "finding": "The Hundreds collaboration, with travel theme; no sourced Time Traveler series name",
+      "source_url": "https://thehundreds.com/blogs/bobby-hundreds/the-hundreds-x-casio-g-shock"
+    },
+    {
+      "model": "GW-M5610MD-7",
+      "status": "official_description_differs",
+      "finding": "Casio describes a white street-fashion model with a 1990s aesthetic; Men in Navy / Rescue naming not adopted",
+      "source_url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610MD-7/"
+    },
+    {
+      "model": "GW-M5610TR-7",
+      "status": "series_description_needs_primary_confirmation",
+      "finding": "Secondary sources identify White Tricolor; do not infer titanium construction from TR or the supplied titanium-style wording",
+      "lead_url": "https://www.shoppinginjapan.net/g-shock-gw-m5610tr-7jf-white-tricolor-series/"
+    },
+    {
+      "model": "GW-M5610BWD20-1",
+      "status": "collaboration_line_confirmed_exact_suffix_pending",
+      "finding": "Casio identifies GW-M5610BWD20 as the original Bamford collaboration; newer DW-6900BWD-1 technical specifications on that article do not apply to it",
+      "source_url": "https://www.casio.com/fr/corporate/casio-corporate/news/2022/0721/"
+    }
+  ]
+}

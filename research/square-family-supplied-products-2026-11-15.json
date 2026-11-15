@@ -1,0 +1,36 @@
+{
+  "accessed": "2026-11-15",
+  "method": "Exact-model official Japanese product pages. Displayed JF/JR market suffix retained in discovery report; base product identity must match heading before extraction. No specifications inferred between variants.",
+  "products": [
+    {
+      "id": "GW-M5610U-2",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+      "fields": {
+        "ケースサイズ（縦×横×厚さ）": "46.7 × 43.2 × 12.7 mm",
+        "質量": "52 g",
+        "ケース・ベゼル材質": "Resin",
+        "バンド": "樹脂バンド",
+        "防水性": "20気圧防水",
+        "ガラス": "Mineral glass"
+      },
+      "snapshot_sha256": "2102c1c4a10051571e9e3ab3ae427b148e9482ee0999b9882042f93a79da40a9",
+      "displayed_model": "GW-M5610U-2JF",
+      "metadata": {
+        "sku": "GW-M5610U-2JF",
+        "moduleNumber": "3495",
+        "releaseDate": "2021-10-01",
+        "colorName": "ブルー",
+        "isEndOfProduction": false
+      },
+      "raw_fields": {
+        "ケースサイズ（縦×横×厚さ）": "46.7 × 43.2 × 12.7 mm",
+        "質量": "52 g",
+        "ケース・ベゼル材質": "樹脂",
+        "バンド": "樹脂バンド",
+        "防水性": "20気圧防水",
+        "ガラス": "無機ガラス"
+      }
+    }
+  ]
+}
