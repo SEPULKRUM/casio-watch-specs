@@ -1,0 +1,24 @@
+{
+  "source": "Owner-supplied casio_multi_line_model_reference_guide-v2.txt",
+  "sha256": "45f9ebe6bca043cd2566b775f8dc6fcbeafd3f3fab819c6fd9f07166b4d55247",
+  "reviewed": "2026-11-15",
+  "sections": [
+    "Code structure and four worked examples",
+    "Wave Ceptor",
+    "Lineage",
+    "BABY-G",
+    "Classic",
+    "AE / AEQ",
+    "MDV / Duro",
+    "MTP / LTP subseries and Arabic edition",
+    "CMK100",
+    "All material / edition, colour and market codes"
+  ],
+  "implementation": "web/guide-interpretations.mjs, decoder contexts and browsable full reference",
+  "gwn_in_source": false,
+  "notes": [
+    "Content matches earlier v3 PDF; all selected interpretations now also accessible without an exact-model query.",
+    "Guide tendencies remain secondary / community interpretations, with exact-model checks required.",
+    "GWN family context supplemented separately from the Casio GULFMASTER page; no invented acronym expansion."
+  ]
+}

@@ -163,3 +163,17 @@ test('M in GW-M5600 and GW-M5610 means Multi-Band within those square lines',()=
  assert.match(decodeModel('GMW-B5000').segments[0].communityMeaning.meaning,/Metal/);
  assert.match(decodeModel('GW-B5600').segments.find(s=>s.token==='B').description,/Bluetooth/);
 });
+
+test('supplied text interpretations are all browsable without a model lookup',async()=>{
+ const {guideReferenceSections,guideModifiers,guideColours,guideMarkets}=await import('../web/guide-interpretations.mjs');
+ const sections=guideReferenceSections(),text=sections.flatMap(s=>s.items).join('\n');
+ for(const family of ['WV','WVA','WVQ','LCW','LIW','LIN','BG','BGA','BGD','BGS','BLX','MSG','F','A','W','LA','CA','DB','DBC','MQ','LQ','AE','AEQ','MTP','LTP'])assert.ok(text.includes(family+': '),family);
+ for(const term of ['LCW-M100TSE-1AJF','MDV-106B-2AV','MTP-E735AR-2A2V','CMK-100TCC-8AER','CR2025','SR920SW','21,600','120-click','6 o’clock','V00x','S1xx'])assert.ok(text.includes(term),term);
+ for(const [token,meaning] of Object.entries(guideModifiers))assert.ok(text.includes(token+': '+meaning));
+ for(const [token,meaning] of Object.entries(guideColours))assert.ok(text.includes(token+': '+meaning));
+ for(const [token,meaning] of Object.entries(guideMarkets))assert.ok(text.includes(token+': '+meaning));
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="guide-reference"'));assert.ok(html.includes('There might be errors within the prefixes.'));assert.ok(html.includes('https://www.instagram.com/master_tinkerer_sommelier?'));assert.ok(html.includes('contact me on Instagram'));
+});
+test('GWN keeps a whole family prefix with separately sourced marine context',()=>{
+ for(const input of ['GWN','GWN1000','GWN-1000']){const r=decodeModel(input),prefix=r.segments[0];assert.equal(prefix.token,'GWN');assert.match(prefix.description,/marine-oriented/);assert.match(prefix.description,/neither supplied guide defines/);assert.equal(prefix.status,'official_observed');assert.ok(prefix.source.startsWith('https://gshock.casio.com/'));}
+});

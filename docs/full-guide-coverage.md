@@ -22,3 +22,9 @@ Important scope limits:
 - Family numbers, colour codes and source references do not establish movement modules. The verified specification catalog is unchanged by these interpretation rules.
 
 Additional owner-requested rule: D in GWF-D1000 is presented as a community depth / diving-sensor association, separately from the guide's bracelet-D reading.
+
+## Supplied text guide v2 follow-up
+
+The supplied v2 text was compared section by section with the v3 PDF interpretations. All guide sections, examples, modifiers, colour digits, market suffixes and model-specific notes are also available under **All supplied guide interpretations**, without needing to know a model to search. Provenance is recorded in `research/guide-v2-text-review-2026-11-15.json`. The raw source file is not distributed.
+
+The text does not contain GWN. Its result now adds separately sourced GULFMASTER marine-family context from [Casio](https://gshock.casio.com/europe/products/gulfmaster/gwn-1000/), while retaining the grouped prefix and explicitly identifying the lack of an established letter-by-letter definition.
