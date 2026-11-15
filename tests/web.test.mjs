@@ -130,3 +130,25 @@ test('supplied guide family explanations remain scoped community readings rather
  for(const prefix of ['WV','WVA','WVQ','LCW','LIW','LIN','BG','BGA','BGD','BGS','BLX','MSG','F','A','W','LA','CA','DB','DBC','MQ','LQ','AE','AEQ','MDV','MTD','MRW','MTP','LTP','CMK']){const meaning=prefixMeaning(prefix);assert.ok(meaning,prefix);assert.equal(meaning.status,'community_interpretation');assert.match(meaning.note,/not an official universal/);assert.ok(meaning.source.endsWith('guide-v3-2026-11-15.json'))}
  assert.equal(prefixMeaning('NOTKNOWN'),null);assert.equal(decodeModel('GMW-15-1V',data,refs).segments[0].communityMeaning,null);assert.match(decodeModel('GW-M5610U-1').segments[3].description,/Updated/);assert.deepEqual(decodeModel('GW-B5600BC-1BER').segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);
 });
+
+
+test('guide examples separate configuration, colour and export segments',()=>{
+ for(const [input,tokens] of [
+ ['LCW-M100TSE-1AJF',['LCW','M','100','T','SE','1','A','JF']],
+ ['MDV-106B-2AV',['MDV','106','B','2','A','V']],
+ ['MTP-E735AR-2A2V',['MTP','E','735','AR','2','A2','V']],
+ ['CMK-100TCC-8AER',['CMK','100','T','C','C','8','A','ER']]]){
+ const r=decodeModel(input);assert.deepEqual(r.segments.map(s=>s.token),tokens);assert.ok(r.guideNotes.length);assert.ok(r.guideNotes.every(n=>n.page>=1&&n.page<=5));
+ }
+ const c=decodeModel('CMK-100TCC-8AER').segments.filter(s=>s.token==='C');assert.match(c[0].description,/Cloth/);assert.match(c[1].description,/ion-plated/);
+ assert.match(decodeModel('MTP-E735AR-2A2V').guideNotes.map(n=>n.text).join(' '),/Ice blue/);
+});
+test('guide regions and material meanings remain contextual',()=>{
+ for(const suffix of ['JF','J','CR','ER','V','VER','DR','DF'])assert.equal(decodeModel('MDV-106B-2A'+suffix).segments.at(-1).token,suffix);
+ assert.match(decodeModel('GWF-D1000BC').segments.find(s=>s.type==='modifier').description,/depth/);
+ assert.equal(decodeModel('AE-1200WH').segments[0].token,'AE');
+ assert.ok(!decodeModel('GW-M5610U').segments.some(s=>s.description.includes('titanium')));
+});
+test('branding and disclaimer match the requested sample',()=>{
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(!html.includes('CASIO REPAIR'));assert.ok(html.includes('Unofficial project · Not affiliated with or endorsed by Casio Computer Co., Ltd.'));assert.ok(html.includes('REPAIR · MODS · COLLECTING'));
+});
