@@ -29,6 +29,7 @@ export function decodeModel(input,data=null,references=null){
  const communityPrefixMeaning=historicalReference?null:prefixMeaning(prefix);
  const segments=[{type:'prefix',token:prefix,communityMeaning:communityPrefixMeaning,title:'Model family',description:family[2],source:family[4]?.source||referenceUrl,status:family[4]?.status||'Established family reference'}];
  if(prefix==='DW'){segments[0].description='DW is commonly read by the watch community as Digital Water Resistant. It is used on G-SHOCK and non-G-SHOCK Casio watches. Check the exact model’s water-resistance rating; the prefix alone does not establish 200 m / 20 bar.';segments[0].status='community_interpretation';segments[0].source=ruleSources.dw291;}
+ if(prefix==='GWN')Object.assign(segments[0],{description:'GULFMASTER — the marine-oriented G-SHOCK family. Casio describes GWN-1000 with Triple Sensor Version 3 and Smart Access. GWN remains a complete family code here: neither supplied guide defines its individual letters, and no official letter-by-letter expansion is established by the cited page.',status:'official_observed',source:'https://gshock.casio.com/europe/products/gulfmaster/gwn-1000/'});
  if(key===prefix)return applyGuide({recognized:true,prefix,family:family[0],normalized,segments,exact,references:matches,historicalReference,prefixOnly:true},{modifier:'',number:'',seriesTail:'',tail:''});
  // Known lines are normalized above; other compact inputs do not receive invented variant boundaries.
  const split=body.split('-'),main=split.shift()||'',tail=split.join('-');
