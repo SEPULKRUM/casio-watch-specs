@@ -2,7 +2,7 @@
   "models": 195,
   "modules": 113,
   "facts_by_status": {
-    "pending_review": 2376
+    "pending_review": 2399
   },
   "models_by_series": {
     "Baby-G": 7,
@@ -189,14 +189,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "GW-M5610MR-4": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "GW-M5610MW-7": [
       "dimensions_mm",
       "weight_g",
@@ -205,23 +197,7 @@
       "glass",
       "water_resistance_rating"
     ],
-    "GW-M5610PC-1": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "GW-M5610SD-8": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "GW-M5610TH-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",

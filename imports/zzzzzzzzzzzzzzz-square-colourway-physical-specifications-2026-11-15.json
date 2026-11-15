@@ -1,0 +1,469 @@
+[
+  {
+    "kind": "model",
+    "id": "GW-M5610MR-4",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Dimensions / H \u00d7 W \u00d7 D; mm; approximate",
+            "evidence": "GW-M5610MR-4ER: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 52,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Weight / approximate; g",
+            "evidence": "GW-M5610MR-4ER: weight_g = 52"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin case (case only; bezel not separately specified)",
+            "evidence": "GW-M5610MR-4ER: case_material = Resin"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin band",
+            "evidence": "GW-M5610MR-4ER: band_material = Resin"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral glass",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Mineral glass",
+            "evidence": "GW-M5610MR-4ER: glass = Mineral glass"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "20 bar / 200 metres",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610MR-4ER: water_resistance_rating = 20 bar / 200 metres"
+          }
+        ]
+      },
+      "water_resistance_bar": {
+        "value": 20,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610MR-4ER: water_resistance_bar = 20"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20150814184426/http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "original_url": "http://www.casio-europe.com/euro/watch/gshock/gw-m5610mr-4er/",
+            "archive_timestamp": "20150814184426",
+            "snapshot_sha256": "368c512e7ee921efd7b2fe9becabf3219c59e607c253d38237f1dae31fdf4504",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610MR-4ER",
+            "scope_note": "Exact European GW-M5610MR-4ER listing under existing base variant GW-M5610MR-4. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification; pressure-test rating, not diving depth",
+            "evidence": "GW-M5610MR-4ER: water_resistance_m = 200"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610TH-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Dimensions / H \u00d7 W \u00d7 D; mm; approximate",
+            "evidence": "GW-M5610TH-1ER: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 51.7,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Weight / approximate; g",
+            "evidence": "GW-M5610TH-1ER: weight_g = 51.7"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin case (case only; bezel not separately specified)",
+            "evidence": "GW-M5610TH-1ER: case_material = Resin"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin band",
+            "evidence": "GW-M5610TH-1ER: band_material = Resin"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral glass",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Mineral glass",
+            "evidence": "GW-M5610TH-1ER: glass = Mineral glass"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "20 bar / 200 metres",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610TH-1ER: water_resistance_rating = 20 bar / 200 metres"
+          }
+        ]
+      },
+      "water_resistance_bar": {
+        "value": 20,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610TH-1ER: water_resistance_bar = 20"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20130122051915/http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "original_url": "http://www.casio-europe.com:80/euro/watch/gshock/gw-m5610th-1er/",
+            "archive_timestamp": "20130122051915",
+            "snapshot_sha256": "04ca4260018558ee07cbf031c6b4dd2f301bd7563aa798268f21cf169ff56603",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610TH-1ER",
+            "scope_note": "Exact European GW-M5610TH-1ER listing under existing base variant GW-M5610TH-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification; pressure-test rating, not diving depth",
+            "evidence": "GW-M5610TH-1ER: water_resistance_m = 200"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610PC-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.7,
+          "width": 43.2,
+          "thickness": 12.7
+        },
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Dimensions / H \u00d7 W \u00d7 D; mm",
+            "evidence": "GW-M5610PC-1ER: dimensions_mm = {'length': 46.7, 'width': 43.2, 'thickness': 12.7}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 52,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Weight / approximate; g",
+            "evidence": "GW-M5610PC-1ER: weight_g = 52"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin case (case only; bezel not separately specified)",
+            "evidence": "GW-M5610PC-1ER: case_material = Resin"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Resin band",
+            "evidence": "GW-M5610PC-1ER: band_material = Resin"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral glass",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Mineral glass",
+            "evidence": "GW-M5610PC-1ER: glass = Mineral glass"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "20 bar",
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610PC-1ER: water_resistance_rating = 20 bar"
+          }
+        ]
+      },
+      "water_resistance_bar": {
+        "value": 20,
+        "uncertainty": "Archived official European-market specification; independent review pending. Weight is approximate as listed.",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20180717234437/https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "original_url": "https://www.casio-europe.com/euro/products/watches/g-shock/gw-m5610pc-1er/",
+            "archive_timestamp": "20180717234437",
+            "snapshot_sha256": "7b7f450f29e435022bffb12383ec56abdad501f5b188bcabe2df2a8751bd6d1d",
+            "accessed": "2026-11-15",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "displayed_model": "GW-M5610PC-1ER",
+            "scope_note": "Exact European GW-M5610PC-1ER listing under existing base variant GW-M5610PC-1. ER market suffix is retained; no assertion that all regional or production versions are identical.",
+            "locator": "Technical specifications / Water resistance classification",
+            "evidence": "GW-M5610PC-1ER: water_resistance_bar = 20"
+          }
+        ]
+      }
+    }
+  }
+]
