@@ -1054,3 +1054,28 @@ stylesheet and every module import, preventing an older cached decoder from
 surviving an updated application entrypoint. The live Site is refreshed with the
 merged research/decoder updates and this correction; source-image exclusions and
 owner-private access are preserved. Specification and reference counts are unchanged.
+
+## Multi-line reference guide v3 · 15 November 2026
+
+The newly supplied five-page guide adds **79 model/series strings** and eight
+prefix associations: **WVQ, LIN, BGS, AEQ, MDV, MTD, MRW and CMK**. The library now
+contains **2,404 research references and 137 prefix patterns**. Guide-derived
+references remain unverified candidates; source filenames, checksums and PDF
+pages are retained. Battery codes, transmitter names and isolated series
+fragments are excluded. Three explicit MTP-E735AR shorthand colourways are
+expanded under their printed model heading and labelled accordingly.
+
+Casio's 29 October 2026 announcement independently confirms the CMK-100 automatic
+line; it does not establish an official C/M/K acronym. Exact MTP-E735AR-2A2V
+physical figures agree with the current official product listing. MDV-10-1A1V's
+50 m listing prevents treating the guide's MDV-106/107 200 m description as a
+universal MDV rating. General AE traits, material/strap expansions and M/SE
+interpretations remain model-dependent research claims. Existing B, BC and U
+rules are preserved.
+
+No new specification-catalog records or facts are imported. The catalog stays at
+195 models, 113 module profiles and 2,496 fields. Only identifiers, page pointers
+and selected technical comparisons are published; no PDF, full text or images.
+See [guide-v3 review](research/guide-v3-review-2026-11-15.json). Supplementary
+reference manifests under `research/reference-supplements/` are included when
+rebuilding the identifier library.

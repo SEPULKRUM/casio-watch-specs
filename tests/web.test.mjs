@@ -47,7 +47,7 @@ const {validateReferences,findReferences,exactReferences,referenceStatus}=await 
 const refs=validateReferences(JSON.parse(fs.readFileSync(new URL('../data/model-references.json',import.meta.url))));
 test('expanded prefix library recognizes extracted families without inventing expansions',()=>{
  for(const prefix of ['CFX','TC','TGW','DGW','AWG','GPW','IRW','PRX','SPF','LP','MQW','PRJ']){const result=decodeModel(prefix,data,refs);assert.equal(result.prefix,prefix);assert.equal(result.prefixOnly,true);assert.match(result.segments[0].status,/secondary_reported|unverified/)}
- assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,129);
+ assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,137);
 });
 const {entries:entriesForReferenceTest}=await import('../web/decoder.mjs');
 test('research identifiers remain separate from catalog models and candidates stay labelled',()=>{
@@ -119,4 +119,10 @@ test('original and updated 5610 BC suffixes retain separate U and avoid global U
  for(const input of ['GW-M5610BC-1','gwm5610bc1'])assert.deepEqual(decodeModel(input,data,refs).segments.map(s=>s.token),['GW','M','5610','BC','1']);
  for(const input of ['GW-M5610UBC-1','gwm5610ubc1']){const r=decodeModel(input,data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GW','M','5610','U','BC','1']);assert.match(r.segments[3].description,/Updated/)}
  assert.deepEqual(decodeModel('GW-M9999U').segments.map(s=>s.token),['GW','M','9999U']);
+});
+
+test('multi-line guide adds qualified prefix associations and references without catalog inflation',()=>{
+ for(const prefix of ['CMK','MDV','AEQ','WVQ','LIN','BGS','MTD','MRW'])assert.equal(decodeModel(prefix,data,refs).prefix,prefix);
+ assert.equal(decodeModel('CMK',data,refs).family,'CASIO AUTOMATIC');assert.equal(decodeModel('CMK',data,refs).segments[0].status,'official_observed');assert.match(decodeModel('MDV',data,refs).segments[0].description,/do not infer 200 m/);
+ const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,195);
 });

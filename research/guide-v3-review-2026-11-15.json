@@ -1,0 +1,83 @@
+{
+  "accessed": "2026-11-15",
+  "scope": "Five-page user-supplied secondary guide. Model references are indexed, not imported as verified specification records. No guide prose or PDF is republished.",
+  "extraction": {
+    "added_model_series_strings": 79,
+    "added_prefix_patterns": [
+      "WVQ",
+      "LIN",
+      "BGS",
+      "AEQ",
+      "MDV",
+      "MTD",
+      "MRW",
+      "CMK"
+    ],
+    "library_model_strings": 2404,
+    "prefix_patterns": 137,
+    "expanded_shorthand": [
+      "MTP-E735AR-2A1V",
+      "MTP-E735AR-2A3V",
+      "MTP-E735AR-7AV"
+    ],
+    "excluded_fragments": [
+      "E735",
+      "M100",
+      "DCF77",
+      "MB6",
+      "CR2025",
+      "CR2032",
+      "SR920SW",
+      "V007"
+    ]
+  },
+  "primary_checks": [
+    {
+      "model": "CMK-100",
+      "url": "https://www.casio.com/intl/news/2026/1029-CMK-100/",
+      "snapshot_sha256": "e08cd86166c711a740a7c4634bac4b46dc1a83c7bb196254d1065c625ba11eb3",
+      "evidence_class": "official_observed",
+      "use": "Selected identity/feature comparison only; no specification catalog import",
+      "confirmed_observation": "Casio announced the CMK-100 automatic mechanical line on 2026-10-29; prefix-family association only, not an official acronym expansion"
+    },
+    {
+      "model": "MTP-E735AR-2A2V",
+      "url": "https://www.casio.com/intl/watches/casio/product.MTP-E735AR-2A2V/",
+      "snapshot_sha256": "3a1725f0f9966621786948d4b9d10368d0b3bd2bff4ec27c16acc0c8bae872dd",
+      "evidence_class": "official_observed",
+      "use": "Selected identity/feature comparison only; no specification catalog import",
+      "selected_product_fields": {
+        "Case size (L× W× H)": "44.5 × 37.5 × 8.4 mm",
+        "Weight": "89 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band Adjustable Clasp",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    },
+    {
+      "model": "MDV-10-1A1V",
+      "url": "https://www.casio.com/intl/watches/casio/product.MDV-10-1A1V/",
+      "snapshot_sha256": "99c83b019b20cc30e99164d497cc4f6fdc7ade925325b53f735b6408878cb11d",
+      "evidence_class": "official_observed",
+      "use": "Selected identity/feature comparison only; no specification catalog import",
+      "selected_product_fields": {
+        "Case size (L× W× H)": "42 × 38.5 × 10.4 mm",
+        "Weight": "58 g",
+        "Case and bezel material": "Stainless steel / Aluminum",
+        "Band": "Bio-based resin band",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Mineral Glass"
+      }
+    }
+  ],
+  "qualifications": [
+    "CMK is a real 2026 automatic line; no explicit expansion of C/M/K is proved",
+    "MTP-E735AR-2A2V physical figures agree with the cited exact product page; no broad MTP-series specification inheritance",
+    "MDV-10-1A1V is 50 m, so do not turn the guide’s MDV-106/107 200 m description into a universal MDV-prefix rating",
+    "Do not treat generic AE descriptions as a guarantee of every model’s battery, world-time, water-resistance or alarm specification",
+    "M as Multi-Band/Tough Solar and SE as Sapphire/Slim remain guide interpretations, not verified universal letter definitions",
+    "Material and strap modifiers, AR and market suffixes need exact model/position evidence; existing B/BC/U rules are not overwritten",
+    "A dive-style description is not evidence of ISO diver certification"
+  ]
+}

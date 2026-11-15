@@ -76,7 +76,8 @@ function renderReferenceMatches(query){
    const source=references.sources[observation.source_id];
    const text=source.filename+(observation.pdf_page?` · PDF page ${observation.pdf_page}`:'')+(observation.compilation_page?` · compilation page ${observation.compilation_page}`:'')+(observation.line?` · line ${observation.line}`:'');
    item.append(el('p',text,'source-location'));
-   if(source.availability.startsWith('received_zip_research_note'))item.append(el('small','Supplied research note only; not primary model verification.'));
+   if(source.availability==='received_secondary_guide')item.append(el('small','Supplied reference guide; model features and letter meanings need independent verification.'));
+   else if(source.availability.startsWith('received_zip_research_note'))item.append(el('small','Supplied research note only; not primary model verification.'));
    else if(source.availability!=='received_pdf')item.append(el('small','Original source not included in the seven uploads; page claim remains unverified.'));
   }
   if(model.observations.length>5)item.append(el('small',`${model.observations.length-5} further observations in the download.`));

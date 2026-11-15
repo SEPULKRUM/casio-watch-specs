@@ -2,10 +2,10 @@
   "schema_version": 1,
   "scope": "Model/series strings only; not verified watch or specification records. Index checks do not establish official letter meanings. Candidate strings may be partial or false positives.",
   "counts": {
-    "model_strings": 2325,
+    "model_strings": 2404,
     "index_checked": 58,
     "supplied_transcription": 155,
-    "machine_candidate": 2112,
+    "machine_candidate": 2191,
     "rejected_occurrences": 189
   },
   "sources": {
@@ -190,6 +190,13 @@
       "sha256": "4e1a6fab38f3d3577f1cb7befe88ee10824b71db93bf641d718e18713e6317c6",
       "availability": "received_pdf",
       "pages": 34
+    },
+    "guide:casio_multi_line_model_reference_guide-v3": {
+      "filename": "casio_multi_line_model_reference_guide-v3.pdf",
+      "sha256": "db61313be6fdc9869ee3284a3c3b279c7c9e3664b31b49c8dfa6fbc22e7a9eb2",
+      "pages": 5,
+      "availability": "received_secondary_guide",
+      "classification": "User-supplied reference guide; no official authorship or source citations established"
     }
   },
   "models": {
@@ -784,6 +791,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "A1000": {
+      "id": "A1000",
+      "prefix": "A",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "A151": {
       "id": "A151",
       "prefix": "A",
@@ -900,6 +921,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "A158W": {
+      "id": "A158W",
+      "prefix": "A",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "A160": {
       "id": "A160",
       "prefix": "A",
@@ -962,6 +997,20 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "A168W": {
+      "id": "A168W",
+      "prefix": "A",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -1033,6 +1082,20 @@
           "role": "machine_ocr",
           "pdf_page": 4,
           "compilation_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "A500W": {
+      "id": "A500W",
+      "prefix": "A",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -1231,6 +1294,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "A700W": {
+      "id": "A700W",
+      "prefix": "A",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AA-85": {
       "id": "AA-85",
       "prefix": "AA",
@@ -1399,6 +1476,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "AE-1000W": {
+      "id": "AE-1000W",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AE-11W-1AV": {
       "id": "AE-11W-1AV",
       "prefix": "AE",
@@ -1414,6 +1505,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "AE-1200WH": {
+      "id": "AE-1200WH",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AE-12W-1V": {
       "id": "AE-12W-1V",
       "prefix": "AE",
@@ -1423,6 +1528,62 @@
           "role": "machine_ocr",
           "pdf_page": 4,
           "compilation_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AE-1300WH": {
+      "id": "AE-1300WH",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AE-1400WH": {
+      "id": "AE-1400WH",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AE-1500WH": {
+      "id": "AE-1500WH",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AE-2000W": {
+      "id": "AE-2000W",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -1474,6 +1635,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "AE-3000W": {
+      "id": "AE-3000W",
+      "prefix": "AE",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AE-70": {
       "id": "AE-70",
       "prefix": "AE",
@@ -1513,6 +1688,48 @@
           "role": "machine_ocr",
           "pdf_page": 22,
           "compilation_page": 96
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AEQ-100": {
+      "id": "AEQ-100",
+      "prefix": "AEQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AEQ-110": {
+      "id": "AEQ-110",
+      "prefix": "AEQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AEQ-200": {
+      "id": "AEQ-200",
+      "prefix": "AEQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -4269,6 +4486,118 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "BG-169": {
+      "id": "BG-169",
+      "prefix": "BG",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGA-150": {
+      "id": "BGA-150",
+      "prefix": "BGA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGA-250": {
+      "id": "BGA-250",
+      "prefix": "BGA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGA-280": {
+      "id": "BGA-280",
+      "prefix": "BGA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGA-290": {
+      "id": "BGA-290",
+      "prefix": "BGA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGD-5000": {
+      "id": "BGD-5000",
+      "prefix": "BGD",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGD-560": {
+      "id": "BGD-560",
+      "prefix": "BGD",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGD-565": {
+      "id": "BGD-565",
+      "prefix": "BGD",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "BM-100W-1V": {
       "id": "BM-100W-1V",
       "prefix": "BM",
@@ -4678,6 +5007,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "CA-500": {
+      "id": "CA-500",
+      "prefix": "CA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "CA-501": {
       "id": "CA-501",
       "prefix": "CA",
@@ -4737,6 +5080,20 @@
           "role": "machine_ocr",
           "pdf_page": 4,
           "compilation_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CA-53W": {
+      "id": "CA-53W",
+      "prefix": "CA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -5466,6 +5823,109 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "CMK-100": {
+      "id": "CMK-100",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        },
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TC-1A": {
+      "id": "CMK-100TC-1A",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TCC-8A": {
+      "id": "CMK-100TCC-8A",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TCC-8AER": {
+      "id": "CMK-100TCC-8AER",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TCL-5A": {
+      "id": "CMK-100TCL-5A",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TD-1A": {
+      "id": "CMK-100TD-1A",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CMK-100TL-1A": {
+      "id": "CMK-100TL-1A",
+      "prefix": "CMK",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "CS-80": {
       "id": "CS-80",
       "prefix": "CS",
@@ -5917,6 +6377,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DBC-32": {
+      "id": "DBC-32",
+      "prefix": "DBC",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DBC-60": {
       "id": "DBC-60",
       "prefix": "DBC",
@@ -6019,6 +6493,20 @@
           "role": "machine_ocr",
           "pdf_page": 4,
           "compilation_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DBC-611": {
+      "id": "DBC-611",
+      "prefix": "DBC",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -15972,6 +16460,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "F-105W": {
+      "id": "F-105W",
+      "prefix": "F",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "F-10PM": {
       "id": "F-10PM",
       "prefix": "F",
@@ -16108,6 +16610,20 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "F-201WA": {
+      "id": "F-201WA",
+      "prefix": "F",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -16480,6 +16996,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "F-84W": {
+      "id": "F-84W",
+      "prefix": "F",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "F-85": {
       "id": "F-85",
       "prefix": "F",
@@ -16595,6 +17125,20 @@
           "role": "machine_ocr",
           "pdf_page": 4,
           "compilation_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "F-91W": {
+      "id": "F-91W",
+      "prefix": "F",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -28072,6 +28616,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "LA670W": {
+      "id": "LA670W",
+      "prefix": "LA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LA680W": {
+      "id": "LA680W",
+      "prefix": "LA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "LB610-7": {
       "id": "LB610-7",
       "prefix": "LB",
@@ -28096,6 +28668,62 @@
           "role": "machine_ocr",
           "pdf_page": 26,
           "compilation_page": 100
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LCW-M100DSE": {
+      "id": "LCW-M100DSE",
+      "prefix": "LCW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LCW-M100TSE": {
+      "id": "LCW-M100TSE",
+      "prefix": "LCW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LCW-M100TSE-1AJF": {
+      "id": "LCW-M100TSE-1AJF",
+      "prefix": "LCW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LCW-M170TD": {
+      "id": "LCW-M170TD",
+      "prefix": "LCW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
         }
       ],
       "status": "machine_candidate",
@@ -28170,6 +28798,34 @@
           "role": "machine_ocr",
           "pdf_page": 26,
           "compilation_page": 100
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LIW-M610": {
+      "id": "LIW-M610",
+      "prefix": "LIW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LIW-M700": {
+      "id": "LIW-M700",
+      "prefix": "LIW",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
         }
       ],
       "status": "machine_candidate",
@@ -28374,6 +29030,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "LQ-139": {
+      "id": "LQ-139",
+      "prefix": "LQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "LQ-30W": {
       "id": "LQ-30W",
       "prefix": "LQ",
@@ -28458,6 +29128,34 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LTP-B165": {
+      "id": "LTP-B165",
+      "prefix": "LTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "LTP-V007": {
+      "id": "LTP-V007",
+      "prefix": "LTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -28947,6 +29645,137 @@
       "evidence_status": "secondary_reported",
       "reading_flags": []
     },
+    "MDV-106": {
+      "id": "MDV-106",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-106-1AV": {
+      "id": "MDV-106-1AV",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-106B": {
+      "id": "MDV-106B",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 5
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-106B-1A2V": {
+      "id": "MDV-106B-1A2V",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-106B-2AV": {
+      "id": "MDV-106B-2AV",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        },
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-106DD-1A2V": {
+      "id": "MDV-106DD-1A2V",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-107": {
+      "id": "MDV-107",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-107-1A1V": {
+      "id": "MDV-107-1A1V",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MDV-107D-1A1V": {
+      "id": "MDV-107D-1A1V",
+      "prefix": "MDV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "MQ-20W": {
       "id": "MQ-20W",
       "prefix": "MQ",
@@ -28958,6 +29787,20 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MQ-24": {
+      "id": "MQ-24",
+      "prefix": "MQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -31087,6 +31930,155 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 92
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-1302": {
+      "id": "MTP-1302",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-B145D": {
+      "id": "MTP-B145D",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-E735": {
+      "id": "MTP-E735",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-E735AR": {
+      "id": "MTP-E735AR",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-E735AR-1AV": {
+      "id": "MTP-E735AR-1AV",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-E735AR-2A1V": {
+      "id": "MTP-E735AR-2A1V",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "derivation": "Explicit shorthand expanded under same model heading"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "expanded_shorthand"
+      ]
+    },
+    "MTP-E735AR-2A2V": {
+      "id": "MTP-E735AR-2A2V",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTP-E735AR-2A3V": {
+      "id": "MTP-E735AR-2A3V",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "derivation": "Explicit shorthand expanded under same model heading"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "expanded_shorthand"
+      ]
+    },
+    "MTP-E735AR-7AV": {
+      "id": "MTP-E735AR-7AV",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4,
+          "derivation": "Explicit shorthand expanded under same model heading"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "expanded_shorthand"
+      ]
+    },
+    "MTP-V001": {
+      "id": "MTP-V001",
+      "prefix": "MTP",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 4
         }
       ],
       "status": "machine_candidate",
@@ -35588,6 +36580,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "W-217H": {
+      "id": "W-217H",
+      "prefix": "W",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "W-23": {
       "id": "W-23",
       "prefix": "W",
@@ -36360,6 +37366,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "W-800H": {
+      "id": "W-800H",
+      "prefix": "W",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "W-850": {
       "id": "W-850",
       "prefix": "W",
@@ -36384,6 +37404,20 @@
           "role": "machine_ocr",
           "pdf_page": 3,
           "compilation_page": 3
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "W-86": {
+      "id": "W-86",
+      "prefix": "W",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 3
         }
       ],
       "status": "machine_candidate",
@@ -36770,6 +37804,104 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "WV-200": {
+      "id": "WV-200",
+      "prefix": "WV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WV-58": {
+      "id": "WV-58",
+      "prefix": "WV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WV-59": {
+      "id": "WV-59",
+      "prefix": "WV",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WVA-M630": {
+      "id": "WVA-M630",
+      "prefix": "WVA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WVA-M640": {
+      "id": "WVA-M640",
+      "prefix": "WVA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WVA-M650": {
+      "id": "WVA-M650",
+      "prefix": "WVA",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "WVQ-M410": {
+      "id": "WVQ-M410",
+      "prefix": "WVQ",
+      "observations": [
+        {
+          "source_id": "guide:casio_multi_line_model_reference_guide-v3",
+          "role": "supplied_guide_text",
+          "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "WW-28-1": {
       "id": "WW-28-1",
       "prefix": "WW",
@@ -36841,5 +37973,72 @@
       "evidence_status": "unverified",
       "reading_flags": []
     }
-  }
+  },
+  "prefix_observations": [
+    {
+      "prefix": "WVQ",
+      "pdf_page": 2,
+      "description": "Wave Ceptor chronograph family proposed by the supplied guide; exact model features and letter expansions need separate evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "LIN",
+      "pdf_page": 2,
+      "description": "Earlier Lineage family proposed by the supplied guide; historical association and exact features need primary evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "BGS",
+      "pdf_page": 2,
+      "description": "BABY-G family proposed by the supplied guide; step tracking must be checked per model.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "AEQ",
+      "pdf_page": 3,
+      "description": "Analog-digital Casio family proposed by the supplied guide; world-time and Telememo features require exact-model evidence.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "MDV",
+      "pdf_page": 3,
+      "description": "Casio marine-style model family. Ratings vary by model; do not infer 200 m or dive certification from MDV.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "MTD",
+      "pdf_page": 3,
+      "description": "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "MRW",
+      "pdf_page": 3,
+      "description": "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
+      "status": "secondary_reported",
+      "family": "RESEARCH REFERENCE",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "CMK",
+      "pdf_page": 4,
+      "description": "CMK-100 automatic mechanical line confirmed by Casio. Individual letters are not established here as an official acronym.",
+      "status": "official_observed",
+      "family": "CASIO AUTOMATIC",
+      "official_source": "https://www.casio.com/intl/news/2026/1029-CMK-100/",
+      "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    }
+  ]
 }
