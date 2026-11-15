@@ -10,7 +10,16 @@ independent review. These coverage counts do not imply a complete Casio catalog.
 Open **[SEPULKRUM Casio Specifications](https://sepulkrum-casio-specs-beta.miniatureagave.chatgpt.site)**
 using the ChatGPT account that owns this Site. The hosted beta is owner-private.
 
-Search by model, module or material; filter by family; open a model to inspect
+The model prefix decoder works independently of catalog coverage, including
+`GWG-B1000` / `GWGB1000` and segmented `PRW-S3100-1JF`. Its 57 family
+references include the original decoder’s 53 entries, copied read-only from
+[watch-code-decoder](https://github.com/SEPULKRUM/watch-code-decoder/tree/main/prefixes).
+The PRW-S3100 Real Material/STN/black interpretation is labelled as the owner’s
+established model-specific reference; it is not generalized to other S models.
+Unknown modifiers and colors remain unresolved. The actual mountain/red-sun
+emblem and black/red/silver branding come from that original project.
+
+Search specifications by model, module or material; filter by family; open a model to inspect
 physical specifications, separate module options and field-level sources.
 Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
