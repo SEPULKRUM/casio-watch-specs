@@ -12,7 +12,8 @@ MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'water_resistance_m', 'case_materia
                 'promotional_thickness_mm', 'technical_table_thickness_mm', 'display_polarity'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
-                 'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity'}
+                 'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity',
+                 'depth_meter', 'digital_compass', 'thermometer', 'dive_log', 'tide_moon', 'battery_cell'}
 
 
 def identity(value):

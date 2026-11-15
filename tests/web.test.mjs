@@ -41,7 +41,7 @@ const {validateReferences,findReferences,exactReferences,referenceStatus}=await 
 const refs=validateReferences(JSON.parse(fs.readFileSync(new URL('../data/model-references.json',import.meta.url))));
 test('expanded prefix library recognizes extracted families without inventing expansions',()=>{
  for(const prefix of ['CFX','TC','TGW','DGW','AWG','GPW','IRW','PRX','SPF','LP','MQW','PRJ']){const result=decodeModel(prefix,data,refs);assert.equal(result.prefix,prefix);assert.equal(result.prefixOnly,true);assert.match(result.segments[0].status,/secondary_reported|unverified/)}
- assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,158);
+ assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,162);
 });
 const {entries:entriesForReferenceTest}=await import('../web/decoder.mjs');
 test('research identifiers remain separate from catalog models and candidates stay labelled',()=>{
@@ -118,7 +118,7 @@ test('original and updated 5610 BC suffixes retain separate U and avoid global U
 test('multi-line guide adds qualified prefix associations and references without catalog inflation',()=>{
  for(const prefix of ['CMK','MDV','AEQ','WVQ','LIN','BGS','MTD','MRW'])assert.equal(decodeModel(prefix,data,refs).prefix,prefix);
  assert.equal(decodeModel('CMK',data,refs).family,'CASIO AUTOMATIC');assert.equal(decodeModel('CMK',data,refs).segments[0].status,'official_observed');assert.match(decodeModel('MDV',data,refs).segments[0].description,/do not infer 200 m/);
- const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,195);
+ const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,196);
 });
 
 const {prefixMeaning}=await import('../web/prefix-meanings.mjs');
@@ -187,4 +187,18 @@ test('all 66 supplied G-SHOCK readings resolve as grouped families or separate m
  assert.match(decodeModel('GA-B001').segments.find(s=>s.token==='B').description,/model-dependent/);assert.equal(decodeModel('GA-B001').officialFeatures,null);
  assert.match(decodeModel('MRG').segments[0].communityMeaning.meaning,/unverified/);
  assert.equal(decodeModel('GM-40',data,refs).segments[0].communityMeaning,null);
+});
+
+
+test('Gold Tornado commemorative code and module specifications stay correctly scoped',()=>{
+ for(const [input,tokens] of [['GWFD1035',['GWF','D10','35']],['GWFD1035B1JR',['GWF','D10','35','B','1','JR']],['GWF-D1035B-1',['GWF','D10','35','B','1']]]){const r=decodeModel(input,data,refs);assert.deepEqual(r.segments.map(s=>s.token),tokens);assert.match(r.segments.find(s=>s.token==='35').description,/35th/);}
+ assert.equal(decodeModel('GWF-D1035B-1',data,refs).exact.id,'GWF-D1035B-1');assert.equal(value(data.models['GWF-D1035B-1'],'module_id'),'3445');assert.equal(value(data.models['GWF-D1035B-1'],'weight_g'),141);
+ assert.equal(value(data.modules['3445'],'dive_log').records,20);assert.equal(value(data.modules['3445'],'depth_meter').step_m,0.1);assert.equal(evidenceLabel(data.modules['3445'].specs.depth_meter),'Official Casio source');assert.equal(evidenceLabel(data.modules['3445'].specs.battery_cell),'Owner-supplied evidence');
+ assert.ok(!decodeModel('GW-1235').segments.some(s=>s.type==='anniversary'));assert.ok(!decodeModel('GWF-1035F-1',data,refs).segments.some(s=>s.token==='D10'));assert.ok(!decodeModel('GWF-D9999').segments.some(s=>s.type==='anniversary'));
+ assert.match(decodeModel('GMW-B5000SS-2',data,refs).segments.find(s=>s.token==='SS').description,/Sky and Sea/);assert.ok(!decodeModel('GMW-B9999SS-2').editionNotes.length);
+});
+test('anniversary directory exposes every supplied entry without importing all as verified watches',async()=>{
+ const {anniversaryDirectory}=await import('../web/anniversary.mjs');assert.equal(anniversaryDirectory.length,124);assert.equal(new Set(anniversaryDirectory.map(r=>r.id)).size,120);
+ for(const item of anniversaryDirectory){assert.ok(refs.models[item.id],item.id);const r=decodeModel(item.id,data,refs);assert.ok(r.editionNotes?.length,item.id);}
+ assert.equal(stats(data).models,196);
 });

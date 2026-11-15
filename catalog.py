@@ -145,10 +145,15 @@ def validate_user_evidence(root, records):
                     cache[reference] = specs.load(root / reference)
                 note = cache[reference]
                 if (specs.digest(note) != source['source_sha256']
-                        or note.get('type') != 'user_module_associations'
                         or note.get('provided_by') != source['provided_by']):
                     raise ValueError('User evidence is stale or attribution does not match')
-                if (record['kind'] != 'model' or field != 'module_id'
+                if note.get('type') == 'user_watch_specifications':
+                    if not any(row.get('kind') == record['kind'] and row.get('id') == record['id']
+                               and row.get('field') == field and row.get('value') == fact['value']
+                               for row in note.get('claims', [])):
+                        raise ValueError('User citation does not contain this exact specification')
+                elif (note.get('type') != 'user_module_associations'
+                        or record['kind'] != 'model' or field != 'module_id'
                         or not any(specs.identity(row['model']) == specs.identity(record['id'])
                                    and row['module'] == fact['value'] for row in note['mappings'])):
                     raise ValueError('User citation does not contain this model/module mapping')

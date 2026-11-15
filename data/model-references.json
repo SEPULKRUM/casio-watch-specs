@@ -2,10 +2,10 @@
   "schema_version": 1,
   "scope": "Model/series strings only; not verified watch or specification records. Index checks do not establish official letter meanings. Candidate strings may be partial or false positives.",
   "counts": {
-    "model_strings": 2404,
+    "model_strings": 2520,
     "index_checked": 58,
     "supplied_transcription": 155,
-    "machine_candidate": 2191,
+    "machine_candidate": 2307,
     "rejected_occurrences": 189
   },
   "sources": {
@@ -197,6 +197,13 @@
       "pages": 5,
       "availability": "received_secondary_guide",
       "classification": "User-supplied reference guide; no official authorship or source citations established"
+    },
+    "guide:anniversary-directory-2026-11-15": {
+      "filename": "ANNIVERSARY.txt",
+      "sha256": "a3cba01227c52f0ba9520d303b671caf6a2af92839829a84fd556724b3d59478",
+      "pages": 1,
+      "availability": "received_secondary_guide",
+      "classification": "Owner-supplied anniversary directory; page 1 is the logical text document, not a PDF page"
     }
   },
   "models": {
@@ -3589,6 +3596,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "AWG-525A-1A": {
+      "id": "AWG-525A-1A",
+      "prefix": "AWG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "AWG-525A-1AJF": {
       "id": "AWG-525A-1AJF",
       "prefix": "AWG",
@@ -3611,6 +3632,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 79
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "AWG-525C-1A": {
+      "id": "AWG-525C-1A",
+      "prefix": "AWG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -3979,6 +4014,20 @@
       "reading_flags": [
         "suspicious_text_fragment"
       ]
+    },
+    "AWG-M535C-4A": {
+      "id": "AWG-M535C-4A",
+      "prefix": "AWG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
     },
     "AX-210": {
       "id": "AX-210",
@@ -4556,6 +4605,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "BGA-S290SS-2A": {
+      "id": "BGA-S290SS-2A",
+      "prefix": "BGA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "BGD-5000": {
       "id": "BGD-5000",
       "prefix": "BGD",
@@ -4592,6 +4655,20 @@
           "source_id": "guide:casio_multi_line_model_reference_guide-v3",
           "role": "supplied_guide_text",
           "pdf_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "BGD-S565ZE-1": {
+      "id": "BGD-S565ZE-1",
+      "prefix": "BGD",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -5920,6 +5997,34 @@
           "source_id": "guide:casio_multi_line_model_reference_guide-v3",
           "role": "supplied_guide_text",
           "pdf_page": 4
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CRW-001-1": {
+      "id": "CRW-001-1",
+      "prefix": "CRW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "CRW-001G-9": {
+      "id": "CRW-001G-9",
+      "prefix": "CRW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -9445,6 +9550,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DW-5025B-7": {
+      "id": "DW-5025B-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DW-5025B-7JF": {
       "id": "DW-5025B-7JF",
       "prefix": "DW",
@@ -9459,6 +9578,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DW-5025D-8": {
+      "id": "DW-5025D-8",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5025SP-1": {
+      "id": "DW-5025SP-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DW-5025SP-1JF": {
       "id": "DW-5025SP-1JF",
       "prefix": "DW",
@@ -9467,6 +9614,90 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 80
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5030-1": {
+      "id": "DW-5030-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5030C-1": {
+      "id": "DW-5030C-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5035D-1B": {
+      "id": "DW-5035D-1B",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5035E-7": {
+      "id": "DW-5035E-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5040PG-1": {
+      "id": "DW-5040PG-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5040RX-7": {
+      "id": "DW-5040RX-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -10328,6 +10559,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DW-5600GU-7": {
+      "id": "DW-5600GU-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DW-5600L-1JF": {
       "id": "DW-5600L-1JF",
       "prefix": "DW",
@@ -10608,6 +10853,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DW-5600VT": {
+      "id": "DW-5600VT",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DW-5600VT-1T": {
       "id": "DW-5600VT-1T",
       "prefix": "DW",
@@ -10658,6 +10917,62 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 74
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5625E-7": {
+      "id": "DW-5625E-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5635-9": {
+      "id": "DW-5635-9",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5635C-4": {
+      "id": "DW-5635C-4",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5640RX-7": {
+      "id": "DW-5640RX-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -10846,6 +11161,48 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 79
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5735C-4": {
+      "id": "DW-5735C-4",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5735D-1B": {
+      "id": "DW-5735D-1B",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-5735E-7": {
+      "id": "DW-5735E-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -11886,6 +12243,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "DW-6640RE-1": {
+      "id": "DW-6640RE-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "DW-6695-A": {
       "id": "DW-6695-A",
       "prefix": "DW",
@@ -12451,6 +12822,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 75
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6900FS-8": {
+      "id": "DW-6900FS-8",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -13529,6 +13914,76 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 80
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6930A-4": {
+      "id": "DW-6930A-4",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6930BS-8": {
+      "id": "DW-6930BS-8",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6930C-1": {
+      "id": "DW-6930C-1",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6935C-4": {
+      "id": "DW-6935C-4",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DW-6940RX-7": {
+      "id": "DW-6940RX-7",
+      "prefix": "DW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -16366,6 +16821,76 @@
           "role": "machine_ocr",
           "pdf_page": 2,
           "compilation_page": 2
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DWE-5640RX-7": {
+      "id": "DWE-5640RX-7",
+      "prefix": "DWE",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "DWE-5657RE-1": {
+      "id": "DWE-5657RE-1",
+      "prefix": "DWE",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "ECB-2000SS-2A": {
+      "id": "ECB-2000SS-2A",
+      "prefix": "ECB",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "EFS-S640ZE-1A": {
+      "id": "EFS-S640ZE-1A",
+      "prefix": "EFS",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "EFS-S641TMS-1A": {
+      "id": "EFS-S641TMS-1A",
+      "prefix": "EFS",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -21941,6 +22466,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "G-9025A-1": {
+      "id": "G-9025A-1",
+      "prefix": "G",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "G-91": {
       "id": "G-91",
       "prefix": "G",
@@ -21983,6 +22522,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "G-9330A-4": {
+      "id": "G-9330A-4",
+      "prefix": "G",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "G-9V": {
       "id": "G-9V",
       "prefix": "G",
@@ -22015,6 +22568,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 36
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "G-D001": {
+      "id": "G-D001",
+      "prefix": "G",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -22109,6 +22676,216 @@
           "role": "machine_ocr",
           "pdf_page": 12,
           "compilation_page": 160
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-110EH-8A": {
+      "id": "GA-110EH-8A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-113B-1A": {
+      "id": "GA-113B-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-114RE-1A": {
+      "id": "GA-114RE-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-114RX-7A": {
+      "id": "GA-114RX-7A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-135A-1A": {
+      "id": "GA-135A-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-2140RE-1A": {
+      "id": "GA-2140RE-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-2140RX-7A": {
+      "id": "GA-2140RX-7A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-303B-1A": {
+      "id": "GA-303B-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-735A-1A": {
+      "id": "GA-735A-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-735C-4A": {
+      "id": "GA-735C-4A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-735E-7A": {
+      "id": "GA-735E-7A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-835A-1A": {
+      "id": "GA-835A-1A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GA-835E-7A": {
+      "id": "GA-835E-7A",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GB-5600AA-1": {
+      "id": "GB-5600AA-1",
+      "prefix": "GB",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GB-6900AA-1": {
+      "id": "GB-6900AA-1",
+      "prefix": "GB",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -22241,6 +23018,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GCW-B5000UN-1": {
+      "id": "GCW-B5000UN-1",
+      "prefix": "GCW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GCW-B5000UN-6": {
+      "id": "GCW-B5000UN-6",
+      "prefix": "GCW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GD-8-1": {
       "id": "GD-8-1",
       "prefix": "GD",
@@ -22254,6 +23059,20 @@
       ],
       "status": "index_checked",
       "evidence_status": "secondary_reported",
+      "reading_flags": []
+    },
+    "GD-X6930E-9": {
+      "id": "GD-X6930E-9",
+      "prefix": "GD",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
       "reading_flags": []
     },
     "GF-1": {
@@ -22293,6 +23112,62 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GF-8230A-4": {
+      "id": "GF-8230A-4",
+      "prefix": "GF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GF-8230E-9": {
+      "id": "GF-8230E-9",
+      "prefix": "GF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GF-8235D-1B": {
+      "id": "GF-8235D-1B",
+      "prefix": "GF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GG-1035A-1A": {
+      "id": "GG-1035A-1A",
+      "prefix": "GG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -22352,6 +23227,34 @@
         }
       ],
       "status": "supplied_transcription",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GM-114GEM-1A9": {
+      "id": "GM-114GEM-1A9",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GM-2140GEM-2A": {
+      "id": "GM-2140GEM-2A",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
     },
@@ -22430,6 +23333,104 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GM-5640GEM-1": {
+      "id": "GM-5640GEM-1",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GM-S114GEM-1A2": {
+      "id": "GM-S114GEM-1A2",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GM-S2140GEM-9A": {
+      "id": "GM-S2140GEM-9A",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GM-S5640GEM-7": {
+      "id": "GM-S5640GEM-7",
+      "prefix": "GM",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMA-S114RX-7A": {
+      "id": "GMA-S114RX-7A",
+      "prefix": "GMA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMA-S2140RX-7A": {
+      "id": "GMA-S2140RX-7A",
+      "prefix": "GMA",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMC-B2100ZE-1A": {
+      "id": "GMC-B2100ZE-1A",
+      "prefix": "GMC",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GMW-15-1V": {
       "id": "GMW-15-1V",
       "prefix": "GMW",
@@ -22449,6 +23450,104 @@
       ],
       "status": "index_checked",
       "evidence_status": "secondary_reported",
+      "reading_flags": []
+    },
+    "GMW-B5000EH-1": {
+      "id": "GMW-B5000EH-1",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMW-B5000PG-9": {
+      "id": "GMW-B5000PG-9",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMW-B5000PS-1": {
+      "id": "GMW-B5000PS-1",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMW-B5000SS-2": {
+      "id": "GMW-B5000SS-2",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMW-B5000TFC-1": {
+      "id": "GMW-B5000TFC-1",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GMW-B5000TFG-9": {
+      "id": "GMW-B5000TFG-9",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GPR-B1000TF-1": {
+      "id": "GPR-B1000TF-1",
+      "prefix": "GPR",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
       "reading_flags": []
     },
     "GPW-1": {
@@ -22546,6 +23645,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GPW-2000TFB-1A": {
+      "id": "GPW-2000TFB-1A",
+      "prefix": "GPW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GR-1225": {
       "id": "GR-1225",
       "prefix": "GR",
@@ -22591,6 +23704,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GS-1150D-7A": {
+      "id": "GS-1150D-7A",
+      "prefix": "GS",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GS-2-1": {
       "id": "GS-2-1",
       "prefix": "GS",
@@ -22604,6 +23731,20 @@
       ],
       "status": "index_checked",
       "evidence_status": "secondary_reported",
+      "reading_flags": []
+    },
+    "GST-B100TFB-1A": {
+      "id": "GST-B100TFB-1A",
+      "prefix": "GST",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
       "reading_flags": []
     },
     "GW-002BJ-1": {
@@ -24021,6 +25162,25 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 78
+        },
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-225C-1": {
+      "id": "GW-225C-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -24049,6 +25209,11 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 80
+        },
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -24863,6 +26028,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GW-5035A-1": {
+      "id": "GW-5035A-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GW-51": {
       "id": "GW-51",
       "prefix": "GW",
@@ -24955,6 +26134,25 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 78
+        },
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-5530C-1": {
+      "id": "GW-5530C-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -25095,6 +26293,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 78
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-5625C-1": {
+      "id": "GW-5625C-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -25968,6 +27180,62 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GW-8201K-7JR": {
+      "id": "GW-8201K-7JR",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-8202K-2JR": {
+      "id": "GW-8202K-2JR",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-8230B-9A": {
+      "id": "GW-8230B-9A",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-8230NT-4": {
+      "id": "GW-8230NT-4",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GW-8900NV-2JF": {
       "id": "GW-8900NV-2JF",
       "prefix": "GW",
@@ -26144,6 +27412,11 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 79
+        },
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -26337,6 +27610,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GW-9125D-8": {
+      "id": "GW-9125D-8",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GW-9200": {
       "id": "GW-9200",
       "prefix": "GW",
@@ -26519,6 +27806,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GW-9225E-7": {
+      "id": "GW-9225E-7",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-9230BJ-1": {
+      "id": "GW-9230BJ-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GW-9300": {
       "id": "GW-9300",
       "prefix": "GW",
@@ -26602,6 +27917,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 91
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-9330B-1": {
+      "id": "GW-9330B-1",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -26700,6 +28029,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 94
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GW-9430EJ-9": {
+      "id": "GW-9430EJ-9",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -27029,6 +28372,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GW-M5630A-4": {
+      "id": "GW-M5630A-4",
+      "prefix": "GW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GW-M5630E-9JR": {
       "id": "GW-M5630E-9JR",
       "prefix": "GW",
@@ -27179,6 +28536,76 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GWF-1035F-1": {
+      "id": "GWF-1035F-1",
+      "prefix": "GWF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GWF-A1000APF-1A": {
+      "id": "GWF-A1000APF-1A",
+      "prefix": "GWF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GWF-D1035B-1": {
+      "id": "GWF-D1035B-1",
+      "prefix": "GWF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GWF-T1030A-1": {
+      "id": "GWF-T1030A-1",
+      "prefix": "GWF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GWF-T1030E-9": {
+      "id": "GWF-T1030E-9",
+      "prefix": "GWF",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "GWF-T1030E-9JR": {
       "id": "GWF-T1030E-9JR",
       "prefix": "GWF",
@@ -27187,6 +28614,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 92
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "GWG-2040FR-1A": {
+      "id": "GWG-2040FR-1A",
+      "prefix": "GWG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -30881,6 +32322,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "MRG-B2000SG-1A": {
+      "id": "MRG-B2000SG-1A",
+      "prefix": "MRG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "MRG-B5000R": {
       "id": "MRG-B5000R",
       "prefix": "MRG",
@@ -30895,6 +32350,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "MRG-B5000SA-2": {
+      "id": "MRG-B5000SA-2",
+      "prefix": "MRG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MRG-BF1000EB-1A": {
+      "id": "MRG-BF1000EB-1A",
+      "prefix": "MRG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "MRG-G1000B-1AJF": {
       "id": "MRG-G1000B-1AJF",
       "prefix": "MRG",
@@ -30903,6 +32386,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 29
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MRG-G2000HA-1A": {
+      "id": "MRG-G2000HA-1A",
+      "prefix": "MRG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -31838,6 +33335,34 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "MTG-B1000TF-1A": {
+      "id": "MTG-B1000TF-1A",
+      "prefix": "MTG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTG-B3000FR-1A": {
+      "id": "MTG-B3000FR-1A",
+      "prefix": "MTG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "MTG-S1000": {
       "id": "MTG-S1000",
       "prefix": "MTG",
@@ -31930,6 +33455,20 @@
           "source_id": "original:source_08",
           "role": "prior_machine_index",
           "pdf_page": 92
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "MTG-S1030BD-1A": {
+      "id": "MTG-S1030BD-1A",
+      "prefix": "MTG",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -32174,6 +33713,34 @@
         {
           "source_id": "original:source_12",
           "role": "prior_machine_index",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-S7000SS-2A": {
+      "id": "OCW-S7000SS-2A",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "OCW-SG1000ZE-1A": {
+      "id": "OCW-SG1000ZE-1A",
+      "prefix": "OCW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
           "pdf_page": 1
         }
       ],
@@ -33744,6 +35311,20 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "PRJ-B001WM-1": {
+      "id": "PRJ-B001WM-1",
+      "prefix": "PRJ",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
     "PRW-2500": {
       "id": "PRW-2500",
       "prefix": "PRW",
@@ -34513,6 +36094,34 @@
           "source_id": "original:source_06",
           "role": "prior_machine_index",
           "pdf_page": 12
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-61SS-2": {
+      "id": "PRW-61SS-2",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "PRW-6900ZE-1": {
+      "id": "PRW-6900ZE-1",
+      "prefix": "PRW",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
         }
       ],
       "status": "machine_candidate",
@@ -36199,6 +37808,48 @@
       ],
       "status": "index_checked",
       "evidence_status": "secondary_reported",
+      "reading_flags": []
+    },
+    "TRN-50-2A": {
+      "id": "TRN-50-2A",
+      "prefix": "TRN",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "TRN-50SS-2A": {
+      "id": "TRN-50SS-2A",
+      "prefix": "TRN",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": []
+    },
+    "TRN-50ZE-1A": {
+      "id": "TRN-50ZE-1A",
+      "prefix": "TRN",
+      "observations": [
+        {
+          "source_id": "guide:anniversary-directory-2026-11-15",
+          "role": "supplied_guide_text",
+          "pdf_page": 1
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
       "reading_flags": []
     },
     "TS-100-1V": {
@@ -38039,6 +39690,34 @@
       "family": "CASIO AUTOMATIC",
       "official_source": "https://www.casio.com/intl/news/2026/1029-CMK-100/",
       "source_id": "guide:casio_multi_line_model_reference_guide-v3"
+    },
+    {
+      "prefix": "TRN",
+      "family": "CASIOTRON / supplied anniversary reference",
+      "description": "Casiotron revival family association in the owner-supplied anniversary directory. Model details require exact-source confirmation.",
+      "status": "unverified",
+      "source_id": "guide:anniversary-directory-2026-11-15"
+    },
+    {
+      "prefix": "CRW",
+      "family": "CASIO RING WATCH",
+      "description": "Ring-watch family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified",
+      "source_id": "guide:anniversary-directory-2026-11-15"
+    },
+    {
+      "prefix": "GMC",
+      "family": "G-SHOCK",
+      "description": "Full-metal chronograph family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified",
+      "source_id": "guide:anniversary-directory-2026-11-15"
+    },
+    {
+      "prefix": "DWE",
+      "family": "G-SHOCK",
+      "description": "Interchangeable-bezel digital family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+      "status": "unverified",
+      "source_id": "guide:anniversary-directory-2026-11-15"
     }
   ]
 }

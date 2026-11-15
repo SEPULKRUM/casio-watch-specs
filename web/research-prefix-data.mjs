@@ -241,6 +241,16 @@ export const researchEntries=[
     }
   ],
   [
+    "CASIO RING WATCH",
+    "CRW",
+    "Ring-watch family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+    "CRW-001-1",
+    {
+      "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "CS",
     "CS appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
@@ -311,6 +321,16 @@ export const researchEntries=[
     }
   ],
   [
+    "G-SHOCK",
+    "DWE",
+    "Interchangeable-bezel digital family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+    "DWE-5640RX-7",
+    {
+      "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "EXW",
     "EXW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
@@ -375,6 +395,16 @@ export const researchEntries=[
     "GL",
     "GL is present in supplied research candidates. The underlying model reading and individual letter meanings need verification.",
     "GL-20-4",
+    {
+      "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "G-SHOCK",
+    "GMC",
+    "Full-metal chronograph family Owner-supplied anniversary-directory association; exact model evidence is separate.",
+    "GMC-B2100ZE-1A",
     {
       "status": "unverified",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -747,6 +777,16 @@ export const researchEntries=[
     "TGW-10G-1V",
     {
       "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "CASIOTRON / supplied anniversary reference",
+    "TRN",
+    "Casiotron revival family association in the owner-supplied anniversary directory. Model details require exact-source confirmation.",
+    "TRN-50-2A",
+    {
+      "status": "unverified",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
