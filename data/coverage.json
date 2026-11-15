@@ -2,7 +2,7 @@
   "models": 153,
   "modules": 107,
   "facts_by_status": {
-    "pending_review": 2031
+    "pending_review": 2051
   },
   "models_by_series": {
     "Baby-G": 4,
@@ -48,10 +48,6 @@
       "dimensions_mm",
       "case_material"
     ],
-    "EF527D-1AV": [
-      "dimensions_mm",
-      "case_material"
-    ],
     "EQS500DB-1A1": [
       "dimensions_mm"
     ],
@@ -81,12 +77,6 @@
       "case_material",
       "glass"
     ],
-    "G9000-1V": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "glass"
-    ],
     "GW2500-1A": [
       "dimensions_mm",
       "case_material",
@@ -110,11 +100,6 @@
     "MTP-1302D-1A1V": [
       "case_material"
     ],
-    "MTP4500D-1AV": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material"
-    ],
     "PAG240-1": [
       "dimensions_mm",
       "case_material",
@@ -132,23 +117,6 @@
     ],
     "PAW2000-1": [
       "dimensions_mm",
-      "case_material",
-      "glass"
-    ],
-    "PRW3000-1A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "glass"
-    ],
-    "WV200A-1AV": [
-      "dimensions_mm",
-      "case_material",
-      "glass"
-    ],
-    "WV58A-1AV": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
       "glass"
     ],

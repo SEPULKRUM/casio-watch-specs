@@ -1,0 +1,194 @@
+{
+  "accessed": "2026-11-14",
+  "method": "Second bulk current official gap-fill batch. gather.py robots/access protections and snapshot checksums used. Offline visible/embedded specification extractor requires exact model identity. Only missing fields imported; explicit existing-field exclusions preserve prior facts. Historical rows and differing current claims retained where available.",
+  "products": [
+    {
+      "id": "EF527D-1AV",
+      "series": "Edifice",
+      "url": "https://www.casio.com/us/watches/edifice/product.EF-527D-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "51 × 45.5 × 11.4 mm",
+        "Weight": "157 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\nDouble-lock, 1-press, 3-fold Clasp\nSolid Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "6dfc542383bcaf6ebd2d262c09a35a71db1ebae0722bf88773d9f51fe1411f0e",
+      "excluded_existing_fields": [
+        "band_material",
+        "glass",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "glass",
+          "existing_value": "Mineral",
+          "current_page_value": "Mineral Glass",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "wording_only"
+        }
+      ],
+      "historical_size_comparison": {
+        "archive_url": "https://web.archive.org/web/20141226090507/http://www.casio.com:80/products/Watches/EDIFICE/EF527D-1AV",
+        "snapshot_sha256": "15d71c0bddcc882fef442b2eb0037014e274634ff23355264701d55916d2dd21",
+        "raw_excerpt": "Size of case / total weight\nEF527D 51.0 x 45.5 x 11.4mm / 157g\nWatches\nG-Shock\nBaby-G",
+        "note": "Historical row order was not explicitly labeled L/W/H; retained as source evidence without assigning an order."
+      }
+    },
+    {
+      "id": "WV200A-1AV",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/us/watches/casio/product.WV-200A-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "52.2 × 47.7 × 15.2 mm",
+        "Weight": "58 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "1e6d5f6d4f4adbb97aafb4a47fc8a6b831f77c7e82f14dca31ac40eebbf739e0",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating",
+        "weight_g"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "weight_g",
+          "existing_value": 40,
+          "current_page_value": 58.0,
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "numerical_source_discrepancy"
+        }
+      ],
+      "historical_size_comparison": {
+        "archive_url": "https://web.archive.org/web/20130101030449/http://www.casio.com:80/products/Watches/wave_ceptor/WV200A-1AV",
+        "snapshot_sha256": "d07a40554aeef8367a79634b348a8bd68cd742474cecfe6b0257f272a15e2e60",
+        "raw_excerpt": "Size of case / total weight\nWV200A 48.3 x 39.0 x 12.5mm / 40g\nDigital Cameras\nWatches\nG-Shock",
+        "note": "Historical row order was not explicitly labeled L/W/H; retained as source evidence without assigning an order."
+      },
+      "field_uncertainty": {
+        "dimensions_mm": "Current official page explicitly labels L/W/H, but numbers differ from historical size rows. Possible source discrepancy or production revision remains unresolved; both source readings retained for review."
+      }
+    },
+    {
+      "id": "WV58A-1AV",
+      "series": "Wave Ceptor",
+      "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "53.4 × 43.7 × 12 mm",
+        "Weight": "43 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Resin Glass / Spherical Glass"
+      },
+      "snapshot_sha256": "6dd784ffa2e17ae3c3efa9aa18f8f42b7e9ce6118fc9c6338672a07dca8b005e",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ],
+      "historical_size_comparison": {
+        "archive_url": "https://web.archive.org/web/20130101101803/http://www.casio.com:80/products/Watches/wave_ceptor/WV58A-1AV",
+        "snapshot_sha256": "38c598dcacb3cff4ecbf28fc2a441e485732de89e00021f0a0852138d36051a7",
+        "raw_excerpt": "Size of case / total weight\nWV58 51.5 x 42.0 x 11.0mm / 48g\nWV58D 51.5 x 42.0 x 11.0mm / 97g\nDigital Cameras\nWatches",
+        "note": "Historical row order was not explicitly labeled L/W/H; retained as source evidence without assigning an order."
+      },
+      "field_uncertainty": {
+        "dimensions_mm": "Current official page explicitly labels L/W/H, but numbers differ from historical size rows. Possible source discrepancy or production revision remains unresolved; both source readings retained for review."
+      }
+    },
+    {
+      "id": "G9000-1V",
+      "series": "G-SHOCK",
+      "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+      "fields": {
+        "Case size (L× W× H)": "52 × 46.3 × 16.3 mm",
+        "Weight": "56 g",
+        "Case and bezel material": "Resin / Stainless steel",
+        "Band": "Resin Band",
+        "Water resistance": "200-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "cc084f6a683ec09e1a6ea76d9a126f75f112c3cd5ea46c016d72d52077769be3",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ],
+      "historical_size_comparison": {
+        "archive_url": "https://web.archive.org/web/20141227203734/http://www.casio.com:80/products/Watches/G-Shock/G9000-1V/",
+        "snapshot_sha256": "b64a11c98e8d0cb1d9c283c6e45e651ff82df3545a259994c7ffefd7ba06839b",
+        "raw_excerpt": "Size of case / total weight\nG9000MS 52.0 x 46.3 x 16.3mm / 56g\nWatches\nG-Shock\nBaby-G",
+        "note": "Historical row order was not explicitly labeled L/W/H; retained as source evidence without assigning an order."
+      }
+    },
+    {
+      "id": "PRW3000-1A",
+      "series": "Pro Trek",
+      "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+      "fields": {
+        "Case size (L× W× H)": "56 × 47 × 12.3 mm",
+        "Weight": "62 g",
+        "Case and bezel material": "Resin / Aluminum",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "1c6c08b0c935259aa65d54fa2409e7bb555f3cd8bfcad30527bd27b9bdffc998",
+      "excluded_existing_fields": [
+        "band_material",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ]
+    },
+    {
+      "id": "MTP4500D-1AV",
+      "series": "Casio Dress",
+      "url": "https://www.casio.com/us/watches/casio/product.MTP-4500D-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "48 × 42 × 11.3 mm",
+        "Weight": "145 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\nSolid Band\nOne-touch 3-fold Clasp",
+        "Water resistance": "50-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "8da0e156c6a065de354556079f1123fa226d89f30747f7df8c601049d197e197",
+      "excluded_existing_fields": [
+        "band_material",
+        "glass",
+        "series",
+        "water_resistance_m",
+        "water_resistance_rating"
+      ],
+      "existing_field_differences": [
+        {
+          "field": "band_material",
+          "existing_value": "Metal",
+          "current_page_value": "Stainless Steel Band",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "additional_material_specificity"
+        },
+        {
+          "field": "glass",
+          "existing_value": "Mineral",
+          "current_page_value": "Mineral Glass",
+          "handling": "Existing value preserved; current claim recorded for review.",
+          "classification": "wording_only"
+        }
+      ]
+    }
+  ]
+}

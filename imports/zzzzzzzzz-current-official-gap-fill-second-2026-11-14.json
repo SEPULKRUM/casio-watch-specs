@@ -1,0 +1,422 @@
+[
+  {
+    "kind": "model",
+    "id": "EF527D-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 51.0,
+          "width": 45.5,
+          "thickness": 11.4
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EF-527D-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 51.0, 'width': 45.5, 'thickness': 11.4}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e958e913856038854e18b48c10acf147054b64ab461d217d60211e0aeed3a1b4",
+            "snapshot_sha256": "6dfc542383bcaf6ebd2d262c09a35a71db1ebae0722bf88773d9f51fe1411f0e"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EF-527D-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e958e913856038854e18b48c10acf147054b64ab461d217d60211e0aeed3a1b4",
+            "snapshot_sha256": "6dfc542383bcaf6ebd2d262c09a35a71db1ebae0722bf88773d9f51fe1411f0e"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "WV200A-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 52.2,
+          "width": 47.7,
+          "thickness": 15.2
+        },
+        "uncertainty": "Current official page explicitly labels L/W/H, but numbers differ from historical size rows. Possible source discrepancy or production revision remains unresolved; both source readings retained for review.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-200A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 52.2, 'width': 47.7, 'thickness': 15.2}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "ec53d8130d3e1c41d43c580b3f37ccbb1002f823a24082adfc914b1abd3fd18d",
+            "snapshot_sha256": "1e6d5f6d4f4adbb97aafb4a47fc8a6b831f77c7e82f14dca31ac40eebbf739e0"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-200A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "ec53d8130d3e1c41d43c580b3f37ccbb1002f823a24082adfc914b1abd3fd18d",
+            "snapshot_sha256": "1e6d5f6d4f4adbb97aafb4a47fc8a6b831f77c7e82f14dca31ac40eebbf739e0"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-200A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "ec53d8130d3e1c41d43c580b3f37ccbb1002f823a24082adfc914b1abd3fd18d",
+            "snapshot_sha256": "1e6d5f6d4f4adbb97aafb4a47fc8a6b831f77c7e82f14dca31ac40eebbf739e0"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "WV58A-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 53.4,
+          "width": 43.7,
+          "thickness": 12.0
+        },
+        "uncertainty": "Current official page explicitly labels L/W/H, but numbers differ from historical size rows. Possible source discrepancy or production revision remains unresolved; both source readings retained for review.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 53.4, 'width': 43.7, 'thickness': 12.0}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "b7d15f8eacdbbe237a8720e746a01976d1839f76b2fa5294300bfc90be69cad8",
+            "snapshot_sha256": "6dd784ffa2e17ae3c3efa9aa18f8f42b7e9ce6118fc9c6338672a07dca8b005e"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 43.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 43.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "b7d15f8eacdbbe237a8720e746a01976d1839f76b2fa5294300bfc90be69cad8",
+            "snapshot_sha256": "6dd784ffa2e17ae3c3efa9aa18f8f42b7e9ce6118fc9c6338672a07dca8b005e"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "b7d15f8eacdbbe237a8720e746a01976d1839f76b2fa5294300bfc90be69cad8",
+            "snapshot_sha256": "6dd784ffa2e17ae3c3efa9aa18f8f42b7e9ce6118fc9c6338672a07dca8b005e"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Resin Glass / Spherical Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.WV-58A-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Resin Glass / Spherical Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "b7d15f8eacdbbe237a8720e746a01976d1839f76b2fa5294300bfc90be69cad8",
+            "snapshot_sha256": "6dd784ffa2e17ae3c3efa9aa18f8f42b7e9ce6118fc9c6338672a07dca8b005e"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G9000-1V",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 52.0,
+          "width": 46.3,
+          "thickness": 16.3
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 52.0, 'width': 46.3, 'thickness': 16.3}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "c128507612e58102bea19d399238072ffdffe95cf55776ee75c9b936081202d5",
+            "snapshot_sha256": "cc084f6a683ec09e1a6ea76d9a126f75f112c3cd5ea46c016d72d52077769be3"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 56.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 56.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "c128507612e58102bea19d399238072ffdffe95cf55776ee75c9b936081202d5",
+            "snapshot_sha256": "cc084f6a683ec09e1a6ea76d9a126f75f112c3cd5ea46c016d72d52077769be3"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "c128507612e58102bea19d399238072ffdffe95cf55776ee75c9b936081202d5",
+            "snapshot_sha256": "cc084f6a683ec09e1a6ea76d9a126f75f112c3cd5ea46c016d72d52077769be3"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/gshock/product.G-9000-1V/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "c128507612e58102bea19d399238072ffdffe95cf55776ee75c9b936081202d5",
+            "snapshot_sha256": "cc084f6a683ec09e1a6ea76d9a126f75f112c3cd5ea46c016d72d52077769be3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "PRW3000-1A",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 56.0,
+          "width": 47.0,
+          "thickness": 12.3
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 56.0, 'width': 47.0, 'thickness': 12.3}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "16481143a1a9896fbaff6272cc2b912efd72fb89c60f4645950b199b5255f78c",
+            "snapshot_sha256": "1c6c08b0c935259aa65d54fa2409e7bb555f3cd8bfcad30527bd27b9bdffc998"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 62.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 62.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "16481143a1a9896fbaff6272cc2b912efd72fb89c60f4645950b199b5255f78c",
+            "snapshot_sha256": "1c6c08b0c935259aa65d54fa2409e7bb555f3cd8bfcad30527bd27b9bdffc998"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin / Aluminum",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin / Aluminum",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "16481143a1a9896fbaff6272cc2b912efd72fb89c60f4645950b199b5255f78c",
+            "snapshot_sha256": "1c6c08b0c935259aa65d54fa2409e7bb555f3cd8bfcad30527bd27b9bdffc998"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/protrek/product.PRW-3000-1A/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "16481143a1a9896fbaff6272cc2b912efd72fb89c60f4645950b199b5255f78c",
+            "snapshot_sha256": "1c6c08b0c935259aa65d54fa2409e7bb555f3cd8bfcad30527bd27b9bdffc998"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "MTP4500D-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 48.0,
+          "width": 42.0,
+          "thickness": 11.3
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.MTP-4500D-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 48.0, 'width': 42.0, 'thickness': 11.3}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "adc8c2312b22663f3927bdc9ccad5b9d7e1d116f300d78836c9cc222cfd2b83f",
+            "snapshot_sha256": "8da0e156c6a065de354556079f1123fa226d89f30747f7df8c601049d197e197"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 145.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.MTP-4500D-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 145.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "adc8c2312b22663f3927bdc9ccad5b9d7e1d116f300d78836c9cc222cfd2b83f",
+            "snapshot_sha256": "8da0e156c6a065de354556079f1123fa226d89f30747f7df8c601049d197e197"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/casio/product.MTP-4500D-1AV/",
+            "accessed": "2026-11-14",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "adc8c2312b22663f3927bdc9ccad5b9d7e1d116f300d78836c9cc222cfd2b83f",
+            "snapshot_sha256": "8da0e156c6a065de354556079f1123fa226d89f30747f7df8c601049d197e197"
+          }
+        ]
+      }
+    }
+  }
+]
