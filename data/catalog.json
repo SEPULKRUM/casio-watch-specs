@@ -27404,6 +27404,961 @@
           "candidate_sha256": "ca2a80724a3382716b6a1571a12b8901ec5c4bb6aacecfc36e8f4f1df881d666"
         }
       }
+    },
+    "EFB108D-1AV": {
+      "id": "EFB108D-1AV",
+      "specs": {
+        "module_id": {
+          "value": "5664",
+          "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+              "evidence": "EFB108D-1AV manual selector explicitly contains module=5664",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "Operation Guide identity / title",
+              "evidence": "Guide explicitly names module 5664",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "38e12d0aba04d1b0eed1e12058ecea31d69dd48e925ad32a063570e3c93d1141"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 47.5,
+            "width": 45.0,
+            "thickness": 8.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 47.5, 'width': 45.0, 'thickness': 8.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "weight_g": {
+          "value": 133.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Weight",
+              "evidence": "Product specification Weight: 133.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "case_material": {
+          "value": "Stainless steel",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Stainless steel",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "band_material": {
+          "value": "Stainless Steel Band",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Band",
+              "evidence": "Product specification Band: Stainless Steel Band",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "glass": {
+          "value": "Sapphire Crystal",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Sapphire Crystal",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "water_resistance_rating": {
+          "value": "100-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+              "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        },
+        "series": {
+          "value": "Edifice",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as Edifice",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "ab5744a499fd525b9f77cf9ea3e927b2b10c471b408df540cc3e90b949dd2ef0"
+        }
+      }
+    },
+    "EFSS570D-1A": {
+      "id": "EFSS570D-1A",
+      "specs": {
+        "module_id": {
+          "value": "5634",
+          "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+              "evidence": "EFSS570D-1A manual selector explicitly contains module=5634",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "Operation Guide identity / title",
+              "evidence": "Guide explicitly names module 5634",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f5d8b9fa05ded80dbfda0a143ee352ee1a1c87a991694d7d7b3cd4b21b0eb30c"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 49.0,
+            "width": 44.0,
+            "thickness": 9.7
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 49.0, 'width': 44.0, 'thickness': 9.7}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "weight_g": {
+          "value": 133.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Weight",
+              "evidence": "Product specification Weight: 133.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "case_material": {
+          "value": "Stainless steel",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Stainless steel",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "band_material": {
+          "value": "Stainless Steel Band",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Band",
+              "evidence": "Product specification Band: Stainless Steel Band",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "glass": {
+          "value": "Sapphire crystal with anti-reflective coating",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Sapphire crystal with anti-reflective coating",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "water_resistance_rating": {
+          "value": "100-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+              "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        },
+        "series": {
+          "value": "Edifice",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as Edifice",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "3b5ca749dae7a72903fc6d7174e5a84da0ad4c176179528e22d837eb191a7acc"
+        }
+      }
+    },
+    "BGD565-1": {
+      "id": "BGD565-1",
+      "specs": {
+        "module_id": {
+          "value": "3489",
+          "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+              "evidence": "BGD565-1 manual selector explicitly contains module=3489",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "Operation Guide identity / title",
+              "evidence": "Guide explicitly names module 3489 alongside 3229 and 3421; product selector specifically names 3489",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d12728de2743720d0c8ba49b3d9c30042cae5e489835fae6c60ffc4d85c55f9a"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 42.1,
+            "width": 37.9,
+            "thickness": 11.3
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 42.1, 'width': 37.9, 'thickness': 11.3}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "weight_g": {
+          "value": 30.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Weight",
+              "evidence": "Product specification Weight: 30.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "band_material": {
+          "value": "Resin Band",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Band",
+              "evidence": "Product specification Band: Resin Band",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "glass": {
+          "value": "Mineral Glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Mineral Glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "water_resistance_rating": {
+          "value": "100-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+              "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        },
+        "series": {
+          "value": "Baby-G",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as Baby-G",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "56d5a99c29812758c3fc3e4445e1afa1df7376b0d677a3331343a3bd5887b361"
+        }
+      }
+    },
+    "BGD565-7": {
+      "id": "BGD565-7",
+      "specs": {
+        "module_id": {
+          "value": "3489",
+          "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+              "evidence": "BGD565-7 manual selector explicitly contains module=3489",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "Operation Guide identity / title",
+              "evidence": "Guide explicitly names module 3489 alongside 3229 and 3421; product selector specifically names 3489",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c6ee0ed66b79d6a8f9d950457bfce6a9698ed0cd65898007fe28d65a8d053788"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 42.1,
+            "width": 37.9,
+            "thickness": 11.3
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 42.1, 'width': 37.9, 'thickness': 11.3}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "weight_g": {
+          "value": 30.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Weight",
+              "evidence": "Product specification Weight: 30.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "band_material": {
+          "value": "Resin Band",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Band",
+              "evidence": "Product specification Band: Resin Band",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "glass": {
+          "value": "Mineral Glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Mineral Glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "water_resistance_rating": {
+          "value": "100-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+              "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        },
+        "series": {
+          "value": "Baby-G",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as Baby-G",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "f727b991a486b3288dc5164127f10182ede582fca02b44121be9ccedb208852e"
+        }
+      }
+    },
+    "BA110-1A": {
+      "id": "BA110-1A",
+      "specs": {
+        "module_id": {
+          "value": "5338",
+          "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+              "evidence": "BA110-1A manual selector explicitly contains module=5338",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "permission": "official_public_reference"
+            },
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "Operation Guide identity / title",
+              "evidence": "Guide explicitly names module 5338",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "6bdcc945b5e359857326573cc67822d6239dbc7ebca72966c516cfa824505a35"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 46.3,
+            "width": 43.4,
+            "thickness": 15.8
+          },
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case size (L× W× H)",
+              "evidence": "Product specification Case size (L× W× H): {'length': 46.3, 'width': 43.4, 'thickness': 15.8}",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "weight_g": {
+          "value": 45.0,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Weight",
+              "evidence": "Product specification Weight: 45.0",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "case_material": {
+          "value": "Resin",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Case and bezel material",
+              "evidence": "Product specification Case and bezel material: Resin",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "band_material": {
+          "value": "Resin Band",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Band",
+              "evidence": "Product specification Band: Resin Band",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "glass": {
+          "value": "Mineral Glass",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Glass",
+              "evidence": "Product specification Glass: Mineral Glass",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "water_resistance_rating": {
+          "value": "100-meter water resistance",
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "water_resistance_m": {
+          "value": 100,
+          "uncertainty": "Official-source candidate; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Specifications / Water resistance",
+              "evidence": "Product specification Water resistance: 100-meter water resistance",
+              "evidence_type": "normalized_technical_fact",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en",
+              "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+              "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        },
+        "series": {
+          "value": "Baby-G",
+          "sources": [
+            {
+              "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+              "accessed": "2026-11-15",
+              "locator": "Product family / official page classification",
+              "evidence": "Official product classified as Baby-G",
+              "evidence_type": "research_classification",
+              "permission": "official_public_reference",
+              "region": "us",
+              "language": "en"
+            }
+          ],
+          "uncertainty": "Research classification; regional marketing categories may differ",
+          "status": "pending_review",
+          "candidate_sha256": "ee945047748e7f8ae36c6deab05c814461a52b5becea55872a684133451dcba3"
+        }
+      }
     }
   },
   "modules": {
@@ -42520,6 +43475,580 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "d465eaca359b48910bbe40df3287891dd8e660e9ed362c9e13ac0c5b4ee4dde4"
+        }
+      }
+    },
+    "5664": {
+      "id": "5664",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Specifications and To change the day setting",
+              "evidence": "Module 5664: accuracy_seconds_per_month = 20",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c03ae4dcd599ecd015f23fcd6e2d63acca068cd73bc75c45723f268d3bdbee58"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Specifications and To change the day setting",
+              "evidence": "Module 5664: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c03ae4dcd599ecd015f23fcd6e2d63acca068cd73bc75c45723f268d3bdbee58"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR920SW"
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Specifications and To change the day setting",
+              "evidence": "Module 5664: power_supply = {'battery_type': 'SR920SW'}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c03ae4dcd599ecd015f23fcd6e2d63acca068cd73bc75c45723f268d3bdbee58"
+        },
+        "calendar": {
+          "value": {
+            "display": "day_of_month",
+            "month_length_days": 31,
+            "short_month_adjustment": "manual"
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / Specifications and To change the day setting",
+              "evidence": "Module 5664: calendar = {'display': 'day_of_month', 'month_length_days': 31, 'short_month_adjustment': 'manual'}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c03ae4dcd599ecd015f23fcd6e2d63acca068cd73bc75c45723f268d3bdbee58"
+        }
+      }
+    },
+    "5634": {
+      "id": "5634",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 20,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+              "evidence": "Module 5634: accuracy_seconds_per_month = 20",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45a123bdd61a0f834f27e278c8fc898da0b294b020a026ed2253b7fe4587876d"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+              "evidence": "Module 5634: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45a123bdd61a0f834f27e278c8fc898da0b294b020a026ed2253b7fe4587876d"
+        },
+        "power_supply": {
+          "value": {
+            "energy_source": "solar",
+            "battery": "rechargeable",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+              "evidence": "Module 5634: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45a123bdd61a0f834f27e278c8fc898da0b294b020a026ed2253b7fe4587876d"
+        },
+        "calendar": {
+          "value": {
+            "display": "day_of_month",
+            "month_length_days": 31,
+            "short_month_adjustment": "manual"
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+              "evidence": "Module 5634: calendar = {'display': 'day_of_month', 'month_length_days': 31, 'short_month_adjustment': 'manual'}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45a123bdd61a0f834f27e278c8fc898da0b294b020a026ed2253b7fe4587876d"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 1,
+            "max_display_seconds": 3599,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ],
+            "auto_stop_seconds": 3600
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+              "evidence": "Module 5634: stopwatch = {'resolution_seconds': 1, 'max_display_seconds': 3599, 'modes': ['elapsed', 'split', 'two_finishes'], 'auto_stop_seconds': 3600}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "45a123bdd61a0f834f27e278c8fc898da0b294b020a026ed2253b7fe4587876d"
+        }
+      }
+    },
+    "3489": {
+      "id": "3489",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 15,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: accuracy_seconds_per_month = 15",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "CR1616",
+            "count": 1
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "calendar": {
+          "value": {
+            "type": "auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: calendar = {'type': 'auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "alarm_count": {
+          "value": 1,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: alarm_count = 1",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 1,
+            "max_countdown_seconds": 86400,
+            "auto_repeat": true
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 1, 'max_countdown_seconds': 86400, 'auto_repeat': True}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_segments": [
+              {
+                "elapsed_seconds_below": 3600,
+                "resolution_seconds": 0.01
+              },
+              {
+                "elapsed_seconds_at_least": 3600,
+                "resolution_seconds": 1
+              }
+            ],
+            "max_display_seconds": 86399,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        },
+        "illumination": {
+          "value": {
+            "type": "EL",
+            "duration_after_release_seconds": 2,
+            "flash_alert": true
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+              "evidence": "Module 3489: illumination = {'type': 'EL', 'duration_after_release_seconds': 2, 'flash_alert': True}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "28db1e7a118d6d410f913256f61e734496bf8ab7f43852fdeac4399e29c5f5a0"
+        }
+      }
+    },
+    "5338": {
+      "id": "5338",
+      "specs": {
+        "accuracy_seconds_per_month": {
+          "value": 30,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: accuracy_seconds_per_month = 30",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "accuracy_condition": {
+          "value": "At normal temperature",
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: accuracy_condition = At normal temperature",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "power_supply": {
+          "value": {
+            "battery_type": "SR726W",
+            "count": 2
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: power_supply = {'battery_type': 'SR726W', 'count': 2}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "calendar": {
+          "value": {
+            "type": "full_auto",
+            "start_year": 2000,
+            "end_year": 2099
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "world_time_cities": {
+          "value": 48,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: world_time_cities = 48",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "world_time_zones": {
+          "value": 29,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: world_time_zones = 29",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "alarm_count": {
+          "value": 5,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: alarm_count = 5",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "snooze_alarm": {
+          "value": true,
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: snooze_alarm = True",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "stopwatch": {
+          "value": {
+            "resolution_seconds": 0.01,
+            "max_display_seconds": 86399.99,
+            "modes": [
+              "elapsed",
+              "split",
+              "two_finishes"
+            ]
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "timer": {
+          "value": {
+            "measurement_unit_seconds": 1,
+            "min_countdown_seconds": 60,
+            "max_countdown_seconds": 86400,
+            "setting_unit_seconds": 60
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
+        },
+        "illumination": {
+          "value": {
+            "type": "LED"
+          },
+          "uncertainty": "Official manual research transcription; independent review pending",
+          "sources": [
+            {
+              "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+              "accessed": "2026-11-15",
+              "locator": "PDF page 4 / E-38–E-39 Specifications",
+              "evidence": "Module 5338: illumination = {'type': 'LED'}",
+              "evidence_type": "normalized_technical_fact",
+              "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+              "permission": "official_public_reference"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0090630585acd882d62104469633c78ac674c7e3b12067b045f932b60c7ecd1a"
         }
       }
     }

@@ -1,0 +1,524 @@
+[
+  {
+    "kind": "module",
+    "id": "5664",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 20,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / Specifications and To change the day setting",
+            "evidence": "Module 5664: accuracy_seconds_per_month = 20",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / Specifications and To change the day setting",
+            "evidence": "Module 5664: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "SR920SW"
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / Specifications and To change the day setting",
+            "evidence": "Module 5664: power_supply = {'battery_type': 'SR920SW'}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "display": "day_of_month",
+          "month_length_days": 31,
+          "short_month_adjustment": "manual"
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / Specifications and To change the day setting",
+            "evidence": "Module 5664: calendar = {'display': 'day_of_month', 'month_length_days': 31, 'short_month_adjustment': 'manual'}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Module-specific table supplies SR920SW battery and normal-temperature accuracy. Date mechanism uses a 31-day month with manual adjustment for shorter months; no full-auto calendar inferred.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5634",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 20,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+            "evidence": "Module 5634: accuracy_seconds_per_month = 20",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+            "evidence": "Module 5634: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "energy_source": "solar",
+          "battery": "rechargeable",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+            "evidence": "Module 5634: power_supply = {'energy_source': 'solar', 'battery': 'rechargeable', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "display": "day_of_month",
+          "month_length_days": 31,
+          "short_month_adjustment": "manual"
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+            "evidence": "Module 5634: calendar = {'display': 'day_of_month', 'month_length_days': 31, 'short_month_adjustment': 'manual'}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 1,
+          "max_display_seconds": 3599,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ],
+          "auto_stop_seconds": 3600
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 2 / E-11 Day setting, E-12 Stopwatch and E-16 Specifications",
+            "evidence": "Module 5634: stopwatch = {'resolution_seconds': 1, 'max_display_seconds': 3599, 'modes': ['elapsed', 'split', 'two_finishes'], 'auto_stop_seconds': 3600}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Sixty-minute chronograph stops automatically at the end of 60 minutes. Date mechanism requires manual shorter-month adjustment. No automatic calendar or disposable battery type inferred for solar module.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3489",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: accuracy_seconds_per_month = 15",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "CR1616",
+          "count": 1
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: power_supply = {'battery_type': 'CR1616', 'count': 1}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: calendar = {'type': 'auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 1,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: alarm_count = 1",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 1,
+          "max_countdown_seconds": 86400,
+          "auto_repeat": true
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 1, 'max_countdown_seconds': 86400, 'auto_repeat': True}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_segments": [
+            {
+              "elapsed_seconds_below": 3600,
+              "resolution_seconds": 0.01
+            },
+            {
+              "elapsed_seconds_at_least": 3600,
+              "resolution_seconds": 1
+            }
+          ],
+          "max_display_seconds": 86399,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: stopwatch = {'resolution_segments': [{'elapsed_seconds_below': 3600, 'resolution_seconds': 0.01}, {'elapsed_seconds_at_least': 3600, 'resolution_seconds': 1}], 'max_display_seconds': 86399, 'modes': ['elapsed', 'split', 'two_finishes']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "EL",
+          "duration_after_release_seconds": 2,
+          "flash_alert": true
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 1 / E-4 General Guide; PDF page 3 / E-20–E-21 Specifications",
+            "evidence": "Module 3489: illumination = {'type': 'EL', 'duration_after_release_seconds': 2, 'flash_alert': True}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Shared guide explicitly names 3229/3421/3489. Module 3489 battery is CR1616; CR2016 row applies only to 3229/3421 and is not copied. Current product selector explicitly names 3489 for both BGD565 variants. Common function specifications are read from this guide.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5338",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 30,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: accuracy_seconds_per_month = 30",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "At normal temperature",
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: accuracy_condition = At normal temperature",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": {
+          "battery_type": "SR726W",
+          "count": 2
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: power_supply = {'battery_type': 'SR726W', 'count': 2}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "full_auto",
+          "start_year": 2000,
+          "end_year": 2099
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: calendar = {'type': 'full_auto', 'start_year': 2000, 'end_year': 2099}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: world_time_cities = 48",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: world_time_zones = 29",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: alarm_count = 5",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: snooze_alarm = True",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 86399.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two_finishes"
+          ]
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: stopwatch = {'resolution_seconds': 0.01, 'max_display_seconds': 86399.99, 'modes': ['elapsed', 'split', 'two_finishes']}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "measurement_unit_seconds": 1,
+          "min_countdown_seconds": 60,
+          "max_countdown_seconds": 86400,
+          "setting_unit_seconds": 60
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: timer = {'measurement_unit_seconds': 1, 'min_countdown_seconds': 60, 'max_countdown_seconds': 86400, 'setting_unit_seconds': 60}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      },
+      "illumination": {
+        "value": {
+          "type": "LED"
+        },
+        "uncertainty": "Official manual research transcription; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "PDF page 4 / E-38–E-39 Specifications",
+            "evidence": "Module 5338: illumination = {'type': 'LED'}",
+            "evidence_type": "normalized_technical_fact",
+            "scope_note": "Battery specification explicitly states two SR726W batteries. LED illumination is not assigned an unsupported auto-light or duration option. Functions remain separate from model water resistance and materials.",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

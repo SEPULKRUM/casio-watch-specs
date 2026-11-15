@@ -1,0 +1,71 @@
+{
+  "accessed": "2026-11-15",
+  "outcomes": [
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EFR-526D-1AV/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EFR-552D-1AV/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EFR-S108D-1AV/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+      "status": "researched",
+      "model": "EFB108D-1AV",
+      "manual_links": [
+        "EFB-108D-1AVCR||https://www.casio.com/us/support/watches/manual/?module=5664"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+      "status": "researched",
+      "model": "EFSS570D-1A",
+      "manual_links": [
+        "EFS-S570D-1ACR||https://www.casio.com/us/support/watches/manual/?module=5634"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+      "status": "researched",
+      "model": "BGD565-1",
+      "manual_links": [
+        "BGD-565-1CR||https://www.casio.com/us/support/watches/manual/?module=3489"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+      "status": "researched",
+      "model": "BGD565-7",
+      "manual_links": [
+        "BGD-565-7CR||https://www.casio.com/us/support/watches/manual/?module=3489"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BGD-560-1/",
+      "status": "http_error",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+      "status": "researched",
+      "model": "BA110-1A",
+      "manual_links": [
+        "BA-110-1ACR||https://www.casio.com/us/support/watches/manual/?module=5338"
+      ]
+    },
+    {
+      "url": "https://www.casio.com/us/watches/babyg/product.BGA-290-1A/",
+      "status": "http_error",
+      "http_status": 404
+    }
+  ],
+  "note": "Five exact-model official pages usable; five 404 endpoints excluded. No similar-model specifications or regional suffixes substituted."
+}

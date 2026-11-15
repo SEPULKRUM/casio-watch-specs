@@ -1,0 +1,762 @@
+[
+  {
+    "kind": "model",
+    "id": "EFB108D-1AV",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 47.5,
+          "width": 45.0,
+          "thickness": 8.7
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 47.5, 'width': 45.0, 'thickness': 8.7}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 133.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 133.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Stainless Steel Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Stainless Steel Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Sapphire Crystal",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Sapphire Crystal",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100-meter water resistance",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172"
+          }
+        ]
+      },
+      "series": {
+        "value": "Edifice",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Product family / official page classification",
+            "evidence": "Official product classified as Edifice",
+            "evidence_type": "research_classification",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en"
+          }
+        ],
+        "uncertainty": "Research classification; regional marketing categories may differ"
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "EFSS570D-1A",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 49.0,
+          "width": 44.0,
+          "thickness": 9.7
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 49.0, 'width': 44.0, 'thickness': 9.7}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 133.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 133.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Stainless steel",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Stainless Steel Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Stainless Steel Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Sapphire crystal with anti-reflective coating",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Sapphire crystal with anti-reflective coating",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100-meter water resistance",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b"
+          }
+        ]
+      },
+      "series": {
+        "value": "Edifice",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Product family / official page classification",
+            "evidence": "Official product classified as Edifice",
+            "evidence_type": "research_classification",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en"
+          }
+        ],
+        "uncertainty": "Research classification; regional marketing categories may differ"
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BGD565-1",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 42.1,
+          "width": 37.9,
+          "thickness": 11.3
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 42.1, 'width': 37.9, 'thickness': 11.3}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 30.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 30.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Resin Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100-meter water resistance",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217"
+          }
+        ]
+      },
+      "series": {
+        "value": "Baby-G",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Product family / official page classification",
+            "evidence": "Official product classified as Baby-G",
+            "evidence_type": "research_classification",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en"
+          }
+        ],
+        "uncertainty": "Research classification; regional marketing categories may differ"
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BGD565-7",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 42.1,
+          "width": 37.9,
+          "thickness": 11.3
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 42.1, 'width': 37.9, 'thickness': 11.3}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 30.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 30.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Resin Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100-meter water resistance",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c"
+          }
+        ]
+      },
+      "series": {
+        "value": "Baby-G",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Product family / official page classification",
+            "evidence": "Official product classified as Baby-G",
+            "evidence_type": "research_classification",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en"
+          }
+        ],
+        "uncertainty": "Research classification; regional marketing categories may differ"
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BA110-1A",
+    "specs": {
+      "dimensions_mm": {
+        "value": {
+          "length": 46.3,
+          "width": 43.4,
+          "thickness": 15.8
+        },
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case size (L× W× H)",
+            "evidence": "Product specification Case size (L× W× H): {'length': 46.3, 'width': 43.4, 'thickness': 15.8}",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 45.0,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Weight",
+            "evidence": "Product specification Weight: 45.0",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Resin",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Case and bezel material",
+            "evidence": "Product specification Case and bezel material: Resin",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin Band",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Band",
+            "evidence": "Product specification Band: Resin Band",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral Glass",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Glass",
+            "evidence": "Product specification Glass: Mineral Glass",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "100-meter water resistance",
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 100,
+        "uncertainty": "Official-source candidate; independent review pending",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Specifications / Water resistance",
+            "evidence": "Product specification Water resistance: 100-meter water resistance",
+            "evidence_type": "normalized_technical_fact",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45"
+          }
+        ]
+      },
+      "series": {
+        "value": "Baby-G",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Product family / official page classification",
+            "evidence": "Official product classified as Baby-G",
+            "evidence_type": "research_classification",
+            "permission": "official_public_reference",
+            "region": "us",
+            "language": "en"
+          }
+        ],
+        "uncertainty": "Research classification; regional marketing categories may differ"
+      }
+    }
+  }
+]

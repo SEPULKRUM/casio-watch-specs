@@ -1,0 +1,142 @@
+[
+  {
+    "kind": "model",
+    "id": "EFB108D-1AV",
+    "specs": {
+      "module_id": {
+        "value": "5664",
+        "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+            "evidence": "EFB108D-1AV manual selector explicitly contains module=5664",
+            "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172",
+            "research_sha256": "77f68c8a4739660a870bc63d03382f546ad03dc8188e604f391d0fb05a4c0e12",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5664/qw5664_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "Operation Guide identity / title",
+            "evidence": "Guide explicitly names module 5664",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "EFSS570D-1A",
+    "specs": {
+      "module_id": {
+        "value": "5634",
+        "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+            "evidence": "EFSS570D-1A manual selector explicitly contains module=5634",
+            "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b",
+            "research_sha256": "d1f8e58e4ae8cffcb61c13d3201b5027c44a1229d85c24f6189b25f6e9f6487d",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/56/5634/qw5634_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "Operation Guide identity / title",
+            "evidence": "Guide explicitly names module 5634",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BGD565-1",
+    "specs": {
+      "module_id": {
+        "value": "3489",
+        "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+            "evidence": "BGD565-1 manual selector explicitly contains module=3489",
+            "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217",
+            "research_sha256": "87eddd09bad23a143a5feebfa1bf9e802638643c653d38c4f5d8e78b03e50d25",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "Operation Guide identity / title",
+            "evidence": "Guide explicitly names module 3489 alongside 3229 and 3421; product selector specifically names 3489",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BGD565-7",
+    "specs": {
+      "module_id": {
+        "value": "3489",
+        "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+            "evidence": "BGD565-7 manual selector explicitly contains module=3489",
+            "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c",
+            "research_sha256": "e68f50c797c5f62c5511a6f117b7ce0769c60d2285b66595af220c5e359bdd9a",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3489/qw3489_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "Operation Guide identity / title",
+            "evidence": "Guide explicitly names module 3489 alongside 3229 and 3421; product selector specifically names 3489",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "BA110-1A",
+    "specs": {
+      "module_id": {
+        "value": "5338",
+        "uncertainty": "Current exact-model official manual selector explicitly specifies this module. Shared guide coverage does not establish other modules fitted to the model; historical revisions remain unverified.",
+        "sources": [
+          {
+            "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+            "accessed": "2026-11-15",
+            "locator": "Exact-model product specifications / buttonLinkList / official Manual selector",
+            "evidence": "BA110-1A manual selector explicitly contains module=5338",
+            "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45",
+            "research_sha256": "0d7f30f522826fe829be62bf3305a3c18b308a4c91388a7e6cbc821267dbb28b",
+            "permission": "official_public_reference"
+          },
+          {
+            "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/53/5338/qw5338_EN.pdf",
+            "accessed": "2026-11-15",
+            "locator": "Operation Guide identity / title",
+            "evidence": "Guide explicitly names module 5338",
+            "permission": "official_public_reference"
+          }
+        ]
+      }
+    }
+  }
+]

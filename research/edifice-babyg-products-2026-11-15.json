@@ -1,0 +1,91 @@
+{
+  "accessed": "2026-11-15",
+  "method": "Current official Edifice and Baby-G pages gathered with robots/access controls and parsed offline, including embedded Product specifications. Exact displayed identities retained. Explicit same-page module selectors recorded separately from generic shared-guide coverage.",
+  "products": [
+    {
+      "id": "EFB108D-1AV",
+      "series": "Edifice",
+      "url": "https://www.casio.com/us/watches/edifice/product.EFB-108D-1AV/",
+      "fields": {
+        "Case size (L× W× H)": "47.5 × 45 × 8.7 mm",
+        "Weight": "133 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\nSolid Band\nOne-touch 3-fold Clasp",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Sapphire Crystal"
+      },
+      "snapshot_sha256": "c57d5a2e60fe56cb1c0a12ee5c133c756e418d007fd4177c6c1450f1ef133172",
+      "manual_links": [
+        "EFB-108D-1AVCR||https://www.casio.com/us/support/watches/manual/?module=5664"
+      ]
+    },
+    {
+      "id": "EFSS570D-1A",
+      "series": "Edifice",
+      "url": "https://www.casio.com/us/watches/edifice/product.EFS-S570D-1A/",
+      "fields": {
+        "Case size (L× W× H)": "49 × 44 × 9.7 mm",
+        "Weight": "133 g",
+        "Case and bezel material": "Stainless steel",
+        "Band": "Stainless Steel Band\nOne-touch 3-fold Clasp",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Sapphire crystal with anti-reflective coating"
+      },
+      "snapshot_sha256": "bc85623cdbdb476ceee1093dcfd9bfe569fa1f400c11fc4ffa6deb68fa1b7c1b",
+      "manual_links": [
+        "EFS-S570D-1ACR||https://www.casio.com/us/support/watches/manual/?module=5634"
+      ]
+    },
+    {
+      "id": "BGD565-1",
+      "series": "Baby-G",
+      "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-1/",
+      "fields": {
+        "Case size (L× W× H)": "42.1 × 37.9 × 11.3 mm",
+        "Weight": "30 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "b86c74ac296d79d88fbdde0afbddc166240efb876cd0047684bd1ab93f838217",
+      "manual_links": [
+        "BGD-565-1CR||https://www.casio.com/us/support/watches/manual/?module=3489"
+      ]
+    },
+    {
+      "id": "BGD565-7",
+      "series": "Baby-G",
+      "url": "https://www.casio.com/us/watches/babyg/product.BGD-565-7/",
+      "fields": {
+        "Case size (L× W× H)": "42.1 × 37.9 × 11.3 mm",
+        "Weight": "30 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "44101f87deebab05b8fc2467f2bb0876d3f436d6866afee28e1e3df92d8ff72c",
+      "manual_links": [
+        "BGD-565-7CR||https://www.casio.com/us/support/watches/manual/?module=3489"
+      ]
+    },
+    {
+      "id": "BA110-1A",
+      "series": "Baby-G",
+      "url": "https://www.casio.com/us/watches/babyg/product.BA-110-1A/",
+      "fields": {
+        "Case size (L× W× H)": "46.3 × 43.4 × 15.8 mm",
+        "Weight": "45 g",
+        "Case and bezel material": "Resin",
+        "Band": "Resin Band",
+        "Water resistance": "100-meter water resistance",
+        "Glass": "Mineral Glass"
+      },
+      "snapshot_sha256": "01b8972876e853b867ca81cac232e032d0c80800e3a55e2fbe8d00d365889b45",
+      "manual_links": [
+        "BA-110-1ACR||https://www.casio.com/us/support/watches/manual/?module=5338"
+      ]
+    }
+  ]
+}
