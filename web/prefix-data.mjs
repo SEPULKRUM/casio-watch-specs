@@ -1,6 +1,7 @@
+import {researchEntries} from './research-prefix-data.mjs';
 // Family reference reused from SEPULKRUM/watch-code-decoder/prefixes (read-only).
 // Additional catalog-backed EFB, BGD, BA and GD family associations.
-export const entries=[
+const baseEntries=[
   [
     "Casio / G-SHOCK",
     "DW",
@@ -28,7 +29,7 @@ export const entries=[
   [
     "G-SHOCK",
     "GMW",
-    "Full-metal G-SHOCK family",
+    "Modern full-metal G-SHOCK family; historical GMW identifiers also occur and need exact-model context",
     "GMW-B5000"
   ],
   [
@@ -46,7 +47,7 @@ export const entries=[
   [
     "G-SHOCK",
     "GM",
-    "Metal-covered G-SHOCK family",
+    "Modern metal-covered G-SHOCK family; historical GM identifiers also occur and need exact-model context",
     "GM-2100"
   ],
   [
@@ -82,13 +83,13 @@ export const entries=[
   [
     "G-SHOCK",
     "GG",
-    "MUDMASTER family",
+    "Modern MUDMASTER family; historical uses require exact-model evidence",
     "GG-B100"
   ],
   [
     "G-SHOCK",
     "GWG",
-    "MUDMASTER family",
+    "Modern MUDMASTER family; historical uses require exact-model evidence",
     "GWG-1000"
   ],
   [
@@ -334,13 +335,15 @@ export const entries=[
   [
     "BABY-G",
     "BA",
-    "BABY-G analog-digital model family",
+    "Modern BABY-G analog-digital family; historical BA identifiers also occur and need exact-model context",
     "BA-110"
   ],
   [
     "G-SHOCK",
     "GD",
-    "G-SHOCK digital model family",
+    "Modern G-SHOCK digital family; historical GD identifiers also occur and need exact-model context",
     "GD-010"
   ]
 ];
+
+export const entries=[...baseEntries,...researchEntries];

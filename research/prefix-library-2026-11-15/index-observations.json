@@ -1,0 +1,8 @@
+{
+  "review_scope": "Selected model identifiers visually checked in the collector compilation index, not the underlying advertisements or all specification fields. These are secondary observations, not official letter expansions.",
+  "pages": {
+    "2": ["AA-85", "AT-550", "AX-210", "BP-100", "C-80", "CD-40", "CFX200", "FT200W", "H108", "IA1000"],
+    "3": ["TC-50", "TE-2500", "TS-1000", "B815", "SA-50", "CS-82", "GF-1", "GG-9", "GM-40", "M12", "FL-70C", "LW-50", "WW-5100C", "TW-7100C", "S-50W-1", "WS-76", "GC-7-1", "GS-2-1", "GD-8-1", "CM-32-1", "DF-10R-1", "CL-301", "FS-21A", "110QS-37B", "83QS-41B"],
+    "4": ["RW-100", "SW-110", "SDB-300W", "CFS-80", "DBS-53", "AB-200", "AQW-40", "MQA-10W", "STW-100-1V", "EXW-50-1AV", "JP-100W-1BV", "DBT-70W-1V", "DBX-100-1A", "DBA-80-1", "TGW-10G-1V", "DGW-30-1V", "BM-100W-1V", "GMW-15-1V", "CGW-50-1V", "MAP-100-1V", "AW-10-1BV", "ARW-320AT-1E2V", "AMW-320C-9EV"]
+  }
+}

@@ -1,9 +1,10 @@
 import {value,moduleIds,findModels,stats,safeUrl,validateData,label,display,evidenceLabel,recordEvidenceLabel} from './core.mjs';
-import {decodeModel} from './decoder.mjs';
+import {decodeModel,entries} from './decoder.mjs';
+import {validateReferences,findReferences,referenceStatus} from './model-references.mjs';
 import {prefixLetters,modelColor,officialProductLink} from './decoder-presentation.mjs';
 import {validateParts,partsForModel} from './parts.mjs';
 const $=s=>document.querySelector(s), el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
-let productLinks=null,data=null,parts=null,partsUnavailable=false,state={query:'',family:'',verified:false},activeModel=null,lastDecode=null;
+let references=null,productLinks=null,data=null,parts=null,partsUnavailable=false,state={query:'',family:'',verified:false},activeModel=null,lastDecode=null;
 const repo='https://github.com/SEPULKRUM/casio-watch-specs';
 function link(text,url){const a=el('a',text);const valid=safeUrl(url);if(valid){a.href=valid;a.target='_blank';a.rel='noopener noreferrer'}return a}
 function status(text){$('#data-status').textContent=text}
@@ -60,12 +61,40 @@ function openModel(id,write=true){
  body.append(moduleSection);if(write)history.replaceState(null,'',`#model=${encodeURIComponent(model.id)}`);if(!$('#detail').open)$('#detail').showModal();$('#detail').scrollTop=0;
 }
 
+function renderReferenceMatches(query){
+ const root=$('#reference-matches');root.replaceChildren();
+ if(!references)return;
+ const found=findReferences(references,query);if(!query.trim())return;
+ const header=el('p',`${found.total} matching model / series references${found.total>found.models.length?` · showing ${found.models.length}`:''}`,'reference-count');root.append(header);
+ if(!found.total)return;
+ root.append(el('p','Research identifiers may be partial or misread. These are separate from specification records. An index check confirms a mention, not the watch’s features.','decoder-disclosure'));
+ for(const model of found.models){
+  const item=el('details',undefined,'reference-item'),summary=el('summary');summary.append(el('strong',model.id),el('small',referenceStatus(model)));item.append(summary);
+  if(model.reading_flags.length)item.append(el('p','Reading needs extra review: '+model.reading_flags.join(' · '),'unknowns'));
+  for(const observation of model.observations.slice(0,5)){
+   const source=references.sources[observation.source_id];
+   const text=source.filename+(observation.pdf_page?` · PDF page ${observation.pdf_page}`:'')+(observation.compilation_page?` · compilation page ${observation.compilation_page}`:'')+(observation.line?` · line ${observation.line}`:'');
+   item.append(el('p',text,'source-location'));
+   if(source.availability.startsWith('received_zip_research_note'))item.append(el('small','Supplied research note only; not primary model verification.'));
+   else if(source.availability!=='received_pdf')item.append(el('small','Original source not included in the seven uploads; page claim remains unverified.'));
+  }
+  if(model.observations.length>5)item.append(el('small',`${model.observations.length-5} further observations in the download.`));
+  const use=el('button','Decode this reference','text-button');use.type='button';use.addEventListener('click',()=>submitPrefix(model.id));item.append(use);root.append(item);
+ }
+}
+async function loadReferences(remote=false){
+ try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/model-references.json':'model-references.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error();references=validateReferences(await r.json());$('#reference-coverage').textContent=`${entries.length} prefix patterns · ${references.counts.model_strings.toLocaleString()} research model strings · ${references.counts.index_checked} index identifiers checked`;renderPrefix($('#prefix-input').value)}
+ catch{if(!references)$('#reference-coverage').textContent='Research model references unavailable; prefix decoding still works.'}
+}
+
 function renderPrefix(query,force=false){
- const result=decodeModel(query,data),root=$('#prefix-result');lastDecode=result;
+ renderReferenceMatches(query);
+ const result=decodeModel(query,data,references),root=$('#prefix-result');lastDecode=result;
  if(!result.recognized){root.replaceChildren();root.hidden=!force||result.empty;if(!root.hidden)root.append(el('p',result.reason,'decode-missing'));return result}
  root.hidden=false;root.replaceChildren();const header=el('div',undefined,'decode-header');header.append(el('h3',result.normalized),el('span',result.family,'decode-family'));root.append(header);
+ if(result.references?.length)root.append(el('p',referenceStatus(result.references[0])+' · Model / series mention only; specifications are separate.','decode-coverage'));
  const letters=el('div',undefined,'prefix-letters');
- for(const item of prefixLetters(result.prefix)){
+ for(const item of prefixLetters(result.prefix,{historical:result.historicalReference})){
   const cell=el('div',undefined,'prefix-letter'),tile=el('span',item.letter,'letter-tile');tile.style.backgroundColor=item.background;tile.setAttribute('aria-label',`Prefix letter ${item.position}: ${item.letter}`);
   cell.append(tile,el('p',item.meaning),el('small',item.evidence));letters.append(cell);
  }
@@ -92,5 +121,5 @@ function installData(next){data=validateData(next);const s=stats(data);$('#model
 }
 async function loadParts(remote=false){try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/parts-links.json':'parts-links.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Parts references unavailable');parts=validateParts(await r.json());partsUnavailable=false}catch{if(!parts)partsUnavailable=true}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
 async function loadProductLinks(){try{const r=await fetch('official-product-links.json',{cache:'no-store'});if(!r.ok)throw Error();const next=await r.json();if(next.schema_version===1&&next.models)productLinks=next}catch{productLinks=null}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
-async function load(remote=false){loadParts(remote);loadProductLinks();$('#refresh').disabled=true;status(remote?'Checking GitHub…':'Loading catalog…');try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/catalog.json':'catalog.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error(`Catalog request returned ${r.status}.`);const next=await r.json();installData(next);status(remote?'Latest GitHub data loaded':'Bundled catalog loaded');$('#updated').textContent=remote?'Refreshed just now · main branch':'Snapshot · 15 November 2026'}catch(e){if(data)status('Refresh unavailable · showing saved snapshot');else{$('#load-error').hidden=false;$('#load-message').textContent=e.message;status('Catalog unavailable')}}finally{$('#refresh').disabled=false}}
-$('#prefix-form').addEventListener('submit',e=>{e.preventDefault();submitPrefix($('#prefix-input').value)});for(const b of document.querySelectorAll('[data-model]'))b.addEventListener('click',()=>submitPrefix(b.dataset.model));$('#prefix-input').addEventListener('input',e=>renderPrefix(e.target.value));$('#search').addEventListener('input',e=>{state.query=e.target.value;const decoded=decodeModel(state.query,data);if(decoded.recognized)$('#prefix-input').value=state.query;render()});$('#family-select').addEventListener('change',e=>setFamily(e.target.value));$('#verified').addEventListener('change',e=>{state.verified=e.target.checked;render()});$('#refresh').addEventListener('click',()=>load(true));$('#retry').addEventListener('click',()=>load());$('#reset').addEventListener('click',()=>{state={query:'',family:'',verified:false};$('#search').value='';$('#prefix-input').value='';$('#verified').checked=false;setFamily('')});$('#close').addEventListener('click',closeDetail);$('#detail').addEventListener('cancel',e=>{e.preventDefault();closeDetail()});$('#detail').addEventListener('click',e=>{if(e.target===$('#detail')){const r=$('#detail').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right)closeDetail()}});window.addEventListener('hashchange',()=>{const id=readHash();if(id&&data)openModel(id,false);else closeDetail()});document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName)&&!$('#detail').open){e.preventDefault();$('#search').focus()}});load();
+async function load(remote=false){loadParts(remote);loadProductLinks();loadReferences(remote);$('#refresh').disabled=true;status(remote?'Checking GitHub…':'Loading catalog…');try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/catalog.json':'catalog.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error(`Catalog request returned ${r.status}.`);const next=await r.json();installData(next);status(remote?'Latest GitHub data loaded':'Bundled catalog loaded');$('#updated').textContent=remote?'Refreshed just now · main branch':'Snapshot · 15 November 2026'}catch(e){if(data)status('Refresh unavailable · showing saved snapshot');else{$('#load-error').hidden=false;$('#load-message').textContent=e.message;status('Catalog unavailable')}}finally{$('#refresh').disabled=false}}
+$('#prefix-form').addEventListener('submit',e=>{e.preventDefault();submitPrefix($('#prefix-input').value)});for(const b of document.querySelectorAll('[data-model]'))b.addEventListener('click',()=>submitPrefix(b.dataset.model));$('#prefix-input').addEventListener('input',e=>renderPrefix(e.target.value));$('#search').addEventListener('input',e=>{state.query=e.target.value;const decoded=decodeModel(state.query,data,references);if(decoded.recognized)$('#prefix-input').value=state.query;render()});$('#family-select').addEventListener('change',e=>setFamily(e.target.value));$('#verified').addEventListener('change',e=>{state.verified=e.target.checked;render()});$('#refresh').addEventListener('click',()=>load(true));$('#retry').addEventListener('click',()=>load());$('#reset').addEventListener('click',()=>{state={query:'',family:'',verified:false};$('#search').value='';$('#prefix-input').value='';$('#verified').checked=false;setFamily('')});$('#close').addEventListener('click',closeDetail);$('#detail').addEventListener('cancel',e=>{e.preventDefault();closeDetail()});$('#detail').addEventListener('click',e=>{if(e.target===$('#detail')){const r=$('#detail').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right)closeDetail()}});window.addEventListener('hashchange',()=>{const id=readHash();if(id&&data)openModel(id,false);else closeDetail()});document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName)&&!$('#detail').open){e.preventDefault();$('#search').focus()}});load();

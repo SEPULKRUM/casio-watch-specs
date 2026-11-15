@@ -2,16 +2,17 @@
 export const letterPalette=['#8a2940','#17607b','#654397','#386337','#72562e','#684766'];
 const colorNames=['','Black','Blue','Green','Red','Brown','Purple','White','Silver / gray','Yellow / gold'];
 export const colorSwatches=['','#111111','#176db4','#287b43','#c73336','#805334','#75459c','#ffffff','#a5a8ae','#d1ad3e'];
-export function prefixLetters(prefix){
+export function prefixLetters(prefix,context={}){
  return [...prefix].map((letter,index)=>{
   let meaning='Meaning unverified',evidence='unverified';
-  if(index===0&&letter==='G'&& !['GL','GLX'].includes(prefix)){meaning='G-SHOCK brand association; no universal letter expansion established';evidence='secondary_reported'}
-  if(prefix==='GPW'&&letter==='P'){meaning='Positioning / GPS — proposed community interpretation';evidence='community_interpretation'}
-  if(['GPW','GWG','GW','GMW','PRW'].includes(prefix)&&letter==='W'){meaning='Wave Ceptor — proposed community interpretation';evidence='community_interpretation'}
+  if(index===0&&letter==='G'&&!context.historical&&['G','GA','GW','GMW','GM','GST','GBD','GBA','GBX','GWF','GG','GWG','GPR','GX','GR','GWX','GWN','GD','GPW'].includes(prefix)){meaning='G-SHOCK brand association; no universal letter expansion established';evidence='secondary_reported'}
+  if(!context.historical&&prefix==='GPW'&&letter==='P'){meaning='Positioning / GPS — proposed community interpretation';evidence='community_interpretation'}
+  if(!context.historical&&['GPW','GWG','GW','GMW','PRW'].includes(prefix)&&letter==='W'){meaning='Wave Ceptor — proposed community interpretation';evidence='community_interpretation'}
   return {letter,position:index+1,meaning,evidence,background:letterPalette[index%letterPalette.length]};
  });
 }
 export function modelColor(result){
+ if(result.historicalReference&&!result.exact)return null;
  const variant=result.segments?.find(s=>s.type==='variant');
  const digit=variant?.token.match(/^[1-9]/)?.[0];
  if(!digit)return null;
