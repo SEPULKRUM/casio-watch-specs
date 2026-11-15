@@ -1,3 +1,4 @@
+import {combinedReference} from './combined-reference.mjs';
 import {historicalReview} from './historical-review.mjs';
 import {guideReferenceSections} from './guide-interpretations.mjs';
 import {decoderDisclosure,decoderRules,evidenceName} from './decoder-rules.mjs';
@@ -74,10 +75,10 @@ function renderReferenceMatches(query){
  for(const model of found.models){
   const item=el('details',undefined,'reference-item'),summary=el('summary');summary.append(el('strong',model.id),el('small',referenceStatus(model)));item.append(summary);
   if(model.reading_flags.length)item.append(el('p','Reading needs extra review: '+model.reading_flags.join(' · '),'unknowns'));
-  for(const observation of model.observations.slice(0,5)){
+  for(const observation of [...model.observations].sort((a,b)=>Number(b.source_id.includes('combined-model-specifications'))-Number(a.source_id.includes('combined-model-specifications'))).slice(0,5)){
    const source=references.sources[observation.source_id];
    const text=source.filename+(observation.catalog_year?` · ${observation.catalog_year} catalog p. ${observation.catalog_page}`:'')+(observation.pdf_page?` · PDF page ${observation.pdf_page}`:'')+(observation.compilation_page?` · compilation page ${observation.compilation_page}`:'')+(observation.line?` · line ${observation.line}`:'');
-   item.append(el('p',text,'source-location'));
+   item.append(el('p',text,'source-location'));if(observation.reading_scope)item.append(el('small','Source scope: '+observation.reading_scope.replace(/_/g,' ')));
    if(source.availability==='received_secondary_guide')item.append(el('small','Supplied reference guide; model features and letter meanings need independent verification.'));
    else if(source.availability.startsWith('received_zip_research_note'))item.append(el('small','Supplied research note only; not primary model verification.'));
    else if(source.availability!=='received_pdf')item.append(el('small','Original source not included in the seven uploads; page claim remains unverified.'));
@@ -131,6 +132,10 @@ function installData(next){data=validateData(next);const s=stats(data);$('#model
 async function loadParts(remote=false){try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/parts-links.json':'parts-links.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Parts references unavailable');parts=validateParts(await r.json());partsUnavailable=false}catch{if(!parts)partsUnavailable=true}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
 async function loadProductLinks(){try{const r=await fetch('official-product-links.json',{cache:'no-store'});if(!r.ok)throw Error();const next=await r.json();if(next.schema_version===1&&next.models)productLinks=next}catch{productLinks=null}if(activeModel&&data&&$('#detail').open)openModel(activeModel,false)}
 async function load(remote=false){loadParts(remote);loadProductLinks();loadReferences(remote);$('#refresh').disabled=true;status(remote?'Checking GitHub…':'Loading catalog…');try{const url=remote?'https://raw.githubusercontent.com/SEPULKRUM/casio-watch-specs/main/data/catalog.json':'catalog.json';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error(`Catalog request returned ${r.status}.`);const next=await r.json();installData(next);status(remote?'Latest GitHub data loaded':'Bundled catalog loaded');$('#updated').textContent=remote?'Refreshed just now · main branch':'Snapshot · 15 November 2026'}catch(e){if(data)status('Refresh unavailable · showing saved snapshot');else{$('#load-error').hidden=false;$('#load-message').textContent=e.message;status('Catalog unavailable')}}finally{$('#refresh').disabled=false}}
+for(const note of combinedReference.limits)$('#combined-cautions').append(el('li',note));
+for(const table of combinedReference.tables){const group=el('details'),summary=el('summary',`${table.title||table.kind.replace(/_/g,' ')} · supplied compilation p. ${table.page} · ${table.rows.length} entries`),list=el('div',undefined,'structured');for(const row of table.rows){const item=el('details'),title=el('summary',row[0]),body=el('div',undefined,'structured');structured(Object.fromEntries(table.columns.map((name,i)=>[name,row[i]])),body);item.append(title,body);list.append(item)}group.append(summary,list);$('#combined-reference-tables').append(group)}
+for(const row of combinedReference.reported_references){const item=el('li',row.label+' — '+row.status+' · compilation p. '+row.extraction_pdf_page);$('#combined-reported-list').append(item)}
+for(const [key,value] of Object.entries(combinedReference.source_register))$('#combined-source-register').append(el('li',key+' — '+value));
 for(const row of historicalReview){const item=el('li',`${row.reading} — possible module ${row.possible_module||'not established'} · ${row.catalog_year} catalog p. ${row.catalog_page} · extraction PDF p. ${row.extraction_pdf_page}. Visual review required; model identity and module assignment unconfirmed.`);$('#historical-review-list').append(item)}
 for(const section of guideReferenceSections()){const group=el('details'),summary=el('summary',section.title),list=el('ul');for(const text of section.items)list.append(el('li',text));group.append(summary,list);$('#guide-reference').append(group)}
 $('#decoder-disclosure').textContent=decoderDisclosure;for(const rule of decoderRules)$('#decoder-rules').append(el('li',rule));

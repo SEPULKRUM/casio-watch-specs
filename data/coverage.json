@@ -1,22 +1,23 @@
 {
-  "models": 459,
-  "modules": 202,
+  "models": 526,
+  "modules": 213,
   "facts_by_status": {
-    "pending_review": 3916
+    "pending_review": 4549
   },
   "models_by_series": {
     "Baby-G": 7,
+    "Casio Beside": 4,
     "Casio Databank": 3,
     "Casio Dress": 1,
     "Casio Historical": 259,
     "Casio Historical Clocks": 4,
     "Casio Sports": 2,
-    "Casio Standard": 8,
+    "Casio Standard": 16,
     "Casio Vintage": 3,
     "Edifice": 6,
-    "G-SHOCK": 86,
+    "G-SHOCK": 105,
     "Lineage": 17,
-    "Oceanus": 22,
+    "Oceanus": 58,
     "Pathfinder": 4,
     "Pro Trek": 13,
     "Wave Ceptor": 24
@@ -307,6 +308,72 @@
       "glass",
       "water_resistance_rating"
     ],
+    "AW-500": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AW-500BUA-1E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AW-500UA-1E": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AWG-500UAJ-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AWG-525UAJ-7A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AWG-M500BY-1AJR": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AWG-M510BY-7AJR": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "AWG-M520UA-1EJR": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "AWM-500UA-1AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "AX-250": [
       "dimensions_mm",
       "weight_g",
@@ -353,6 +420,18 @@
       "weight_g",
       "case_material",
       "glass"
+    ],
+    "BMS-500D-1A": [
+      "water_resistance_rating"
+    ],
+    "BMS-500D-7A": [
+      "water_resistance_rating"
+    ],
+    "BMS-500L-1A": [
+      "water_resistance_rating"
+    ],
+    "BMS-500L-7A": [
+      "water_resistance_rating"
     ],
     "C-80": [
       "dimensions_mm",
@@ -570,6 +649,60 @@
       "band_material",
       "glass"
     ],
+    "DW-285-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "water_resistance_rating"
+    ],
+    "DW-285C-2V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "water_resistance_rating"
+    ],
+    "DW-285C-9V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "water_resistance_rating"
+    ],
+    "DW-285D-8V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "water_resistance_rating"
+    ],
+    "DW-285G-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "water_resistance_rating"
+    ],
+    "DW-290-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-290B-2V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-290G-9V": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "DW-300": [
       "dimensions_mm",
       "weight_g",
@@ -651,6 +784,34 @@
       "case_material",
       "band_material",
       "glass"
+    ],
+    "DW-H5600-1": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-H5600-2": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-H5600MB-1": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-H5600MB-2": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "EF503D-1AV": [
       "dimensions_mm",
@@ -932,6 +1093,15 @@
       "case_material",
       "glass"
     ],
+    "GBX-H5600-1": [
+      "water_resistance_rating"
+    ],
+    "GBX-H5600-2": [
+      "water_resistance_rating"
+    ],
+    "GBX-H5600KI-5": [
+      "water_resistance_rating"
+    ],
     "GF-1": [
       "dimensions_mm",
       "weight_g",
@@ -1079,6 +1249,15 @@
       "dimensions_mm",
       "case_material",
       "glass"
+    ],
+    "GWR-B3000-1A": [
+      "water_resistance_rating"
+    ],
+    "GWR-B3000A-2A": [
+      "water_resistance_rating"
+    ],
+    "GWR-B3000B-8A": [
+      "water_resistance_rating"
     ],
     "L-10-1": [
       "dimensions_mm",
@@ -2083,6 +2262,251 @@
       "glass",
       "water_resistance_rating"
     ],
+    "OCW-S3400-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S400-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S400-2AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S400-3AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S5000B-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S5000E-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-S6000BV-1AJR": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000-1AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000-7AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000B-1AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000D-2AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000E-2AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1000F-2AJF": [
+      "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600-1A2JF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600-1A3JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600-2A2JF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600-2A3JF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600-2AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600ALA-2AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600ALB-2AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600AP-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600B-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600G-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600J-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600J-7AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600JB-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600L-1AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600RA-8AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600RL-3AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2600SG-3AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2610BR-1AJR": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2610C-7AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2610F-2AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T2610H-7AJF": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T6000A-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "OCW-T6000BV-2AJR": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "PAG240-1": [
       "dimensions_mm",
       "case_material",
@@ -2298,6 +2722,13 @@
     "A700W-1A",
     "AE-1200WH-1AV",
     "AMW320R-1EV",
+    "AW-500",
+    "AW-500BUA-1E",
+    "AWG-500UAJ-1A",
+    "AWG-525UAJ-7A",
+    "AWG-M500BY-1AJR",
+    "AWG-M510BY-7AJR",
+    "AWM-500UA-1AJR",
     "BG1006SA-1",
     "BG169R-1",
     "CA-53W-1",
@@ -2305,6 +2736,9 @@
     "DA-106",
     "DBC-600G",
     "DQ-300",
+    "DW-290-1V",
+    "DW-290B-2V",
+    "DW-290G-9V",
     "F-91W-1",
     "G-9300-1",
     "G100-1BV",
@@ -2322,12 +2756,21 @@
     "MQ-60W-7B",
     "MRW-200H-1BV",
     "OCW-S100-1AJF",
+    "OCW-S3400-1AJF",
+    "OCW-S400-1AJF",
+    "OCW-S400-2AJF",
+    "OCW-S400-3AJF",
+    "OCW-S5000B-1AJF",
+    "OCW-S5000E-1AJF",
+    "OCW-S6000BV-1AJR",
     "OCW-T150-1AJF",
+    "OCW-T6000A-1AJF",
+    "OCW-T6000BV-2AJR",
     "PQ-5",
     "W-800H-1AV",
     "W150C-1"
   ],
-  "models_with_single_module_reference": 427,
+  "models_with_single_module_reference": 475,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -2365,10 +2808,16 @@
     "ARW-320AT-1E2V": "376",
     "AT-552": "320",
     "AT-552G": "320",
+    "AW-500UA-1E": "380",
+    "AWG-M520UA-1EJR": "5640",
     "AX-250": "145",
     "B-210": "400",
     "B612W-1": "350",
     "B612WG-9": "350",
+    "BMS-500D-1A": "5770",
+    "BMS-500D-7A": "5770",
+    "BMS-500L-1A": "5770",
+    "BMS-500L-7A": "5770",
     "C-80": "133",
     "C-801-1": "133",
     "C-801-7": "133",
@@ -2393,6 +2842,13 @@
     "DW-1500C-1V": "690",
     "DW-210": "548",
     "DW-260-1V": "690",
+    "DW-285-1V": "1848",
+    "DW-285C-2V": "1848",
+    "DW-285C-9V": "1848",
+    "DW-285D-8V": "1848",
+    "DW-285G-1V": "1848",
+    "DW-290-1V": null,
+    "DW-290G-9V": null,
     "DW-300": "548",
     "DW-3000C": "548",
     "DW-310-1V": "690",
@@ -2404,6 +2860,10 @@
     "DW-5600C-1V": "691",
     "DW-5600C-9BV": "691",
     "DW-5700C-9V": "691",
+    "DW-H5600-1": "3516",
+    "DW-H5600-2": "3516",
+    "DW-H5600MB-1": "3516",
+    "DW-H5600MB-2": "3516",
     "F-105W-1A": "1275",
     "F-14": "350",
     "F-18-1": "695",
@@ -2436,6 +2896,9 @@
     "FS-21A": "465",
     "FS-21B": "465",
     "FS-50": "466",
+    "GBX-H5600-1": "3586",
+    "GBX-H5600-2": "3586",
+    "GBX-H5600KI-5": "3586",
     "GD-010CE-5": "3569",
     "GF-1": "209",
     "GF-11": "209",
@@ -2444,6 +2907,9 @@
     "GM-301": "222",
     "GM-40": "245",
     "GM-50": "222",
+    "GWR-B3000-1A": "5756",
+    "GWR-B3000A-2A": "5756",
+    "GWR-B3000B-8A": "5756",
     "L-10-1": "83",
     "L-20-28": "87",
     "L-20-2A": "87",
@@ -2570,6 +3036,33 @@
     "MTP-1302D-1A1V": "2784",
     "MW-101-7A2V": "394",
     "MW31-98V": "388",
+    "OCW-T1000-1AJF": "5141",
+    "OCW-T1000-7AJF": "5141",
+    "OCW-T1000B-1AJF": "5141",
+    "OCW-T1000D-2AJF": "5141",
+    "OCW-T1000E-2AJF": "5141",
+    "OCW-T1000F-2AJF": "5141",
+    "OCW-T2600-1A2JF": "5347",
+    "OCW-T2600-1A3JF": "5347",
+    "OCW-T2600-2A2JF": "5347",
+    "OCW-T2600-2A3JF": "5347",
+    "OCW-T2600-2AJF": "5347",
+    "OCW-T2600ALA-2AJR": "5347",
+    "OCW-T2600ALB-2AJR": "5347",
+    "OCW-T2600AP-1AJF": "5347",
+    "OCW-T2600B-1AJF": "5347",
+    "OCW-T2600G-1AJF": "5347",
+    "OCW-T2600J-1AJF": "5347",
+    "OCW-T2600J-7AJF": "5347",
+    "OCW-T2600JB-1AJF": "5347",
+    "OCW-T2600L-1AJF": "5347",
+    "OCW-T2600RA-8AJF": "5347",
+    "OCW-T2600RL-3AJR": "5347",
+    "OCW-T2600SG-3AJR": "5347",
+    "OCW-T2610BR-1AJR": "5347",
+    "OCW-T2610C-7AJF": "5347",
+    "OCW-T2610F-2AJF": "5347",
+    "OCW-T2610H-7AJF": "5347",
     "PRG-270-1": "3415",
     "PRJ-B001-1": "5732",
     "PRJ-B001-7": "5732",
@@ -2629,6 +3122,15 @@
       "438",
       "3208"
     ],
+    "DW-290-1V": [
+      "1219",
+      "1189",
+      "3231"
+    ],
+    "DW-290G-9V": [
+      "1219",
+      "1189"
+    ],
     "F-91W-1": [
       "593",
       "1271"
@@ -2687,53 +3189,72 @@
     ]
   },
   "models_without_any_module_reference": [
+    "AW-500",
+    "AW-500BUA-1E",
+    "AWG-500UAJ-1A",
+    "AWG-525UAJ-7A",
+    "AWG-M500BY-1AJR",
+    "AWG-M510BY-7AJR",
+    "AWM-500UA-1AJR",
     "DA-101",
     "DA-106",
     "DBC-600G",
     "DQ-300",
+    "DW-290B-2V",
     "LQ-11W-7G",
     "LQ-820G",
     "LW-11F-4",
     "LW-401C-1",
     "MQ-60W-7B",
+    "OCW-S3400-1AJF",
+    "OCW-S400-1AJF",
+    "OCW-S400-2AJF",
+    "OCW-S400-3AJF",
+    "OCW-S5000B-1AJF",
+    "OCW-S5000E-1AJF",
+    "OCW-S6000BV-1AJR",
+    "OCW-T6000A-1AJF",
+    "OCW-T6000BV-2AJR",
     "PQ-5",
     "W150C-1"
   ],
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 91,
-    "accuracy_seconds_per_month": 107,
-    "alarm_count": 78,
-    "battery_cell": 1,
-    "calendar": 103,
+    "accuracy_condition": 95,
+    "accuracy_seconds_per_month": 116,
+    "alarm_count": 85,
+    "battery_cell": 2,
+    "battery_runtime": 1,
+    "calendar": 107,
     "catalog_features": 14,
     "catalog_reference": 91,
     "depth_meter": 1,
     "digital_compass": 1,
     "display_polarity": 2,
     "dive_log": 1,
-    "illumination": 43,
-    "power_supply": 86,
-    "radio_reception": 13,
+    "illumination": 46,
+    "power_supply": 96,
+    "radio_reception": 14,
     "snooze_alarm": 36,
-    "stopwatch": 51,
+    "stopwatch": 54,
+    "supplied_module_specifications": 12,
     "thermometer": 1,
     "tide_moon": 1,
-    "timer": 37,
-    "world_time_cities": 66,
-    "world_time_zones": 66
+    "timer": 40,
+    "world_time_cities": 70,
+    "world_time_zones": 69
   },
   "module_profiles_by_fact_count": {
-    "1": 75,
+    "1": 76,
     "2": 18,
     "3": 12,
-    "4": 12,
-    "5": 16,
+    "4": 14,
+    "5": 18,
     "6": 15,
-    "7": 10,
-    "8": 8,
-    "9": 3,
+    "7": 13,
+    "8": 10,
+    "9": 4,
     "10": 13,
     "11": 12,
     "12": 7,
@@ -2799,6 +3320,7 @@
     "3506",
     "3515",
     "376",
+    "380",
     "388",
     "394",
     "400",

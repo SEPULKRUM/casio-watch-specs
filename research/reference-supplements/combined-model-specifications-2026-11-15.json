@@ -1,0 +1,727 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:combined-model-specifications-2026-11-15",
+  "source": {
+    "filename": "Casio_Combined_Model_Specifications_TEXT_ONLY.pdf",
+    "sha256": "d38907805da25a4f2e406306a1f54fdd94317873260be02cd86ff0c8d530e2e1",
+    "pages": 12,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied consolidation of nine PDFs and one packaging photo; original sources not independently rechecked"
+  },
+  "models": [
+    {
+      "id": "AW-500",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AW-500BUA-1E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AW-500UA-1E",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-500UAJ-1A",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-525UAJ-7A",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M500BY-1AJR",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M510BY-7AJR",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M520UA",
+      "pages": [
+        4,
+        5
+      ],
+      "reading_status": "supplied_regional_or_short_alias_not_additional_variant"
+    },
+    {
+      "id": "AWG-M520UA-1EJR",
+      "pages": [
+        4,
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWM-500UA-1AJR",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BMS-500D-1A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BMS-500D-7A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BMS-500L-1A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BMS-500L-7A",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-285-1V",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-285C-2V",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-285C-9V",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-285D-8V",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-285G-1V",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-290-1",
+      "pages": [
+        10,
+        11
+      ],
+      "reading_status": "supplied_regional_or_short_alias_not_additional_variant"
+    },
+    {
+      "id": "DW-290-1V",
+      "pages": [
+        10,
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-290B-2V",
+      "pages": [
+        10,
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-290G-1V",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-290G-9V",
+      "pages": [
+        10,
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-290GMV-9VU",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-290GMVT",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-290MV-1VUR",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-290MVT",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-290T",
+      "pages": [
+        11
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-5600E-1",
+      "pages": [
+        5
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "DW-H5600-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-H5600-2",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-H5600MB-1",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-H5600MB-2",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GBX-H5600-1",
+      "pages": [
+        2,
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GBX-H5600-2",
+      "pages": [
+        2,
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GBX-H5600KI-5",
+      "pages": [
+        2,
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWR-B3000-1A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWR-B3000-1AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "supplied_regional_or_short_alias_not_additional_variant"
+    },
+    {
+      "id": "GWR-B3000A-2A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWR-B3000A-2AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "supplied_regional_or_short_alias_not_additional_variant"
+    },
+    {
+      "id": "GWR-B3000B-8A",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWR-B3000B-8AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "supplied_regional_or_short_alias_not_additional_variant"
+    },
+    {
+      "id": "OCW-70",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-S100",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-S340",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-S3400-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S400-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S400-2AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S400-3AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S5000B-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S5000E-1AJF",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S6000-1AJF",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S6000BV-1AJR",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S7000-1AJF",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S7000B-2AJF",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S7000BV-2AJR",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S7000D-7AJF",
+      "pages": [
+        6,
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000-1AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000-7AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000B-1AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000D-2AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000E-2AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T1000F-2AJF",
+      "pages": [
+        8,
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T150",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T200",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T2600-1A2JF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-1A3JF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-1AJF",
+      "pages": [
+        7,
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-2A2JF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-2A3JF",
+      "pages": [
+        7,
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-2AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-7AJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "OCW-T2600ALA-2AJR",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600ALB-2AJR",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600AP-1AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600B-1AJF",
+      "pages": [
+        7,
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600G-1AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600J-1AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600J-7AJF",
+      "pages": [
+        7,
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600JB-1AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600L-1AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600RA-8AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600RL-3AJR",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600SG-3AJR",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600TA-8AJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "reported_identifier_verification_incomplete"
+    },
+    {
+      "id": "OCW-T2610BR-1AJR",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2610C-7AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2610F-2AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2610H-7AJF",
+      "pages": [
+        9,
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T5000",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T6000-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T6000A-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T6000BV-2AJR",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "AWM",
+      "family": "G-SHOCK / supplied reference",
+      "description": "AWM is associated with the full-metal radio-solar AWM-500UA-1AJR in the supplied collaboration dossier. No universal individual-letter expansion is established.",
+      "status": "unverified"
+    }
+  ]
+}
