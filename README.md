@@ -1026,3 +1026,17 @@ rule is introduced. See [decoder rules and examples](docs/decoder-rules.md).
 The 195-model specification catalog, 2,496 fields, 129 prefix patterns and 2,325
 research-reference strings are unchanged. No images or advertising prose are
 published by this update.
+
+## Scoped -1B colour-variation interpretation · 15 November 2026
+
+The B after colour digit 1 now explains the recurring **Blackout / Black Accent**
+community reading in checked GW-B5600BC, GW-M5610 and GW-M5610U pairs. It remains
+separate from the Bluetooth modifier before the series number. Locally inspected
+Casio product images establish negative -1B versus positive -1 displays for those
+pairs; GW-B5600BC-1 has yellow/gold accents in the cited official image.
+
+Unreviewed -1B models show the recurring interpretation without inventing LCD
+polarity. Exact positive-display examples F-91WM-1B and AE-1200WH-1BV demonstrate
+why it is not universal. Appearance observations, with source-page/image checksums,
+are separate from an official letter definition. No product images are published,
+embedded or hotlinked, and specification/module records and counts are unchanged.

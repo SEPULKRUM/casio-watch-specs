@@ -1,0 +1,138 @@
+{
+  "accessed": "2026-11-15",
+  "scope": "Exact product-image observations separated from the owner-supplied recurring Blackout / Black Accent interpretation. No universal -1B=negative claim. No images are published, embedded or hotlinked. No specification/module records are changed.",
+  "observations": [
+    {
+      "model": "GW-B5600BC-1B",
+      "aliases": [
+        "GW-B5600BC-1B",
+        "GW-B5600BC-1BER"
+      ],
+      "polarity": "negative",
+      "accents": "Dark dial accents",
+      "source": "https://www.casio.com/europe/watches/casio/product.GW-B5600BC-1B/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-B5600BC-1",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "abbe4e1187c112e22f14ba9e143f6a63dd48c151a457b9fa4c11c43eb792d45c",
+      "image_snapshot_sha256": "963df7f12100e0eba780a396437603e0c19281e8a561ef6fc0a659f0bc8c2503",
+      "image_published": false
+    },
+    {
+      "model": "GW-B5600BC-1",
+      "aliases": [
+        "GW-B5600BC-1",
+        "GW-B5600BC-1ER"
+      ],
+      "polarity": "positive",
+      "accents": "Yellow/gold dial and bezel lettering accents",
+      "source": "https://www.casio.com/europe/watches/gshock/product.GW-B5600BC-1/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-B5600BC-1B",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "7135703c0c422173b37fb92dc144b0a791b636e649c1d1eb4e7913393ad70bf9",
+      "image_snapshot_sha256": "9fac39c22af397f8ff0b73bddf0c9a4629487ec54091b816d3f344748c3bd5a6",
+      "image_published": false
+    },
+    {
+      "model": "GW-M5610U-1B",
+      "aliases": [
+        "GW-M5610U-1B",
+        "GW-M5610U-1BJF"
+      ],
+      "polarity": "negative",
+      "accents": "Dark display surround with light markings",
+      "source": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-M5610U-1",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "6c30bb9db07dfeaad807b1022b305ea2ae1ab6fd4e1e77b1f55d5207c4d1ec4d",
+      "image_snapshot_sha256": "100e22130477939ba64d7c6084eb29a57036606a39e73eefe249878fd5f47ee3",
+      "image_published": false
+    },
+    {
+      "model": "GW-M5610U-1",
+      "aliases": [
+        "GW-M5610U-1",
+        "GW-M5610U-1JF"
+      ],
+      "polarity": "positive",
+      "accents": "Red outline and coloured dial markings",
+      "source": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-M5610U-1B",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "a19d92f9318c4d83e5af89e063bf09957fc3ae0db8748f90dba7ebc9e9a2b7db",
+      "image_snapshot_sha256": "e3a6b8a56f6ed8e348b729ef2d22313fa2765c3319131ab48cc286fcc3b61e1a",
+      "image_published": false
+    },
+    {
+      "model": "GW-M5610-1B",
+      "aliases": [
+        "GW-M5610-1B",
+        "GW-M5610-1BJF"
+      ],
+      "polarity": "negative",
+      "accents": "Dark display surround with light markings",
+      "source": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1B/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-M5610-1",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "2c08eb0e9b6a8fff09047f82692afb550959e7367f12d7e9c51437599d91c6b4",
+      "image_snapshot_sha256": "37974530a40d730f39e1436d8c9fe894767d3020a72783567d34bff159ec7534",
+      "image_published": false
+    },
+    {
+      "model": "GW-M5610-1",
+      "aliases": [
+        "GW-M5610-1",
+        "GW-M5610-1JF"
+      ],
+      "polarity": "positive",
+      "accents": "Red outline and coloured dial markings",
+      "source": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "comparison_model": "GW-M5610-1B",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "d89e172385ced8c8cf8f70697dba3cefbba20dc19a0fda3fb560478d489ec4e7",
+      "image_snapshot_sha256": "5956075793364a70dc25a3ca04680824558b3a447a88ecb8b35a44aa07970562",
+      "image_published": false
+    },
+    {
+      "model": "AE-1200WH-1BV",
+      "aliases": [
+        "AE-1200WH-1BV"
+      ],
+      "polarity": "positive",
+      "accents": "Gold-tone dial accents and green map; light-background main LCD",
+      "source": "https://www.casio.com/intl/watches/casio/product.AE-1200WH-1BV/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "a697486276fa2ed163edd2a9a5eed5dc0266e2aab4d2a18832efe056b72eabe4",
+      "image_snapshot_sha256": "6f81fad7f3b21f974a24ed8cb4ae2a4acd4708f25b8cd564bb2eb00812e6a05c",
+      "image_published": false
+    },
+    {
+      "model": "F-91WM-1B",
+      "aliases": [
+        "F-91WM-1B"
+      ],
+      "polarity": "positive",
+      "accents": "Metallic gray case and light-background LCD",
+      "source": "https://www.casio.com/intl/watches/casio/product.F-91WM-1B/",
+      "evidence_class": "official_observed",
+      "observation_method": "Visual observation of the official product image; not an explicit manufacturer suffix definition",
+      "accessed": "2026-11-15",
+      "page_snapshot_sha256": "f342e527befb744d611d62c829e96d4fded9551b7ed9d0d8ed14175ca2f3076f",
+      "image_snapshot_sha256": "5a0d3024cb86649b0493c6d0603439c77c80bb89ac4f5d6023c811644c4ce2d9",
+      "image_published": false
+    }
+  ]
+}

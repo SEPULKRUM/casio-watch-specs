@@ -11,7 +11,7 @@ def build(output):
     if output == root or any(output == p or p in output.parents or output in p.parents for p in protected):
         raise ValueError('Output cannot replace repository sources')
     output.mkdir(parents=True, exist_ok=True)
-    for name in ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs'):
+    for name in ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs'):
         shutil.copyfile(root / 'web' / name, output / name)
     for name in ('catalog.json', 'watches.csv', 'parts-links.json', 'official-product-links.json', 'model-references.json'):
         shutil.copyfile(root / 'data' / name, output / name)

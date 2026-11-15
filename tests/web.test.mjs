@@ -71,7 +71,7 @@ test('every search has a community disclosure and official-feature distinction',
  const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.match(html,/id="decoder-disclosure"/);assert.match(html,/id="decoder-rules"/);assert.ok(decoderRules.some(s=>s.includes('model-dependent')));assert.equal(evidenceName('community_interpretation'),'Watch-community interpretation');
 });
 test('GW-B5600BC-1BER separates feature B, bracelet BC, colour, order B and ER',()=>{
- for(const input of ['GW-B5600BC-1BER','gwb5600bc1ber']){const r=decodeModel(input,data,refs);assert.equal(r.normalized,'GW-B5600BC-1BER');assert.deepEqual(r.segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);assert.match(r.segments[1].description,/Bluetooth/);assert.match(r.segments[3].description,/bracelet.*composite-band/);assert.equal(r.segments[3].status,'community_interpretation');assert.match(r.segments[5].description,/not automatically Bluetooth/);assert.equal(r.segments[5].status,'unverified');assert.match(r.segments[6].description,/European-market/);assert.match(r.segments[6].description,/not.*manufacturing/);assert.equal(r.officialFeatures.status,'official_observed');assert.match(r.officialFeatures.description,/composite band/);assert.equal(modelColor(r).label,'Black');assert.equal(modelColor(r).evidence,'official_observed')}
+ for(const input of ['GW-B5600BC-1BER','gwb5600bc1ber']){const r=decodeModel(input,data,refs);assert.equal(r.normalized,'GW-B5600BC-1BER');assert.deepEqual(r.segments.map(s=>s.token),['GW','B','5600','BC','1','B','ER']);assert.match(r.segments[1].description,/Bluetooth/);assert.match(r.segments[3].description,/bracelet.*composite-band/);assert.equal(r.segments[3].status,'community_interpretation');assert.match(r.segments[5].description,/not the Bluetooth modifier/);assert.equal(r.segments[5].status,'community_interpretation');assert.match(r.segments[6].description,/European-market/);assert.match(r.segments[6].description,/not.*manufacturing/);assert.equal(r.officialFeatures.status,'official_observed');assert.match(r.officialFeatures.description,/composite band/);assert.equal(modelColor(r).label,'Black');assert.equal(modelColor(r).evidence,'official_observed')}
  assert.equal(modelColor(decodeModel('GW-B5600BC-1BJR',data,refs)).evidence,'unverified');
 });
 test('GMW-B5000 metal and Bluetooth associations are scoped and separate from features',()=>{
@@ -90,4 +90,23 @@ test('official-feature source links have reviewed checksums without claiming let
  const evidence=JSON.parse(fs.readFileSync(new URL('../research/decoder-rule-evidence-2026-11-15.json',import.meta.url)));
  for(const url of Object.values(ruleSources)){const row=evidence.observations.find(x=>x.url===url);assert.ok(row,url);assert.match(row.snapshot_sha256,/^[0-9a-f]{64}$/);assert.equal(row.letter_expansion_proved,false)}
  assert.equal(evidence.observations.find(x=>x.id==='gw-b5600bc').selected_observations.european_sku,'GW-B5600BC-1BER');
+});
+
+const {appearanceForModel,variantOrderInterpretation}=await import('../web/variant-interpretations.mjs');
+test('checked -1B square variants explain blackout reading separately from observed LCD polarity',()=>{
+ for(const id of ['GW-B5600BC-1B','GW-B5600BC-1BER','gwb5600bc1ber','GW-M5610-1B','GW-M5610-1BJF','GW-M5610U-1B','GW-M5610U-1BJF']){const r=decodeModel(id,data,refs),order=r.segments.find(s=>s.type==='order');assert.match(order.description,/Blackout.*Black Accent/);assert.equal(order.status,'community_interpretation');assert.equal(r.appearanceObservation.polarity,'negative');assert.equal(r.appearanceObservation.evidence_class,'official_observed');assert.match(r.appearanceObservation.observation_method,/not an explicit manufacturer suffix definition/)}
+ const r=decodeModel('GW-B5600BC-1BER',data,refs);assert.match(r.segments[1].description,/Bluetooth smartphone linking/);assert.match(r.segments[5].description,/not the Bluetooth modifier/);
+});
+test('paired -1 variants preserve positive display observations and actual BC-1 accent colours',()=>{
+ for(const id of ['GW-B5600BC-1','GW-B5600BC-1ER','GW-M5610-1','GW-M5610U-1']){const r=decodeModel(id,data,refs);assert.equal(r.appearanceObservation.polarity,'positive');assert.ok(!r.segments.some(s=>s.type==='order'&&s.token==='B'))}
+ assert.match(appearanceForModel('GW-B5600BC-1').accents,/Yellow\/gold/);
+});
+test('-1B remains a recurring community pattern without invented polarity for unreviewed models',()=>{
+ const unknown=decodeModel('GW-B9999-1B',data,refs);assert.equal(unknown.appearanceObservation,null);assert.match(unknown.segments.find(s=>s.type==='order').description,/recurring pattern is not universal/);assert.match(unknown.segments.find(s=>s.type==='order').description,/appearance remains unverified/);assert.equal(variantOrderInterpretation('2','B',null),null);
+ const positive=decodeModel('F-91WM-1B',data,refs);assert.equal(positive.appearanceObservation.polarity,'positive');assert.match(positive.segments.find(s=>s.type==='order').description,/reading does not apply/);assert.equal(decodeModel('AE-1200WH-1BV',data,refs).appearanceObservation.polarity,'positive');assert.equal(appearanceForModel('F-91WM-1BJR'),null);
+});
+test('visual observation provenance is complete without publishing or embedding product photos',()=>{
+ const note=JSON.parse(fs.readFileSync(new URL('../research/negative-variant-observations-2026-11-15.json',import.meta.url)));assert.equal(note.observations.length,8);
+ for(const row of note.observations){assert.match(row.page_snapshot_sha256,/^[a-f0-9]{64}$/);assert.match(row.image_snapshot_sha256,/^[a-f0-9]{64}$/);assert.equal(row.image_published,false);assert.equal(appearanceForModel(row.model).polarity,row.polarity);assert.ok(row.source.startsWith('https://www.casio.com/'))}
+ const code=fs.readFileSync(new URL('../web/variant-interpretations.mjs',import.meta.url),'utf8');assert.doesNotMatch(code,/https?:[^\s]+\.(?:png|jpg|jpeg)/i);assert.doesNotMatch(note.scope,/official universal definition/);
 });

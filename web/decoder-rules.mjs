@@ -7,6 +7,7 @@ export const decoderRules=[
  'DW is used across G-SHOCK and non-G-SHOCK watches. Digital Water Resistant is shown as a community interpretation; water resistance must be checked for the exact model.',
  'Wave Ceptor is Casio radio-controlled timekeeping terminology. Multi-Band 6 is a specific radio-reception system; the names are not a universal letter key.',
  'B, BC, M and U are model-dependent. Do not apply Bluetooth, bracelet, metal or solar meanings universally. The established GW-M5610U Updated interpretation is preserved.',
+ 'In some digital lines, -1B marks a Blackout / Black Accent variation, often with a negative LCD. Treat this as a recurring community pattern; checked model examples and exceptions take priority.',
  'A market suffix describes a sales-market reference, not the manufacturing country. Unknown suffix meanings stay unverified.'
 ];
 export const ruleSources={

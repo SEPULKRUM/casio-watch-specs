@@ -116,7 +116,7 @@
       "readings": {
         "B_before_5600": "Bluetooth",
         "BC": "Bracelet / composite-band configuration",
-        "B_after_colour": "Additional variant/order marker; exact meaning unverified",
+        "B_after_colour": "Blackout / Black Accent community reading for -1B in the checked GW-B5600BC pair; negative LCD/darker treatment observed separately. Not Bluetooth; not an official universal B definition.",
         "ER": "European-market suffix reference; not manufacturing country"
       },
       "status": "Model-scoped interpretations; no universal suffix or acronym rule"

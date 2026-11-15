@@ -27,10 +27,10 @@ Separate GMW + B + 5000, and any later configuration suffix and variant code. M 
 | 5600 | Series | Model-series identifier | Not a module or production date |
 | BC | Series configuration suffix | Bracelet / composite-band variant reading | Scoped community interpretation; cited band confirmed |
 | 1 | Colour code | Black manufacturer colour category | Exact cited model's Casio metadata |
-| B | Additional variant / order marker | Further variation within this colour/configuration code | Exact meaning unverified; not automatically Bluetooth |
+| B | Colour variation within -1B | Blackout / Black Accent community reading; checked negative LCD and darker dial treatment versus -1 | Community interpretation; appearance observed separately; not the Bluetooth modifier |
 | ER | Market suffix | European-market reference | Not the manufacturing country |
 
-The [official European page](https://www.casio.com/europe/watches/casio/product.GW-B5600BC-1B/) displays GW-B5600BC-1B and records European SKU GW-B5600BC-1BER in product metadata. It gives Black as the colour category and confirms a stainless-steel/resin composite band, Bluetooth, Multi-Band 6 and Tough Solar. These facts support this example; they do not prove a universal BC acronym or assign a meaning to the later B.
+The [official European page](https://www.casio.com/europe/watches/casio/product.GW-B5600BC-1B/) displays GW-B5600BC-1B and records European SKU GW-B5600BC-1BER in product metadata. It gives Black as the colour category and confirms a stainless-steel/resin composite band, Bluetooth, Multi-Band 6 and Tough Solar. These facts support this example; they do not prove a universal BC acronym. The later B is now explained using the scoped -1B blackout interpretation described below.
 
 The same scoped example accepts compact input `gwb5600bc1ber`. Unknown suffixes stay unverified. The colour/order split also preserves strings such as 1A2 as colour digit 1 plus additional marker A2, without inventing a universal blue or material meaning for A2.
 
@@ -43,3 +43,13 @@ Display Digital Water Resistant as a watch-community interpretation. DW is used 
 Preserve GW-M5610U's separately scoped Updated marker and module transition, existing PRW-S3100 interpretation, historical prefix collisions and all research-candidate distinctions. Feature notes in the decoder do not add or independently verify specification-catalog records. No specification facts or reference-library counts are changed by this rules update.
 
 Selected source URLs, checksums and feature observations are recorded in [the evidence note](../research/decoder-rule-evidence-2026-11-15.json). No source pages or infographic image are republished.
+
+## Recurring -1B blackout / black-accent pattern
+
+For GW-B5600BC-1B / European SKU GW-B5600BC-1BER, the B after colour digit 1 is part of the variation code -1B. Show **Blackout / Black Accent** as the watch-community reading, distinguishing it from the Bluetooth B before the series. In this checked pair, the -1B product image has light digits on a dark background and darker dial accents. The -1 image has dark digits on a light background with yellow/gold accents; blue is not recorded for that cited photo.
+
+The original GW-M5610-1 / -1B and updated GW-M5610U-1 / -1B pairs provide two additional checked examples of positive -1 versus negative -1B display treatment. “Blackout” does not mean every printed marking or component is literally black. Casio-image observations are labelled separately from the proposed letter-name expansion; viewing an image does not prove that Casio officially expands B as Blackout or Black Accent.
+
+For an unreviewed -1B model, explain the recurring community pattern but leave actual display polarity unverified. It is not universal: the official F-91WM-1B image shows a positive LCD, and AE-1200WH-1BV likewise has a light-background main LCD. Exact checked observations take precedence over naming patterns. Other B positions and suffixes do not automatically acquire this meaning.
+
+The eight selected image observations, source-page and image checksums are recorded in [the observation note](../research/negative-variant-observations-2026-11-15.json). Images were inspected locally only; none is added to GitHub, embedded in the website or hotlinked. These decoder observations do not alter specification-catalog or module records.
