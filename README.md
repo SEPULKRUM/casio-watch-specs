@@ -885,3 +885,18 @@ properties or copying GW-5000 specifications. The PDF lists HR-1 as 2017, while
 a retailer records sales starting 23 September 2016; the date discrepancy is
 retained in research notes rather than selecting a release date. Hour Resister
 is an unconfirmed supplied expansion and is not introduced as a decoder rule.
+
+## Boley model-specific parts listings
+
+Each model now has a Parts & service section with an external Boley listing
+when an exact model match has been checked. Missing models receive a labelled
+general-directory link; no nearby variant is substituted. Explicit supplier QW
+codes stay separate from official module facts, with disagreement flagged.
+The catalog specifications and verification statuses are unchanged. See
+[Boley collection and matching rules](docs/boley-parts-links.md).
+
+The initial Boley pass checks **92 exact model listings**; 103 catalog records
+have no exact sitemap match. One explicit code is present in the checked
+listings: F-105W-1A has QW1275DF-01, which differs from the catalog's supplied
+1572 reference. This is flagged for review without changing the association.
+No inference about a production revision or parts interchangeability is made.

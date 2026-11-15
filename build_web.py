@@ -11,9 +11,9 @@ def build(output):
     if output == root or any(output == p or p in output.parents or output in p.parents for p in protected):
         raise ValueError('Output cannot replace repository sources')
     output.mkdir(parents=True, exist_ok=True)
-    for name in ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg'):
+    for name in ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs'):
         shutil.copyfile(root / 'web' / name, output / name)
-    for name in ('catalog.json', 'watches.csv'):
+    for name in ('catalog.json', 'watches.csv', 'parts-links.json'):
         shutil.copyfile(root / 'data' / name, output / name)
     print(f'Browser packaged at {output}')
 
