@@ -1,3 +1,4 @@
+import {appearanceForModel,variantOrderInterpretation} from './variant-interpretations.mjs';
 import {normalizeKnownModel,modelRule,splitVariant,ruleSources} from './decoder-rules.mjs';
 import {exactReferences} from './model-references.mjs';
 import {entries} from './prefix-data.mjs';
@@ -40,12 +41,14 @@ export function decodeModel(input,data=null,references=null){
  segments.push({type:'series',token:updated5610||rule?.splitSuffix?number:number+seriesTail,title:'Model series',description:prwSpecific?'3100 series with STN LCD, as described in your supplied model-specific reference.':`${updated5610||rule?.splitSuffix?number:number+seriesTail} series / model designation. This is not a production date or a module number.`,status:prwSpecific?'Your established model-specific reference':'Model identifier'});
  if(rule?.splitSuffix&&seriesTail)segments.push({type:'series-suffix',token:seriesTail,title:'Series suffix / configuration',description:seriesTail==='BC'&&rule.braceletSuffix?rule.braceletSuffix:'Additional series configuration marker. Its exact material or feature meaning has not been established here.',status:seriesTail==='BC'&&rule.braceletSuffix?'community_interpretation':'unverified',source:seriesTail==='BC'&&rule.braceletSuffix?rule.source:null});
  if(updated5610)segments.push({type:'modifier',token:'U',title:'Updated model',description:'U stands for Updated in the GW-M5610U line: module 3495 replaces module 3159 used in the older GW-M5610-1. This meaning is scoped to this model line.',status:'Owner-supplied model-specific reference'});
+ const appearanceObservation=historicalReference?null:appearanceForModel(normalized);
  if(tail){const {variant,order,market}=splitVariant(tail);
+  const orderRule=variantOrderInterpretation(variant,order,appearanceObservation);
   if(variant)segments.push({type:'variant',token:variant,title:'Colour / variant code',description:scopedBlack&&variant==='1'?'Black manufacturer colour category for GW-B5600BC-1B / European SKU GW-B5600BC-1BER.':prwSpecific&&variant==='1'?'Black colour variant for this PRW-S3100 model.':exact?.specs?.color?`Exact catalog model colour: ${exact.specs.color.value}. Variant meanings are model-specific.`:'Colour / configuration designation. Its exact colour is not inferred from the number alone.',status:scopedBlack&&variant==='1'?'official_observed':prwSpecific&&variant==='1'?'Your established model-specific reference':exact?.specs?.color?'Exact model catalog evidence':'Variant meaning unresolved',source:scopedBlack?rule.source:null});
-  if(order)segments.push({type:'order',token:order,title:'Additional variant / order marker',description:'Additional variation within this colour/configuration code. Its precise display, finish or packaging meaning is unverified; B in this position is not automatically Bluetooth.',status:'unverified'});
+  if(order)segments.push({type:'order',token:order,title:orderRule?.title||'Additional variant / order marker',description:orderRule?.description||'Additional variation within this colour/configuration code. Its precise display, finish or packaging meaning is unverified; B in this position is not automatically Bluetooth.',status:orderRule?.status||'unverified',source:orderRule?.source||null});
   if(market)segments.push({type:'market',token:market,title:'Market suffix',description:market==='ER'?'European-market suffix reference. This does not state the manufacturing country.':'Japanese-market model suffix. This does not state the manufacturing country.',status:'Market reference · secondary interpretation'});
  }
  const officialFeatures=rule?{...rule.officialFeatures,source:rule.source}:null;
  const scopedColor=scopedBlack?{digit:'1',label:'Black',source:rule.source,status:'official_observed',scope:'Casio colour metadata for GW-B5600BC-1B / European SKU GW-B5600BC-1BER'}:null;
- return {recognized:true,prefix,family:family[0],normalized,segments,exact,references:matches,historicalReference,officialFeatures,scopedColor};
+ return {recognized:true,prefix,family:family[0],normalized,segments,exact,references:matches,historicalReference,officialFeatures,scopedColor,appearanceObservation};
 }
