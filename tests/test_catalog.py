@@ -86,7 +86,7 @@ class CatalogTests(unittest.TestCase):
                 catalog.preserve_verified(before, after)
 
     def test_unknown_module_not_guessed_but_explicit_link_is_available(self):
-        self.assertEqual(catalog.field_value(self.catalog['models']['F-105W-1A'], 'module_id'), '1572')
+        self.assertEqual(catalog.field_value(self.catalog['models']['F-105W-1A'], 'module_id'), '1275')
         self.assertEqual(catalog.module_view(self.catalog, self.catalog['models']['F-105W-1A'])['module_link_provenance'], 'user_provided')
         self.assertEqual(catalog.field_value(self.catalog['models']['GA-B2100-1A'], 'module_id'), '5689')
 

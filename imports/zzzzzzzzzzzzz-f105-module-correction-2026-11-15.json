@@ -1,0 +1,24 @@
+[
+  {
+    "kind": "model",
+    "id": "F-105W-1A",
+    "specs": {
+      "module_id": {
+        "value": "1275",
+        "uncertainty": "User-supplied association; official model-to-module confirmation pending",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "reference": "research/f105-module-correction-2026-11-15.json",
+            "provided_by": "SEPULKRUM",
+            "source_sha256": "56563af86616293d4e2e0f3c9ca443f494ed5bf043b2dc87f603a93be3c593c2",
+            "accessed": "2026-11-15",
+            "locator": "Mappings / entry 1",
+            "evidence": "F-105W-1A \u2192 module 1275",
+            "permission": "user_provided"
+          }
+        ]
+      }
+    }
+  }
+]

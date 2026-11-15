@@ -1,0 +1,35 @@
+{
+  "type": "user_module_associations",
+  "received": "2026-11-15",
+  "provided_by": "SEPULKRUM",
+  "note": "Owner explicitly corrects F-105W-1A from 1572 to 1275. Video visually inspected at approximately 2 and 5 seconds: boxed 1275 next to F-105. The full regional/color SKU is supplied by the owner, not engraved on this caseback. This does not establish that every historical F-105 production revision used the same module.",
+  "mappings": [
+    {
+      "model": "F-105W-1A",
+      "module": "1275"
+    }
+  ],
+  "attachment": {
+    "filename": "IMG_3143.mov",
+    "sha256": "2b749d92eacddeb75d7a8638c0fc5606a5c3f49dd57004b80ef8bcf50696f0a5",
+    "bytes": 7496104,
+    "duration_seconds": 7.105,
+    "observation_time_seconds": 5,
+    "visible_markings": [
+      "1275",
+      "F-105",
+      "MADE IN MALAYSIA"
+    ],
+    "scope": "Observed physical caseback and owner SKU association; original video not redistributed"
+  },
+  "supersedes": {
+    "reference": "research/user-module-mappings-2026-11-14.json",
+    "model": "F-105W-1A",
+    "module": "1572",
+    "reason": "Owner correction with new caseback video, corroborating independent supplier code QW1275DF-01"
+  },
+  "corroboration": {
+    "url": "https://boley.de/en/case-parts/casio/4938.f-105w-1a",
+    "scope": "Use checked URL from parts sidecar below; supplier code agrees with numeric module 1275"
+  }
+}

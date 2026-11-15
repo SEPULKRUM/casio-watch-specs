@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **195 models, 112 modules and 2,349 source-backed candidate
+The catalog now contains **195 models, 113 modules and 2,352 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 195 models and 112 module profiles.
+The bundled snapshot contains the current 195 models and 113 module profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -896,7 +896,26 @@ The catalog specifications and verification statuses are unchanged. See
 [Boley collection and matching rules](docs/boley-parts-links.md).
 
 The initial Boley pass checks **92 exact model listings**; 103 catalog records
-have no exact sitemap match. One explicit code is present in the checked
-listings: F-105W-1A has QW1275DF-01, which differs from the catalog's supplied
-1572 reference. This is flagged for review without changing the association.
-No inference about a production revision or parts interchangeability is made.
+have no exact sitemap match. F-105W-1A lists QW1275DF-01. The initial mismatch
+with the earlier supplied 1572 claim was resolved by an owner correction and
+caseback video showing 1275. Supplier and catalog references now agree; no
+inference about historical production revisions or parts interchangeability is made.
+
+## F-105W-1A module correction · 15 November 2026
+
+F-105W-1A now points to module **1275**, following the owner's explicit correction
+and a supplied video. At approximately five seconds, the caseback clearly reads
+1275 and F-105; the full SKU association is supplied by the owner. Boley's
+QW1275DF-01 reference corroborates the numeric module. The earlier 1572 claim
+is preserved in its original research note and excluded only from the active
+import; its module profile is retained unchanged, not reassigned or deleted.
+
+Module 1275 has a separate official Casio operation-chart profile: one daily
+alarm, EL backlight and a 1/100-second stopwatch with 59:59.99 display range.
+Accuracy, battery and calendar limits are not inferred from another module.
+The Boley mismatch flag is cleared; no claim about every historical production
+revision is made. Original watch data and all verified facts remain protected.
+
+To regenerate the historical mapping import, convert its original note and
+exclude only F-105W-1A, then import the replacement note separately. The
+reproduction test checks both the unchanged original claim and current correction.

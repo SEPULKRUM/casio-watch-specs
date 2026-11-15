@@ -1,0 +1,26 @@
+{
+  "type": "module_specifications",
+  "accessed": "2026-11-15",
+  "method": "Official operation chart downloaded, rendered with pdftoppm, and visually inspected. Text layer contains only module heading. No battery, accuracy or calendar end-year inferred.",
+  "modules": [
+    {
+      "id": "1275",
+      "source_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/12/1275/qw1275_EN.pdf",
+      "snapshot_sha256": "806eab225199085542652ed9681d24f406c1b0230abb5c112b6673c735b5c2a7",
+      "locator": "PDF page 1 / Alarm Mode, Stopwatch Mode, About the backlight",
+      "specs": {
+        "alarm_count": 1,
+        "stopwatch": {
+          "resolution_seconds": 0.01,
+          "max_display_seconds": 3599.99,
+          "modes": [
+            "elapsed",
+            "split",
+            "two finishes"
+          ]
+        },
+        "illumination": "Electroluminescent (EL) backlight; hold light button to illuminate"
+      }
+    }
+  ]
+}

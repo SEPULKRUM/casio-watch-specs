@@ -18,11 +18,11 @@ class SuppliedMappingTests(unittest.TestCase):
         cls.records = user_import.convert(cls.notes, cls.reference)
         cls.catalog = catalog.build_catalog()
 
-    def test_all_seventeen_supplied_values_preserved(self):
+    def test_original_claims_retained_with_explicit_owner_correction(self):
         self.assertEqual(len(self.records), 17)
         for row in self.notes['mappings']:
             record = self.catalog['models'][row['model']]
-            self.assertEqual(catalog.field_value(record, 'module_id'), row['module'])
+            self.assertEqual(catalog.field_value(record, 'module_id'), '1275' if row['model']=='F-105W-1A' else row['module'])
             fact = record['specs']['module_id']
             self.assertEqual(fact['status'], 'pending_review')
             self.assertEqual(fact['sources'][0]['kind'], 'user_provided')
@@ -30,7 +30,10 @@ class SuppliedMappingTests(unittest.TestCase):
             self.assertTrue(fact['sources'][0]['source_sha256'])
 
     def test_user_batch_reproduces(self):
-        self.assertEqual(self.records, specs.load('imports/user-module-mappings-2026-11-14.json'))
+        # Historical note is immutable; only the explicitly superseded row is excluded.
+        self.assertEqual([r for r in self.records if r['id']!='F-105W-1A'], specs.load('imports/user-module-mappings-2026-11-14.json'))
+        correction = specs.load('research/f105-module-correction-2026-11-15.json')
+        self.assertEqual(user_import.convert(correction, 'research/f105-module-correction-2026-11-15.json'), specs.load('imports/zzzzzzzzzzzzz-f105-module-correction-2026-11-15.json'))
 
     def test_user_provenance_visible_in_lookup_coverage_and_csv(self):
         view = catalog.module_view(self.catalog, self.catalog['models']['PRJ-B001-1'])
@@ -93,3 +96,19 @@ class SuppliedMappingTests(unittest.TestCase):
             self.assertNotIn('accuracy_seconds_per_month', self.catalog['modules'][module_id]['specs'])
         self.assertEqual(catalog.field_value(self.catalog['modules']['3298'], 'accuracy_seconds_per_month'), 30)
         self.assertEqual(catalog.field_value(self.catalog['modules']['3476'], 'accuracy_seconds_per_month'), 15)
+
+    def test_f105_video_correction_agrees_with_supplier_without_borrowing_specs(self):
+        fact = self.catalog['models']['F-105W-1A']['specs']['module_id']
+        self.assertEqual(fact['value'], '1275')
+        self.assertEqual(fact['sources'][0]['reference'], 'research/f105-module-correction-2026-11-15.json')
+        historical = next(r for r in self.notes['mappings'] if r['model']=='F-105W-1A')
+        self.assertEqual(historical['module'], '1572')
+        parts = specs.load('data/parts-links.json')['models']['F-105W-1A']
+        self.assertEqual(parts['observed_module_ids'], ['1275'])
+        self.assertEqual(parts['recorded_module_ids'], ['1275'])
+        self.assertEqual(parts['module_comparison'], 'agrees_with_recorded_reference')
+        profile = self.catalog['modules']['1275']['specs']
+        self.assertEqual(profile['stopwatch']['value']['max_display_seconds'], 3599.99)
+        for unknown in ['accuracy_seconds_per_month','power_supply','calendar']:
+            self.assertNotIn(unknown, profile)
+        self.assertIn('1572', self.catalog['modules'])
