@@ -1,3 +1,4 @@
+import {ownerPattern} from './owner-prefix-readings.mjs';
 import {applyGuide} from './guide-interpretations.mjs';
 import {prefixMeaning} from './prefix-meanings.mjs';
 import {appearanceForModel,variantOrderInterpretation} from './variant-interpretations.mjs';
@@ -14,7 +15,9 @@ export function decodeModel(input,data=null,references=null){
  const key=compact(cleaned),exact=data?Object.values(data.models).find(m=>compact(m.id)===key):null;
  const matches=exactReferences(references,cleaned);
  if(/^\d{2,3}[A-Z]/.test(cleaned)&&matches.length)return {recognized:true,prefix:'',family:'HISTORICAL MODEL REFERENCE',normalized:cleaned,segments:[{type:'series',token:cleaned,title:'Historical numeric model identifier',description:'This source reference uses a numeric-leading designation. No alphabetical prefix or module assignment is inferred.',status:'Research reference · not a verified specification record'}],exact,references:matches,historicalReference:true};
+ const suppliedPattern=ownerPattern(key);
  let family=[...entries].sort((a,b)=>b[1].length-a[1].length).find(e=>key===e[1]||(key.startsWith(e[1])&&/\d/.test(key.slice(e[1].length))));
+ if(suppliedPattern){const suppliedFamily=suppliedPattern.code.split('-')[0];family=entries.find(e=>e[1]===suppliedFamily)||family;}
  if(!family)return {recognized:false,reason:'This prefix is not yet covered by the reference. The model may still be valid.',segments:[],exact};
  const historicalMatches=[...matches,...(references?Object.values(references.models).filter(m=>cleaned.startsWith(m.id+'-')):[])];
  const historicalReference=historicalMatches.some(m=>m.observations.some(o=>['checked_compilation_index','supplied_transcription'].includes(o.role)));
@@ -25,11 +28,13 @@ export function decodeModel(input,data=null,references=null){
  if(/^GWGB1000(?:1A)?$/.test(key))normalized=key==='GWGB1000'?'GWG-B1000':'GWG-B1000-1A';
  if(/^GWM5610U?$/.test(key))normalized=key.endsWith('U')?'GW-M5610U':'GW-M5610';
  if(['LCW','LIW','LIN','MTP','LTP','CMK','MDV','MTD','MRW','WV','WVA','WVQ'].includes(family[1])&&!cleaned.includes('-')){const m=key.slice(family[1].length).match(/^([A-Z]*\d+[A-Z]*)([1-9][A-Z][A-Z0-9]*)?$/);if(m)normalized=family[1]+'-'+m[1]+(m[2]?'-'+m[2]:'');}
+ if(suppliedPattern?.code.includes('-')&&!cleaned.includes('-')&&normalized===cleaned){const [base,mod]=suppliedPattern.code.split('-');normalized=base+'-'+mod+key.slice(base.length+mod.length);}
  const prefix=family[1],body=normalized.slice(0,prefix.length).replace(/-/g,'')===prefix?normalized.slice(prefix.length).replace(/^-/,''):key.slice(prefix.length);
  const communityPrefixMeaning=historicalReference?null:prefixMeaning(prefix);
  const segments=[{type:'prefix',token:prefix,communityMeaning:communityPrefixMeaning,title:'Model family',description:family[2],source:family[4]?.source||referenceUrl,status:family[4]?.status||'Established family reference'}];
  if(prefix==='DW'){segments[0].description='DW is commonly read by the watch community as Digital Water Resistant. It is used on G-SHOCK and non-G-SHOCK Casio watches. Check the exact model’s water-resistance rating; the prefix alone does not establish 200 m / 20 bar.';segments[0].status='community_interpretation';segments[0].source=ruleSources.dw291;}
  if(prefix==='GWN')Object.assign(segments[0],{description:'GULFMASTER — the marine-oriented G-SHOCK family. Casio describes GWN-1000 with Triple Sensor Version 3 and Smart Access. GWN remains a complete family code here: neither supplied guide defines its individual letters, and no official letter-by-letter expansion is established by the cited page.',status:'official_observed',source:'https://gshock.casio.com/europe/products/gulfmaster/gwn-1000/'});
+ if(!historicalReference&&suppliedPattern?.code.includes('-')&&key===suppliedPattern.code.replace('-','')){const mod=suppliedPattern.code.split('-')[1];segments.push({type:'modifier',token:mod,title:'Feature / series modifier',description:suppliedPattern.meaning+'. '+suppliedPattern.context+' Owner-supplied community reading; exact-model evidence takes priority.',status:'community_interpretation',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/docs/owner-prefix-readings.md'});return {recognized:true,prefix,family:family[0],normalized:suppliedPattern.code,segments,exact,references:matches,historicalReference,prefixOnly:true};}
  if(key===prefix)return applyGuide({recognized:true,prefix,family:family[0],normalized,segments,exact,references:matches,historicalReference,prefixOnly:true},{modifier:'',number:'',seriesTail:'',tail:''});
  // Known lines are normalized above; other compact inputs do not receive invented variant boundaries.
  const split=body.split('-'),main=split.shift()||'',tail=split.join('-');

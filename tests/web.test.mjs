@@ -41,7 +41,7 @@ const {validateReferences,findReferences,exactReferences,referenceStatus}=await 
 const refs=validateReferences(JSON.parse(fs.readFileSync(new URL('../data/model-references.json',import.meta.url))));
 test('expanded prefix library recognizes extracted families without inventing expansions',()=>{
  for(const prefix of ['CFX','TC','TGW','DGW','AWG','GPW','IRW','PRX','SPF','LP','MQW','PRJ']){const result=decodeModel(prefix,data,refs);assert.equal(result.prefix,prefix);assert.equal(result.prefixOnly,true);assert.match(result.segments[0].status,/secondary_reported|unverified/)}
- assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,137);
+ assert.equal(new Set(entriesForReferenceTest.map(x=>x[1])).size,158);
 });
 const {entries:entriesForReferenceTest}=await import('../web/decoder.mjs');
 test('research identifiers remain separate from catalog models and candidates stay labelled',()=>{
@@ -70,7 +70,7 @@ test('GW-B5600BC-1BER separates feature B, bracelet BC, colour, order B and ER',
 });
 test('GMW-B5000 metal and Bluetooth associations are scoped and separate from features',()=>{
  const r=decodeModel('gmw-b5000',data,refs);assert.deepEqual(r.segments.map(s=>s.token),['GMW','B','5000']);assert.equal(modelColor(r),null);assert.match(r.segments[1].description,/Bluetooth/);assert.equal(r.segments[1].status,'community_interpretation');assert.match(r.officialFeatures.description,/metal construction/);assert.match(r.segments[0].communityMeaning.meaning,/Metal-construction/);assert.equal(r.segments[0].communityMeaning.status,'community_interpretation');assert.deepEqual(decodeModel('GMW-B5000D-1ER').segments.map(s=>s.token),['GMW','B','5000','D','1','ER']);
- assert.match(decodeModel('GMW-B9999').segments[1].description,/not been established/);assert.match(decodeModel('GW-B9999').segments[1].description,/not been established/);assert.equal(decodeModel('GMW-15-1V',data,refs).officialFeatures,null);
+ assert.match(decodeModel('GMW-B9999').segments[1].description,/not been established/);assert.match(decodeModel('GW-B9999').segments[1].description,/owner-supplied community reading/);assert.equal(decodeModel('GMW-15-1V',data,refs).officialFeatures,null);
 });
 test('GPW alternatives remain community interpretations alongside official technology wording',()=>{
  for(const model of ['GPW-1000','GPW-2000']){const r=decodeModel(model,data,refs);assert.equal(r.family,'G-SHOCK / GRAVITYMASTER');assert.equal(r.officialFeatures.technologyName,'GPS Hybrid Wave Ceptor');assert.match(r.segments[0].description,/not an official acronym/)}
@@ -159,7 +159,7 @@ test('M in GW-M5600 and GW-M5610 means Multi-Band within those square lines',()=
   const r=decodeModel(input),m=r.segments.find(s=>s.type==='modifier'&&s.token==='M');assert.match(m.description,/Multi-Band 6/);assert.match(m.description,/Japan ×2/);assert.match(m.description,/community interpretation/);assert.equal(m.status,'community_interpretation');assert.equal(m.title,'Multi-Band reception');
   if(input.toUpperCase().includes('U'))assert.ok(r.segments.some(s=>s.token==='U'&&s.title==='Updated model'));
  }
- assert.match(decodeModel('GW-M9999').segments.find(s=>s.token==='M').description,/not been established/);
+ assert.match(decodeModel('GW-M9999').segments.find(s=>s.token==='M').description,/owner-supplied community reading/);
  assert.match(decodeModel('GMW-B5000').segments[0].communityMeaning.meaning,/Metal/);
  assert.match(decodeModel('GW-B5600').segments.find(s=>s.token==='B').description,/Bluetooth/);
 });
@@ -176,4 +176,15 @@ test('supplied text interpretations are all browsable without a model lookup',as
 });
 test('GWN keeps a whole family prefix with separately sourced marine context',()=>{
  for(const input of ['GWN','GWN1000','GWN-1000']){const r=decodeModel(input),prefix=r.segments[0];assert.equal(prefix.token,'GWN');assert.match(prefix.description,/marine-oriented/);assert.match(prefix.description,/neither supplied guide defines/);assert.equal(prefix.status,'official_observed');assert.ok(prefix.source.startsWith('https://gshock.casio.com/'));}
+});
+
+
+test('all 66 supplied G-SHOCK readings resolve as grouped families or separate modifiers',async()=>{
+ const {ownerReadings}=await import('../web/owner-prefix-readings.mjs');assert.equal(ownerReadings.length,66);
+ for(const reading of ownerReadings){const [base,modifier]=reading.code.split('-');for(const input of [reading.code,reading.code+'1000',reading.code.replace('-','')+'1000']){const r=decodeModel(input);assert.ok(r.recognized,input);assert.equal(r.prefix,base,input);assert.equal(r.segments[0].token,base);assert.ok(r.segments[0].communityMeaning,input);if(modifier){const s=r.segments.find(s=>s.type==='modifier'&&s.token===modifier);assert.ok(s,input);assert.equal(s.status,'community_interpretation',input);}}}
+ const {guideReferenceSections}=await import('../web/guide-interpretations.mjs');const table=guideReferenceSections().find(s=>s.title.includes('Owner-supplied G-SHOCK'));assert.equal(table.items.length,66);
+ assert.match(decodeModel('GWN1000').segments[0].communityMeaning.meaning,/Nautical/);
+ assert.match(decodeModel('GA-B001').segments.find(s=>s.token==='B').description,/model-dependent/);assert.equal(decodeModel('GA-B001').officialFeatures,null);
+ assert.match(decodeModel('MRG').segments[0].communityMeaning.meaning,/unverified/);
+ assert.equal(decodeModel('GM-40',data,refs).segments[0].communityMeaning,null);
 });
