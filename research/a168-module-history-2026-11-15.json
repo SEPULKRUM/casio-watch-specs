@@ -1,0 +1,227 @@
+{
+  "type": "historical_module_transition_research",
+  "accessed": "2026-11-15",
+  "family": "A168",
+  "scope": "Research only. No current catalog assignment, release date, historical revision or review status is changed.",
+  "findings": {
+    "family_introduction_year": {
+      "value": 1995,
+      "status": "official_retrospective_statement",
+      "source_url": "https://www.casio.com/intl/watches/50th/Heritage/1990s/",
+      "locator": "1995 / A168",
+      "scope": "Family introduction, not proof of exact SKU or original module"
+    },
+    "module_3298_version_introduction_year": {
+      "value": 2012,
+      "status": "best_supported_provisional_lead",
+      "basis": "Supplier parts-model record labels A168WA-1 (3298) Year 2012; official module-3298 manual carries copyright 2012. Neither alone establishes first manufacturing date or global discontinuation of 1572.",
+      "parts_source": "https://www.pccparts.com/model.cfm?action=list_part&back=0&mfg=Casio&mode=auto&model_id=A168WA-1+%283298%29",
+      "manual_source": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/32/3298/qw3298_EN.pdf",
+      "manual_sha256": "0ae5105904e55be0510f25be37603b508ff18d81f5cd3d51cc03d97d8842c550",
+      "manual_print_code": "MA1203-EA",
+      "copyright_year_visually_read": 2012
+    },
+    "website_manual_link_change": {
+      "last_checked_1275_capture": "20131108005750",
+      "first_checked_3298_capture": "20140828000740",
+      "status": "observed_in_timestamped_official_page_replays",
+      "scope": "Website maintenance history, not a manufacturing transition window"
+    },
+    "exact_manufacturing_switchover": {
+      "value": null,
+      "status": "not_established"
+    },
+    "original_module_1572": {
+      "status": "older A168 association supported by supplier/retailer records; not directly demonstrated by the checked archived Casio manual links",
+      "retailer_source": "https://www.watch.co.uk/casio-a168-series-digital-silver-watch-a168wa-1yes.htm",
+      "retailer_labels": {
+        "module": "1572",
+        "year": "2010 Spring / Summer"
+      },
+      "scope": "Supplier/retailer listing for that reference, not family launch date or proof that every early A168 used 1572"
+    },
+    "display_and_illumination_comparison": {
+      "status": "anecdotal_owner_reports_only",
+      "source_url": "https://www.reddit.com/r/casio/comments/1mvpyko/",
+      "scope": "Comparison includes a modified case and unverified dating claims. No controlled brightness, contrast or viewing-angle measurements retrieved; no performance-ranking specification imported.",
+      "official_3298_lighting": "Casio operation guide explicitly specifies EL lighting"
+    }
+  },
+  "wayback_captures": [
+    {
+      "capture_timestamp": "20091103065142",
+      "original_url": "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+      "archive_url": "https://web.archive.org/web/20091103065142/http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+      "snapshot_sha256": "bec53acd3d2db3548f48a0097d8d6ed41feb4b4a8f96eee4227ff02cdb054777",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "1275"
+      ],
+      "manual_links": [
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=1275"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20110121162736",
+      "original_url": "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "archive_url": "https://web.archive.org/web/20110121162736/http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "snapshot_sha256": "4bfb7d5f4ac3755c3c1da6abb1cd8ea5ac3c8a6b18da6ed70bd139fb4082886d",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "1275"
+      ],
+      "manual_links": [
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=1275"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20120125055333",
+      "original_url": "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "archive_url": "https://web.archive.org/web/20120125055333/http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "snapshot_sha256": "bba7f6045303d3421d92e6fd447f513b2a0ad1633e7a21df85e03782d40aab30",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "1275"
+      ],
+      "manual_links": [
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=1275"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20130911031700",
+      "original_url": "http://www.casio-europe.com/euro/watch/collection/A168WA-1YES/",
+      "archive_url": "https://web.archive.org/web/20130911031700/http://www.casio-europe.com/euro/watch/collection/A168WA-1YES/",
+      "snapshot_sha256": "77fae3b5337d437d9ded9b4796d3f7e49667719a79220e105de497481e23bd73",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "1275"
+      ],
+      "manual_links": [
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=1275"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20131108005750",
+      "original_url": "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "archive_url": "https://web.archive.org/web/20131108005750/http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+      "snapshot_sha256": "e6e622a2ffc4c8f533808fbf39eb4c6d5d204d8f85898e8989a11523fd43e2e4",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "1275"
+      ],
+      "manual_links": [
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=1275"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20140828000740",
+      "original_url": "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+      "archive_url": "https://web.archive.org/web/20140828000740/http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+      "snapshot_sha256": "43872c5142b103de67c8d1ede87b18d56c36b32334124c53fbd9935317960a4f",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "3298"
+      ],
+      "manual_links": [
+        "http://support.casio.com/en/manual/manual.php?cid=009&MODULE=3298",
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=3298"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    },
+    {
+      "capture_timestamp": "20160107203130",
+      "original_url": "http://www.casio-europe.com:80/euro/watch/collection/A168WA-1YES/",
+      "archive_url": "https://web.archive.org/web/20160107203130/http://www.casio-europe.com:80/euro/watch/collection/A168WA-1YES/",
+      "snapshot_sha256": "5d7875c95767fdeeb8523761909b40093dbb2d32d2bd4bcd4fdc76eb84148dde",
+      "displayed_model": "A168WA-1YES",
+      "manual_module_parameters": [
+        "3298"
+      ],
+      "manual_links": [
+        "http://support.casio.com/en/manual/manual.php?cid=009&MODULE=3298",
+        "http://www2.casio.co.jp/manual_pdf/wat/en/pdf_search.php?MODULE=3298"
+      ],
+      "interpretation": "Archived manual-link target, not proof of the fitted movement or production date"
+    }
+  ],
+  "archive_discovery": {
+    "annual_cdx_results": [
+      [
+        "timestamp",
+        "original"
+      ],
+      [
+        "20091103065142",
+        "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20100808184455",
+        "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20110121162736",
+        "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20120125055333",
+        "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20130911031700",
+        "http://www.casio-europe.com/euro/watch/collection/A168WA-1YES/"
+      ],
+      [
+        "20140828000740",
+        "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20150226174824",
+        "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/"
+      ],
+      [
+        "20160107203130",
+        "http://www.casio-europe.com:80/euro/watch/collection/A168WA-1YES/"
+      ]
+    ],
+    "transition_cdx_results": [
+      [
+        "timestamp",
+        "original",
+        "digest"
+      ],
+      [
+        "20130911031700",
+        "http://www.casio-europe.com/euro/watch/collection/A168WA-1YES/",
+        "U7APOWU667E4XXHGB2MIQBKPBZSHQM7T"
+      ],
+      [
+        "20131108005750",
+        "http://www.casio-europe.com/euro/watch/collection/a168wa-1yes/",
+        "OZMVD6OJ2ECF35FU2GCQYS3JI2HXVLP7"
+      ],
+      [
+        "20140828000740",
+        "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+        "I5P42HSFHWZT7JPGAUG34IXLY5HPQS5P"
+      ],
+      [
+        "20141202073756",
+        "http://www.casio-europe.com:80/euro/watch/collection/a168wa-1yes/",
+        "PS2RTXRFQTHCU4PYF24JUSEOY2LE4JUA"
+      ]
+    ],
+    "earliest_capture_scope": "2009 is the earliest returned capture for this specific European URL; it is not the earliest A168 page worldwide or a release-date claim."
+  },
+  "excluded_inferences": [
+    "Do not equate the old module=1275 manual pointer with a confirmed A168 fitted-module assignment.",
+    "Do not treat parts-record year 1997 as superseding Casio family introduction year 1995.",
+    "Do not treat the current Japanese SKU releaseDate 2021-07-01 as module 3298 introduction.",
+    "Do not treat a 2012 manual copyright as an exact worldwide module replacement date.",
+    "Do not count mirrored storefronts or shared supplier records as independent confirmations."
+  ]
+}
