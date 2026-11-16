@@ -29,7 +29,7 @@ def digest(value):
 
 
 def validate_archive_source(source):
-    """Bind a Wayback citation to its exact dated official Casio original."""
+    """Bind a Wayback citation to an exact dated manufacturer/partner original."""
     from datetime import datetime, date
     match = re.fullmatch(r'https://web\.archive\.org/web/(\d{14})/(https?://.+)', source.get('url', ''))
     if not match:
@@ -38,7 +38,7 @@ def validate_archive_source(source):
     captured = datetime.strptime(timestamp, '%Y%m%d%H%M%S')
     parsed = urlsplit(original)
     hosts = {'www.casio.com', 'casio.com', 'www.casio-europe.com', 'casio-europe.com',
-             'support.casio.com', 'support.casio.jp'}
+             'support.casio.com', 'support.casio.jp', 'store.united-arrows.co.jp'}
     if (parsed.hostname not in hosts or parsed.username or parsed.password
             or parsed.port not in (None, 80, 443) or parsed.fragment):
         raise ValueError('Archive original must be an official Casio URL without credentials')
@@ -208,6 +208,16 @@ def build(legacy, batches, decisions=None):
                         'field': field, 'existing': current, 'incoming': incoming})
                 else:
                     catalog['report']['duplicates'].append({'id': key, 'field': field})
+                    # Matching pending values can have independent corroborating
+                    # sources. Retain them without changing a reviewed candidate.
+                    if current['status'] == 'pending_review':
+                        additions = [source for source in incoming['sources']
+                                     if source not in current['sources']]
+                        if additions:
+                            current['sources'] = current['sources'] + additions
+                            current.setdefault('corroborating_candidates', []).append(sha)
+                            if incoming['uncertainty'] not in current['uncertainty']:
+                                current['uncertainty'] += ' ' + incoming['uncertainty']
                 continue
             target['specs'][field] = incoming
     if set(approvals) - used_approvals:

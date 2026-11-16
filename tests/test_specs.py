@@ -30,6 +30,28 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(len(result['modules']), 1)
         self.assertTrue(result['report']['duplicates'])
 
+    def test_matching_pending_values_retain_independent_sources_without_promotion(self):
+        original=copy.deepcopy(self.records[0]);changed=copy.deepcopy(original)
+        field=next(iter(original['specs']))
+        changed['specs'][field]['sources'][0]['url']='https://www.casio.com/independent-source'
+        before=copy.deepcopy(original)
+        result=specs.build(self.legacy,[original,changed])
+        fact=result['modules']['3495']['specs'][field]
+        self.assertEqual(len(fact['sources']),2)
+        self.assertEqual(fact['status'],'pending_review')
+        self.assertIn(specs.digest(changed),fact['corroborating_candidates'])
+        self.assertEqual(original,before)
+
+    def test_matching_unreviewed_source_cannot_modify_verified_evidence(self):
+        original=copy.deepcopy(self.records[0]);changed=copy.deepcopy(original)
+        field=next(iter(original['specs']))
+        changed['specs'][field]['sources'][0]['url']='https://www.casio.com/independent-source'
+        decision={'candidate_sha256':specs.digest(original),'reviewed_by':'test','note':'Original source reviewed'}
+        result=specs.build(self.legacy,[original,changed],[decision])
+        fact=result['modules']['3495']['specs'][field]
+        self.assertEqual(fact['status'],'verified')
+        self.assertEqual(fact['sources'],original['specs'][field]['sources'])
+
     def test_verified_conflict_cannot_overwrite(self):
         original = self.records[0]
         changed = copy.deepcopy(original)
