@@ -1,0 +1,3176 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:catalog-index-2011-2026-11-15",
+  "source": {
+    "filename": "Casio_2011_Catalog_Model_Specifications.pdf",
+    "sha256": "9a534e1ead6fc9a7e0d6193b6aa3051e1b68eacf72e27196b9e8478aafa99308",
+    "pages": 16,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied text extraction of 2011 dealer catalog indexes; underlying 144-page scan not independently rechecked"
+  },
+  "models": [
+    {
+      "id": "MRG-7600D",
+      "pages": [
+        1
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MRG-7700B",
+      "pages": [
+        1
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MRG-8100B",
+      "pages": [
+        1
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTG-1100",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTG-1500",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTG-1500B",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTG-910DJ",
+      "pages": [
+        2
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-590",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-591",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-80",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-80D",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-80V",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-S90",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AW-S90D",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AWG-100BC",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AWG-100C",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AWG-100F",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AWG-101",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AWG-M500F",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DW-5600E",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DW-6900B",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-300",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-300G",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-300LV",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-501D",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-5600E",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-7700",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-7700G",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-7800B",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-7900",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-7900A",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-8100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-9000",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "G-9100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GA-100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GA-110",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GA-110B",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GA-110C",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GA-110HC",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GD-100",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GD-100HC",
+      "pages": [
+        3
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GD-200",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GDF-100",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GLX-5600",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GLX-6900",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GLX-6900A",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GRX-5600A",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GRX-5600B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GS-1400",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GS-1400B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-1500J",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-1800DJ",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-2000B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-2310",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-2310BD",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-2500",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3000B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3000BB",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3000BD",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3500B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3500BB",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-3500BD",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-5000",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-5500",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-5600BJ",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-5600J",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-6900",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-6900BC",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-6900CC",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-6900F",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-700BDJ",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-700FDJ",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-7900",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-7900B",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9010",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9110",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9200J",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9200MBJ",
+      "pages": [
+        4
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9300",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-9300GB",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GW-M850",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GWF-1000",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GWX-5600",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GXW-56",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "GXW-56GB",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-500C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-500CB",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-500CG",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-501C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-701C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7100CBJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7100CJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7100DGJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7200CBJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7200CGJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7200CJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7200DGJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSA-7201DGJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSG-1500CBJ",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSG-300C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSG-302C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSG-3100C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MSG-3110C",
+      "pages": [
+        5
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-169R",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-5600BK",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-5600WH",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-5601",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-810",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BG-810PD",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-100",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-101",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-1020",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-1030",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-104",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-105",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-113",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-113B",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-116",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-1200C",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-120C",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-121C",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-123",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-124",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-130",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-131",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGA-200",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-100",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-102",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1020",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1030",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-110",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1100",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1100G",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1110",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1300",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1310",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGD-1320C",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGR-3003",
+      "pages": [
+        6
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BGR-302PP",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "BLX-100",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHE-7506D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHE-7506SG",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-3021DPJ",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-5508GDJ",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-5509SGJ",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-5511SGJ",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7501D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7502D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7503D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7503SG",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7504D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SHN-7505D",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-P100TD",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-S1200P",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T1000",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T1000B",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OCW-T600TD",
+      "pages": [
+        7
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EF-109D",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EF-120L",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EF-305D",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EFA-119DJ",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQS-500C",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQS-500DB",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M1000D",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M1000DB",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M1100DB",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M1100DC",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M600D",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M600DB",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M600DC",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M710DB",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "EQW-M710DC",
+      "pages": [
+        8
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-110CJ",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-240",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-240B",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRG-240T",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1000J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1300J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1300TJ",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1500J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1500TJ",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-1500YJ",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-2000A",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-2000Y",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-200J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-5000",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-5000Y",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-500J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-5100",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-5100T",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRW-5100YT",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "PRX-2000T",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "CHR-100J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LW-S200H",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "RFT-100",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "STP-100J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "STR-300CJ",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "STR-300J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "STR-400J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "STR-900J",
+      "pages": [
+        9
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SDB-100J",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SGW-100J",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SGW-200",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SGW-300H",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SGW-300HB",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "SGW-400H",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-S200H",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-S200HD",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-S210H",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-S210HD",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WL-500",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WL-S21H",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WL-S21HB",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WL-S21HD",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WS-300",
+      "pages": [
+        10
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M100D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M100TD",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M150D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M150DP",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M150TD",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LCW-M300D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIW-110DJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIW-110TDJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIW-M1100D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIW-M610D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIW-T100TD",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "OVW-100BJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-57HDJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-57HJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-58DJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-58J",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-59DJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-59J",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-M120DJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-M120J",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WV-M200",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-107HDJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-107HJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-109HDJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-109HJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-470DJ",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "WVA-470J",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "HDA-600B",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIN-163",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LIN-171J",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LWA-M141",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LWA-M141D",
+      "pages": [
+        11
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQF-100WBJ",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQF-100WDJ",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQW-100",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQW-101J",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DB-36",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DB-360",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DB-E30",
+      "pages": [
+        12
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "A158WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "A164WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "A168WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "A178WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AE-2000W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AE-2000WD",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AL-180AMVV",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AMW-700B",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-163W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-164W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-164WD",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-180W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-190W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-230A",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "AQ-230GA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "ARG-300D",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "F-105W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "F-200W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "F-201WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "F-28W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "F-84W",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LA670WA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LQ-139AMV",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LQ-398GL",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LQ-410",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTD-1035A",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-1129AA",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-1175A",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-1175E",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-1177A",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-1181A",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "LTP-2064E",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MDV-100D",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MQ-24",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MRW-81J",
+      "pages": [
+        13
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTD-1044A",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTD-1046A",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTD-1047A",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1129AA",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1129N",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1174Q",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1175E",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1181A",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1228DJ",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1239DJ",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1240DJ",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1244D",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTP-1246D",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MTR-302",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MW-59",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "MW-600F",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-42H",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-755",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-78",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "W-96H",
+      "pages": [
+        14
+      ],
+      "reading_status": "family_label_only_not_exact_variant"
+    },
+    {
+      "id": "DQ-735",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-124",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQ-955",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-126",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQC-100NJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-127",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQC-110J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-128",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-70J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-129",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-80J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-180W",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-110J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1001J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-140J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1010J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-208J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1050NJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-210J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1101J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-240J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1140J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-270J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1150NJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-330J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-1300WJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-350J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-3000J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-620J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-3100J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-660J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-200J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-680J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-460J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-700J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-560J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-710J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-600J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQD-720J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-710J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQL-100NJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ITM-720SNJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQS-300J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "PQ-50J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "DQS-600J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "SQD-1000J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IC-410SJ",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TMR-71",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IC-800J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TMR-72",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IC-1001J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-110J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IC-1010J",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-131U",
+      "pages": [
+        15
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IC-1020NJ",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-141",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ICC-3000J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-146",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ICC-3100J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-156J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ICL-600J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-175J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ICL-700J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-217",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ID-29J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-271",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ID-52J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-272",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "ID-53J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-306C",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDC-100J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-377",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDC-110J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-378",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDC-200J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-379",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDC-310J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-388J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDL-100J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-512",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDL-200NJ",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-580J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDL-300NJ",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-590J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IDS-100J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-642",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-48",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-643",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-49",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-645",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-55S",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-680J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-56S",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-700J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-58",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-710J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-59",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQ-720J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-60",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQT-100",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-68",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQT-250J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-76",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TQT-350J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-121",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TTM-150J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-122",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "TTM-200J",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    },
+    {
+      "id": "IQ-123",
+      "pages": [
+        16
+      ],
+      "reading_status": "clock_index_reference_only"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "AL",
+      "family": "2011 WATCH INDEX",
+      "description": "AL is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "AQF",
+      "family": "2011 WATCH INDEX",
+      "description": "AQF is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: OUTDOOR / ANALOG). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "ARG",
+      "family": "2011 WATCH INDEX",
+      "description": "ARG is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "BGR",
+      "family": "2011 WATCH INDEX",
+      "description": "BGR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: Baby-G). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "CHR",
+      "family": "2011 WATCH INDEX",
+      "description": "CHR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DQC",
+      "family": "2011 CLOCK INDEX",
+      "description": "DQC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DQD",
+      "family": "2011 CLOCK INDEX",
+      "description": "DQD is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DQL",
+      "family": "2011 CLOCK INDEX",
+      "description": "DQL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "DQS",
+      "family": "2011 CLOCK INDEX",
+      "description": "DQS is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "EFA",
+      "family": "2011 WATCH INDEX",
+      "description": "EFA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "EQS",
+      "family": "2011 WATCH INDEX",
+      "description": "EQS is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "EQW",
+      "family": "2011 WATCH INDEX",
+      "description": "EQW is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "HDA",
+      "family": "2011 WATCH INDEX",
+      "description": "HDA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: LINEAGE / OVERLAND). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "IC",
+      "family": "2011 CLOCK INDEX",
+      "description": "IC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "ICC",
+      "family": "2011 CLOCK INDEX",
+      "description": "ICC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "ICL",
+      "family": "2011 CLOCK INDEX",
+      "description": "ICL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "ID",
+      "family": "2011 CLOCK INDEX",
+      "description": "ID is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "IDC",
+      "family": "2011 CLOCK INDEX",
+      "description": "IDC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "IDL",
+      "family": "2011 CLOCK INDEX",
+      "description": "IDL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "IDS",
+      "family": "2011 CLOCK INDEX",
+      "description": "IDS is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "IQ",
+      "family": "2011 CLOCK INDEX",
+      "description": "IQ is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "ITM",
+      "family": "2011 CLOCK INDEX",
+      "description": "ITM is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "LTD",
+      "family": "2011 WATCH INDEX",
+      "description": "LTD is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "LWA",
+      "family": "2011 WATCH INDEX",
+      "description": "LWA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: LINEAGE / OVERLAND). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "MSA",
+      "family": "2011 WATCH INDEX",
+      "description": "MSA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: G-ms). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "MTR",
+      "family": "2011 WATCH INDEX",
+      "description": "MTR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "OVW",
+      "family": "2011 WATCH INDEX",
+      "description": "OVW is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: WAVE CEPTOR / LINEAGE). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "RFT",
+      "family": "2011 WATCH INDEX",
+      "description": "RFT is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "SHE",
+      "family": "2011 WATCH INDEX",
+      "description": "SHE is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "SHN",
+      "family": "2011 WATCH INDEX",
+      "description": "SHN is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "SQD",
+      "family": "2011 CLOCK INDEX",
+      "description": "SQD is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "STP",
+      "family": "2011 WATCH INDEX",
+      "description": "STP is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "STR",
+      "family": "2011 WATCH INDEX",
+      "description": "STR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "TMR",
+      "family": "2011 CLOCK INDEX",
+      "description": "TMR is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "TQ",
+      "family": "2011 CLOCK INDEX",
+      "description": "TQ is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "TQT",
+      "family": "2011 CLOCK INDEX",
+      "description": "TQT is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "TTM",
+      "family": "2011 CLOCK INDEX",
+      "description": "TTM is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "WL",
+      "family": "2011 WATCH INDEX",
+      "description": "WL is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SPORTS GEAR). No universal letter meaning or unlisted retail variant is inferred.",
+      "status": "secondary_reported"
+    }
+  ]
+}

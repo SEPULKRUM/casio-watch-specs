@@ -15,6 +15,10 @@ export function decodeModel(input,data=null,references=null){
  if(!/^[A-Z0-9-]+$/.test(cleaned))return {recognized:false,reason:'Enter a Casio model or prefix using letters, numbers and hyphens.',segments:[]};
  const key=compact(cleaned),exact=data?(Object.values(data.models).find(m=>compact(m.id)===key)||Object.values(data.models).find(m=>(m.specs?.supplied_aliases?.value||[]).some(alias=>compact(alias)===key))):null;
  const matches=exactReferences(references,cleaned);
+ if(exact?.specs?.reference_scope?.value==='2011_clock_index'){
+  const prefix=exact.id.match(/^[A-Z]+/)?.[0]||'';
+  return {recognized:true,prefix,family:'2011 CLOCK INDEX',normalized:exact.id,segments:[{type:'prefix',token:prefix,communityMeaning:null,title:'Clock index identifier',description:'Clock reference printed in the supplied 2011 index. Watch-prefix meanings and technical functions are not inferred.',status:'secondary_reported'},{type:'series',token:exact.id.slice(prefix.length).replace(/^-/,''),title:'Indexed clock designation',description:'Identifier as listed; no dimensions, mass, module or functions established by this extraction.',status:'secondary_reported'}],exact,references:matches,historicalReference:true};
+ }
  if(exact?.specs?.catalog_year){
   const historicalPrefix=exact.id.match(/^[A-Z]+/)?.[0]||'',segments=[];
   if(historicalPrefix)segments.push({type:'prefix',token:historicalPrefix,title:'Historical model family',communityMeaning:null,description:`Historical Casio identifier in the supplied ${exact.specs.catalog_year.value} catalog extraction. Modern same-prefix letter interpretations are not applied.`,status:'secondary_reported',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/research/historical-catalog-1980-1989.json'});

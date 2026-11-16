@@ -67,7 +67,7 @@ class ReferenceImportTests(unittest.TestCase):
         actual = json.loads(re.search(r'export const researchEntries=(\[.*?\]);', (ROOT / 'web/research-prefix-data.mjs').read_text(), re.S)[1])
         self.assertEqual(expected, actual)
         self.assertEqual(len(base), 57)
-        self.assertEqual(len(actual), 93)
+        self.assertEqual(len(actual), 131)
         self.assertTrue(all(x[4]['status'] in {'secondary_reported', 'unverified', 'official_observed'} for x in actual))
 
     def test_guide_supplement_is_idempotent_page_scoped_and_does_not_import_claims(self):
