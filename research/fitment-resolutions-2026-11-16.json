@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Explicit owner-supplied interpretations of combined parts references. These links identify separately indexed models; they do not verify shared physical specifications, factory module options, release dates or interchangeability. No automatic splitting of other slash references is authorized by this dataset.",
+  "resolutions": [
+    {
+      "model_id": "A-151/153/155-1A",
+      "related_models": ["A-151-1A", "A-153-1A", "A-155-1A"],
+      "scope_note": "The owner identifies three individual A-series watches within this combined reference. All three exact identifiers were already present independently in the master database. Keep the original combined parts reference and provide links to each individual record. A shared listing does not establish identical dimensions, materials or fitted modules.",
+      "evidence": [
+        {
+          "label": "Owner-supplied interpretation",
+          "status": "Owner-supplied; exact variant specifications pending verification",
+          "note": "The grouping is interpreted as A-151, A-153 and A-155 with the supplied -1A suffix. This interpretation applies to this reference only."
+        }
+      ],
+      "model_notes": [
+        {
+          "model_id": "A-151-1A",
+          "claims": [
+            {
+              "url": "https://www.ebay.com/itm/286415881074",
+              "status": "Seller claim; listing checked 2026-11-16; exact -1A variant not established",
+              "text": "The seller identifies an A151 with module 415 and lists a 34 mm case size, 8 mm thickness, 18 mm lug width and stainless steel bracelet. These observations concern the listed example, not every A-151 variant."
+            },
+            {
+              "status": "Owner-supplied historical interpretation; not independently verified",
+              "text": "The owner dates the A-151 to approximately 1983–1984. Case construction and the meaning of -1A remain unverified for this exact identifier."
+            }
+          ]
+        },
+        {
+          "model_id": "A-153-1A",
+          "claims": [
+            {
+              "url": "https://www.ebay.com/itm/267823874295",
+              "status": "Owner-supplied listing; page unavailable during check on 2026-11-16",
+              "text": "The owner reports early-to-mid-1980s A-153 examples with modules 415 or 595 and an approximately 34 mm case. This does not establish the fitted module or dimensions of every -1A example."
+            },
+            {
+              "url": "https://www.digital-watch.com/images/pdf_bank/1985_casio.pdf",
+              "status": "Historical catalog text extraction; exact regional and colorway scope unresolved",
+              "text": "The catalog extraction associates the printed A153 and A153G references with module 595. Existing library evidence separately associates A153 with module 415. Preserve the differing source associations rather than assigning one module to all variants."
+            }
+          ]
+        },
+        {
+          "model_id": "A-155-1A",
+          "claims": [
+            {
+              "url": "https://www.ebay.com/itm/227609943969",
+              "status": "Owner-supplied listing; page unavailable during check on 2026-11-16",
+              "text": "The owner describes the A-155/A-155W as a mid-to-late-1980s predecessor of the A158W and proposes modules 567, 587 or 593. The proposed 567 and 593 associations are not established here. The library separately records A155W-1 with module 587; that evidence must not be copied to this differently written identifier."
+            }
+          ]
+        }
+      ],
+      "restoration_note": {
+        "url": "https://www.reddit.com/r/casio/comments/1m9ueeh/casio_japan_a151_looking_to_replace_the_internal/",
+        "status": "Community restoration report; not factory configuration or a compatibility guarantee",
+        "text": "Collectors report replacing a 415 with a modern 593 in an A151, with changes to illumination and LCD appearance. A replacement-module report does not establish the original factory-fitted module."
+      }
+    }
+  ]
+}

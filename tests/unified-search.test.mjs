@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {validateSearchIndex,searchUnified,indexedModel,exactIndexedModels,modelForDetail,indexedStatus,inSearchMode,unifiedFamilyCounts} from '../web/unified-search.mjs';
+import {validateSearchIndex,searchUnified,indexedModel,exactIndexedModels,modelForDetail,indexedStatus,inSearchMode,unifiedFamilyCounts,fitmentContext} from '../web/unified-search.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL(p,import.meta.url)));
 const catalog=read('../data/catalog.json'),index=validateSearchIndex(read('../data/search-index.json'),catalog),master=read('../research/casio-master-research-2026-11-16.json'),report=read('../data/reconciliation-report.json');
 
@@ -50,4 +50,22 @@ test('truncated indexes or broken category counts fail validation rather than hi
  const bad=structuredClone(index);bad.records.pop();assert.throws(()=>validateSearchIndex(bad,catalog));
  const badCount=structuredClone(index);badCount.counts.watch++;assert.throws(()=>validateSearchIndex(badCount,catalog));
  const missingCatalog=structuredClone(index);const i=missingCatalog.records.findIndex(r=>r.id==='GW-9400KJ-8');missingCatalog.records.splice(i,1);missingCatalog.counts.all_records--;missingCatalog.counts.watch--;assert.throws(()=>validateSearchIndex(missingCatalog,catalog));
+});
+test('explicit combined reference finds its three individual watches without copying shared specifications',()=>{
+ const combined='A-151/153/155-1A',members=['A-151-1A','A-153-1A','A-155-1A'];
+ const result=searchUnified(index,catalog,{query:combined});assert.deepEqual(new Set(result.records.map(r=>r.id)),new Set(members));
+ assert.equal(indexedModel(index,combined).category,'fitment');
+ for(const id of members){
+  assert.equal(searchUnified(index,catalog,{query:id}).records[0].id,id);
+  assert.equal(indexedModel(index,id).category,'watch');
+  assert.deepEqual(modelForDetail(index,catalog,id).model.specs,{});
+  assert.deepEqual(modelForDetail(index,catalog,id).module_ids,[]);
+  assert.equal(fitmentContext(index,id)[0].model_id,combined);
+ }
+ assert.equal(searchUnified(index,catalog,{query:combined,verified:true}).total,0);
+ assert.equal(searchUnified(index,catalog,{query:combined,mode:'fitment'}).records[0].id,combined);
+ assert.equal(searchUnified(index,catalog,{query:combined,mode:'all'}).total,4);
+ // Other slash labels are not split by a naming heuristic.
+ assert.deepEqual(fitmentContext(index,'A-151/153G-1A'),[]);
+ const bad=structuredClone(index);bad.fitment_resolutions[0].related_models.push('UNPROVEN-999');assert.throws(()=>validateSearchIndex(bad,catalog));
 });

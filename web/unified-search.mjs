@@ -16,6 +16,10 @@ export function validateSearchIndex(index,catalog){
  }
  for(const category of categories)if((counts[category]||0)!==index.counts[category])throw Error('Search category count mismatch');
  for(const id of Object.keys(catalog.models))if(!ids.has(id))throw Error('Catalog identifier omitted from unified search');
+ for(const resolution of index.fitment_resolutions||[]){
+  const combined=index.records.find(r=>r.id===resolution.model_id);
+  if(combined?.category!=='fitment'||!Array.isArray(resolution.related_models)||!resolution.related_models.length||new Set(resolution.related_models).size!==resolution.related_models.length||resolution.related_models.some(id=>!ids.has(id)||index.records.find(r=>r.id===id)?.category!=='watch'))throw Error('Invalid fitment member links');
+ }
  return index;
 }
 export function inSearchMode(row,mode='models'){
@@ -44,10 +48,12 @@ function prepared(index,catalog,master){
 }
 export function indexedModel(index,id){return index?identities(index).byId.get(id)||null:null}
 export function exactIndexedModels(index,input){if(!index)return [];const literal=String(input).trim().toUpperCase(),key=compact(input),maps=identities(index),exact=maps.byId.get(literal);return exact?[exact]:maps.byCompact.get(key)||[]}
+export function fitmentContext(index,id){return (index.fitment_resolutions||[]).filter(r=>r.model_id===id||r.related_models.includes(id))}
 export function searchUnified(index,catalog,{query='',family='',verified=false,mode='models',page=1,pageSize=50}={},master=null){
  const q=String(query).trim().toUpperCase(),terms=q.split(/\s+/).filter(Boolean),key=compact(q);
+ const explicitMembers=new Set((index.fitment_resolutions||[]).filter(r=>key&&compact(r.model_id)===key).flatMap(r=>r.related_models));
  const size=[25,50,100].includes(Number(pageSize))?Number(pageSize):50;
- let found=prepared(index,catalog,master).rows.filter(item=>inSearchMode(item.row,mode)&&(!family||item.row.family===family)&&(!verified||item.row.has_checked_fields)&&terms.every(term=>{const text=verified?item.checkedText:item.text;return text.includes(term)||compact(term)&&item.key.includes(compact(term))}));
+ let found=prepared(index,catalog,master).rows.filter(item=>inSearchMode(item.row,mode)&&(!family||item.row.family===family)&&(!verified||item.row.has_checked_fields)&&(explicitMembers.has(item.row.id)||terms.every(term=>{const text=verified?item.checkedText:item.text;return text.includes(term)||compact(term)&&item.key.includes(compact(term))})));
  if(q){const exact=[],rest=[];for(const item of found)(item.row.id.toUpperCase()===q||item.key===key?exact:rest).push(item);found=exact.concat(rest)}
  const pageCount=Math.max(1,Math.ceil(found.length/size)),current=Math.min(pageCount,Math.max(1,Math.floor(Number(page)||1))),offset=(current-1)*size;
  return {total:found.length,records:found.slice(offset,offset+size).map(item=>item.row),page:current,pageCount,pageSize:size,offset};

@@ -1,4 +1,4 @@
-import {validateSearchIndex,searchUnified,indexedModel,exactIndexedModels,modelForDetail,indexedStatus,unifiedFamilyCounts,inSearchMode} from './unified-search.mjs';
+import {validateSearchIndex,searchUnified,indexedModel,exactIndexedModels,modelForDetail,indexedStatus,unifiedFamilyCounts,inSearchMode,fitmentContext} from './unified-search.mjs';
 import {englishText,nonEnglishScript} from './english.mjs';
 import {presentationFacts} from './specification-display.mjs';
 import {validateMaster,expandMasterModel,mergeMasterReferences,searchMaster} from './master-research.mjs';
@@ -73,7 +73,19 @@ function openModel(id,write=true){
  if(model.specs.module_id)moduleSection.append(fact('module_id',model.specs.module_id));if(model.specs.module_candidates)moduleSection.append(fact('module_candidates',model.specs.module_candidates));if(model.module)moduleSection.append(el('p',`Module ${model.module} · preserved legacy association; not independently reverified.`,'detail-description'));
  if(!ids.length)moduleSection.append(el('p','No module reference recorded.','unknowns'));
  for(const id of ids){const profile=data.modules[id],option=el('details',undefined,'module-option');if(!ambiguous)option.open=true;const sum=el('summary',`Module ${id}`);const polarity=value(profile,'display_polarity');if(polarity)sum.append(el('small',display(polarity,'display_polarity')));option.append(sum);if(profile)addFacts(option,profile);else option.append(el('p','This candidate module does not yet have a researched specification profile.','detail-description'));moduleSection.append(option)}
- body.append(moduleSection);if(entry)body.append(indexedSources(entry));if(write)history.replaceState(null,'',`#model=${encodeURIComponent(model.id)}`);if(!$('#detail').open)$('#detail').showModal();$('#detail').scrollTop=0;
+ body.append(moduleSection);if(entry){appendFitmentContext(body,entry);body.append(indexedSources(entry))}if(write)history.replaceState(null,'',`#model=${encodeURIComponent(model.id)}`);if(!$('#detail').open)$('#detail').showModal();$('#detail').scrollTop=0;
+}
+
+function appendFitmentContext(body,entry){
+ for(const context of fitmentContext(searchIndex,entry.id)){
+  const section=el('section',undefined,'detail-section');section.append(el('h3','Related individual models and parts references'),el('p',context.scope_note,'detail-description'));
+  for(const id of [context.model_id,...context.related_models])if(id!==entry.id){const button=el('button',undefined,'text-button detail-link');button.type='button';button.textContent=id;button.addEventListener('click',()=>openModel(id));section.append(button)}
+  const note=claim=>{const detail=el('div',undefined,'evidence');detail.append(el('p',claim.status,'source-location'),el('p',claim.text||claim.note));if(claim.url)detail.append(link('Source ↗',claim.url));section.append(detail)};
+  for(const claim of context.evidence||[])note(claim);
+  for(const model of context.model_notes||[])if(entry.id===context.model_id||entry.id===model.model_id){const heading=el('h4');heading.textContent=model.model_id;section.append(heading);for(const claim of model.claims)note(claim)}
+  if(entry.id===context.model_id&&context.restoration_note)note(context.restoration_note);
+  section.append(el('p','Research notes are separate from verified specifications and factory module assignments.','review-note'));body.append(section);
+ }
 }
 
 function indexedSources(entry){
