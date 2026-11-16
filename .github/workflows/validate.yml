@@ -19,7 +19,7 @@ jobs:
           node-version: '22'
       - name: Check beta browser logic and package static assets
         run: |
-          node tests/web.test.mjs
+          for test in tests/*.test.mjs; do node "$test"; done
           node --check web/app.mjs
           python build_web.py
       - name: Check reproducible catalog, CSV and coverage
@@ -34,3 +34,6 @@ jobs:
             data/watches.csv
             data/coverage.json
             data/parts-links.json
+            data/search-index.json
+            data/reconciliation-report.json
+            data/unified-models.csv
