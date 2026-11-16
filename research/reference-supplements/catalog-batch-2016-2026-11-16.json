@@ -1,0 +1,1516 @@
+{
+  "schema_version": 1,
+  "source_id": "guide:catalog-batch-2016-2026-11-16",
+  "source": {
+    "filename": "2016 Catalog.pdf",
+    "sha256": "afd3162a42568006c47ea0179166b9d5c4d3957113e33e3a74cbe63da9d44c79",
+    "pages": 13,
+    "availability": "received_secondary_guide",
+    "classification": "Owner-supplied text extraction; original 30-page catalog/scan not independently rechecked"
+  },
+  "models": [
+    {
+      "id": "GWF-D1000-1JF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-D1000B-1JF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWF-1000-1JF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWN-1000B-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWN-1000B-1BJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWN-1000C-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWN-1000H-9AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GN-1000B-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GN-1000-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9110-1JF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GPW-1000-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GPW-1000VFC-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GPW-1000T-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-A1100-1A3JF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-A1000-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-4000-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-3000B-1AJF",
+      "pages": [
+        2
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWG-1000-1A3JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GWG-1000-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GG-1000-1A3JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GG-1000-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9300-1JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-9400J-1JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-G1000D-1A2JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-G1000D-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-G1000GB-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-S1000D-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-S1000D-1A4JF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MTG-S1000BD-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100MA-2AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100MB-3AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100MB-4AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100A-7AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100B-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GAX-100B-7AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GBA-400-1AJF",
+      "pages": [
+        3
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GBA-400-1A9JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-120TR-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-120TR-4AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-120TR-7AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-M5610LY-1JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-100LY-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-110LY-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GST-W110D-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GST-W110-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GST-W100D-1A2JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-100CB-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-100CF-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-100CF-1A9JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M510SWB-7AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5600WB-7JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-110WB-7AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-7900B-1JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-8900A-1JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-8900A-1JF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-400-1AJF",
+      "pages": [
+        4
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-400-1BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-300-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-200-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GA-110-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GD-100-1BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-M5610-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-M5610BC-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-5600E-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "DW-5600E-1",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "GW-6900-1JF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "G-300-3AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M100-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M100S-7AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M100SB-2AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AWG-M100BC-2AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AW-590-1AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AW-591-2AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-2200-7BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-220-7AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-220G-2AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-2200G-1BJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-220G-7AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-220B-2AJF",
+      "pages": [
+        5
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MSG-3300-2BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MSG-3300-7B1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "MSG-3300-7B2JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1400-4BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1400-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1200C-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1100-2BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1100GR-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-1020-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGR-3003-1BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-5000-1JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-5000-7JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-130TR-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-185TR-7AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-190GL-1BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-190GL-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-190-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-180-7B2JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-180FB-2JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGD-180FB-7JF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-185-2AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-185-7AJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BG-6903-7BJF",
+      "pages": [
+        6
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-2100ST-4BJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-2100ST-7BJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-210-7B3JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-210-7B4JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BA-110-7A1JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BA-110BC-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BG-6900-7JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-130-1BJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BGA-152-7B2JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "BG-169R-1BJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1100-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1100B-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1100C-7AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1000-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1000DB-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1000B-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-G1000B-1A2JF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S3400-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S3400B-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S3400D-2AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S3400E-7AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S3000-1AJF",
+      "pages": [
+        7
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S340-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S340-7AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-P1000-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-P1000-7AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-P1000B-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600-2AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T2600B-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-T150-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "OCW-S100-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-600D-1A2JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-600D-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-510D-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-500D-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-500D-1A2JF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQB-500DB-2AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-T630JDC-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-T630JDB-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-T630JD-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-T620L-1AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-T620L-2AJF",
+      "pages": [
+        8
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "EQW-A1200DB-1AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "ERA-500D-1AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "ERA-500DB-1AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1900SG-9AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1900BSG-7AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1900D-7AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1900BD-7AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1800SG-4AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1800D-2AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1700SG-4AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1700D-2AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1600D-7AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1600SG-9AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1508SG-4AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHW-1508D-9AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHE-4516SBJ-7CJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHE-4506SBS-4AJF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SHE-4506SBD-7A2JF",
+      "pages": [
+        9
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-6100FC-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-6100Y-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-6100Y-1AJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "catalog_suffix_requires_review"
+    },
+    {
+      "id": "PRX-8000T-7AJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRX-8000T-7BJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRX-8000YT-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-S6100Y-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-3100-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-3100FC-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-3510-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRW-3510Y-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "PRG-270-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STW-1000-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STW-1000-1BJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STW-1000-7JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STW-1000-8JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STR-300J-1AJF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STR-300CJ-1JF",
+      "pages": [
+        10
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "RFT-100-1JF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STL-S100H-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STL-S300H-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "STL-S300H-4AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WV-M200-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AE-2000W-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AQW-100-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AQW-101J-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "AQ-190W-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "SGW-100J-1JF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M180D-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M500TD-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LIW-M610D-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M170D-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100TD-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100TD-7AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100D-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LCW-M100D-7AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LIW-120DEJ-1AJF",
+      "pages": [
+        11
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M650D-2AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M650-1AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M650-7AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVQ-M410DE-1A2JF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVQ-M410-1AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M640-1A2JF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M630D-1AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "WVA-M630D-7AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LWA-M160D-7A2JF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LWQ-10DJ-4AJF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    },
+    {
+      "id": "LWQ-10DJ-7A2JF",
+      "pages": [
+        12
+      ],
+      "reading_status": "identifier_extracted_from_secondary_guide"
+    }
+  ],
+  "prefix_observations": [
+    {
+      "prefix": "ERA",
+      "family": "EDIFICE",
+      "description": "ERA appears in the supplied 2016 EDIFICE collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "SHW",
+      "family": "SHEEN",
+      "description": "SHW appears in the supplied 2016 SHEEN collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "STL",
+      "family": "PHYS / SPORTS",
+      "description": "STL appears in the supplied 2016 PHYS / SPORTS collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+      "status": "secondary_reported"
+    },
+    {
+      "prefix": "LWQ",
+      "family": "WAVE CEPTOR",
+      "description": "LWQ appears in the supplied 2016 WAVE CEPTOR collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+      "status": "secondary_reported"
+    }
+  ]
+}

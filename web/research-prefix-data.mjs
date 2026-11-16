@@ -484,7 +484,17 @@ export const researchEntries=[
     "2011 WATCH INDEX",
     "EQW",
     "EQW is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
-    "EQW-M1000D",
+    "EQW-A1200DB-1AJF",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "EDIFICE",
+    "ERA",
+    "ERA appears in the supplied 2016 EDIFICE collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+    "ERA-500D-1AJF",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -861,6 +871,16 @@ export const researchEntries=[
     }
   ],
   [
+    "WAVE CEPTOR",
+    "LWQ",
+    "LWQ appears in the supplied 2016 WAVE CEPTOR collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+    "LWQ-10DJ-4AJF",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "M",
     "M appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
@@ -1084,7 +1104,7 @@ export const researchEntries=[
     "2011 WATCH INDEX",
     "SHE",
     "SHE is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
-    "SHE-7506D",
+    "SHE-4506SBD-7A2JF",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -1095,6 +1115,16 @@ export const researchEntries=[
     "SHN",
     "SHN is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
     "SHN-3021DPJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "SHEEN",
+    "SHW",
+    "SHW appears in the supplied 2016 SHEEN collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+    "SHW-1508D-9AJF",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -1115,6 +1145,16 @@ export const researchEntries=[
     "SQD",
     "SQD is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
     "SQD-1000J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "PHYS / SPORTS",
+    "STL",
+    "STL appears in the supplied 2016 PHYS / SPORTS collection listings. Feature descriptions retain their series scope; no universal letter expansion or numeric module is inferred.",
+    "STL-S100H-1AJF",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
