@@ -24,8 +24,12 @@ class CatalogTests(unittest.TestCase):
         for family in ('G-SHOCK', 'Pro Trek', 'Oceanus', 'Lineage', 'Wave Ceptor'):
             self.assertGreaterEqual(report['models_by_series'][family], 3)
         for record in self.catalog['models'].values():
-            for fact in record['specs'].values():
-                self.assertEqual(fact['status'], 'pending_review')
+            for field, fact in record['specs'].items():
+                if fact['status'] == 'verified':
+                    self.assertEqual(fact['review']['method'], 'automated_source_cross_check')
+                    self.assertIn(field, fact['review']['fields'])
+                else:
+                    self.assertEqual(fact['status'], 'pending_review')
                 self.assertTrue(fact['sources'])
 
     def test_generic_water_resistance_is_not_assigned_depth(self):
@@ -59,7 +63,7 @@ class CatalogTests(unittest.TestCase):
         rows = list(csv.DictReader(io.StringIO(catalog.export_csv(self.catalog))))
         self.assertEqual(len(rows), len(self.catalog['models']))
         self.assertTrue(all(row['source_urls'].startswith('https://') or row['source_references'].startswith('research/') for row in rows))
-        self.assertEqual(catalog.search(self.catalog, verified_only=True), [])
+        self.assertEqual(len(catalog.search(self.catalog, verified_only=True)), 4)
 
     def test_verified_only_results_hide_pending_values(self):
         data = copy.deepcopy(self.catalog)

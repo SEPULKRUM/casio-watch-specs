@@ -2,10 +2,10 @@
   "schema_version": 1,
   "scope": "Model/series strings only; not verified watch or specification records. Index checks do not establish official letter meanings. Candidate strings may be partial or false positives.",
   "counts": {
-    "model_strings": 4330,
+    "model_strings": 4334,
     "index_checked": 58,
     "supplied_transcription": 155,
-    "machine_candidate": 4117,
+    "machine_candidate": 4121,
     "rejected_occurrences": 189
   },
   "sources": {
@@ -253,6 +253,30 @@
       "pages": 116,
       "availability": "received_secondary_guide",
       "classification": "Supplied machine/OCR-derived chronological research index; original magazine scan not independently rechecked"
+    },
+    "publication:177658": {
+      "filename": "Chronos Japan: GMW-B5000SB hands-on review",
+      "url": "https://www.webchronos.net/features/177658/",
+      "accessed": "2026-11-16",
+      "published": "2026-11-03",
+      "availability": "publication_web",
+      "snapshot_sha256": "99bfee8a33d227f031e859d08374d0d71a3cb9c1464511425cfc13245988ee5f"
+    },
+    "publication:174287": {
+      "filename": "Chronos Japan: GST-W1000AD hands-on review",
+      "url": "https://www.webchronos.net/features/174287/",
+      "accessed": "2026-11-16",
+      "published": "2026-10-01",
+      "availability": "publication_web",
+      "snapshot_sha256": "5d00fb44070fc269b26bf40fa656baf332765d4336aa0fb4381a07bdc6f0b726"
+    },
+    "publication:155312": {
+      "filename": "Chronos Japan: 2026 Casio new-model roundup",
+      "url": "https://www.webchronos.net/features/155312/",
+      "accessed": "2026-11-16",
+      "published": "2026-04-11",
+      "availability": "publication_web",
+      "snapshot_sha256": "eabe6c0ee66d784e8d2abe75c9c5dc06019c993496e2d1f9c0a0966caa3a8fe7"
     }
   },
   "models": {
@@ -42471,6 +42495,23 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GA-B2100BEG-1AJF": {
+      "id": "GA-B2100BEG-1AJF",
+      "prefix": "GA",
+      "observations": [
+        {
+          "source_id": "publication:155312",
+          "role": "publication_discovery",
+          "locator": "Model identifier in article heading or product caption",
+          "reading_scope": "publication_mention_not_primary_specification_verification"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "primary_source_confirmation_pending"
+      ]
+    },
     "GAC-100-1A2JF": {
       "id": "GAC-100-1A2JF",
       "prefix": "GAC",
@@ -47672,6 +47713,23 @@
       "evidence_status": "unverified",
       "reading_flags": []
     },
+    "GMC-B2100ADS-1AJF": {
+      "id": "GMC-B2100ADS-1AJF",
+      "prefix": "GMC",
+      "observations": [
+        {
+          "source_id": "publication:155312",
+          "role": "publication_discovery",
+          "locator": "Model identifier in article heading or product caption",
+          "reading_scope": "publication_mention_not_primary_specification_verification"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "primary_source_confirmation_pending"
+      ]
+    },
     "GMC-B2100ZE-1A": {
       "id": "GMC-B2100ZE-1A",
       "prefix": "GMC",
@@ -47818,6 +47876,23 @@
       "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
+    },
+    "GMW-B5000SB-1A2JF": {
+      "id": "GMW-B5000SB-1A2JF",
+      "prefix": "GMW",
+      "observations": [
+        {
+          "source_id": "publication:177658",
+          "role": "publication_discovery",
+          "locator": "Model identifier in article heading or product caption",
+          "reading_scope": "publication_mention_not_primary_specification_verification"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "primary_source_confirmation_pending"
+      ]
     },
     "GMW-B5000SS-2": {
       "id": "GMW-B5000SS-2",
@@ -49312,6 +49387,23 @@
       "status": "machine_candidate",
       "evidence_status": "unverified",
       "reading_flags": []
+    },
+    "GST-W1000AD-2AJF": {
+      "id": "GST-W1000AD-2AJF",
+      "prefix": "GST",
+      "observations": [
+        {
+          "source_id": "publication:174287",
+          "role": "publication_discovery",
+          "locator": "Model identifier in article heading or product caption",
+          "reading_scope": "publication_mention_not_primary_specification_verification"
+        }
+      ],
+      "status": "machine_candidate",
+      "evidence_status": "unverified",
+      "reading_flags": [
+        "primary_source_confirmation_pending"
+      ]
     },
     "GST-W100D-1A2JF": {
       "id": "GST-W100D-1A2JF",

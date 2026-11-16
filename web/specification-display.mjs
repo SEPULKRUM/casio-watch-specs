@@ -23,7 +23,8 @@ export function waterResistanceFact(entries){
  for(const [,fact] of entries)for(const source of fact.sources||[]){const key=JSON.stringify(source,Object.keys(source).sort());if(!seen.has(key)){seen.add(key);sources.push(source)}}
  const notes=[...new Set(entries.map(([,fact])=>fact.uncertainty).filter(Boolean))];
  if(conflict)notes.unshift('Different values are recorded for water resistance; no claim has been silently selected.');
- return {value:text||'Not recorded',status:conflict?'conflicting':entries.every(([,f])=>f.status==='verified')?'verified':'pending_review',sources,uncertainty:notes.join('\n'),components:original};
+ const reviewed=entries.every(([,f])=>f.status==='verified'&&f.review?.method==='automated_source_cross_check');
+ return {value:text||'Not recorded',status:conflict?'conflicting':entries.every(([,f])=>f.status==='verified')?'verified':'pending_review',sources,uncertainty:notes.join('\n'),components:original,...(reviewed?{review:entries[0][1].review}:{})};
 }
 export function presentationFacts(record,{excluded=[],verified=false}={}){
  const entries=Object.entries(record?.specs||{}).filter(([field,fact])=>!excluded.includes(field)&&(!verified||fact.status==='verified'));

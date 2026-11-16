@@ -1,0 +1,90 @@
+[
+  {
+    "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+    "reviewed_by": "Codex automated source cross-check",
+    "method": "automated_source_cross_check",
+    "checked_on": "2026-11-16",
+    "evidence_reference": "research/source-checks-2026-11-16.json",
+    "fields": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating",
+      "water_resistance_bar",
+      "series"
+    ],
+    "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+    "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+  },
+  {
+    "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+    "reviewed_by": "Codex automated source cross-check",
+    "method": "automated_source_cross_check",
+    "checked_on": "2026-11-16",
+    "evidence_reference": "research/source-checks-2026-11-16.json",
+    "fields": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating",
+      "water_resistance_m",
+      "series"
+    ],
+    "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+    "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+  },
+  {
+    "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8",
+    "reviewed_by": "Codex automated source cross-check",
+    "method": "automated_source_cross_check",
+    "checked_on": "2026-11-16",
+    "evidence_reference": "research/source-checks-2026-11-16.json",
+    "fields": [
+      "water_resistance_bar"
+    ],
+    "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+    "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+  },
+  {
+    "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+    "reviewed_by": "Codex automated source cross-check",
+    "method": "automated_source_cross_check",
+    "checked_on": "2026-11-16",
+    "evidence_reference": "research/source-checks-2026-11-16.json",
+    "fields": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating",
+      "water_resistance_bar",
+      "series"
+    ],
+    "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+    "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+  },
+  {
+    "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+    "reviewed_by": "Codex automated source cross-check",
+    "method": "automated_source_cross_check",
+    "checked_on": "2026-11-16",
+    "evidence_reference": "research/source-checks-2026-11-16.json",
+    "fields": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating",
+      "water_resistance_bar",
+      "series"
+    ],
+    "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+    "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+  }
+]

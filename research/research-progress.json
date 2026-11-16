@@ -1,0 +1,44 @@
+{
+  "updated": "2026-11-16",
+  "schedule": {
+    "automation_id": "Automation_8fe6d4b5b3d88191a549323ce0b1caa4",
+    "time": "02:00",
+    "timezone": "America/New_York",
+    "enabled": true
+  },
+  "priority": [
+    "All GW-M5610 variants",
+    "All GW-M5610U variants",
+    "All GW-5000 variants",
+    "All GW-5000U variants",
+    "Other important G-SHOCK families",
+    "Bestselling Casio families"
+  ],
+  "completed_batches": [
+    {
+      "evidence": "research/source-checks-2026-11-16.json",
+      "models": [
+        "GW-M5610-1",
+        "GW-M5610U-1",
+        "GW-5000-1",
+        "GW-5000U-1"
+      ],
+      "field_count": 33,
+      "scope": "Selected physical fields and G-SHOCK family only; not a human audit. Existing base records retain their cited Japanese-market scope. Module assignments, release days and unreviewed variants are not approved by this pass."
+    }
+  ],
+  "next_work": [
+    "Continue physical-source checks on remaining variants in the first four priority families",
+    "Check exact-model support links before approving module associations",
+    "Resolve exact-day release claims against dated primary records; product pages may establish only a release month",
+    "Confirm the four new magazine identifiers against Casio pages before accepting specifications"
+  ],
+  "publication_discoveries": "research/publication-discoveries-2026-11-16.json",
+  "writer_workflow": "Create or update tested PRs in casio-watch-specs; do not auto-merge. Publish completed private-beta source updates via Sites without changing audience.",
+  "source_queue": [
+    "https://watchnavi.getnavi.jp/tag/g-shock",
+    "https://watchnavi.getnavi.jp/topics/161327",
+    "https://watchnavi.getnavi.jp/topics/162475",
+    "https://gshock.casio.com/content/dam/casio/global/watch/g_shock/catalog/2026SS_G-SHOCK_catalog_.pdf"
+  ]
+}

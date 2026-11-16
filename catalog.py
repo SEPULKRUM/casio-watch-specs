@@ -164,6 +164,33 @@ def validate_user_evidence(root, records):
                     raise ValueError('User citation does not contain this model/module mapping')
 
 
+def validate_source_reviews(root, records, reviews):
+    by_hash = {specs.digest(record): record for record in records}
+    for review in reviews or []:
+        if review.get('method') != 'automated_source_cross_check':
+            continue
+        from pathlib import PurePosixPath
+        reference = review.get('evidence_reference', '')
+        path = PurePosixPath(reference)
+        if not reference.startswith('research/') or '..' in path.parts or path.is_absolute() or path.suffix != '.json':
+            raise ValueError('Source check requires a research JSON proof')
+        proof = specs.load(root / reference)
+        record = by_hash.get(review['candidate_sha256'])
+        if (not record or specs.digest(proof) != review.get('evidence_sha256')
+                or proof.get('method') != review['method']
+                or proof.get('checked_on') != review.get('checked_on')):
+            raise ValueError('Stale or mismatched automated review proof')
+        checked = next((row for row in proof['models'] if row['id'] == record['id']), None)
+        if not checked or not review.get('fields'):
+            raise ValueError('Automated review requires explicit field scope')
+        for field in review['fields']:
+            if not any(item['field'] == field and item['result'] == 'matched'
+                       and item['candidate_sha256'] == review['candidate_sha256']
+                       and item['catalog_value'] == record['specs'].get(field, {}).get('value')
+                       for item in checked['field_checks']):
+                raise ValueError('Review proof does not support the exact field')
+
+
 def build_catalog(root=Path('.')):
     paths = sorted((root / 'imports').glob('*.json'))
     if not paths:
@@ -171,8 +198,9 @@ def build_catalog(root=Path('.')):
     reviews_path = root / 'reviews.json'
     records = [record for path in paths for record in specs.load(path)]
     validate_user_evidence(root, records)
-    result = specs.build(specs.load(root / 'watches.json'), records,
-                         specs.load(reviews_path) if reviews_path.exists() else None)
+    reviews = specs.load(reviews_path) if reviews_path.exists() else None
+    validate_source_reviews(root, records, reviews)
+    result = specs.build(specs.load(root / 'watches.json'), records, reviews)
     if result['report']['conflicts']:
         raise ValueError('Conflicting facts: resolve before publishing catalog')
     prior = root / 'data/catalog.json'

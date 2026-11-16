@@ -4,7 +4,7 @@ test('all models and exact family totals are available',()=>{const s=stats(data)
 test('model search ignores punctuation and can search linked module facts',()=>{assert.ok(findModels(data,{query:'g-9000ms'}).some(m=>m.id==='G9000MS-1'));assert.ok(findModels(data,{query:'solar'}).length>0);assert.equal(findModels(data,{query:'does-not-exist-anywhere-9182'}).length,0)});
 test('shared references stay separate and LCD polarity is preserved',()=>{assert.deepEqual(moduleIds(data.models['G-9300-1']),['3261','3281']);assert.equal(value(data.modules['3261'],'display_polarity'),'positive');assert.equal(value(data.modules['3281'],'display_polarity'),'negative')});
 test('both thickness claims survive without selected dimensions',()=>{const m=data.models['PAW2000-1'];assert.equal(value(m,'promotional_thickness_mm'),11.5);assert.equal(value(m,'technical_table_thickness_mm'),11.3);assert.equal(value(m,'dimensions_mm'),null);assert.equal(display(value(m,'technical_table_thickness_mm'),'technical_table_thickness_mm'),'11.3 mm')});
-test('verified filter does not present pending research as verified',()=>{assert.equal(findModels(data,{verified:true}).length,0);const copy=structuredClone(data),m=copy.models['G9000MS-1'];m.specs.weight_g.status='verified';assert.ok(findModels(copy,{verified:true}).some(r=>r.id===m.id));assert.equal(findModels(copy,{verified:true,query:'matte'}).length,0)});
+test('verified filter does not present pending research as verified',()=>{assert.deepEqual(findModels(data,{verified:true}).map(m=>m.id).sort(),['GW-5000-1','GW-5000U-1','GW-M5610-1','GW-M5610U-1']);const copy=structuredClone(data),m=copy.models['G9000MS-1'];m.specs.weight_g.status='verified';assert.ok(findModels(copy,{verified:true}).some(r=>r.id===m.id));assert.equal(findModels(copy,{verified:true,query:'matte'}).length,0)});
 test('unsafe source links and invalid catalogs are rejected',()=>{for(const u of ['javascript:alert(1)','data:text/html,hi','http://example.org','https://name:secret@example.org'])assert.equal(safeUrl(u),null);assert.equal(safeUrl('https://www.casio.com/'),'https://www.casio.com/');assert.throws(()=>validateData({schema_version:1,models:{},modules:{}}));assert.equal(validateData(data),data)});
 const {decodeModel}=await import('../web/decoder.mjs');
 test('GWG prefix decodes with and without a separator outside catalog coverage',()=>{for(const s of ['gwg-b1000','gwgb1000']){const r=decodeModel(s,data);assert.equal(r.prefix,'GWG');assert.equal(r.exact,undefined);assert.deepEqual(r.segments.map(s=>s.token),['GWG','B','1000']);assert.match(r.segments[1].description,/Bluetooth/)} });
@@ -18,7 +18,7 @@ test('GW-M5610U separates the update marker from the series',()=>{for(const inpu
 test('update meaning stays scoped and original 5610 has no update marker',()=>{assert.deepEqual(decodeModel('GW-M5610',data).segments.map(s=>s.token),['GW','M','5610']);assert.deepEqual(decodeModel('GW-M9999U',data).segments.map(s=>s.token),['GW','M','9999U']);});
 
 const {evidenceLabel,recordEvidenceLabel}=await import('../web/core.mjs');
-test('official provenance does not silently verify pending fields',()=>{const f=data.models['GW-M5610U-1'].specs.glass;assert.equal(evidenceLabel(f),'Official Casio source');assert.equal(f.status,'pending_review');assert.notEqual(recordEvidenceLabel(data.models['GW-M5610U-1']),'Verified')});
+test('official provenance does not silently verify pending fields',()=>{const f=data.models['GW-M5610U-1B'].specs.glass;assert.equal(evidenceLabel(f),'Official Casio source');assert.equal(f.status,'pending_review');assert.notEqual(recordEvidenceLabel(data.models['GW-M5610U-1']),'Verified')});
 test('evidence labels preserve conflicts, archives and owner supplied distinctions',()=>{assert.equal(evidenceLabel({uncertainty:'Casio gives different values in its promotional description and technical table',sources:[{url:'https://www.casio.com/'}]}),'Conflicting evidence');assert.equal(evidenceLabel({sources:[{url:'https://web.archive.org/a',original_url:'https://support.casio.com/a',archive_timestamp:'20200101'}]}),'Archived Casio source');assert.equal(evidenceLabel({sources:[{kind:'user_provided'}]}),'Owner-supplied evidence');assert.equal(evidenceLabel({sources:[{url:'https://casio.com.example.org/'}]}),'Other source · unverified');assert.equal(evidenceLabel({status:'verified'}),'Verified');assert.equal(recordEvidenceLabel({specs:{a:{status:'verified'},b:{sources:[]}}}),'Mixed source evidence')});
 const {partsForModel,validateParts}=await import('../web/parts.mjs');
 test('parts links preserve exact variants and reject unsafe destinations',()=>{const id='GW-M5610-1',row={listed_model:id,url:'https://boley.de/en/case-parts/casio/25194.gw-m5610-1',observed_qw_codes:['QW3159-01']},p={schema_version:1,supplier:'Boley',models:{[id]:row}};assert.equal(validateParts(p),p);assert.equal(partsForModel(p,id).url,row.url);assert.equal(partsForModel(p,'GW-M5610-1B'),null);for(const url of ['javascript:alert(1)','https://boley.de.evil.example/en/case-parts/casio/25194.gw-m5610-1','https://boley.de/en/case-parts/casio/25195.gw-m5610-1b','https://boley.de/en/search?q=5610'])assert.equal(partsForModel({models:{[id]:{...row,url}}},id),null);assert.throws(()=>validateParts({schema_version:1,supplier:'Other',models:{}}))});
@@ -240,4 +240,17 @@ test('2011 family and clock index entries preserve scope rather than invent exac
 test('complete 2011 source panel retains 311 watch rows and 109 clocks',async()=>{
  const {catalog2011Reference}=await import('../web/catalog-2011-reference.mjs');assert.equal(catalog2011Reference.watch_rows.length,311);assert.equal(catalog2011Reference.clock_rows.length,109);assert.equal(new Set(catalog2011Reference.watch_rows.map(r=>r.id)).size,310);
  const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="catalog-2011-watches"'));assert.ok(html.includes('id="catalog-2011-clocks"'));assert.equal(stats(data).models,1552);
+});
+
+test('automated source checks are field-scoped and never imply a human or module audit',async()=>{
+ const {presentationFacts}=await import('../web/specification-display.mjs');
+ for(const id of ['GW-M5610-1','GW-M5610U-1','GW-5000-1','GW-5000U-1']){
+  const model=data.models[id],water=presentationFacts(model).find(([k])=>k==='water_resistance')[1];
+  assert.equal(evidenceLabel(model.specs.glass),'Source checked · automated');
+  assert.equal(evidenceLabel(water),'Source checked · automated');
+  assert.equal(model.specs.module_id.status,'pending_review');assert.equal(model.specs.release_date.status,'pending_review');
+  assert.notEqual(recordEvidenceLabel(model),'Verified');
+ }
+ assert.equal(findModels(data,{verified:true,query:'3159'}).length,0);
+ assert.equal(findModels(data,{verified:true,query:'black'}).length,0);
 });

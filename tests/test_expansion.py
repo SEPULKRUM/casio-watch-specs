@@ -52,7 +52,10 @@ class ExpansionTests(unittest.TestCase):
 
     def test_earlier_model_and_module_facts_remain_exactly_unchanged(self):
         original_paths = [p for p in Path('imports').glob('*.json') if 'expansion' not in p.name]
-        baseline = specs.build(specs.load('watches.json'), [r for p in sorted(original_paths) for r in specs.load(p)])
+        records = [r for p in sorted(original_paths) for r in specs.load(p)]
+        hashes = {specs.digest(r) for r in records}
+        reviews = [r for r in specs.load('reviews.json') if r['candidate_sha256'] in hashes] if Path('reviews.json').exists() else None
+        baseline = specs.build(specs.load('watches.json'), records, reviews)
         self.assertEqual(baseline['legacy_watches'], self.catalog['legacy_watches'])
         for bucket in ('models', 'modules'):
             for key, record in baseline[bucket].items():
