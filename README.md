@@ -1250,3 +1250,11 @@ Continue from [research progress](research/research-progress.json),
 [publication discoveries](research/publication-discoveries-2026-11-16.json).
 These contain selected facts, source locations and English notes, not magazine
 articles, scans or photographs.
+
+### Unified model search and reconciliation
+
+The main search defaults to **All models** and includes pending watch identifiers and explicitly labeled family references. Exact colorway, regional and edition identifiers remain separate. Clocks, combined parts-fitment references and uncertain readings have separate searchable modes and are excluded from individual-watch totals. Verified-only filtering is optional. Results use pagination across the entire index.
+
+`python catalog.py build` regenerates `data/search-index.json`, `data/reconciliation-report.json` and `data/unified-models.csv` from the catalog, reference datasets, historical research, identifier-only intake recovery and import sources. The report includes source hashes, exact duplicate occurrences, specification coverage and missing eligible identifiers. Imported occurrence totals include repeated source observations and must not be presented as watch counts. Unknown physical specifications remain blank; module relationships never supply another variant's case specifications.
+
+Run `python catalog.py build --check`, `python -m unittest discover -s tests`, and every `tests/*.test.mjs` with Node before packaging with `python build_web.py --output dist`. Packaging rejects stale reconciliation data. The independent source-coverage tests require zero eligible omissions and preserve separately categorized raw readings.

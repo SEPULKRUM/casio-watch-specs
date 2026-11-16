@@ -238,6 +238,8 @@ def main():
                 temp = path.with_suffix(path.suffix + '.tmp')
                 temp.write_bytes(content.encode())
                 temp.replace(path)
+        import unified_index
+        unified_index.write(Path('.'), check=args.check)
         print(json.dumps(coverage(catalog), ensure_ascii=False, indent=2))
         return
     catalog = specs.load(args.catalog)

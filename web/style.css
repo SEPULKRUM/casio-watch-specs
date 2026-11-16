@@ -18,3 +18,5 @@
 
 #master-panel input,#master-panel select{display:block;margin:.4rem 0 1rem;padding:.6rem;border:1px solid #444650;border-radius:5px;width:100%;background:#0b0c0f;color:var(--ink)}
 #master-panel label{display:block;margin-top:.8rem}#master-panel summary,#master-panel .structured-row span{overflow-wrap:anywhere}#master-panel .structured-row{flex-wrap:wrap}#master-panel button{margin:.4rem .5rem .4rem 0}
+
+.search-pagination{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:.5rem;margin:1rem 0}.search-pagination input{width:5.5rem;min-height:2.5rem;background:#0b0c0f;color:var(--ink);border:1px solid #444650;padding:.4rem}.search-pagination button,.search-pagination select{min-height:2.5rem;padding:.45rem .7rem}.search-pagination button:disabled{opacity:.4;cursor:default}.toolbar{flex-wrap:wrap}.toolbar .search-wrap{flex:1 1 250px}.model-button strong{overflow-wrap:anywhere}.model-button small{white-space:normal}

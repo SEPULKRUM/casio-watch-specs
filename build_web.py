@@ -10,12 +10,14 @@ from pathlib import Path
 def build(output):
     root = Path(__file__).resolve().parent
     output = Path(output).resolve()
+    import unified_index
+    unified_index.write(root, check=True)
     protected = [root / p for p in ('data', 'web', 'imports', 'research')]
     if output == root or any(output == p or p in output.parents or output in p.parents for p in protected):
         raise ValueError('Output cannot replace repository sources')
     output.mkdir(parents=True, exist_ok=True)
-    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs', 'historical-review.mjs', 'combined-reference.mjs', 'protrek-reference.mjs', 'catalog-2011-reference.mjs', 'catalog-batch-reference.mjs', 'watchnavi-reference.mjs', 'watchnavi-search.mjs', 'master-research.mjs', 'english.mjs', 'specification-display.mjs')
-    datasets = ('catalog.json', 'watches.csv', 'parts-links.json', 'official-product-links.json', 'model-references.json')
+    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs', 'historical-review.mjs', 'combined-reference.mjs', 'protrek-reference.mjs', 'catalog-2011-reference.mjs', 'catalog-batch-reference.mjs', 'watchnavi-reference.mjs', 'watchnavi-search.mjs', 'master-research.mjs', 'english.mjs', 'specification-display.mjs', 'unified-search.mjs')
+    datasets = ('catalog.json', 'watches.csv', 'parts-links.json', 'official-product-links.json', 'model-references.json', 'search-index.json', 'reconciliation-report.json', 'unified-models.csv')
     fingerprint = hashlib.sha256(Path(__file__).read_bytes())
     for folder, names in [('web', assets), ('data', datasets)]:
         for name in names:
@@ -48,7 +50,7 @@ def build(output):
             path.write_text(text)
     index = output / 'index.html'
     index.write_text(index.read_text().replace('src="app.mjs"', 'src="app.mjs?v=' + version + '"').replace('href="style.css"', 'href="style.css?v=' + version + '"'))
-    (output / 'build-info.json').write_text(json.dumps({'asset_version': version}) + '\n')
+    (output / 'build-info.json').write_text(json.dumps({'asset_version': version, 'search_index_sha256': hashlib.sha256((root / 'data/search-index.json').read_bytes()).hexdigest(), 'reconciliation_sha256': hashlib.sha256((root / 'data/reconciliation-report.json').read_bytes()).hexdigest(), 'individual_watch_identifiers': json.loads((root / 'data/search-index.json').read_text())['counts']['watch']}) + '\n')
     print(f'Browser packaged at {output}')
 
 
