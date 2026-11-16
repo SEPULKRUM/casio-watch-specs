@@ -1192,3 +1192,19 @@ The static builder packages the structured intake as `master-research.json`.
 `data/model-references.json` remains the earlier compact reference source; the
 browser combines it with the master without duplicating all 29,286 rows in two
 committed datasets. Reference recognition never establishes feature meanings.
+
+
+## English display and repeated specifications
+
+The browser presents text ratings, meters and bars in a single water-resistance
+row, combining equivalent units and deduplicating identical source citations.
+Different claims remain explicit; ISO diving descriptions and supplied scope
+qualifications are retained. The verified-only filter runs before consolidation.
+The interface uses “Color” and English translations for the catalog’s Japanese
+values, source labels and evidence. Original records and downloads remain intact;
+translated evidence is labelled in the detail view. English color searches and
+color swatches use the translated values.
+
+Regression checks: `node tests/specification-display.test.mjs` covers the
+screenshot, every catalog model, conflicting claims, evidence preservation,
+verification filtering and all current Japanese strings.
