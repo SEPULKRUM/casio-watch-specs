@@ -41,6 +41,7 @@ export function evidenceLabel(f){
  const sources=f?.sources||[];
  const official=sources.some(s=>{const u=safeUrl(s.original_url||s.url);if(!u)return false;const h=new URL(u).hostname;return ['casio.com','casio.jp','casio-europe.com'].some(d=>h===d||h.endsWith('.'+d))});
  if(official)return sources.some(s=>s.archive_timestamp)?'Archived Casio source':'Official Casio source';
+ if(sources.some(s=>{const u=safeUrl(s.original_url||s.url);return s.archive_timestamp&&u&&new URL(u).hostname==='store.united-arrows.co.jp'}))return 'Archived collaboration source';
  if(sources.some(s=>s.kind==='user_provided'))return 'Owner-supplied evidence';
  return sources.length?'Other source · unverified':'Unverified';
 }

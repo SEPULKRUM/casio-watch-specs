@@ -1,0 +1,64 @@
+{
+  "scope": "Selected watch facts and source discrepancy only. Original archived HTML, photographs, advertising and prices are not republished.",
+  "model_id": "AWG-M520UA-1EJR",
+  "published_alias": "AWG-M520UA",
+  "archive_sources": [
+    {
+      "url": "https://web.archive.org/web/20240413003324/https://store.united-arrows.co.jp/brand/by/data/special/2021gshock_awgm520ua/",
+      "original_url": "https://store.united-arrows.co.jp/brand/by/data/special/2021gshock_awgm520ua/",
+      "archive_timestamp": "20240413003324",
+      "snapshot_sha256": "935af64103c98854ba3cd9aac265a428cfd05203dc04e800cab4d31714c8f973",
+      "permission": "official_public_reference",
+      "accessed": "2026-11-16",
+      "displayed_model": "AWG-M520UA",
+      "locator": "WATCH FUNCTION; DESIGN DETAIL",
+      "evidence": "Archived collaboration page lists 55 g, 20 bar, dimensions 55.2 x 47.7 x 13.1 mm; radio/solar, world time, alarm, stopwatch and LED light.",
+      "scope_note": "Published collaboration name is the existing dossier alias for box reference AWG-M520UA-1EJR; no equivalence of other variants is asserted."
+    },
+    {
+      "url": "https://web.archive.org/web/20240721100125/https://www.casio.com/jp/watches/gshock/product.AWG-M520-1A/",
+      "original_url": "https://www.casio.com/jp/watches/gshock/product.AWG-M520-1A/",
+      "archive_timestamp": "20240721100125",
+      "snapshot_sha256": "d4d4de0d693175807ced9677776c1fe9cf38ea8136da65dc49f17559bec673e4",
+      "permission": "official_public_reference",
+      "accessed": "2026-11-16",
+      "displayed_model": "AWG-M520-1AJF",
+      "locator": "Basic information / case size",
+      "evidence": "Archived Casio base-model table lists 55.2 x 47.7 x 15.3 mm and 55 g.",
+      "scope_note": "Comparison evidence only; base-model dimensions are not assigned to the collaboration."
+    }
+  ],
+  "facts": {
+    "weight_g": 55,
+    "water_resistance_bar": 20,
+    "reported_measurements": [
+      {
+        "scope": "UNITED ARROWS AWG-M520UA-specific listing cited by dossier",
+        "dimensions_mm": {
+          "length": 55.2,
+          "width": 47.7,
+          "thickness": 13.1
+        }
+      },
+      {
+        "scope": "Casio AWG-M520 base-model listing cited by dossier; not silently substituted for collaboration",
+        "dimensions_mm": {
+          "length": 55.2,
+          "width": 47.7,
+          "thickness": 15.3
+        }
+      }
+    ]
+  },
+  "owner_equivalence_claim": "Owner reports most specifications are shared with AWG-M520 except colors; individual fields still require scoped evidence.",
+  "conflict": "Archived United Arrows promotion gives 13.1 mm thickness; archived Casio base-model table gives 15.3 mm. No measured thickness is selected.",
+  "unassigned_functions": [
+    "solar power",
+    "radio-controlled timekeeping",
+    "world time",
+    "alarm",
+    "stopwatch",
+    "LED light"
+  ],
+  "module_scope": "The archive does not establish a module number. Existing dossier module 5640 association remains separate; no new module functions are imported from the base model."
+}
