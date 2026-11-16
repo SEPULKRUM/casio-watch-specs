@@ -2,7 +2,8 @@
   "models": 1552,
   "modules": 255,
   "facts_by_status": {
-    "pending_review": 8450
+    "pending_review": 8417,
+    "verified": 33
   },
   "models_by_series": {
     "2011 Clock Index": 109,

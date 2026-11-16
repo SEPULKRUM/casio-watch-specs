@@ -2,8 +2,8 @@
 
 The catalog now contains **1,552 catalog references, 255 module identities/profiles and 8,450 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
-Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
-independent review. These coverage counts do not imply a complete Casio catalog.
+Vintage, Databank, Sports, Dress, Edifice and Baby-G. Most facts remain pending review; completed automated source checks are labelled
+explicitly and do not imply a human audit. These coverage counts do not imply a complete Casio catalog.
 
 ## Try the private beta
 
@@ -22,8 +22,8 @@ emblem and black/red/silver branding come from that original project.
 Search specifications by model, module or material; filter by family; open a model to inspect
 physical specifications, separate module options and field-level sources.
 Pending research, unknown measurements, unresolved module references and both
-PAW2000 thickness claims remain explicit. The verified-only filter intentionally
-returns no results until independently reviewed facts are available.
+PAW2000 thickness claims remain explicit. The verified-only filter shows only fields with a recorded source review; it does
+not expose pending module or date claims from the same model.
 
 The bundled snapshot contains the current 1,552 catalog references and 255 module identities/profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
@@ -1208,3 +1208,45 @@ color swatches use the translated values.
 Regression checks: `node tests/specification-display.test.mjs` covers the
 screenshot, every catalog model, conflicting claims, evidence preservation,
 verification filtering and all current Japanese strings.
+
+
+## Autonomous research and field-scoped source checks
+
+Daily research is scheduled for **02:00 America/New_York**, starting November 17,
+2026. It prioritizes all GW-M5610, GW-M5610U, GW-5000 and GW-5000U variants, then
+other important G-SHOCK and bestselling Casio families. Magazine publications
+(WATCHNAVI, Chronos Japan, WatchTime, T3) and historical catalogs supply discovery
+leads; exact technical claims require appropriate primary documentation. Research
+changes are prepared in tested pull requests without automatic merging, with
+completed updates published to the existing private beta.
+
+The first pass cross-checked **33 physical/family fields across four base
+records** against freshly retrieved Casio product specifications. Numeric values,
+materials and water ratings matched; original values and source citations are
+retained. The source checks carry current page checksums and explicitly retain
+the Japanese-market scope already used by the base records. Updated 5610 meter
+wording was also checked on its exact Europe product page. Module assignments,
+colors, precise release days and other variants remain pending. A product page
+showing a release month does not verify an exact release day.
+
+The catalog still contains 1,552 references, 255 module profiles and 8,450 facts:
+**33 are source-checked, 8,417 remain pending**. “Source checked · automated”
+identifies an automated comparison, not a human audit or whole-model approval.
+`reviews.json` now supports an explicit `fields` list bound to the exact candidate
+hash. Automated decisions additionally bind a proof-file checksum and exact
+matched field values; changing proof, candidate or scope invalidates the review.
+Later passes append nonoverlapping field decisions without changing earlier review metadata or proof files. Verified facts retain the existing protection against later replacement. The
+static builder bundles review proofs so evidence links work before PR merging.
+
+Four new magazine identifiers were added as unverified research mentions:
+GMW-B5000SB-1A2JF, GST-W1000AD-2AJF, GMC-B2100ADS-1AJF and GA-B2100BEG-1AJF.
+The opened GST article uses `GST-W1000AD-2AJF`; a cached search result omitted
+its A, so that conflicting cached reading was recorded rather than normalized
+into a second model. The combined identifier library now has **31,906** strings.
+No new prefix letter meanings or module assignments follow from these mentions.
+
+Continue from [research progress](research/research-progress.json),
+[source-check evidence](research/source-checks-2026-11-16.json) and
+[publication discoveries](research/publication-discoveries-2026-11-16.json).
+These contain selected facts, source locations and English notes, not magazine
+articles, scans or photographs.

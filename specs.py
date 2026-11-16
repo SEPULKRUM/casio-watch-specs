@@ -159,7 +159,9 @@ def build(legacy, batches, decisions=None):
         if not all(isinstance(decision.get(k), str) and decision[k].strip()
                    for k in ('candidate_sha256', 'reviewed_by', 'note')):
             raise ValueError('Review requires hash, reviewer and note')
-        approvals[decision['candidate_sha256']] = decision
+        if 'fields' in decision and (not isinstance(decision['fields'], list) or not decision['fields'] or any(not isinstance(field, str) for field in decision['fields']) or len(set(decision['fields'])) != len(decision['fields'])):
+            raise ValueError('Field review requires distinct, nonempty field names')
+        approvals.setdefault(decision['candidate_sha256'], []).append(decision)
     seen = set()
     used_approvals = set()
     for record in batches:
@@ -169,16 +171,26 @@ def build(legacy, batches, decisions=None):
             catalog['report']['duplicates'].append({'id': key, 'sha256': sha})
             continue
         seen.add(sha)
-        approved = sha in approvals
-        if approved:
+        record_reviews = approvals.get(sha, [])
+        if record_reviews:
+            for decision in record_reviews:
+                if 'fields' in decision and not set(decision['fields']) <= set(record['specs']):
+                    raise ValueError('Review names a field outside its exact candidate')
             used_approvals.add(sha)
         bucket = catalog['models' if kind == 'model' else 'modules']
         target = bucket.setdefault(key, {'id': key, 'specs': {}})
         for field, fact in record['specs'].items():
+            matching_reviews = [decision for decision in record_reviews if 'fields' not in decision or field in decision['fields']]
+            if len(matching_reviews) > 1:
+                raise ValueError('Overlapping reviews cannot replace an earlier field decision')
+            record_review = matching_reviews[0] if matching_reviews else None
+            approved = record_review is not None
             incoming = dict(fact, status='verified' if approved else 'pending_review',
                             candidate_sha256=sha)
             if approved:
-                incoming['review'] = approvals[sha]
+                incoming['review'] = record_review
+                if record_review.get('method') == 'automated_source_cross_check':
+                    incoming['uncertainty'] = record_review['note']
             if field == 'module_id' and 'module' in target and str(fact['value']) != target['module']:
                 catalog['report']['conflicts'].append({'kind': kind, 'id': key,
                     'field': field, 'existing': target['module'], 'incoming': incoming})

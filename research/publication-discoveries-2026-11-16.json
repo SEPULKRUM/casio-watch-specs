@@ -1,0 +1,45 @@
+{
+  "scope": "Identifiers only, not verified technical specifications. No article text or images republished.",
+  "models": [
+    {
+      "id": "GMW-B5000SB-1A2JF",
+      "url": "https://www.webchronos.net/features/177658/",
+      "published": "2026-11-03",
+      "accessed": "2026-11-16",
+      "snapshot_sha256": "99bfee8a33d227f031e859d08374d0d71a3cb9c1464511425cfc13245988ee5f",
+      "status": "publication_identifier_observed; Casio technical verification pending"
+    },
+    {
+      "id": "GST-W1000AD-2AJF",
+      "url": "https://www.webchronos.net/features/174287/",
+      "published": "2026-10-01",
+      "accessed": "2026-11-16",
+      "snapshot_sha256": "5d00fb44070fc269b26bf40fa656baf332765d4336aa0fb4381a07bdc6f0b726",
+      "status": "publication_identifier_observed; Casio technical verification pending"
+    },
+    {
+      "id": "GMC-B2100ADS-1AJF",
+      "url": "https://www.webchronos.net/features/155312/",
+      "published": "2026-04-11",
+      "accessed": "2026-11-16",
+      "snapshot_sha256": "eabe6c0ee66d784e8d2abe75c9c5dc06019c993496e2d1f9c0a0966caa3a8fe7",
+      "status": "publication_identifier_observed; Casio technical verification pending"
+    },
+    {
+      "id": "GA-B2100BEG-1AJF",
+      "url": "https://www.webchronos.net/features/155312/",
+      "published": "2026-04-11",
+      "accessed": "2026-11-16",
+      "snapshot_sha256": "eabe6c0ee66d784e8d2abe75c9c5dc06019c993496e2d1f9c0a0966caa3a8fe7",
+      "status": "publication_identifier_observed; Casio technical verification pending"
+    }
+  ],
+  "discrepancies": [
+    {
+      "url": "https://www.webchronos.net/features/174287/",
+      "cached_search_reading": "GST-W1000D-2AJF",
+      "opened_article_reading": "GST-W1000AD-2AJF",
+      "disposition": "Only the code confirmed in the opened article was indexed. Neither spelling is accepted as a Casio-confirmed technical record."
+    }
+  ]
+}

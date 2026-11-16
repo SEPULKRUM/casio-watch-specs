@@ -11,7 +11,7 @@
             "width": 43.2,
             "thickness": 12.7
           },
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -25,12 +25,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "weight_g": {
           "value": 52.0,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -44,12 +63,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "case_material": {
           "value": "Resin",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -63,12 +101,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "band_material": {
           "value": "Resin Band",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -82,12 +139,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "glass": {
           "value": "Mineral Glass",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -101,12 +177,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_rating": {
           "value": "200-metre water resistance",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -120,12 +215,31 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_m": {
           "value": 200,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/europe/watches/casio/product.GW-M5610U-1/",
@@ -139,8 +253,27 @@
               "research_sha256": "b2c4d8a132c4f4a7761f70ef2f6bdc80e41efc30d0c3f8efb171d112e56da607"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "series": {
           "value": "G-SHOCK",
@@ -156,13 +289,32 @@
               "language": "en"
             }
           ],
-          "uncertainty": "Research classification; regional marketing categories may differ",
-          "status": "pending_review",
-          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82"
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+          "status": "verified",
+          "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+          "review": {
+            "candidate_sha256": "b4f4bfeef802a793d44035616a6fa3c2dbc371cd750488b3208622b30e615c82",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_m",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_bar": {
           "value": 20,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
@@ -177,8 +329,20 @@
               "snapshot_sha256": "aca4652b36f3f591f1804a5386e90e03fa5ca87d05ed9d002d3cac61204ca361"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8"
+          "status": "verified",
+          "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8",
+          "review": {
+            "candidate_sha256": "8d36e238739cfb7c9ed553cb0fdcaf5826358eab5a5717d114a71b91fb3e2ba8",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "water_resistance_bar"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "module_id": {
           "value": "3495",
@@ -30604,7 +30768,7 @@
             "width": 43.2,
             "thickness": 12.7
           },
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30619,12 +30783,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "weight_g": {
           "value": 51.7,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30639,12 +30822,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "case_material": {
           "value": "Resin",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30659,12 +30861,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "band_material": {
           "value": "Resin",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30679,12 +30900,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "glass": {
           "value": "Mineral glass",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30699,12 +30939,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_rating": {
           "value": "20気圧防水",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30719,12 +30978,31 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_bar": {
           "value": 20,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610-1/",
@@ -30739,8 +31017,27 @@
               "snapshot_sha256": "c0dd887c1cb98d1b5272d75cfc5289e41d0aa711245599a782e037e59899c48f"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "series": {
           "value": "G-SHOCK",
@@ -30756,9 +31053,28 @@
               "language": "ja"
             }
           ],
-          "uncertainty": "Research classification; regional marketing categories may differ",
-          "status": "pending_review",
-          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7"
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+          "status": "verified",
+          "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+          "review": {
+            "candidate_sha256": "2cb57f30b5ad7e967eb21dc31046deab5dc6eb2cf95c63ecc2cb102ff98a62b7",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "module_id": {
           "value": "3159",
@@ -32539,7 +32855,7 @@
             "width": 42.8,
             "thickness": 13.5
           },
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32554,12 +32870,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "weight_g": {
           "value": 73.8,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32574,12 +32909,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "case_material": {
           "value": "ステンレススチール／樹脂",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32594,12 +32948,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "band_material": {
           "value": "Resin",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32614,12 +32987,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "glass": {
           "value": "Mineral glass",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32634,12 +33026,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_rating": {
           "value": "20気圧防水",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32654,12 +33065,31 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_bar": {
           "value": 20,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000-1/",
@@ -32674,8 +33104,27 @@
               "snapshot_sha256": "dc83bf6813ad999e663f601d5b8c95a4833a4092f95ef08cbfd69606a456e26b"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "series": {
           "value": "G-SHOCK",
@@ -32691,9 +33140,28 @@
               "language": "ja"
             }
           ],
-          "uncertainty": "Research classification; regional marketing categories may differ",
-          "status": "pending_review",
-          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c"
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+          "status": "verified",
+          "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+          "review": {
+            "candidate_sha256": "c16070e961265ea17a4bb37b10116d814f77338747e44f759d3195d20165aa1c",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "module_id": {
           "value": "3159",
@@ -32771,7 +33239,7 @@
             "width": 42.8,
             "thickness": 13.5
           },
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32786,12 +33254,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "weight_g": {
           "value": 74.0,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32806,12 +33293,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "case_material": {
           "value": "ステンレススチール／樹脂",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32826,12 +33332,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "band_material": {
           "value": "Resin",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32846,12 +33371,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "glass": {
           "value": "Mineral glass",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32866,12 +33410,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_rating": {
           "value": "20気圧防水",
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32886,12 +33449,31 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "water_resistance_bar": {
           "value": 20,
-          "uncertainty": "Official-source candidate; independent review pending",
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
           "sources": [
             {
               "url": "https://www.casio.com/jp/watches/gshock/product.GW-5000U-1/",
@@ -32906,8 +33488,27 @@
               "snapshot_sha256": "2edb4a9eacd11bccf9ff68a1a7afb7f973454e17fe13209e503e15d160c40387"
             }
           ],
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "series": {
           "value": "G-SHOCK",
@@ -32923,9 +33524,28 @@
               "language": "ja"
             }
           ],
-          "uncertainty": "Research classification; regional marketing categories may differ",
-          "status": "pending_review",
-          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb"
+          "uncertainty": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+          "status": "verified",
+          "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+          "review": {
+            "candidate_sha256": "80d340560d86975ed8e3ca8a5c1dadbea36c454077562d6d6e479bf444367bfb",
+            "reviewed_by": "Codex automated source cross-check",
+            "method": "automated_source_cross_check",
+            "checked_on": "2026-11-16",
+            "evidence_reference": "research/source-checks-2026-11-16.json",
+            "fields": [
+              "dimensions_mm",
+              "weight_g",
+              "case_material",
+              "band_material",
+              "glass",
+              "water_resistance_rating",
+              "water_resistance_bar",
+              "series"
+            ],
+            "note": "Automated comparison with the retrieved Casio technical specifications; selected fields only. Japanese text is translated/normalized where needed. No human audit or approval of other variants, modules or exact release days is asserted.",
+            "evidence_sha256": "5fefd7f3fc9fcf380ee51e710ad43f70b28d85d0a4a206b282d62b4840212c12"
+          }
         },
         "module_id": {
           "value": "3495",

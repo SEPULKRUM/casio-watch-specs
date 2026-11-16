@@ -9,8 +9,8 @@ const note=validateMaster(read('../research/casio-master-research-2026-11-16.jso
 const base=read('../data/model-references.json');
 const merged=validateReferences(mergeMasterReferences(base,note));
 test('master extends research references without promoting authentication',()=>{
- assert.equal(merged.counts.model_strings,31902);
- assert.equal(Object.keys(base.models).length,4330);
+ assert.equal(merged.counts.model_strings,31906);
+ assert.equal(Object.keys(base.models).length,4334);
  const row=exactReferences(merged,'a201a').find(r=>r.id==='A-20-1A');
  assert.equal(row.status,'machine_candidate');assert.equal(row.evidence_status,'unverified');assert.equal(row.observations.at(-1).csv_row,2);
  assert.deepEqual(mergeMasterReferences(merged,note),merged);

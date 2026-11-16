@@ -37,7 +37,7 @@ export function display(v,k=''){
 export function evidenceLabel(f){
  const note=f?.uncertainty||'';
  if(/different values|source discrepancy|source error/i.test(note)||['conflict','conflicting'].includes(f?.status))return 'Conflicting evidence';
- if(f?.status==='verified')return 'Verified';
+ if(f?.status==='verified')return f.review?.method==='automated_source_cross_check'?'Source checked · automated':'Verified';
  const sources=f?.sources||[];
  const official=sources.some(s=>{const u=safeUrl(s.original_url||s.url);if(!u)return false;const h=new URL(u).hostname;return ['casio.com','casio.jp','casio-europe.com'].some(d=>h===d||h.endsWith('.'+d))});
  if(official)return sources.some(s=>s.archive_timestamp)?'Archived Casio source':'Official Casio source';

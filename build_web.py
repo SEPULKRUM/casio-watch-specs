@@ -25,6 +25,19 @@ def build(output):
     master_source = root / 'research/casio-master-research-2026-11-16.json'
     fingerprint.update(master_source.read_bytes())
     shutil.copyfile(master_source, output / 'master-research.json')
+    reviews_path = root / 'reviews.json'
+    if reviews_path.exists():
+        references = sorted({review['evidence_reference'] for review in json.loads(reviews_path.read_text()) if review.get('evidence_reference')})
+        for reference in references:
+            relative = Path(reference)
+            if relative.is_absolute() or '..' in relative.parts or not reference.startswith('research/') or relative.suffix != '.json':
+                raise ValueError('Invalid review evidence path')
+            source = root / relative
+            destination = output / relative
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            fingerprint.update(reference.encode())
+            fingerprint.update(source.read_bytes())
+            shutil.copyfile(source, destination)
     version = fingerprint.hexdigest()[:16]
     # Version every module edge as well as the entrypoint, so cached dependencies
     # cannot leave a freshly published app running an older decoder.

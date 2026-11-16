@@ -574,7 +574,7 @@ export const researchEntries=[
     "G-SHOCK",
     "GMC",
     "Full-metal chronograph family Owner-supplied anniversary-directory association; exact model evidence is separate.",
-    "GMC-B2100ZE-1A",
+    "GMC-B2100ADS-1AJF",
     {
       "status": "unverified",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
