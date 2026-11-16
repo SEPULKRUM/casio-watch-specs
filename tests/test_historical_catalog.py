@@ -28,6 +28,8 @@ class HistoricalCatalogTests(unittest.TestCase):
             self.assertEqual(catalog.field_value(model,'module_id'),row['module'])
             for fact in model['specs'].values():
                 self.assertEqual(fact['status'],'pending_review')
+                if not any(source.get('reference') == 'research/historical-catalog-1980-1989.json' for source in fact['sources']):
+                    continue
                 self.assertIn(f"catalog p. {row['catalog_page']}",fact['sources'][0]['locator'])
                 self.assertIn(f"PDF p. {row['extraction_pdf_page']}",fact['sources'][0]['locator'])
 

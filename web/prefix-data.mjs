@@ -349,4 +349,5 @@ const baseEntries=[
 
 const existingEntries=[...baseEntries,...researchEntries];
 const suppliedFamilies=ownerReadings.filter(r=>!r.code.includes('-')&&!existingEntries.some(e=>e[1]===r.code)).map(r=>['G-SHOCK / owner-supplied reference',r.code,r.context,r.code,{status:'community_interpretation',source:ownerReadingSource}]);
-export const entries=[...existingEntries,...suppliedFamilies];
+const masterFamilies=[['G-SHOCK','GAC','GAC-2500 chronograph family reported in the supplied 2026 research; exact source and model features remain pending independent review. Individual letter expansions are not inferred.','GAC-2500-1A',{status:'unverified',source:'https://github.com/SEPULKRUM/casio-watch-specs/blob/main/research/casio-master-research-2026-11-16.json'}]];
+export const entries=[...existingEntries,...suppliedFamilies,...masterFamilies.filter(row=>![...existingEntries,...suppliedFamilies].some(e=>e[1]===row[1]))];

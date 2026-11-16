@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **1,300 catalog references, 251 module identities/profiles and 7,684 source-backed candidate
+The catalog now contains **1,552 catalog references, 255 module identities/profiles and 8,450 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 1,300 catalog references and 251 module identities/profiles.
+The bundled snapshot contains the current 1,552 catalog references and 255 module identities/profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -51,9 +51,9 @@ execution environment, so actual browser/device behavior still needs user testin
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 555 single-module references, 27 records with candidate
-  module sets and 718 records without any module association. The owner has
-  supplied 403 single-module references; they remain pending confirmation. Listing-
+  module links. There are 638 single-module references, 27 records with candidate
+  module sets and 887 records without any module association. The owner has
+  supplied 486 single-module references; they remain pending confirmation. Listing-
   only records retain unknown modules. Single current support references do not
   establish all historical production revisions.
 
@@ -1129,3 +1129,66 @@ uploaded PDFs, scans or photographs. Reproduce extraction with
 (substitute `2016` or `watchnavi` for the other sources). `pdftotext` is required
 only for extraction. Source records live in `research/`; supplemental identifier
 observations retain source placement IDs for traceability.
+
+
+## Supplied 2026 model/module master
+
+The supplied `Casio_Model_Module_Research_2026.zip` adds 252 catalog records and
+enriches 37 existing records. Current totals are **1,552 catalog references, 255
+module identities/profiles and 8,450 candidate facts**. The combined searchable
+identifier library contains **31,902 distinct strings**, with 214 decoder prefix
+patterns. This identifier count does not mean every model has specifications or
+has been authenticated. The GAC pattern is a supplied family reference; it does
+not invent individual letter expansions.
+
+All **29,286 raw references** are preserved: 27,960 fit the individual-identifier
+schema, 1,212 are combined parts/fitment references and 114 are other unresolved
+readings. Combined strings are never split into fabricated SKUs. The master
+contains 57 rows with case-source evidence, 18 module function profiles, 119
+model/module relationship rows and 32 source keys. The CSV model table has 115
+nonempty module cells; the separate relationship table covers 116 models because
+DW-290-1V has a blank primary cell but three historical relationship rows.
+
+The browser merges schema-compatible identifiers into its research search and
+provides a paginated raw-master panel for every entry, including combined and
+unresolved labels. The panel includes all supplied module functions, source
+references, report corrections and 50 wording/value differences from earlier
+catalog fields. Earlier fields remain unchanged; some differences reflect scope
+or wording rather than factual contradictions. Model case information, module
+functions and historical associations stay separate. Raw compiler labels such
+as “Verified official module specifications” are preserved as source claims,
+while every imported catalog fact remains pending independent review.
+
+The intake preserves partial release-date precision, historical module
+alternatives, unknown fields, stopwatch display capacity versus resolution,
+China-specific radio limits and stop-after-success behavior. Shared family
+measurements are retained as scoped research rather than silently assigned to
+every variant. GWF-D1000BC-1 retains its supplied 181 g composite-bracelet mass;
+GAC-2500, GMC-2500 and GMC-2500D retain distinct case/mass profiles.
+
+[Complete structured intake](research/casio-master-research-2026-11-16.json)
+contains sparse model rows and explicitly declared defaults, all module and
+relationship rows, source keys, member checksums and exact import claims. Expanding
+each row over `model_columns` with `model_defaults` (otherwise blank) reproduces
+every source CSV field. Tests reconstruct all four CSV files byte-for-byte and
+check their original checksums. The parser also checks all CSV tables against
+the uploaded SQLite database and the text index against CSV identifier order.
+Original PDF/SQLite/ZIP files are excluded from publication. Cited external
+documents are not treated as received or independently checked.
+
+To reproduce an intake against an unchanged prior snapshot:
+
+```sh
+python master_research_import.py INPUT.zip --baseline PRIOR_CATALOG.json
+python catalog.py build
+python -m unittest discover -s tests
+node tests/web.test.mjs
+node tests/watchnavi.test.mjs
+node tests/master-research.test.mjs
+python build_web.py
+```
+
+The static builder packages the structured intake as `master-research.json`.
+`data/model-references.json` remains the earlier compact reference source; the
+browser combines it with the master without duplicating all 29,286 rows in two
+committed datasets. Reference recognition never establishes feature meanings.

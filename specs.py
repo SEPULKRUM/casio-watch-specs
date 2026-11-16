@@ -10,11 +10,11 @@ from urllib.parse import urlsplit
 MODEL_FIELDS = {'dimensions_mm', 'weight_g', 'indexed_weight_g', 'water_resistance_m', 'case_material',
                 'band_material', 'glass', 'color', 'series', 'release_date', 'module_id', 'module_candidates', 'water_resistance_rating', 'water_resistance_bar', 'case_finish',
                 'promotional_thickness_mm', 'technical_table_thickness_mm', 'display_polarity', 'catalog_year', 'catalog_description', 'catalog_material_finish', 'supplied_model_details', 'supplied_family_specifications',
-                'supplied_aliases', 'reported_measurements', 'module_chronology', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references'}
+                'supplied_aliases', 'reported_measurements', 'module_chronology', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references', 'master_research_reference'}
 MODULE_FIELDS = {'accuracy_seconds_per_month', 'accuracy_condition', 'power_supply',
                  'world_time_cities', 'world_time_zones', 'alarm_count', 'snooze_alarm',
                  'stopwatch', 'timer', 'illumination', 'calendar', 'radio_reception', 'display_polarity',
-                 'depth_meter', 'digital_compass', 'thermometer', 'dive_log', 'tide_moon', 'battery_cell', 'catalog_reference', 'catalog_features', 'supplied_module_specifications', 'battery_runtime', 'catalog_2011_associations'}
+                 'depth_meter', 'digital_compass', 'thermometer', 'dive_log', 'tide_moon', 'battery_cell', 'catalog_reference', 'catalog_features', 'supplied_module_specifications', 'battery_runtime', 'catalog_2011_associations', 'master_module_reference'}
 
 
 def identity(value):
