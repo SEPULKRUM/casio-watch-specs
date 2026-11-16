@@ -110,8 +110,16 @@ def add_supplement(library, supplement):
             if not isinstance(page, int) or not 1 <= page <= source['pages']:
                 raise ValueError('Invalid supplement page')
             observation = {'source_id': source_id, 'role': 'supplied_guide_text', 'pdf_page': page}
-            if item.get('reading_status') in {'supplied_regional_or_short_alias_not_additional_variant', 'family_label_only_not_exact_variant', 'reported_identifier_verification_incomplete', 'exact_regional_reference_preserved_as_printed', 'graphic_only_reference_module_unconfirmed', 'clock_index_reference_only'}:
+            if item.get('reading_status') in {'supplied_regional_or_short_alias_not_additional_variant', 'family_label_only_not_exact_variant', 'reported_identifier_verification_incomplete', 'exact_regional_reference_preserved_as_printed', 'graphic_only_reference_module_unconfirmed', 'clock_index_reference_only', 'watchnavi_ocr_model_reference', 'catalog_suffix_requires_review'}:
                 observation['reading_scope'] = item['reading_status']
+            if item.get('placement_ids_by_page'):
+                positions = item['placement_ids_by_page'].get(str(page), [])
+                if not positions or any(not isinstance(p, int) or not 1 <= p <= 2098 for p in positions):
+                    raise ValueError('Invalid supplied OCR placement references')
+                observation['source_placement_ids'] = positions
+            if item.get('ocr_review_flag'):
+                observation['ocr_review_required'] = True
+
 
             if item.get('historical_context'):
                 if item.get('catalog_year') not in {1980, 1982, 1985, 1989} or not isinstance(item.get('catalog_page'), int) or item['catalog_page'] < 1:

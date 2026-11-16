@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **1,017 catalog references, 251 module identities/profiles and 7,093 source-backed candidate
+The catalog now contains **1,300 catalog references, 251 module identities/profiles and 7,684 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 1,017 catalog references and 251 module identities/profiles.
+The bundled snapshot contains the current 1,300 catalog references and 251 module identities/profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -51,11 +51,11 @@ execution environment, so actual browser/device behavior still needs user testin
 - [Full JSON database](data/catalog.json): model and module records with evidence,
   uncertainty and status for every field; original legacy data is retained.
 - [Coverage report](data/coverage.json): family counts, missing fields and unknown
-  module links. There are 137 single-module references (one legacy association and
-  136 pending references), plus 21 unresolved shared-manual or historical-listing candidate sets. No model now
-  lacks a reported module reference. Seventeen single-module mappings were supplied
-  by the repository owner and still await official model-to-module confirmation. Single current support references do not establish all
-  historical production revisions.
+  module links. There are 555 single-module references, 27 records with candidate
+  module sets and 718 records without any module association. The owner has
+  supplied 403 single-module references; they remain pending confirmation. Listing-
+  only records retain unknown modules. Single current support references do not
+  establish all historical production revisions.
 
 Download/clone this repository, then use Python 3.10 or newer; no Python packages
 are required for catalog use:
@@ -1100,3 +1100,32 @@ The [combined model reference import](docs/combined-model-specifications-2026-11
 The [Pro Trek / Sea-Pathfinder compilation](docs/protrek-combined-specifications-2026-11-15.md) adds 72 references and enriches seven existing records, preserving all 79 qualified codes separately as printed. It includes 16 scoped family descriptions and the SPF archive-versus-graphic comparison; no numeric modules are inferred from the source.
 
 The [2011 watch/clock index import](docs/catalog-index-2011-2026-11-15.md) retains 311 watch rows under 310 family/base identifiers and 109 clock entries. Indexed dimensions, mass and module associations are explicitly scoped; no retail suffixes or functional features are reconstructed. Two SDB-100J weight groups remain separate without duplicating the base identifier.
+
+## Oceanus, 2016 and WATCHNAVI source batch
+
+The November 16 batch adds 283 catalog records and enriches 25 existing records:
+112 Oceanus/G-SHOCK listings and 211 listings from the 2016 catalog merge into
+308 distinct identifiers. The catalog now has 1,300 references (1,187 watch/model/
+family references and 113 clocks), 251 module identities/profiles and 7,684
+candidate facts. Historical JPY prices retain their printed tax basis. Shared
+series descriptions, model-specific distinctions, technical captions and source
+pages are available under **Catalog listings and scoped series descriptions** and
+in the expandable source panel. The one 2016 `[CHECK]` suffix remains uncertain.
+No modules or exact hardware specifications are inferred from shared text.
+
+WATCHNAVI is a separate searchable research index: 2,098 placements, 2,059 distinct
+raw model strings and 42 unresolved appendix labels. Its captions, OCR feature
+phrases, approximate year headings and compilation-reported visual checks remain
+unverified source observations. All placements are available through search and
+pagination, including 34 placements whose 32 distinct raw readings do not fit the
+identifier schema. No OCR spelling repairs or release-date claims are invented.
+The combined model-reference library now contains 4,330 strings; the decoder has
+213 family/prefix entries. New listing-based families are ERA, SHW, STL and LWQ;
+OCR typos do not generate prefix meanings.
+
+The repository publishes selected structured facts and source locators, not the
+uploaded PDFs, scans or photographs. Reproduce extraction with
+`python catalog_batch_import.py oceanus INPUT.pdf --output OUTPUT.json`
+(substitute `2016` or `watchnavi` for the other sources). `pdftotext` is required
+only for extraction. Source records live in `research/`; supplemental identifier
+observations retain source placement IDs for traceability.
