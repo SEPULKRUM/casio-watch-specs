@@ -14,7 +14,7 @@ def build(output):
     if output == root or any(output == p or p in output.parents or output in p.parents for p in protected):
         raise ValueError('Output cannot replace repository sources')
     output.mkdir(parents=True, exist_ok=True)
-    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs', 'historical-review.mjs', 'combined-reference.mjs', 'protrek-reference.mjs', 'catalog-2011-reference.mjs', 'catalog-batch-reference.mjs', 'watchnavi-reference.mjs', 'watchnavi-search.mjs')
+    assets = ('index.html', 'style.css', 'app.mjs', 'core.mjs', 'decoder.mjs', 'prefix-data.mjs', 'brand-emblem.svg', 'parts.mjs', 'decoder-presentation.mjs', 'model-references.mjs', 'research-prefix-data.mjs', 'decoder-rules.mjs', 'variant-interpretations.mjs', 'prefix-meanings.mjs', 'guide-interpretations.mjs', 'owner-prefix-readings.mjs', 'anniversary.mjs', 'anniversary-data.mjs', 'historical-review.mjs', 'combined-reference.mjs', 'protrek-reference.mjs', 'catalog-2011-reference.mjs', 'catalog-batch-reference.mjs', 'watchnavi-reference.mjs', 'watchnavi-search.mjs', 'master-research.mjs')
     datasets = ('catalog.json', 'watches.csv', 'parts-links.json', 'official-product-links.json', 'model-references.json')
     fingerprint = hashlib.sha256(Path(__file__).read_bytes())
     for folder, names in [('web', assets), ('data', datasets)]:
@@ -22,6 +22,9 @@ def build(output):
             fingerprint.update(name.encode())
             fingerprint.update((root / folder / name).read_bytes())
             shutil.copyfile(root / folder / name, output / name)
+    master_source = root / 'research/casio-master-research-2026-11-16.json'
+    fingerprint.update(master_source.read_bytes())
+    shutil.copyfile(master_source, output / 'master-research.json')
     version = fingerprint.hexdigest()[:16]
     # Version every module edge as well as the entrypoint, so cached dependencies
     # cannot leave a freshly published app running an older decoder.
