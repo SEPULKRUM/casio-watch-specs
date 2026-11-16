@@ -112,7 +112,7 @@ def export_csv(catalog):
                'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
                      'catalog_year', 'catalog_description', 'catalog_material_finish',
-                     'supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference',
+                     'supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g',
                      'verified_facts', 'pending_facts', 'source_urls', 'source_references'])
     for record in search(catalog):
         value = lambda name: field_value(record, name)
@@ -128,7 +128,7 @@ def export_csv(catalog):
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
                value('catalog_year'), value('catalog_description'), value('catalog_material_finish'),
-               *[json.dumps(value(field), ensure_ascii=False) if value(field) is not None else '' for field in ('supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference')],
+               *[json.dumps(value(field), ensure_ascii=False) if value(field) is not None else '' for field in ('supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g')],
                sum(f['status'] == 'verified' for f in facts),
                sum(f['status'] == 'pending_review' for f in facts), ' | '.join(urls), ' | '.join(references)]
         writer.writerow(['' if v is None else spreadsheet_safe(v) for v in row])

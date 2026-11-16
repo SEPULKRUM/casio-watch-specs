@@ -1,6 +1,6 @@
 # SEPULKRUM Casio Watch Specifications Database
 
-The catalog now contains **598 catalog models, 213 module identities/profiles and 5,084 source-backed candidate
+The catalog now contains **1,017 catalog references, 251 module identities/profiles and 7,093 source-backed candidate
 facts**. It covers G-SHOCK, Pro Trek, historical Pathfinder, Oceanus, Lineage, Wave Ceptor, Standard,
 Vintage, Databank, Sports, Dress, Edifice and Baby-G. All newly researched facts are pending
 independent review. These coverage counts do not imply a complete Casio catalog.
@@ -25,7 +25,7 @@ Pending research, unknown measurements, unresolved module references and both
 PAW2000 thickness claims remain explicit. The verified-only filter intentionally
 returns no results until independently reviewed facts are available.
 
-The bundled snapshot contains the current 598 catalog models and 213 module identities/profiles.
+The bundled snapshot contains the current 1,017 catalog references and 251 module identities/profiles.
 **Refresh data** fetches the latest catalog from this repository's main branch
 without republishing the interface. If refresh fails, the bundled catalog stays
 available. Download CSV exports the bundled spreadsheet snapshot. No visitor
@@ -1098,3 +1098,5 @@ The [1980–1989 historical catalog import](docs/historical-catalog-1980-1989.md
 The [combined model reference import](docs/combined-model-specifications-2026-11-15.md) adds 67 model records and enriches seven existing records. It preserves all 29 supplied tables, source keys, regional aliases, family-only chart values, reported identifiers and explicit discrepancies without relabelling the compilation as primary Casio evidence.
 
 The [Pro Trek / Sea-Pathfinder compilation](docs/protrek-combined-specifications-2026-11-15.md) adds 72 references and enriches seven existing records, preserving all 79 qualified codes separately as printed. It includes 16 scoped family descriptions and the SPF archive-versus-graphic comparison; no numeric modules are inferred from the source.
+
+The [2011 watch/clock index import](docs/catalog-index-2011-2026-11-15.md) retains 311 watch rows under 310 family/base identifiers and 109 clock entries. Indexed dimensions, mass and module associations are explicitly scoped; no retail suffixes or functional features are reconstructed. Two SDB-100J weight groups remain separate without duplicating the base identifier.

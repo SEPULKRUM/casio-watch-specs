@@ -51,6 +51,16 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 WATCH INDEX",
+    "AL",
+    "AL is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+    "AL-180AMVV",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "AMW",
     "AMW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
@@ -61,10 +71,30 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 WATCH INDEX",
+    "AQF",
+    "AQF is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: OUTDOOR / ANALOG). No universal letter meaning or unlisted retail variant is inferred.",
+    "AQF-100WBJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "AQW",
     "AQW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "AQW-40",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "ARG",
+    "ARG is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+    "ARG-300D",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -135,6 +165,16 @@ export const researchEntries=[
     "B",
     "B appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "B815",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "BGR",
+    "BGR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: Baby-G). No universal letter meaning or unlisted retail variant is inferred.",
+    "BGR-3003",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -225,6 +265,16 @@ export const researchEntries=[
     "CGW",
     "CGW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "CGW-50-1V",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "CHR",
+    "CHR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+    "CHR-100J",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -361,12 +411,82 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 CLOCK INDEX",
+    "DQC",
+    "DQC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "DQC-100NJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "DQD",
+    "DQD is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "DQD-110J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "DQL",
+    "DQL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "DQL-100NJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "DQS",
+    "DQS is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "DQS-300J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "G-SHOCK",
     "DWE",
     "Interchangeable-bezel digital family Owner-supplied anniversary-directory association; exact model evidence is separate.",
     "DWE-5640RX-7",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "EFA",
+    "EFA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+    "EFA-119DJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "EQS",
+    "EQS is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+    "EQS-500C",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "EQW",
+    "EQW is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: EDIFICE). No universal letter meaning or unlisted retail variant is inferred.",
+    "EQW-M1000D",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -491,10 +611,100 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 WATCH INDEX",
+    "HDA",
+    "HDA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: LINEAGE / OVERLAND). No universal letter meaning or unlisted retail variant is inferred.",
+    "HDA-600B",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "IA",
     "IA appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "IA1000",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "IC",
+    "IC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "IC-1001J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "ICC",
+    "ICC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "ICC-3000J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "ICL",
+    "ICL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "ICL-600J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "ID",
+    "ID is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "ID-29J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "IDC",
+    "IDC is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "IDC-100J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "IDL",
+    "IDL is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "IDL-100J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "IDS",
+    "IDS is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "IDS-100J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "IQ",
+    "IQ is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "IQ-1001J",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -507,6 +717,16 @@ export const researchEntries=[
     "IRW-100",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "ITM",
+    "ITM is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "ITM-200J",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -564,7 +784,7 @@ export const researchEntries=[
     "RESEARCH REFERENCE",
     "LIN",
     "Earlier Lineage family proposed by the supplied guide; historical association and exact features need primary evidence.",
-    "LIN",
+    "LIN-163",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -611,10 +831,30 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 WATCH INDEX",
+    "LTD",
+    "LTD is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+    "LTD-1035A",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "LW",
     "LW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "LW-50",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "LWA",
+    "LWA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: LINEAGE / OVERLAND). No universal letter meaning or unlisted retail variant is inferred.",
+    "LWA-M141",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -644,7 +884,7 @@ export const researchEntries=[
     "RESEARCH REFERENCE",
     "MDV",
     "Casio marine-style model family. Ratings vary by model; do not infer 200 m or dive certification from MDV.",
-    "MDV-106",
+    "MDV-100D",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -694,7 +934,17 @@ export const researchEntries=[
     "RESEARCH REFERENCE",
     "MRW",
     "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
-    "MRW",
+    "MRW-81J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "MSA",
+    "MSA is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: G-ms). No universal letter meaning or unlisted retail variant is inferred.",
+    "MSA-500C",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -704,7 +954,17 @@ export const researchEntries=[
     "RESEARCH REFERENCE",
     "MTD",
     "Marine-style Casio reference prefix mentioned by the supplied guide; exact model features and expansion remain unverified.",
-    "MTD",
+    "MTD-1044A",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "MTR",
+    "MTR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: CASIO STANDARD / OTHER). No universal letter meaning or unlisted retail variant is inferred.",
+    "MTR-302",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -727,6 +987,16 @@ export const researchEntries=[
     "OAW-100TDJ",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "OVW",
+    "OVW is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: WAVE CEPTOR / LINEAGE). No universal letter meaning or unlisted retail variant is inferred.",
+    "OVW-100BJ",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -757,6 +1027,16 @@ export const researchEntries=[
     "PRX-7000",
     {
       "status": "unverified",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "RFT",
+    "RFT is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+    "RFT-100",
+    {
+      "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
     }
   ],
@@ -801,10 +1081,60 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 WATCH INDEX",
+    "SHE",
+    "SHE is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
+    "SHE-7506D",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "SHN",
+    "SHN is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SHEEN). No universal letter meaning or unlisted retail variant is inferred.",
+    "SHN-3021DPJ",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "SEA-PATHFINDER",
     "SPF",
     "SEA-PATHFINDER family in the supplied archive-derived SPF-100 reference and comparison graphic. Depth/pressure and temperature sensor claims retain source scope; graphic/module mapping is unverified.",
     "SPF-100",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "SQD",
+    "SQD is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "SQD-1000J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "STP",
+    "STP is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+    "STP-100J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "STR",
+    "STR is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: PHYS / SPORTS). No universal letter meaning or unlisted retail variant is inferred.",
+    "STR-300CJ",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
@@ -861,6 +1191,36 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 CLOCK INDEX",
+    "TMR",
+    "TMR is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "TMR-71",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "TQ",
+    "TQ is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "TQ-110J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 CLOCK INDEX",
+    "TQT",
+    "TQT is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "TQT-100",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "CASIOTRON / supplied anniversary reference",
     "TRN",
     "Casiotron revival family association in the owner-supplied anniversary directory. Model details require exact-source confirmation.",
@@ -881,10 +1241,30 @@ export const researchEntries=[
     }
   ],
   [
+    "2011 CLOCK INDEX",
+    "TTM",
+    "TTM is an indexed clock identifier in the supplied 2011 extraction. No universal letter meaning or unlisted retail variant is inferred.",
+    "TTM-150J",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
     "HISTORICAL CASIO",
     "TW",
     "TW appears in the supplied historical compilation index. Model features and individual letter meanings require separate evidence.",
     "TW-7100C",
+    {
+      "status": "secondary_reported",
+      "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
+    }
+  ],
+  [
+    "2011 WATCH INDEX",
+    "WL",
+    "WL is an indexed watch-family/base identifier in the supplied 2011 extraction (printed group: SPORTS GEAR). No universal letter meaning or unlisted retail variant is inferred.",
+    "WL-500",
     {
       "status": "secondary_reported",
       "source": "https://github.com/SEPULKRUM/casio-watch-specs/blob/main/data/model-references.json"
