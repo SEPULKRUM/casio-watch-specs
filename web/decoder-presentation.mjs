@@ -1,3 +1,4 @@
+import {englishText} from './english.mjs';
 // Evidence categories describe the claim, independently of tile and watch colours.
 const colorNames=['','Black','Blue','Green','Red','Brown','Purple','White','Silver / gray','Yellow / gold'];
 export const colorSwatches=['','#111111','#176db4','#287b43','#c73336','#805334','#75459c','#ffffff','#a5a8ae','#d1ad3e'];
@@ -8,7 +9,7 @@ export function modelColor(result){
  if(!digit)return null;
  const fact=result.exact?.specs?.color;
  if(!fact&&result.scopedColor)return {digit:result.scopedColor.digit,label:result.scopedColor.label,swatch:colorSwatches[1],evidence:result.scopedColor.status,note:result.scopedColor.scope,actual:result.scopedColor.label,actualStatus:'Casio metadata · exact cited variant'};
- if(fact){const actual=String(fact.value),index=colorNames.findIndex(name=>name&&actual.toLowerCase()===name.toLowerCase());return {digit,label:actual,swatch:colorSwatches[index>0?index:8],evidence:'secondary_reported',note:`Exact catalog colour overrides the working ${colorNames[Number(digit)]} heuristic. Inspect the model specification evidence for provenance.`,actual,actualStatus:fact.status||'unverified'};}
+ if(fact){const actual=englishText(fact.value),index=colorNames.findIndex(name=>name&&actual.toLowerCase()===name.toLowerCase());return {digit,label:actual,swatch:colorSwatches[index>0?index:8],evidence:'secondary_reported',note:`Exact catalog colour overrides the working ${colorNames[Number(digit)]} heuristic. Inspect the model specification evidence for provenance.`,actual,actualStatus:fact.status||'unverified'};}
  return {digit,label:colorNames[Number(digit)],swatch:colorSwatches[Number(digit)],evidence:'unverified',note:'Working colour heuristic; not a universal official Casio key.',actual:fact?String(fact.value):null,actualStatus:fact?.status||null};
 }
 export function officialProductLink(record,model){
