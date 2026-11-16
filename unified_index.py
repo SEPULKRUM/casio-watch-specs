@@ -192,6 +192,16 @@ def build(root=Path('.')):
             if entry[0] not in ['HISTORICAL CASIO','RESEARCH REFERENCE']:prefix_families[entry[1]]=family_name(entry[0])
     for name in ['catalog.py','specs.py','build_web.py','unified_index.py','collector.py']:
         source(name);audit.append({'path':name,'sha256':sha(root/name),'method':'pipeline_implementation_audit','identifier_occurrences':0})
+    resolutions=load(root/'research/fitment-resolutions-2026-11-16.json')['resolutions']
+    for resolution in resolutions:
+        combined=resolution['model_id'];members=resolution['related_models']
+        if combined not in records or 'fitment' not in records[combined]['hints'] or not members or len(members)!=len(set(members)):
+            raise ValueError('Invalid explicit fitment resolution: '+combined)
+        for member in members:
+            if member not in records or 'watch' not in records[member]['hints'] or 'fitment' in records[member]['hints']:
+                raise ValueError('Fitment member is not an individual identifier: '+member)
+        if any(note['model_id'] not in members for note in resolution.get('model_notes',[])):
+            raise ValueError('Fitment note belongs to a different model')
     rows=[]
     for key,item in sorted(records.items()):
         hints=item.pop('hints');hint='clock' if key in clocks or 'clock' in hints else 'fitment' if 'fitment' in hints else 'family' if key in families else 'watch' if 'watch' in hints else 'family' if 'family' in hints else 'uncertain'
@@ -209,6 +219,7 @@ def build(root=Path('.')):
     expected={key for key,item in records.items() if any(o[3]=='watch' for o in item['origins']) and key not in clocks and key not in families and not any(o[3] in {'clock','fitment'} for o in item['origins'])}
     expected |= {row['model_id'] for row in master['models'] if MODEL.fullmatch(row['model_id']) and not BATTERY.fullmatch(row['model_id']) and 'combined/parts' not in row.get('reference_type',master['model_defaults']['reference_type']) and row['model_id'] not in clocks and row['model_id'] not in families}
     index={'schema_version':1,'identity_policy':'Exact identifier after outer-whitespace trimming; punctuation, variants and regional suffixes are never merged. Compact forms are search keys only.','scope':'Watch identifiers are pending authentication unless their individual facts carry review evidence. Family, clock, fitment and uncertain categories do not inflate individual-watch counts.','generator_sha256':sha(root/'unified_index.py'),'catalog_sha256':sha(root/'data/catalog.json'),'master_source':'research/casio-master-research-2026-11-16.json','sources':sources,'counts':{'all_records':len(rows),**{k:counts[k] for k in CATEGORIES},'watch_with_specifications':sum(r['has_specifications'] for r in watch),'watch_reference_only':sum(not r['has_specifications'] for r in watch),'catalog_records':len(catalog['models']),'catalog_watch_records':sum(r['category']=='watch' and r['catalog_id'] is not None for r in rows)},'records':rows}
+    index['fitment_resolutions']=resolutions
     published={r['id'] for r in rows if r['category']=='watch'}
     missing=sorted(expected-published)
     report={'schema_version':1,'definitions':{'total_imported_identifiers':'Identifier occurrences across audited datasets, including repeated exact identifiers and generated mirrors; not a watch count.','distinct_individual_watch_identifiers':'Eligible individual identifiers, not a claim that every watch or its specifications are authenticated.','models_with_specifications':'Individual watch identifiers with at least one own technical catalog field; no shared-module case data is copied.','reference_only_models':'Individual watch identifiers without their own technical catalog fields.','duplicate_exact_identifiers':'Occurrences beyond the first exact identifier; different suffixes, punctuation and regions remain separate.'},'total_imported_identifiers':len(occurrences),'distinct_raw_identifiers':len(rows),'distinct_individual_watch_identifiers':counts['watch'],'duplicate_exact_identifiers':len(occurrences)-len(rows),'identifiers_with_exact_duplicates':sum(n>1 for n in freq.values()),'reference_only_models':index['counts']['watch_reference_only'],'models_with_specifications':index['counts']['watch_with_specifications'],'unresolved_identifiers':counts['uncertain'],'category_counts':{k:counts[k] for k in CATEGORIES},'models_missing_from_published_search_index':missing,'missing_model_count':len(missing),'source_audit':audit,'ignored_nonmodel_fields':dict(ignored),'published_dataset_aliases':{'master-research.json':'research/casio-master-research-2026-11-16.json'},'expected_eligible_individual_identifiers':sorted(expected),'duplicate_identifier_details':[{'id':key,'occurrences':n} for key,n in sorted(freq.items()) if n>1],'index_sha256':hashlib.sha256(dumps(index).encode()).hexdigest()}

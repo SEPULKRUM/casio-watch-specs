@@ -42,6 +42,18 @@ class UnifiedIndexTests(unittest.TestCase):
             self.assertIn(code,self.rows);self.assertEqual(self.rows[code]['category'],'watch')
         self.assertNotEqual(self.rows['GW-M5610U-1']['id'],self.rows['GW-M5610U-1JF']['id'])
 
+    def test_explicit_fitment_resolution_retains_individual_models_and_source_claims(self):
+        resolution=self.index['fitment_resolutions'][0]
+        self.assertEqual(resolution['model_id'],'A-151/153/155-1A')
+        self.assertEqual(resolution['related_models'],['A-151-1A','A-153-1A','A-155-1A'])
+        self.assertEqual(self.rows[resolution['model_id']]['category'],'fitment')
+        for member in resolution['related_models']:
+            self.assertEqual(self.rows[member]['category'],'watch')
+            self.assertFalse(self.rows[member]['has_specifications'])
+            self.assertEqual(self.rows[member]['module_ids'],[])
+        self.assertTrue(all(claim['status'] for note in resolution['model_notes'] for claim in note['claims']))
+        self.assertIn('factory configuration',resolution['restoration_note']['status'])
+
     def test_clock_family_and_uncertain_sources_do_not_inflate_individual_count(self):
         index2011=json.loads((ROOT/'research/catalog-index-2011-2026-11-15.json').read_text())
         for row in index2011['clock_rows']:self.assertEqual(self.rows[row['id']]['category'],'clock')
