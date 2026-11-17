@@ -2,7 +2,7 @@
 // a regression unit harness, not a browser/layout test or a renderer reimplementation.
 import fs from 'node:fs/promises';import vm from 'node:vm';
 export class TestElement{
- constructor(tag){this.tagName=tag.toUpperCase();this.children=[];this.attributes={};this.listeners={};this.open=false;this._text='';}
+ constructor(tag){this.tagName=tag.toUpperCase();this.children=[];this.attributes={};this.style={};this.listeners={};this.open=false;this._text='';}
  set textContent(text){this._text=String(text);this.children=[];}
  get textContent(){return this._text+this.children.map(c=>typeof c==='string'?c:c.textContent).join('');}
  append(...nodes){for(const node of nodes){if(node&&typeof node==='object'){if(node.parent){const i=node.parent.children.indexOf(node);if(i>=0)node.parent.children.splice(i,1)}node.parent=this;}this.children.push(node)}}
