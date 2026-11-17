@@ -50,6 +50,11 @@ def build(root=Path('.')):
     uncertain_catalog={key for key,row in catalog['models'].items() if row['specs'].get('reference_scope',{}).get('value')=='unconfirmed_identifier'}
     resolution_path=root/'research/supplied-seven-special-variants-2026-11-17.json'
     category_resolutions=load(resolution_path).get('category_resolutions',{}) if resolution_path.exists() else {}
+    extra_resolution_path=root/'research/supplied-mudmaster-frogman-2026-11-17.json'
+    if extra_resolution_path.exists():
+        for key,category in load(extra_resolution_path).get('category_resolutions',{}).items():
+            if key in category_resolutions and category_resolutions[key]!=category:raise ValueError('Conflicting explicit reference category')
+            category_resolutions[key]=category
     if any(v not in {'watch','package','uncertain'} for v in category_resolutions.values()):raise ValueError('Invalid special-reference category resolution')
     def source(path):
         name=path.as_posix() if isinstance(path,Path) else path

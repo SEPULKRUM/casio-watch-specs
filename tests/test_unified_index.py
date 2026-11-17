@@ -30,7 +30,9 @@ class UnifiedIndexTests(unittest.TestCase):
             if 'combined/parts' in row.get('reference_type',''):
                 self.assertEqual(indexed['category'],'fitment')
             elif MODEL.fullmatch(row['model_id']) and not unified_index.BATTERY.fullmatch(row['model_id']):
-                self.assertIn(indexed['category'],['watch','family','clock'])
+                resolution=self.report.get('special_reference_category_resolutions',{}).get(row['model_id'])
+                if resolution:self.assertEqual(indexed['category'],resolution)
+                else:self.assertIn(indexed['category'],['watch','family','clock'])
         self.assertEqual(sum(r['category']=='fitment' for r in self.rows.values()),1212)
 
     def test_all_catalog_records_and_explicit_aliases_remain_exact(self):

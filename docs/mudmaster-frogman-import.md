@@ -1,0 +1,9 @@
+# Mudmaster / Frogman PDF implementation
+
+Two supplied PDFs received November 17, 2026 provide 18 Mudmaster references and 27 Frogman release/configuration records. Exact regional references remain searchable independently, while the 2013 Mastermind release retains its stated shared-identifier caveat. `7W-SP-MMJ` remains an uncertain collaborator catalog reference, `GWF-1000TBS` an unresolved alternate/transcription label, and `GWF-D1000B-1LTD` a retail collector package. These categories do not inflate individual watch counts.
+
+Technical transcription: `research/supplied-mudmaster-frogman-2026-11-17.json`. PDF hashes, page locators, extracted source hyperlinks and evidence qualifications are retained. Rebuild with `python mud_frog_import.py`; verify with `--check`. Original PDFs and artwork are excluded from publication. Source links are documentary citations, not a claim that archives were fetched or independently verified.
+
+Module 5463, 5713, 3184 and 3445 function tables are separate from case/band/glass/mass data. GWG-B1000 Location Indicator uses a paired phone and does not establish an internal GPS receiver. GWG-1000 lengths 56.7 and 59.5 mm remain an unresolved source-specific comparison; no scalar dimension replaces the discrepancy. Frogman special-color inherited weights and titanium 85–86 g reports remain research only. The composite-bracelet GWF-D1000BC-1JF retains its explicitly stated 181 g. Edition quantities remain reported rather than factory confirmed.
+
+Decoder interpretations are family-specific: Frogman B differs between 1000 and D1000. Named Mudmaster editions, titanium Frogman T, Zong Baik ZB, Jurassic PRJ and the LTD package are scoped explicitly; the older D10 + 35 anniversary rule is preserved. Existing scalar facts and citations are never silently overwritten. All eligible conventional references receive the existing Mudmaster or Frogman creator playlist.

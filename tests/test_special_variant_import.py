@@ -13,7 +13,7 @@ class SpecialVariantTests(unittest.TestCase):
   self.assertEqual(len(self.n['models']),2);self.assertEqual(len(self.n['package_identifiers']),5)
   for id in self.n['models']:self.assertEqual(rows[id]['category'],'watch')
   for id in self.n['package_identifiers']:self.assertEqual(rows[id]['category'],'package')
-  self.assertEqual(index['counts']['package'],5);self.assertEqual(specs.load('data/reconciliation-report.json')['missing_model_count'],0)
+  self.assertEqual(index['counts']['package'],6);self.assertEqual(specs.load('data/reconciliation-report.json')['missing_model_count'],0)
  def test_spelling_corrections_and_original_labels_are_preserved(self):
   rows={r['id']:r for r in specs.load('data/search-index.json')['records']}
   for id in ['GMW-B5000GDLTD-1','GMW-B5000TCM-1LT','GMW-B5000PS-1 Rock for People']:self.assertEqual(rows[id]['category'],'uncertain')
