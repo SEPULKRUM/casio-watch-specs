@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "received": "2026-11-17",
+  "provided_by": "SEPULKRUM",
+  "type": "scoped_owner_suffix_interpretation",
+  "models": [
+    {
+      "model_id": "GMW-B5000PS-1",
+      "suffix": "PS",
+      "meaning": "Special-series / silver, within the 2023 40th Anniversary Recrystallized duo"
+    },
+    {
+      "model_id": "GMW-B5000PG-9",
+      "suffix": "PG",
+      "meaning": "Special-series / gold, within the same duo"
+    },
+    {
+      "model_id": "GMW-B5000PS-1ERFP",
+      "suffix": "PS",
+      "meaning": "Carries the PS silver Recrystallized base-model designation; festival-specific ERFP meaning is not inferred"
+    }
+  ],
+  "community_reading": {
+    "P": "Special anniversary / recrystallized series",
+    "S": "Silver",
+    "G": "Gold"
+  },
+  "status": "Owner/community interpretation, scoped to the documented pair",
+  "official_description_confirms": [
+    "40th anniversary edition",
+    "Recrystallisation and deep-layer hardening",
+    "PS TiC exterior and DLC-coated screw-lock caseback"
+  ],
+  "official_letter_expansions_confirmed": false,
+  "source_url": "https://www.casio.com/content/experience-fragments/casio/en/product-info/watch/product/watch/g/gm/gmw/gmw_b5000/gmw-b5000ps/master.html",
+  "counterpart_source_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PG-9/",
+  "archive_lookup": {
+    "original_url": "https://www.casio.com/content/experience-fragments/casio/en/product-info/watch/product/watch/g/gm/gmw/gmw_b5000/gmw-b5000ps/master.html",
+    "result": "No successful archived snapshot returned; current official page corroborates edition construction, not acronym expansions"
+  },
+  "scope": "Decoder interpretation only; no watch specifications, weights, modules, regional equivalences or production dates are changed. No universal expansion of P, PS or PG is asserted."
+}
