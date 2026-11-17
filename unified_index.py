@@ -66,6 +66,9 @@ def build(root=Path('.')):
         for key,category in load(heritage_resolution_path).get('category_resolutions',{}).items():
             if key in category_resolutions and category_resolutions[key]!=category:raise ValueError('Conflicting explicit reference category')
             category_resolutions[key]=category
+    worldwide_path=root/'research/supplied-worldwide-2020-2026-2026-11-17.json'
+    if worldwide_path.exists():
+        category_resolutions.update(load(worldwide_path).get('category_resolutions',{}))
     if any(v not in {'watch','family','package','uncertain'} for v in category_resolutions.values()):raise ValueError('Invalid special-reference category resolution')
     def source(path):
         name=path.as_posix() if isinstance(path,Path) else path

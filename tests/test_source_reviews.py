@@ -40,7 +40,9 @@ class SourceReviewTests(unittest.TestCase):
         leads=specs.load('research/publication-discoveries-2026-11-16.json');library=specs.load('data/model-references.json');data=specs.load('data/catalog.json')
         self.assertEqual(len(leads['models']),4)
         for row in leads['models']:
-            self.assertNotIn(row['id'],data['models'])
+            if row['id'] in data['models']:
+                self.assertIn('worldwide_evidence',data['models'][row['id']]['specs'])
+                self.assertEqual(data['models'][row['id']]['specs']['worldwide_evidence']['status'],'pending_review')
             reference=library['models'][row['id']]
             self.assertEqual(reference['status'],'machine_candidate')
             self.assertEqual(reference['observations'][0]['role'],'publication_discovery')

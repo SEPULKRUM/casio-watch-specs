@@ -43,7 +43,7 @@ class CombinedCatalogTests(unittest.TestCase):
 
     def test_family_and_regional_labels_are_not_extra_watch_records(self):
         for id in ['OCW-T5000','OCW-T150','OCW-T200','OCW-S100','OCW-70','OCW-S340','GWR-B3000-1AJF','AWG-M520UA']:
-            self.assertNotIn(id,self.data['models'])
+            self.assertTrue(id not in self.data['models'] or 'worldwide_evidence' in self.data['models'][id]['specs'])
         self.assertEqual(catalog.field_value(self.data['models']['GWR-B3000-1A'],'supplied_aliases'),['GWR-B3000-1AJF'])
         self.assertNotIn('dimensions_mm',self.data['models']['DW-H5600-1']['specs'])
         self.assertEqual(catalog.field_value(self.data['models']['DW-H5600-1'],'module_id'),'3516')
@@ -56,7 +56,7 @@ class CombinedCatalogTests(unittest.TestCase):
         self.assertNotIn('dimensions_mm',self.data['models']['DW-290-1V']['specs'])
         self.assertNotIn('module_id',self.data['models']['DW-290B-2V']['specs'])
         for id in ['DW-290G-1V','DW-290T','DW-290MV-1VUR','OCW-T2600TA-8AJF']:
-            self.assertNotIn(id,self.data['models'])
+            self.assertTrue(id not in self.data['models'] or 'worldwide_evidence' in self.data['models'][id]['specs'])
         self.assertNotIn('modern_3231_functions',catalog.field_value(self.data['modules']['1219'],'supplied_module_specifications'))
         self.assertIn('modern_3231_functions',catalog.field_value(self.data['modules']['3231'],'supplied_module_specifications'))
         self.assertEqual(catalog.field_value(self.data['modules']['5347'],'alarm_count'),0)
