@@ -1,0 +1,2483 @@
+{
+  "schema_version": 1,
+  "type": "supplied_catalog_visual_extraction",
+  "title": "This Season’s Popular Casio Collection — supplied catalog attributed to 1983",
+  "received": "2026-11-17",
+  "provided_by": "SEPULKRUM",
+  "source_filename": "1983 Casio catalog .zip",
+  "source_sha256": "047ac3b693d9115704421942a14f26e75ee2db9e8e4176fb106a3bd31f160b75",
+  "catalog_year_attribution": 1983,
+  "document_code": "CT0583E",
+  "date_scope": "Year supplied by archive filename. Document code CT0583E is printed on back cover; it is preserved without interpreting it as a publication date or release date.",
+  "source_status": "User-supplied Casio catalog reproduction, visually checked technical transcription; not independently archive-verified.",
+  "scope": "All 24 supplied JPEGs inspected. Only model identifiers, technical facts, dial-availability footnotes, service summary and packaging model mappings are extracted. Source scans, EXIF, macOS resource forks, advertisements, contact details and people are not published. No color or regional suffix is invented.",
+  "pages": [
+    {
+      "file": "IMG_3230.JPG",
+      "sha256": "7808c658692cf3216b8fe0c741defec544b56f84dcb1cded716b162651fc4a7f",
+      "printed_page": null,
+      "section": "Cover",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3231.JPG",
+      "sha256": "aed34f91e45e0e29a4893366255d526fd1c4e833d4dfee875a675cd7be05393f",
+      "printed_page": 1,
+      "section": "Casual / Standard",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3232.JPG",
+      "sha256": "bf2fd7a6d86c41cd1ca1be29ce842b287515e12ea2bf4343518b47830e521e93",
+      "printed_page": 2,
+      "section": "Casual / Standard continuation",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3233.JPG",
+      "sha256": "9635350716a8ec76111cd697ef552df1f3b84955068f85800f68aef137ab77cf",
+      "printed_page": 3,
+      "section": "Alarm-Chrono",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3234.JPG",
+      "sha256": "6558bfbf0497bbb1eaebf48f395078d3b2200824dbd2fc93a503b91dda9662eb",
+      "printed_page": 4,
+      "section": "Waferwear Alarm-Chrono",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3235.JPG",
+      "sha256": "c258488e208ee2dede4e4bfdc33274afe84720d940f014f1f67e7ec7142b26c9",
+      "printed_page": 5,
+      "section": "Jogging / Game",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3236.JPG",
+      "sha256": "2c307f8d85b6efe8b267cb06bd7328c6c07cfc06ea9cd8e22e5564062bf2d3ff",
+      "printed_page": 6,
+      "section": "Solar",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3237.JPG",
+      "sha256": "4e8d1a98079ee2673ad5ec6cc4a0e17b3633a259a1c99abce45136b627886477",
+      "printed_page": 7,
+      "section": "Watersports",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3238.JPG",
+      "sha256": "942e2465a9ba4c2da090ab5ca6608b3172c83a049993b2bc58184c5eed1cad7c",
+      "printed_page": 8,
+      "section": "Watersports continuation",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3239.JPG",
+      "sha256": "fe076ec563129a2c638a0c21d78643ac199b2dc38911c262b93c29f684fa6848",
+      "printed_page": 9,
+      "section": "Calculator",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3240.JPG",
+      "sha256": "a2a162a27d88b8d944f1a189cdd55dce8e97d606cdb6b3ba8c4d10239508e689",
+      "printed_page": 10,
+      "section": "Touch-sensor calculator",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3241.JPG",
+      "sha256": "194968b60d98dfb0f7ef3e94bac1e0b796d48f779f17696bfd767f79b0bc47fc",
+      "printed_page": 11,
+      "section": "Analog Watersports 50 m",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3242.JPG",
+      "sha256": "b9da17c1bf10110b8c2e77aa46278b66ec8c1efb567e53182983db0b1ceba265",
+      "printed_page": 12,
+      "section": "Analog Urbane Look",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3243.JPG",
+      "sha256": "caf1848642f43654c589b26b30d9aafd66b25b127daf783c975f719e89c68c01",
+      "printed_page": 13,
+      "section": "Ladies Casual / Standard",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3244.JPG",
+      "sha256": "7163e0f7bda77b2163df2f3d7de450673ba3bd3632c2bcfcc176e5bfd3df50d5",
+      "printed_page": 14,
+      "section": "Ladies Alarm",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3245.JPG",
+      "sha256": "ecb373682b3959ec70ad37e0d2f65d1203c2ea78ce676b06d4101316ed744720",
+      "printed_page": 15,
+      "section": "Ladies Watersports",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3246.JPG",
+      "sha256": "595d7d5ffa9fa25d2b8639804d67764334b6caecdf78efd688c9d127eb2a08d4",
+      "printed_page": 16,
+      "section": "Ladies Watersports continuation",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3247.JPG",
+      "sha256": "bd3ffdb9a8ed3579c729fdd7c394b2945c5d733c45c8bed4d3ba119bab1dfa3a",
+      "printed_page": 17,
+      "section": "Ladies Fashion",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3248.JPG",
+      "sha256": "43994acbcaa44bd0413395d907783c27203b64c2be1d51516b1c27f38053999f",
+      "printed_page": 18,
+      "section": "Ladies Analog",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3249.JPG",
+      "sha256": "52aed1583a771e3b1a99f2faa1a3bb0e761435c74b0a9c4abb2043dff65dec5e",
+      "printed_page": 19,
+      "section": "Ladies Analog continuation",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3250.JPG",
+      "sha256": "5bb71b3b7cbd66e9e4465b9b2150fd1b011c9f91b3d2ff882aa2c21079ee7cae",
+      "printed_page": 20,
+      "section": "Ladies Analog continuation",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3251.JPG",
+      "sha256": "4ca33c99ae25b3722daa29a2b15558d6f3765537af6c233e01dcd3fc1e9703f2",
+      "printed_page": 21,
+      "section": "Clocks",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3252.JPG",
+      "sha256": "a006ecbde9e7d5781693eaeee9247ac81881035867bdf50c1c1ecc5a86b83136",
+      "printed_page": 22,
+      "section": "Battery service reference",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    },
+    {
+      "file": "IMG_3253.JPG",
+      "sha256": "73723d305b65ee125177842d8b320a10183ae3d056050f4845573e4132f964d0",
+      "printed_page": null,
+      "section": "Packaging / back cover",
+      "inspection": "Visually inspected; technical captions and tables transcribed; advertising excluded"
+    }
+  ],
+  "models": [
+    {
+      "model_id": "F-85",
+      "module_id": "160",
+      "material_caption": "Resin",
+      "page": 1,
+      "image": "IMG_3231.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "F-11",
+      "module_id": "155",
+      "material_caption": "Resin",
+      "page": 1,
+      "image": "IMG_3231.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "F-600",
+      "module_id": "406",
+      "material_caption": "Resin",
+      "page": 1,
+      "image": "IMG_3231.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "B816",
+      "module_id": "155",
+      "material_caption": "Chrome plated case",
+      "page": 1,
+      "image": "IMG_3231.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "B816G",
+      "module_id": "155",
+      "material_caption": "Gold plated",
+      "page": 2,
+      "image": "IMG_3232.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "B821",
+      "module_id": "244",
+      "material_caption": "Chrome plated case",
+      "page": 2,
+      "image": "IMG_3232.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "B821G",
+      "module_id": "244",
+      "material_caption": "Gold plated",
+      "page": 2,
+      "image": "IMG_3232.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A659",
+      "module_id": "160",
+      "material_caption": "Chrome plated case",
+      "page": 3,
+      "image": "IMG_3233.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A657G",
+      "module_id": "160",
+      "material_caption": "Gold plated",
+      "page": 3,
+      "image": "IMG_3233.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A680",
+      "module_id": "203",
+      "material_caption": "Chrome plated case",
+      "page": 3,
+      "image": "IMG_3233.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A680G",
+      "module_id": "203",
+      "material_caption": "Gold plated",
+      "page": 3,
+      "image": "IMG_3233.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A661",
+      "module_id": "237",
+      "material_caption": "Chrome plated case",
+      "page": 3,
+      "image": "IMG_3233.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "A661G",
+      "module_id": "237",
+      "material_caption": "Gold plated",
+      "page": 4,
+      "image": "IMG_3234.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "SA-50",
+      "module_id": "145",
+      "material_caption": "Chrome plated case",
+      "page": 4,
+      "image": "IMG_3234.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "dial_availability_note": "Footnote: also available with a dark dial; no additional identifier printed."
+    },
+    {
+      "model_id": "SA-50G",
+      "module_id": "145",
+      "material_caption": "Gold plated",
+      "page": 4,
+      "image": "IMG_3234.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "dial_availability_note": "Footnote: also available with a dark dial; no additional identifier printed."
+    },
+    {
+      "model_id": "SA-53",
+      "module_id": "145",
+      "material_caption": "Chrome plated case",
+      "page": 4,
+      "image": "IMG_3234.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "dial_availability_note": "Footnote: also available with a light dial; no additional identifier printed."
+    },
+    {
+      "model_id": "SA-53G",
+      "module_id": "145",
+      "material_caption": "Gold plated",
+      "page": 4,
+      "image": "IMG_3234.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "dial_availability_note": "Footnote: also available with a light dial; no additional identifier printed."
+    },
+    {
+      "model_id": "J-30W",
+      "module_id": "179",
+      "material_caption": "Resin",
+      "page": 5,
+      "image": "IMG_3235.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "J-50",
+      "module_id": "208",
+      "material_caption": "Resin",
+      "page": 5,
+      "image": "IMG_3235.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "GG-9",
+      "module_id": "227",
+      "material_caption": "Resin",
+      "page": 5,
+      "image": "IMG_3235.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "W-27",
+      "module_id": "189",
+      "material_caption": "Resin",
+      "page": 6,
+      "image": "IMG_3236.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "SA-60G",
+      "module_id": "189",
+      "material_caption": "Gold plated",
+      "page": 6,
+      "image": "IMG_3236.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "SA-60",
+      "module_id": "189",
+      "material_caption": "Chrome plated case",
+      "page": 6,
+      "image": "IMG_3236.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "CL-30",
+      "module_id": "243",
+      "material_caption": "Resin",
+      "page": 6,
+      "image": "IMG_3236.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "CL-301",
+      "module_id": "243",
+      "material_caption": "Chrome plated case",
+      "page": 6,
+      "image": "IMG_3236.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "W-24",
+      "module_id": "248",
+      "material_caption": "Resin",
+      "page": 7,
+      "image": "IMG_3237.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "W-25",
+      "module_id": "181",
+      "material_caption": "Resin",
+      "page": 7,
+      "image": "IMG_3237.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "W-35",
+      "module_id": "248",
+      "material_caption": "Stainless steel",
+      "page": 7,
+      "image": "IMG_3237.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "W-400",
+      "module_id": "106",
+      "material_caption": "Resin",
+      "page": 7,
+      "image": "IMG_3237.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 100
+    },
+    {
+      "model_id": "W-750C",
+      "module_id": "248",
+      "material_caption": "Stainless steel case",
+      "page": 7,
+      "image": "IMG_3237.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 100
+    },
+    {
+      "model_id": "TS-1000",
+      "module_id": "215",
+      "material_caption": "Resin",
+      "page": 8,
+      "image": "IMG_3238.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 100
+    },
+    {
+      "model_id": "TS-2000",
+      "module_id": "215",
+      "material_caption": "Stainless steel",
+      "page": 8,
+      "image": "IMG_3238.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "DW-1000C",
+      "module_id": "280",
+      "material_caption": "Stainless steel case",
+      "page": 8,
+      "image": "IMG_3238.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 200
+    },
+    {
+      "model_id": "DW-200",
+      "module_id": "181",
+      "material_caption": "Stainless steel",
+      "page": 8,
+      "image": "IMG_3238.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 200
+    },
+    {
+      "model_id": "DW-5000C",
+      "module_id": "240",
+      "material_caption": "Stainless steel",
+      "page": 8,
+      "image": "IMG_3238.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 200,
+      "family": "G-SHOCK"
+    },
+    {
+      "model_id": "CS-83",
+      "module_id": "231",
+      "material_caption": "Resin",
+      "page": 9,
+      "image": "IMG_3239.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "CS-831",
+      "module_id": "231",
+      "material_caption": "Chrome plated case",
+      "page": 9,
+      "image": "IMG_3239.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "CFX-20",
+      "module_id": "197",
+      "material_caption": "Resin",
+      "page": 9,
+      "image": "IMG_3239.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "CFX-200",
+      "module_id": "197",
+      "material_caption": "Chrome plated case",
+      "page": 9,
+      "image": "IMG_3239.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "TC-50",
+      "module_id": "120",
+      "material_caption": "Resin",
+      "page": 10,
+      "image": "IMG_3240.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "TC-500",
+      "module_id": "119",
+      "material_caption": "Chrome plated case",
+      "page": 10,
+      "image": "IMG_3240.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "AQ-30W",
+      "module_id": "305",
+      "material_caption": "Resin",
+      "page": 11,
+      "image": "IMG_3241.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "AQ-350W",
+      "module_id": "305",
+      "material_caption": "Stainless steel",
+      "page": 11,
+      "image": "IMG_3241.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "AQ-320",
+      "module_id": "305",
+      "material_caption": "Stainless steel",
+      "page": 12,
+      "image": "IMG_3242.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "dial_availability_note": "Footnote: also available with a black dial; no additional identifier printed."
+    },
+    {
+      "model_id": "AQ-320G",
+      "module_id": "305",
+      "material_caption": "Gold plated",
+      "page": 12,
+      "image": "IMG_3242.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "AQ-500",
+      "module_id": "305",
+      "material_caption": "Stainless steel",
+      "page": 12,
+      "image": "IMG_3242.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "L-5",
+      "module_id": "192",
+      "material_caption": "Resin",
+      "page": 13,
+      "image": "IMG_3243.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "L-51G",
+      "module_id": "192",
+      "material_caption": "Resin",
+      "page": 13,
+      "image": "IMG_3243.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LB319",
+      "module_id": "192",
+      "material_caption": "Chrome plated case",
+      "page": 13,
+      "image": "IMG_3243.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LB319G",
+      "module_id": "192",
+      "material_caption": "Gold plated",
+      "page": 13,
+      "image": "IMG_3243.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LA-9",
+      "module_id": "229",
+      "material_caption": "Resin",
+      "page": 14,
+      "image": "IMG_3244.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LA556",
+      "module_id": "229",
+      "material_caption": "Chrome plated case",
+      "page": 14,
+      "image": "IMG_3244.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LA556G",
+      "module_id": "229",
+      "material_caption": "Gold plated",
+      "page": 14,
+      "image": "IMG_3244.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LW-7",
+      "module_id": "192",
+      "material_caption": "Resin",
+      "page": 15,
+      "image": "IMG_3245.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-6",
+      "module_id": "157",
+      "material_caption": "Resin",
+      "page": 15,
+      "image": "IMG_3245.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-304C",
+      "module_id": "192",
+      "material_caption": "Stainless steel case",
+      "page": 15,
+      "image": "IMG_3245.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-101C",
+      "module_id": "210",
+      "material_caption": "Stainless steel case",
+      "page": 16,
+      "image": "IMG_3246.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-601C",
+      "module_id": "156",
+      "material_caption": "Stainless steel case",
+      "page": 16,
+      "image": "IMG_3246.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-601",
+      "module_id": "156",
+      "material_caption": "Stainless steel",
+      "page": 16,
+      "image": "IMG_3246.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred.",
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LF140GL",
+      "module_id": "210",
+      "material_caption": "Gold plated case",
+      "page": 17,
+      "image": "IMG_3247.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LF140G",
+      "module_id": "210",
+      "material_caption": "Gold plated",
+      "page": 17,
+      "image": "IMG_3247.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LF140",
+      "module_id": "210",
+      "material_caption": "Chrome plated case",
+      "page": 17,
+      "image": "IMG_3247.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-700L-7A",
+      "module_id": "318",
+      "material_caption": "Chrome plated case",
+      "page": 18,
+      "image": "IMG_3248.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-700GL-7A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 18,
+      "image": "IMG_3248.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710L-7A",
+      "module_id": "318",
+      "material_caption": "Chrome plated case",
+      "page": 18,
+      "image": "IMG_3248.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-700L-7B",
+      "module_id": "318",
+      "material_caption": "Chrome plated case",
+      "page": 18,
+      "image": "IMG_3248.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-700GL-9A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 18,
+      "image": "IMG_3248.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710-7A",
+      "module_id": "318",
+      "material_caption": "Chrome plated",
+      "page": 19,
+      "image": "IMG_3249.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710G-9A",
+      "module_id": "318",
+      "material_caption": "Gold plated",
+      "page": 19,
+      "image": "IMG_3249.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710G-7A",
+      "module_id": "318",
+      "material_caption": "Gold plated",
+      "page": 19,
+      "image": "IMG_3249.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710GL-9A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 19,
+      "image": "IMG_3249.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710GL-1A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 19,
+      "image": "IMG_3249.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-710GL-7B",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-720G-7C",
+      "module_id": "318",
+      "material_caption": "Gold plated",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-720GL-7A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-720GL-5A",
+      "module_id": "318",
+      "material_caption": "Gold plated case",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-720G-9A",
+      "module_id": "318",
+      "material_caption": "Gold plated",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "LQ-720-7C",
+      "module_id": "318",
+      "material_caption": "Chrome plated",
+      "page": 20,
+      "image": "IMG_3250.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "F-11",
+      "module_id": "155",
+      "material_caption": "Resin",
+      "page": null,
+      "image": "IMG_3253.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "F-600",
+      "module_id": "406",
+      "material_caption": "Resin",
+      "page": null,
+      "image": "IMG_3253.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "F-85",
+      "module_id": "160",
+      "material_caption": "Resin",
+      "page": null,
+      "image": "IMG_3253.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    },
+    {
+      "model_id": "L-5",
+      "module_id": "192",
+      "material_caption": "Resin",
+      "page": null,
+      "image": "IMG_3253.JPG",
+      "reference_scope": "Exact printed catalog reference; missing retail suffixes are not inferred."
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "160",
+      "pages": [
+        1,
+        3
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, year, month, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2019",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Dual time, 24-hour format"
+      ],
+      "stopwatch": "59 min 59.9 sec; 0.1-second unit; normal/net/first-second place times",
+      "table_difference": "Page 1 lists net/lap/first-second place modes; page 3 lists normal/net/first-second place modes. Preserve both source representations."
+    },
+    {
+      "module_id": "244",
+      "pages": [
+        1
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 396 × 1",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 30,
+      "catalog_features": [
+        "No other functions listed in this table"
+      ]
+    },
+    {
+      "module_id": "155",
+      "pages": [
+        2
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 30,
+      "catalog_features": [
+        "No other functions listed in this table"
+      ]
+    },
+    {
+      "module_id": "406",
+      "pages": [
+        2
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2019",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 15,
+      "catalog_features": [
+        "Page 2 table lists no additional functions; packaging separately advertises stopwatch and dual time"
+      ],
+      "stopwatch": "Advertised on packaging; operating range not provided in this table"
+    },
+    {
+      "module_id": "203",
+      "pages": [
+        3
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, year, month, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2019",
+      "battery_cell": "No. 370 × 1",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Dual time, 24-hour format"
+      ],
+      "stopwatch": "59 min 59.9 sec; 0.1-second unit; normal/net/lap/first-second place times"
+    },
+    {
+      "module_id": "237",
+      "pages": [
+        4
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, year, month, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2019",
+      "battery_cell": "No. 396 × 1",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Dual time, 24-hour format"
+      ],
+      "stopwatch": "59 min 59.9 sec; 0.1-second unit; normal/net/first-second place times"
+    },
+    {
+      "module_id": "145",
+      "pages": [
+        4
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day; double display",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 361 × 1",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Dual time, 24-hour format"
+      ],
+      "timer": "Input 1–59 min; 0.1-second unit; normal/net time",
+      "stopwatch": "59 min 59.99 sec; normal/net/first-second place times"
+    },
+    {
+      "module_id": "179",
+      "pages": [
+        5
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day; double display",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 399 × 1",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Pacer: input pacer signals; output elapsed time"
+      ],
+      "timer": "1–59 min; 0.1-second unit; normal/net/lap/first-second place modes as printed"
+    },
+    {
+      "module_id": "208",
+      "pages": [
+        5
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Pacer: stride length and pacer-signal inputs; elapsed time and distance outputs"
+      ],
+      "timer": "Input 1–59 min; 0.01-second unit; normal/net time",
+      "stopwatch": "59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times"
+    },
+    {
+      "module_id": "227",
+      "pages": [
+        5
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day; double display",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Golf game: nine holes, seven-club selection and swing variations described in page introduction",
+        "Hourly signal",
+        "Stroke counter"
+      ],
+      "stopwatch": "11 hr 59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times"
+    },
+    {
+      "module_id": "189",
+      "pages": [
+        6
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2019",
+      "battery_cell": "726R silver-oxide cell with amorphous-silicon solar charging",
+      "battery_runtime": "Approximately 7 years for 726R",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "12/24-hour formats",
+        "Hourly signal",
+        "Dual time"
+      ],
+      "power_supply": "Amorphous-silicon solar cell and rechargeable silver-oxide cell",
+      "timer": "Up to 59 min; 0.1-second unit; net time",
+      "stopwatch": "59 min 59.99 sec; net/lap/first-second place times"
+    },
+    {
+      "module_id": "243",
+      "pages": [
+        6
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, year, month, date, day; double display",
+      "calendar": "Auto-calendar pre-programmed through 2099",
+      "battery_cell": "926R silver-oxide cell with single-crystal-silicon solar charging",
+      "battery_runtime": "Approximately 7 years for 926R",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 2,
+      "power_supply": "Single-crystal-silicon solar cell and rechargeable silver-oxide cell",
+      "catalog_features": [
+        "12/24-hour formats",
+        "8-digit calculator; seven digits for negatives",
+        "Four arithmetic operations, chained/mixed operations, arithmetic constants, automatic accumulation",
+        "Hourly signal",
+        "Dual time"
+      ],
+      "timer": "Up to 99 min; 0.01-second unit; net time",
+      "stopwatch": "23 hr 59 min 59.99 sec; net/lap/first-second place times"
+    },
+    {
+      "module_id": "248",
+      "pages": [
+        7
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "12/24-hour formats",
+        "Hourly/half-hourly time signals"
+      ],
+      "stopwatch": "59 min 59.99 sec; net/lap/first-second place times",
+      "timer": "Input 1 min–11 hr 59 min; second unit; net time; repeat"
+    },
+    {
+      "module_id": "106",
+      "pages": [
+        7
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2320 × 1 (lithium)",
+      "battery_runtime": "Approximately 7 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "12/24-hour formats",
+        "Hourly/half-hourly time signals"
+      ],
+      "stopwatch": "59 min 59.99 sec; net/lap/first-second place times",
+      "timer": "Input 1 min–11 hr 59 min; second unit; net time; repeat"
+    },
+    {
+      "module_id": "181",
+      "pages": [
+        7
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 4,
+      "catalog_features": [
+        "Alarm 1, alarm 2, post-alarm chimes and pre-alarm chimes",
+        "Hourly signal",
+        "Dual time"
+      ],
+      "stopwatch": "59 min 59.99 sec; 0.01-second unit; normal/net/first-second place times",
+      "timer": "Input 1 min–11 hr 59 min; second unit; normal/net time; repeat"
+    },
+    {
+      "module_id": "215",
+      "pages": [
+        8
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2016 × 1 (lithium)",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Thermo-alarm",
+        "Hourly signal",
+        "World times"
+      ],
+      "thermometer": "–10°C to 60°C; source gives 13°F to 140°F. The printed 13°F does not exactly match –10°C; retained as a source discrepancy.",
+      "stopwatch": "59 min 59.99 sec; 0.01-second unit; normal/net/first-second place times"
+    },
+    {
+      "module_id": "280",
+      "pages": [
+        8
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2020 × 1 (lithium)",
+      "battery_runtime": "Approximately 7 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "12/24-hour formats",
+        "Hourly/half-hourly time signals"
+      ],
+      "stopwatch": "59 min 59.99 sec; net/lap/first-second place times",
+      "timer": "Input 1 min–11 hr 59 min; second unit; net time; repeat"
+    },
+    {
+      "module_id": "240",
+      "pages": [
+        8
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-2320 × 1 (lithium)",
+      "battery_runtime": "Approximately 7 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "12/24-hour formats",
+        "Hourly/half-hourly time signals"
+      ],
+      "stopwatch": "59 min 59.99 sec; net/lap/first-second place times",
+      "timer": "Input 1 min–11 hr 59 min; second unit; net time; repeat"
+    },
+    {
+      "module_id": "231",
+      "pages": [
+        9
+      ],
+      "regular_timekeeping": "Time: hour, minute, second, am/pm, day; calendar: year, month, date, day",
+      "calendar": "Auto-calendar pre-programmed through 2099",
+      "battery_cell": "No. 391 × 1",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "8-digit calculator",
+        "Four arithmetic operations, chain/mixed operations and arithmetic constants",
+        "Overflow E indicator locks calculator mode",
+        "Hourly signal",
+        "Page introduction associates 6.7 mm thinness with module 231; not an exact-case measurement for each watch"
+      ],
+      "stopwatch": "23 hr 59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times"
+    },
+    {
+      "module_id": "197",
+      "pages": [
+        9
+      ],
+      "regular_timekeeping": "Time: hour, minute, second, am/pm, day; calendar: year, month, date, day",
+      "calendar": "Auto-calendar pre-programmed through 2099",
+      "battery_cell": "BR-2020 × 1 (lithium)",
+      "battery_runtime": "Approximately 15 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Scientific calculator: eight-digit mantissa, optionally two-digit exponent",
+        "Four arithmetic operations, constants, powers/roots, parentheses, memory accumulation, percentages",
+        "Sexagesimal/decimal conversion; trigonometric/inverse functions; common/natural logarithms; exponential functions",
+        "Squares/square roots, sign change, register exchange, pi entry, scientific notation, true algebraic system",
+        "Three constant memories",
+        "Metric conversion",
+        "Hourly time function as printed"
+      ],
+      "stopwatch": "23 hr 59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times"
+    },
+    {
+      "module_id": "119",
+      "pages": [
+        10
+      ],
+      "regular_timekeeping": "Time: hour, minute, second, am/pm; calendar: month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-1616 × 1 (lithium)",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 3,
+      "catalog_features": [
+        "Touch-sensor calculator, eight digits",
+        "Arithmetic, chains/mixed operations, constants; overflow E indicator locks calculator mode",
+        "12/24-hour display",
+        "Hourly signal",
+        "Dual time",
+        "Feature-strip prose mentions powers and reciprocal calculation"
+      ],
+      "stopwatch": "23 hr 59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times",
+      "timer": "Table input: 11 hr 59 min; one-second unit; normal/net time. Feature strip describes maximum 12 hours; both representations retained."
+    },
+    {
+      "module_id": "120",
+      "pages": [
+        10
+      ],
+      "regular_timekeeping": "Time: hour, minute, second, am/pm; calendar: month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-1616 × 1 (lithium)",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 3,
+      "catalog_features": [
+        "Touch-sensor calculator, eight digits",
+        "Arithmetic, chains/mixed operations, constants; overflow E indicator locks calculator mode",
+        "12/24-hour display",
+        "Hourly signal",
+        "Dual time",
+        "Feature-strip prose mentions powers and reciprocal calculation"
+      ],
+      "stopwatch": "23 hr 59 min 59.99 sec; 0.01-second unit; normal/net/lap/first-second place times",
+      "timer": "Table input: 11 hr 59 min; one-second unit; normal/net time. Feature strip describes maximum 12 hours; both representations retained."
+    },
+    {
+      "module_id": "305",
+      "pages": [
+        12
+      ],
+      "regular_timekeeping": "Analog: hour, minute, second; digital: hour, minute, second, am/pm, month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 396",
+      "battery_runtime": "Approximately 12 months",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal",
+        "Dual time"
+      ],
+      "stopwatch": "59 min 59.9 sec; 0.1-second unit; normal/net time"
+    },
+    {
+      "module_id": "192",
+      "pages": [
+        13,
+        15
+      ],
+      "regular_timekeeping": "Hour, minute; calendar: month, date",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-1225 × 1 (lithium)",
+      "battery_runtime": "Approximately 5 years",
+      "accuracy_seconds_per_month": 30,
+      "catalog_features": [
+        "Seconds display"
+      ]
+    },
+    {
+      "module_id": "229",
+      "pages": [
+        14
+      ],
+      "regular_timekeeping": "Hour, minute, 10-second, seconds by flash, am/pm, month, date, day; double display",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 391 × 1",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 30,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal"
+      ]
+    },
+    {
+      "module_id": "157",
+      "pages": [
+        15
+      ],
+      "regular_timekeeping": "Hour, minute; calendar: month, date",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "BR-1225 × 1 (lithium)",
+      "battery_runtime": "Approximately 7 years",
+      "accuracy_seconds_per_month": 15,
+      "catalog_features": [
+        "Seconds display"
+      ]
+    },
+    {
+      "module_id": "210",
+      "pages": [
+        16,
+        17
+      ],
+      "regular_timekeeping": "Hour, minute; calendar: month, date",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 379 × 1",
+      "battery_runtime": "Approximately 12 months",
+      "accuracy_seconds_per_month": 15,
+      "catalog_features": [
+        "Seconds display"
+      ]
+    },
+    {
+      "module_id": "156",
+      "pages": [
+        16
+      ],
+      "regular_timekeeping": "Hour, minute, second, am/pm; calendar: month, date, day",
+      "calendar": "Auto-calendar set at 28 days for February",
+      "battery_cell": "No. 366 × 1",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "alarm_count": 1,
+      "catalog_features": [
+        "Hourly signal"
+      ],
+      "timer": "Input 1–60 min; one-second unit; normal/net time"
+    },
+    {
+      "module_id": "318",
+      "pages": [
+        18,
+        19
+      ],
+      "regular_timekeeping": "Hour hand and minute hand",
+      "calendar": "Not listed",
+      "battery_cell": "No. 321 × 1",
+      "battery_runtime": "Approximately 2 years",
+      "accuracy_seconds_per_month": 15,
+      "catalog_features": [
+        "No additional functions listed"
+      ]
+    }
+  ],
+  "clocks": [
+    {
+      "model_id": "MA-2",
+      "category": "clock",
+      "page": 21,
+      "image": "IMG_3251.JPG",
+      "facts": {
+        "display": "Hour, minute, second, am/pm",
+        "time_system": "12-hour",
+        "alarm_seconds": 60,
+        "melody": "Mozart Symphony No. 40 in G minor, K.550",
+        "snooze": true,
+        "hourly_signal": true,
+        "accuracy": "±3 seconds/day",
+        "battery": "UM-3 or SUM-3 × 3",
+        "battery_runtime": "Approximately 12 months on UM-3; 15 months on SUM-3",
+        "flip_out_stand": false,
+        "dimensions_mm_as_printed": {
+          "height": 43,
+          "width": 115,
+          "depth": 76
+        },
+        "dimensions_imperial_as_printed": "1¾ H × 4½ W × 3 D inches",
+        "weight_g": 168,
+        "weight_oz": 5.9,
+        "alternate_color": "Ivory"
+      },
+      "scope": "Printed metric and imperial measurements retained independently; source conversions/rounding are not silently corrected. Original table uses clock H/W/D, not watch L/W/thickness."
+    },
+    {
+      "model_id": "MA-10",
+      "category": "clock",
+      "page": 21,
+      "image": "IMG_3251.JPG",
+      "facts": {
+        "display": "Hour, minute, am/pm",
+        "time_system": "12-hour",
+        "alarm_seconds": 60,
+        "melody": "Unterländers Heimweh (Volkslied)",
+        "snooze": true,
+        "hourly_signal": true,
+        "accuracy": "±3 seconds/day",
+        "battery": "UM-3 or SUM-3 × 2",
+        "battery_runtime": "Approximately 12 months on UM-3; 22 months on SUM-3",
+        "flip_out_stand": false,
+        "dimensions_mm_as_printed": {
+          "height": 57,
+          "width": 117,
+          "depth": 46
+        },
+        "dimensions_imperial_as_printed": "2¼ H × 4⅝ W × 1¾ D inches",
+        "weight_g": 135,
+        "weight_oz": 4.8,
+        "alternate_color": "Ivory"
+      },
+      "scope": "Printed metric and imperial measurements retained independently; source conversions/rounding are not silently corrected. Original table uses clock H/W/D, not watch L/W/thickness."
+    },
+    {
+      "model_id": "DQ-500",
+      "category": "clock",
+      "page": 21,
+      "image": "IMG_3251.JPG",
+      "facts": {
+        "display": "Hour, minute, am/pm",
+        "time_system": "12-hour",
+        "alarm_seconds": 60,
+        "melody": false,
+        "snooze": true,
+        "hourly_signal": false,
+        "accuracy": "±3 seconds/day",
+        "battery": "UM-3 or SUM-3 × 2",
+        "battery_runtime": "Approximately 12 months on UM-3; 15 months on SUM-3",
+        "flip_out_stand": false,
+        "dimensions_mm_as_printed": {
+          "height": 70,
+          "width": 76,
+          "depth": 59
+        },
+        "dimensions_imperial_as_printed": "2¾ H × 3 W × 2⅓ D inches",
+        "weight_g": 100,
+        "weight_oz": 3.7,
+        "alternate_color": "Ivory"
+      },
+      "scope": "Printed metric and imperial measurements retained independently; source conversions/rounding are not silently corrected. Original table uses clock H/W/D, not watch L/W/thickness."
+    },
+    {
+      "model_id": "PQ-30",
+      "category": "clock",
+      "page": 21,
+      "image": "IMG_3251.JPG",
+      "facts": {
+        "display": "Hour, minute, second, am/pm",
+        "time_system": "12-hour",
+        "alarm_seconds": 60,
+        "melody": "Mozart Symphony No. 40 in G minor, K.550",
+        "snooze": true,
+        "hourly_signal": true,
+        "accuracy": "±3 seconds/day",
+        "battery": "CR-2025C × 1",
+        "battery_runtime": "Approximately 12 months",
+        "flip_out_stand": true,
+        "dimensions_mm_as_printed": {
+          "height": 9.3,
+          "width": 92.6,
+          "depth": 42.6
+        },
+        "dimensions_imperial_as_printed": "⅜ H × 3⅝ W × 1⅜ D inches",
+        "weight_g": 42,
+        "weight_oz": 1.5,
+        "alternate_color": "Gold"
+      },
+      "scope": "Printed metric and imperial measurements retained independently; source conversions/rounding are not silently corrected. Original table uses clock H/W/D, not watch L/W/thickness."
+    },
+    {
+      "model_id": "TQ-100",
+      "category": "clock",
+      "page": 21,
+      "image": "IMG_3251.JPG",
+      "facts": {
+        "display": "Hour, minute and second hands",
+        "time_system": "12-hour",
+        "alarm_seconds": 60,
+        "melody": false,
+        "snooze": false,
+        "hourly_signal": false,
+        "accuracy": "±20 seconds/month",
+        "battery": "UM-3 or SUM-3 × 1",
+        "battery_runtime": "Approximately 12 months on UM-3; 15 months on SUM-3",
+        "flip_out_stand": false,
+        "dimensions_mm_as_printed": {
+          "height": 56,
+          "width": 56,
+          "depth": 23
+        },
+        "dimensions_imperial_as_printed": "2⅙ H × 2⅙ W × ⅞ D inches",
+        "weight_g": 70,
+        "weight_oz": 2.7,
+        "alternate_color": "Black or ivory"
+      },
+      "scope": "Printed metric and imperial measurements retained independently; source conversions/rounding are not silently corrected. Original table uses clock H/W/D, not watch L/W/thickness."
+    }
+  ],
+  "service_reference": {
+    "page": 22,
+    "image": "IMG_3252.JPG",
+    "scope": "General historical service reference, not a model-specific instruction or universal reset method.",
+    "caseback_types": [
+      "Screw-in",
+      "Snap-on A",
+      "Snap-on B"
+    ],
+    "summary": [
+      "Support watch on a soft surface before opening.",
+      "Screw-in back: use an adjustable opener counter-clockwise; snap-on versions use the illustrated appropriate opening tool/recess.",
+      "Release the battery holder, replace the cell, and refit the holder. Avoid touching the negative contact or bridging contacts with metal tweezers.",
+      "Where the illustrated module specifies it, connect AC to battery positive for about two seconds; some models require pressing the light button to activate the display.",
+      "Refit the screw-in or snap-on back using the appropriate tool or gentle press."
+    ],
+    "not_inferred": [
+      "No individual module compatibility from illustrative service photographs",
+      "No factory-code meaning from illustrative caseback text",
+      "No battery substitutes",
+      "No present-day water-resistance certification after service"
+    ]
+  },
+  "discrepancies": [
+    {
+      "subject": "Catalog year",
+      "detail": "1983 is supplied attribution; CT0583E is preserved without decoding."
+    },
+    {
+      "subject": "Module 160 stopwatch modes",
+      "detail": "Page 1 lists net/lap/first-second place modes; page 3 lists normal/net/first-second place modes. Preserve both source representations."
+    },
+    {
+      "subject": "Module 215 temperature",
+      "detail": "Printed –10°C / 13°F lower endpoint is not an exact conversion. No correction silently substituted."
+    },
+    {
+      "subject": "Modules 119/120 countdown range",
+      "detail": "Feature strip says maximum 12 hours; technical table says 11 hr 59 min."
+    },
+    {
+      "subject": "F-11 packaging calendar",
+      "detail": "Packaging says 50-month calendar; module 155 table says auto-calendar set at 28 days for February. Both descriptions preserved."
+    },
+    {
+      "subject": "Material captions",
+      "detail": "Plain Resin/Stainless steel/Gold plated captions do not separately establish band material or alloy. Explicit case wording is retained verbatim; no physical fields propagated through modules."
+    },
+    {
+      "subject": "Clocks conversions",
+      "detail": "Metric and imperial dimension/weight rows are retained as separate printed claims; some are not precise conversions."
+    }
+  ],
+  "application_plan": {
+    "model:F-85": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:F-11": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:F-600": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:B816": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:B816G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:B821": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:B821G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A659": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A657G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A680": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A680G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A661": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:A661G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:SA-50": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "catalog_description"
+    ],
+    "model:SA-50G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "catalog_description"
+    ],
+    "model:SA-53": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "catalog_description"
+    ],
+    "model:SA-53G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "catalog_description"
+    ],
+    "model:J-30W": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:J-50": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:GG-9": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:W-27": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:SA-60G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:SA-60": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:CL-30": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:CL-301": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:W-24": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:W-25": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:W-35": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:W-400": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:W-750C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:TS-1000": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:TS-2000": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:DW-1000C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:DW-200": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:DW-5000C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m",
+      "series"
+    ],
+    "model:CS-83": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:CS-831": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:CFX-20": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:CFX-200": [
+      "catalog_1983_evidence",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:TC-50": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:TC-500": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:AQ-30W": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:AQ-350W": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:AQ-320": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "catalog_description"
+    ],
+    "model:AQ-320G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:AQ-500": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:L-5": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:L-51G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LB319": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LB319G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LA-9": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LA556": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LA556G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LW-7": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LW-6": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LW-304C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LW-101C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LW-601C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LW-601": [
+      "catalog_1983_evidence",
+      "reference_scope",
+      "catalog_source_references",
+      "water_resistance_m"
+    ],
+    "model:LF140GL": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LF140G": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LF140": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-700L-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-700GL-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710L-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-700L-7B": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-700GL-9A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710G-9A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710G-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710GL-9A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710GL-1A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-710GL-7B": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-720G-7C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-720GL-7A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-720GL-5A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-720G-9A": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "model:LQ-720-7C": [
+      "catalog_1983_evidence",
+      "module_id",
+      "catalog_material_finish",
+      "reference_scope",
+      "catalog_source_references"
+    ],
+    "module:160": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:244": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "module:155": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "module:406": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "stopwatch"
+    ],
+    "module:203": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:237": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:145": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:179": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "timer"
+    ],
+    "module:208": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:227": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:189": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer",
+      "power_supply"
+    ],
+    "module:243": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer",
+      "power_supply"
+    ],
+    "module:248": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:106": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:181": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:215": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "thermometer"
+    ],
+    "module:280": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:240": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:231": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:197": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:119": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:120": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch",
+      "timer"
+    ],
+    "module:305": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "stopwatch"
+    ],
+    "module:192": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "module:229": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count"
+    ],
+    "module:157": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "module:210": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "module:156": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar",
+      "alarm_count",
+      "timer"
+    ],
+    "module:318": [
+      "catalog_1983_evidence",
+      "accuracy_seconds_per_month",
+      "battery_cell",
+      "battery_runtime",
+      "calendar"
+    ],
+    "model:MA-2": [
+      "catalog_1983_evidence",
+      "series",
+      "reference_scope",
+      "catalog_description",
+      "catalog_source_references"
+    ],
+    "model:MA-10": [
+      "catalog_1983_evidence",
+      "series",
+      "reference_scope",
+      "catalog_description",
+      "catalog_source_references"
+    ],
+    "model:DQ-500": [
+      "catalog_1983_evidence",
+      "series",
+      "reference_scope",
+      "catalog_description",
+      "catalog_source_references"
+    ],
+    "model:PQ-30": [
+      "catalog_1983_evidence",
+      "series",
+      "reference_scope",
+      "catalog_description",
+      "catalog_source_references"
+    ],
+    "model:TQ-100": [
+      "catalog_1983_evidence",
+      "series",
+      "reference_scope",
+      "catalog_description",
+      "catalog_source_references"
+    ]
+  },
+  "withheld_scalar_claims": [
+    {
+      "kind": "model",
+      "identifier": "DW-1000C",
+      "field": "catalog_material_finish",
+      "existing": "Resin",
+      "incoming": "Stainless steel case",
+      "reason": "Keep earlier main value; preserve new source claim separately without selecting either as verified"
+    },
+    {
+      "kind": "model",
+      "identifier": "CFX-200",
+      "field": "module_id",
+      "existing": "437",
+      "incoming": "197",
+      "reason": "Keep earlier main value; preserve new source claim separately without selecting either as verified"
+    },
+    {
+      "kind": "model",
+      "identifier": "CFX-200",
+      "field": "catalog_material_finish",
+      "existing": "Resin",
+      "incoming": "Chrome plated case",
+      "reason": "Keep earlier main value; preserve new source claim separately without selecting either as verified"
+    },
+    {
+      "kind": "model",
+      "identifier": "LW-601",
+      "field": "module_id",
+      "existing": "126",
+      "incoming": "156",
+      "reason": "Keep earlier main value; preserve new source claim separately without selecting either as verified"
+    },
+    {
+      "kind": "model",
+      "identifier": "LW-601",
+      "field": "catalog_material_finish",
+      "existing": "Stainless steel case",
+      "incoming": "Stainless steel",
+      "reason": "Keep earlier main value; preserve new source claim separately without selecting either as verified"
+    }
+  ]
+}

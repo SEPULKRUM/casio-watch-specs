@@ -17,7 +17,10 @@ def convert(notes, existing_model_ids=(), existing_module_ids=()):
     seen = set()
     records = []
     for document in notes['documents']:
-        model = specs.identity(document['displayed_model'])
+        displayed = specs.identity(document['displayed_model'])
+        model = specs.identity(document.get('catalog_model', displayed))
+        if fingerprint(model) != fingerprint(displayed):
+            raise ValueError('Explicit catalog model may change formatting only, never a variant or region')
         if (fingerprint(model) in seen or
                 (fingerprint(model) in existing and existing[fingerprint(model)] != model)):
             raise ValueError('Duplicate or punctuation-variant model requires explicit reconciliation')
@@ -45,6 +48,11 @@ def convert(notes, existing_model_ids=(), existing_module_ids=()):
                   'accessed': notes['accessed'], 'permission': 'official_public_reference',
                   'evidence_type': 'historical_technical_fact',
                   'research_sha256': specs.digest(document)}
+        if 'catalog_model' in document:
+            source['displayed_model'] = displayed
+            source['catalog_model'] = model
+        if document.get('qualifications'):
+            source['scope_note'] = ' '.join(document['qualifications'])
         specs.validate_archive_source(source)
         if {'module_id', 'module_candidates'} & document['model_specs'].keys():
             raise ValueError('Module association must use its explicit evidence field')

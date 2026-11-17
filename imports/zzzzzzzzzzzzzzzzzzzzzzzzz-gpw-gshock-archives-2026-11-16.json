@@ -1,0 +1,838 @@
+[
+  {
+    "kind": "model",
+    "id": "GPW-2000TFB-1A",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: series = G-SHOCK"
+          }
+        ]
+      },
+      "dimensions_mm": {
+        "value": {
+          "length": 66.0,
+          "width": 57.1,
+          "thickness": 18.2
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: dimensions_mm = {'length': 66.0, 'width': 57.1, 'thickness': 18.2}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 120,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: weight_g = 120"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: water_resistance_m = 200"
+          }
+        ]
+      },
+      "water_resistance_rating": {
+        "value": "200-meter water resistance",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: water_resistance_rating = 200-meter water resistance"
+          }
+        ]
+      },
+      "color": {
+        "value": "Black, with red band reverse and gold accents",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: color = Black, with red band reverse and gold accents"
+          }
+        ]
+      },
+      "catalog_description": {
+        "value": "35th-anniversary Gold Tornado edition; engraved anniversary case back, star-emblem band keeper and special gold-accented packaging.",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GPW-2000TFB-1A: catalog_description = 35th-anniversary Gold Tornado edition; engraved anniversary case back, star-emblem band keeper and special gold-accented packaging."
+          }
+        ]
+      },
+      "module_id": {
+        "value": "5502",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "The GPW2000TFB-1A product page explicitly states Module: 5502."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "5502",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "accuracy_condition": {
+        "value": "With no signal calibration",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: accuracy_condition = With no signal calibration"
+          }
+        ]
+      },
+      "power_supply": {
+        "value": "Tough Solar rechargeable power",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: power_supply = Tough Solar rechargeable power"
+          }
+        ]
+      },
+      "radio_reception": {
+        "value": "Multi-Band atomic timekeeping: US, UK, Germany, Japan and China",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: radio_reception = Multi-Band atomic timekeeping: US, UK, Germany, Japan and China"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 39,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: world_time_zones = 39"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 28,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: world_time_cities = 28"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 1,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: alarm_count = 1"
+          }
+        ]
+      },
+      "stopwatch": {
+        "value": {
+          "resolution_seconds": 1,
+          "max_display_seconds": 86399
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: stopwatch = {'resolution_seconds': 1, 'max_display_seconds': 86399}"
+          }
+        ]
+      },
+      "timer": {
+        "value": {
+          "resolution_seconds": 1,
+          "max_seconds": 86400
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: timer = {'resolution_seconds': 1, 'max_seconds': 86400}"
+          }
+        ]
+      },
+      "illumination": {
+        "value": "LED Super Illuminator",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: illumination = LED Super Illuminator"
+          }
+        ]
+      },
+      "calendar": {
+        "value": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: calendar = {'type': 'auto', 'end_year': 2099}"
+          }
+        ]
+      },
+      "battery_runtime": {
+        "value": {
+          "normal_use_months": 6,
+          "power_save_months": 23
+        },
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: battery_runtime = {'normal_use_months': 6, 'power_save_months': 23}"
+          }
+        ]
+      },
+      "catalog_features": {
+        "value": [
+          "Bluetooth mobile link",
+          "GPS reception for time or time/position",
+          "Tough Movement and auto hand-position correction",
+          "Smart Access quick-lock crown",
+          "Airplane mode",
+          "Day and date display"
+        ],
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+            "archive_timestamp": "20171210224041",
+            "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "59630ccf2cf2397cb612f808aa1dc964f5c861022acacd66861c7705c351f0b3",
+            "displayed_model": "GPW2000TFB-1A",
+            "catalog_model": "GPW-2000TFB-1A",
+            "scope_note": "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements. Historical Bluetooth and app functions do not establish present-day service availability.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "5502: catalog_features = ['Bluetooth mobile link', 'GPS reception for time or time/position', 'Tough Movement and auto hand-position correction', 'Smart Access quick-lock crown', 'Airplane mode', 'Day and date display']"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GWF-D1035B-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GWF-D1035B-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GWF-D1035B-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3445",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "The GWFD1035B-1 product page explicitly states Module: 3445."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3445",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3445: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 31,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3445: world_time_zones = 31"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3445: world_time_cities = 48"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3445: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+            "archive_timestamp": "20171210222511",
+            "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "74472560d6b74373f90efb83b94d206faa3d0707f8e8f8b8053eb44549f13128",
+            "displayed_model": "GWFD1035B-1",
+            "catalog_model": "GWF-D1035B-1",
+            "scope_note": "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3445: snooze_alarm = True"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "GW-M5610-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GW-M5610-1: series = G-SHOCK"
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Resin",
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "GW-M5610-1: band_material = Resin"
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3159",
+        "uncertainty": "Explicit historical product-page module reference; other production revisions unresolved",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "The GWM5610-1 product page explicitly states Module: 3159."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3159",
+    "specs": {
+      "accuracy_seconds_per_month": {
+        "value": 15,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3159: accuracy_seconds_per_month = 15"
+          }
+        ]
+      },
+      "world_time_zones": {
+        "value": 29,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3159: world_time_zones = 29"
+          }
+        ]
+      },
+      "world_time_cities": {
+        "value": 48,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3159: world_time_cities = 48"
+          }
+        ]
+      },
+      "alarm_count": {
+        "value": 5,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3159: alarm_count = 5"
+          }
+        ]
+      },
+      "snooze_alarm": {
+        "value": true,
+        "uncertainty": "Historical archived official page; capture-specific transcription pending independent review",
+        "sources": [
+          {
+            "url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+            "archive_timestamp": "20160715234622",
+            "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+            "accessed": "2026-11-16",
+            "permission": "official_public_reference",
+            "evidence_type": "historical_technical_fact",
+            "research_sha256": "b189b7349f924fb9255ce3290865aaa64d154b9391e1e2002f71f87f955c1cb4",
+            "displayed_model": "GWM5610-1",
+            "catalog_model": "GW-M5610-1",
+            "scope_note": "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row.",
+            "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+            "evidence": "3159: snooze_alarm = True"
+          }
+        ]
+      }
+    }
+  }
+]

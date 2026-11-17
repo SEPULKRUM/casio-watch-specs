@@ -20,7 +20,7 @@ OUTPUTS = {'data/search-index.json', 'data/reconciliation-report.json', 'data/un
 IDENTITY_KEYS = {'model', 'model_id', 'model_number', 'model_code', 'watch_model', 'watch_id', 'listed_model', 'canonical_model', 'displayed_model', 'displayed_sku', 'verified_exact_model', 'catalog_model', 'candidate_id', 'comparison_model', 'sku', 'productName', 'productDisplayName', 'identifier', 'example_model', 'reference_model'}
 LIST_KEYS = {'models', 'model_strings', 'candidate_model_strings', 'example_models', 'examples', 'catalog_models', 'aliases', 'supplied_aliases', 'added_model_series_strings', 'imported', 'unmatched', 'related_user_mappings', 'proposed_aliases', 'market_aliases', 'related_models', 'variants'}
 UNCERTAIN_KEYS = {'reading', 'raw_label', 'model_as_read', 'model_string', 'cached_search_reading', 'opened_article_reading'}
-TECHNICAL_FIELDS = {'dimensions_mm','weight_g','water_resistance_rating','water_resistance_m','water_resistance_bar','case_material','band_material','glass','color','case_finish','promotional_thickness_mm','technical_table_thickness_mm','display_polarity','release_date'}
+TECHNICAL_FIELDS = {'catalog_material_finish', 'dimensions_mm','weight_g','water_resistance_rating','water_resistance_m','water_resistance_bar','case_material','band_material','glass','color','case_finish','promotional_thickness_mm','technical_table_thickness_mm','display_polarity','release_date'}
 BATTERY = re.compile(r'^(?:CR|SR|LR|BR|CTL|ML|QW)-?\d{3,4}(?:SW|W)?$')
 
 

@@ -1,0 +1,135 @@
+{
+  "type": "archived_official_products",
+  "accessed": "2026-11-16",
+  "note": "Selected technical facts from dated official Casio pages. Full HTML, advertising and prices are not republished. Exact page labels, canonical formatting and source errors are retained. No specifications are copied between variants.",
+  "documents": [
+    {
+      "displayed_model": "GPW2000TFB-1A",
+      "catalog_model": "GPW-2000TFB-1A",
+      "archive_url": "https://web.archive.org/web/20171210224041/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+      "original_url": "http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+      "archive_timestamp": "20171210224041",
+      "snapshot_sha256": "052c2d6fa006cd8ebea6bb3cff796f1e50d9521494838ae002870c45854b8817",
+      "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+      "module_id": "5502",
+      "module_evidence": "The GPW2000TFB-1A product page explicitly states Module: 5502.",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "dimensions_mm": {
+          "length": 66.0,
+          "width": 57.1,
+          "thickness": 18.2
+        },
+        "weight_g": 120,
+        "water_resistance_m": 200,
+        "water_resistance_rating": "200-meter water resistance",
+        "color": "Black, with red band reverse and gold accents",
+        "catalog_description": "35th-anniversary Gold Tornado edition; engraved anniversary case back, star-emblem band keeper and special gold-accented packaging."
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "accuracy_condition": "With no signal calibration",
+        "power_supply": "Tough Solar rechargeable power",
+        "radio_reception": "Multi-Band atomic timekeeping: US, UK, Germany, Japan and China",
+        "world_time_zones": 39,
+        "world_time_cities": 28,
+        "alarm_count": 1,
+        "stopwatch": {
+          "resolution_seconds": 1,
+          "max_display_seconds": 86399
+        },
+        "timer": {
+          "resolution_seconds": 1,
+          "max_seconds": 86400
+        },
+        "illumination": "LED Super Illuminator",
+        "calendar": {
+          "type": "auto",
+          "end_year": 2099
+        },
+        "battery_runtime": {
+          "normal_use_months": 6,
+          "power_save_months": 23
+        },
+        "catalog_features": [
+          "Bluetooth mobile link",
+          "GPS reception for time or time/position",
+          "Tough Movement and auto hand-position correction",
+          "Smart Access quick-lock crown",
+          "Airplane mode",
+          "Day and date display"
+        ]
+      },
+      "qualifications": [
+        "Case-size row is labeled GPW-2000 on this exact edition page; values remain a capture-specific product-page claim, not physical measurements.",
+        "Historical Bluetooth and app functions do not establish present-day service availability."
+      ]
+    },
+    {
+      "displayed_model": "GWFD1035B-1",
+      "catalog_model": "GWF-D1035B-1",
+      "archive_url": "https://web.archive.org/web/20171210222511/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+      "original_url": "http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+      "archive_timestamp": "20171210222511",
+      "snapshot_sha256": "07e53906e980364b8658ab70dcbbebc6a2239e475bb75c6f8a20224b5b4043b7",
+      "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+      "module_id": "3445",
+      "module_evidence": "The GWFD1035B-1 product page explicitly states Module: 3445.",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "water_resistance_m": 200
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "world_time_zones": 31,
+        "world_time_cities": 48,
+        "alarm_count": 5,
+        "snooze_alarm": true
+      },
+      "qualifications": [
+        "The archived size row is labeled GWFD1000TFB, differing from the product title. Its 59.2 x 53.3 x 18.0 mm claim is retained in this research note only; no dimensions are imported from that mislabeled row."
+      ]
+    },
+    {
+      "displayed_model": "GWM5610-1",
+      "catalog_model": "GW-M5610-1",
+      "archive_url": "https://web.archive.org/web/20160715234622/http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+      "original_url": "http://www.casio.com/products/archive/Watches/G-Shock/GWM5610-1",
+      "archive_timestamp": "20160715234622",
+      "snapshot_sha256": "01c3f9506e2fbfa84f93968614023367e4ec5961fdfca09bc853fc16370894f5",
+      "locator": "At a glance / Technical Specs / Specifications / Module and case-size rows",
+      "module_id": "3159",
+      "module_evidence": "The GWM5610-1 product page explicitly states Module: 3159.",
+      "model_specs": {
+        "series": "G-SHOCK",
+        "band_material": "Resin"
+      },
+      "module_specs": {
+        "accuracy_seconds_per_month": 15,
+        "world_time_zones": 29,
+        "world_time_cities": 48,
+        "alarm_count": 5,
+        "snooze_alarm": true
+      },
+      "qualifications": [
+        "The archived size row labels a different model, GWM5630A. Dimensions 46.7 x 43.2 x 12.7 mm and weight 51.7 g are retained as source claims in this note only; no measurements are imported from that row."
+      ]
+    }
+  ],
+  "not_imported_claims": [
+    {
+      "model": "GW-M5610-1",
+      "record_kind": "models",
+      "field": "color",
+      "existing": "ブラック",
+      "archived_claim": "Black",
+      "reason": "Different value or representation retained for review; not allowed to overwrite an existing fact."
+    },
+    {
+      "model": "GW-M5610-1",
+      "field": "water_resistance_m",
+      "archived_claim": 200,
+      "reason": "Existing equivalent water-resistance rating is already source-checked; retain the archive claim here without introducing a redundant pending display field."
+    }
+  ]
+}

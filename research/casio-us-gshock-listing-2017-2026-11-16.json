@@ -1,0 +1,1193 @@
+{
+  "model_id": null,
+  "scope": "Model-name discovery from an archived Casio category page. These are exact printed product identifiers; many are formatting aliases of models already known, not newly verified physical variants. No technical specifications are inferred from the category listing.",
+  "original_url": "http://www.casio.com/products/watches/g-shock",
+  "archive_url": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock",
+  "archive_timestamp": "20171208233205",
+  "accessed": "2026-11-16",
+  "snapshot_sha256": "f0ce0e960428eb1812a4ab3ec938accdb0a9af12f995ac5c83d61108f537d660",
+  "models": [
+    {
+      "listed_model": "GWFD1035B-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwfd1035b-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTB100TFB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gstb100tfb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA800SC-6A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga800sc-6a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA800SC-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga800sc-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA800SC-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga800sc-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100GBX-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100gbx-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600PGW-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600pgw-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600PGB-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600pgb-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW2000TFB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw2000tfb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100GBX-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100gbx-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTB100D-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gstb100d-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GLS5600CL-3",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gls5600cl-3",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GLS5600CL-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gls5600cl-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GLS5600CL-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gls5600cl-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GLS5600CL-5",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gls5600cl-5",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA835A-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga835a-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA135A-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga135a-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GW5035A-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gw5035a-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS310-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts310-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS310-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts310-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS300G-1A1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts300g-1a1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS300G-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts300g-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GG1035A-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gg1035a-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700SKZ-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700skz-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA735A-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga735a-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTB100D-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gstb100d-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTB100X-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gstb100x-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTB100-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gstb100-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA800-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga800-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA800-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga800-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700EH-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700eh-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MRGG2000HT-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mrgg2000ht-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700SE-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700se-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAW100B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gaw100b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700SE-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700se-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700SE-1A2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700se-1a2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAS100-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gas100-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAS100B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gas100b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAS100G-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gas100g-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700UC-5A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700uc-5a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700UC-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700uc-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700UC-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700uc-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600DE-2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600de-2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600HUF-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600huf-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MTGS1000D-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mtgs1000d-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWNQ1000K-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwnq1000k-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS300G-1A2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts300g-1a2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS300G-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts300g-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS310D-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts310d-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST200RBG-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst200rbg-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100SC-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100sc-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW2000-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw2000-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100BY-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100by-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110BY-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110by-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWX5600WB-5",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwx5600wb-5",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAX100MSA-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gax100msa-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GAX100MSB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gax100msb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWX5600WA-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwx5600wa-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100ST-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100st-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW2000-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw2000-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600LCU-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600lcu-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600BB-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600bb-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600CU-9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600cu-9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600CU-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600cu-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110WG-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110wg-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G100CU-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g100cu-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110DB-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110db-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWM500F-2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwm500f-2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA710-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga710-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LN-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110ln-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS130L-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts130l-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA710GB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga710gb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS130BD-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts130bd-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA710-1A2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga710-1a2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS120L-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts120l-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS120L-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts120l-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LN-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110ln-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LN-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110ln-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LN-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110ln-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MRGG1000D-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mrgg1000d-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100RG-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100rg-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GN1000RG-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gn1000rg-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GG1000RG-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gg1000rg-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA500K-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga500k-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MRGG1000HG-9A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mrgg1000hg-9a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWNQ1000-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwnq1000-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210B-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210b-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210GD-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210gd-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210M-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210m-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210M-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210m-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100KH-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100kh-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110HR-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110hr-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600HR-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600hr-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA700-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga700-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LPA-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110lpa-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LP-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110lp-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LP-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110lp-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110LPA-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110lpa-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GX56BB-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gx56bb-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS110BD-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts110bd-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS100G-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts100g-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GN1000GB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gn1000gb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD350-1C",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd350-1c",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100L-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100l-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100L-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100l-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100L-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100l-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100L-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100l-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100L-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100l-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MTGG1000AR-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mtgg1000ar-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWFD1000B-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwfd1000b-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MRGG1000DC-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mrgg1000dc-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GDX6900FTR-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gdx6900ftr-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GG1000-1A5",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gg1000-1a5",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GG1000-1A3",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gg1000-1a3",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "AWGM100SWB-7A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/awgm100swb-7a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600WB-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600wb-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100MRB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100mrb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GLX5600FAT3-2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/glx5600fat3-2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW1000RD-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw1000rd-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA400GB-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga400gb-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST200CP-2A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst200cp-2a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST200CP-9A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst200cp-9a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210B-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210b-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GST210B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gst210b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100MM-3A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100mm-3a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100MM-5A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100mm-5a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100-2B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100-2b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100-9G",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100-9g",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100CB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100cb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW1000GB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw1000gb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600M-4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600m-4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GG1000GB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gg1000gb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110BW-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110bw-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100BW-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100bw-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWG1000-1A3",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwg1000-1a3",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS100G-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts100g-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS110-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts110-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GN1000C-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gn1000c-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GN1000B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gn1000b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS110D-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts110d-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS110BD-1A2",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts110bd-1a2",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GSTS100D-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gsts100d-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MTGS1000V-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mtgs1000v-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GMDS6900SP-7",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gmds6900sp-7",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1100-1A3",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1100-1a3",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWN1000E-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwn1000e-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWM500F-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwm500f-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GR8900-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gr8900-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "AWGM100A-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/awgm100a-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD120MB-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd120mb-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110MB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110mb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100MB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100mb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MRGG1000B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mrgg1000b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW1000FC-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw1000fc-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWF1000-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwf1000-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GPW1000-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gpw1000-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1000-2B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1000-2b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD400-9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd400-9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD400-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd400-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G100-9CM",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g100-9cm",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWN1000B-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwn1000b-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWA1100R-4A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwa1100r-4a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWM500BA-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwm500ba-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100CF-1A9",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100cf-1a9",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100CF-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100cf-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD120CM-5",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd120cm-5",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110TS-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110ts-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MTGS1000BD-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mtgs1000bd-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GW9400-3",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gw9400-3",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GW9400-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gw9400-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100C-8A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100c-8a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD350-8",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd350-8",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA1000-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga1000-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWM500A-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwm500a-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GWM530A-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gwm530a-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "MTGM900DA-8",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/mtgm900da-8",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110RG-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110rg-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "AWGM100B-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/awgm100b-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "AWGM100-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/awgm100-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G8900A-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g8900a-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G9300-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g9300-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA110GB-1A",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga110gb-1a",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GD100-1B",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gd100-1b",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100-1A1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100-1a1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GA100-1A4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/ga100-1a4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "GW7900B-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/gw7900b-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G7900A-4",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g7900a-4",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G7900-1",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g7900-1",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G9000-1V",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g9000-1v",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "G100-1BV",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/g100-1bv",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW9052-1V",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw9052-1v",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW5600E-1V",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw5600e-1v",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    },
+    {
+      "listed_model": "DW6900-1V",
+      "archived_product_link": "https://web.archive.org/web/20171208233205/http://www.casio.com/products/watches/g-shock/dw6900-1v",
+      "discovery_only": true,
+      "specification_status": "Technical page not checked in this listing extraction"
+    }
+  ]
+}

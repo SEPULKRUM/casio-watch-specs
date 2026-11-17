@@ -46,7 +46,7 @@ class MasterResearchTests(unittest.TestCase):
                 for field, fact in row['specs'].items():
                     self.assertEqual(self.catalog[bucket][key]['specs'][field], fact)
         self.assertEqual(len(set(self.catalog['models']) - set(self.baseline['models'])), 252)
-        self.assertEqual(len(self.catalog['modules']), 255)
+        self.assertEqual(len(self.catalog['modules']), 271)
 
     def test_import_is_reproducible_and_never_accepts_compiler_verification(self):
         note = copy.deepcopy(self.note)

@@ -24,7 +24,11 @@ class HistoricalCatalogTests(unittest.TestCase):
         for row in rows:
             model=self.data['models'][row['id']]
             self.assertEqual(catalog.field_value(model,'catalog_description'),row['description'])
-            self.assertEqual(catalog.field_value(model,'catalog_material_finish'),row['material_finish'])
+            if row['material_finish'] is not None:
+                self.assertEqual(catalog.field_value(model,'catalog_material_finish'),row['material_finish'])
+            elif catalog.field_value(model,'catalog_material_finish') is not None:
+                # A blank older source may gain later exact-reference evidence.
+                self.assertIn('catalog_1983_evidence',model['specs'])
             self.assertEqual(catalog.field_value(model,'module_id'),row['module'])
             for fact in model['specs'].values():
                 self.assertEqual(fact['status'],'pending_review')
