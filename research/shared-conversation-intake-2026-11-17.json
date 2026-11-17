@@ -1,0 +1,39 @@
+{
+  "type": "shared_conversation_research_intake",
+  "received": "2026-11-17",
+  "status": "conversation_text_unavailable",
+  "models": [
+    {
+      "model_id": "LCW-M200DJ-2AJF",
+      "family": "LINEAGE",
+      "shared_conversation_url": "https://chatgpt.com/share/6afbbf7d-5904-83ea-93a7-1a08b006b634",
+      "video_url": "https://www.youtube.com/watch?v=JE01UC2Usdg",
+      "owner_mentioned_module": "4709",
+      "module_scope": "Mentioned in owner request only; inaccessible conversation cannot independently confirm the fitted module. No specifications, release date, production estimate or parts numbers imported."
+    }
+  ],
+  "family_research": [
+    {
+      "base_model": "GW-M5610U",
+      "shared_conversation_url": "https://chatgpt.com/share/6afbc32a-61b4-83e8-a1ff-8241fac1dd88",
+      "scope": "Interpreted according to owner heading GW-M5610U variants; repeated LCW instructions appear to be pasted boilerplate. No variant details extracted."
+    }
+  ],
+  "retrieval_evidence": [
+    {
+      "share_id": "6afbbf7d-5904-83ea-93a7-1a08b006b634",
+      "returned_bytes": 2789,
+      "returned_sha256": "6978ec98a979448f5097827516ea247233d0570286b65060d6c5bca87cba53a3",
+      "observed_result": "Generic Check out this chat HTML placeholder; no messages or model text present",
+      "conversation_read": false
+    },
+    {
+      "share_id": "6afbc32a-61b4-83e8-a1ff-8241fac1dd88",
+      "returned_bytes": 2789,
+      "returned_sha256": "093da3e7b5535e14e34929ba61872f248f7b918f3c730eb862f01ba5766e868e",
+      "observed_result": "Generic Check out this chat HTML placeholder; no messages or model text present",
+      "conversation_read": false
+    }
+  ],
+  "required_input": "Full text or export of each shared conversation, including primary-source citations and attachments needed to verify claims."
+}

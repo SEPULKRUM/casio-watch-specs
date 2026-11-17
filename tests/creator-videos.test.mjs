@@ -37,3 +37,8 @@ test('module playlists apply to recorded associations without guessing families'
  for(const modules of [[],['315'],['34950'],['9999']])assert.equal(creatorVideosForModel('GW-M5610U-1',modules).filter(v=>v.url===url).length,0);
  assert.equal(creatorVideosForModel('GPW-2000TFB-1A',['5502'])[0].kind,'playlist');
 });
+
+test('LINEAGE owner video is scoped to its exact Japanese-market model',()=>{
+ assert.equal(creatorVideosForModel('LCW-M200DJ-2AJF')[0].url,'https://www.youtube.com/watch?v=JE01UC2Usdg');
+ for(const id of ['LCW-M200DJ-1AJF','LCW-M200DJ','LCW-M200'])assert.deepEqual(creatorVideosForModel(id),[]);
+});
