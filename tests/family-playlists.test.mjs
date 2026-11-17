@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {creatorVideosForModel,creatorVideos} from '../web/creator-videos.mjs';import {videoGroupsForModel} from '../web/video-families.mjs';import {decodeModel} from '../web/decoder.mjs';
 const cases=[
  ['mudman','PLaVcl4RlLw_c',['DW-8400-1','G-9000MS-1','G-9025A-1','GW-9330B-1JR','GW-9503KJ-2']],
- ['gravitymaster','PLDqbRJ4qDRs0',['GW-3000-1A','GW-A1030A-1A','G-1250-1A','GR-B300-1A','GWR-B3000A-2A','GPW-2000TFB-1A']],
+ ['gravitymaster','PLDqbRJ4qDRs0',['GA-1000-1A','GA-1100-1A','GW-3000-1A','GW-A1030A-1A','G-1250-1A','GR-B300-1A','GWR-B3000A-2A','GPW-2000TFB-1A']],
  ['oceanus','PLFqC9gmBe7rQ',['OCW-G1200-2AJF','OCW-S7000A-2A','OC-500-1','OCL-100-1']],
  ['gshock-2100','PLL2XjcdAH9yH2nPuwUgZGtTYLz-RLQ3hD',['GA-2100-1A','GA-B2100-1A','GA-2140RX-7A','GM-2110D-1A','GMA-P2100-1A','GMC-B2100-1A','MRG-B2100B-1A']],
  ['gmw-bz5000','PLL2XjcdAH9yEeGXG1tEzVDhZe9ieLb8g1',['GMW-BZ5000D-1','GMW-BZ5000GD-9JF']],

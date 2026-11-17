@@ -12,7 +12,7 @@ export function videoGroupsForModel(model,family=''){
  const id=compact(model),f=compact(family),groups=[];
  const add=(name,yes)=>{if(yes)groups.push(name)};
  add('mudman',named(f,'MUDMAN')||line(id,'DW8400')||line(id,'(?:G|GW)(?:9000|9010|9025|930[01]|9330)')||line(id,'GW950[0-3]'));
- add('gravitymaster',named(f,'GRAVITYMASTER')||prefix(id,'GPW|GWR')||prefix(id,'GRB')||line(id,'GWA(?:1000|1030|1100|1130)')||line(id,'GW(?:2000|2500|3000|3500|4000)')||line(id,'G(?:1200|1250|1400|1500)'));
+ add('gravitymaster',named(f,'GRAVITYMASTER')||prefix(id,'GPW|GWR')||prefix(id,'GRB')||line(id,'GWA(?:1000|1030|1100|1130)')||line(id,'GW(?:2000|2500|3000|3500|4000)')||line(id,'G(?:1200|1250|1400|1500)')||line(id,'GA(?:1000|1100)'));
  const lineage=/^(?:LCW|LIW|LIN)/.test(id);
  add('oceanus',!lineage&&(prefix(id,'OCW')||line(id,'(?:OC|OCL)[0-9]{2,4}')||['OCEANUS','CASIOOCEANUS'].includes(f)));
  add('gshock-2100',line(id,'(?:GA|GM|GMA|GMC)[A-Z]{0,2}(?:2100|2110|2140)')||line(id,'MRGB2100'));

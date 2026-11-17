@@ -22,7 +22,7 @@ The owner requested these family and series links. They are navigation links, no
 ## Matching boundaries
 
 - Mudman covers the original DW-8400, the documented G/GW 9000/9010/9025/9300/9301/9330 branches and GW-9500 through GW-9503. It does not absorb Riseman or Mudmaster.
-- Gravitymaster covers GPW/GWR, GR-B aviation, GW-A1000/A1030/A1100/A1130, the legacy 2000/2500/3000/3500/4000 aviation branches and G-1200/1250/1400/1500. GR-8900 is not included.
+- Gravitymaster covers GPW/GWR, GR-B aviation, GW-A1000/A1030/A1100/A1130, the legacy 2000/2500/3000/3500/4000 aviation branches and G-1200/1250/1400/1500 plus GA-1000/1100. GR-8900 is not included.
 - Oceanus uses OCW and historical OC/OCL identifiers. Lineage LCW/LIW/LIN identifiers are excluded even when an older broad index label says Oceanus. No underlying family label is rewritten by this feature.
 - The 2100 group covers modern GA/GM/GMA/GMC 2100, 2110 and 2140 branches and MRG-B2100. Older MRG-2100, G-2100 and unrelated Casio references do not match.
 - BZ5000, BX5600 and GBX-H5600 match their exact requested line markers. GBX-H5600 is separate from DW-H5600 and GBX-5600. New variants can display a playlist before specifications enter the catalog; no model records are fabricated.

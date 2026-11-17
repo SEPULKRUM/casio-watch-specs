@@ -1,8 +1,8 @@
 {
-  "models": 1719,
-  "modules": 273,
+  "models": 1728,
+  "modules": 274,
   "facts_by_status": {
-    "pending_review": 9671,
+    "pending_review": 9753,
     "verified": 33
   },
   "models_by_series": {
@@ -22,9 +22,9 @@
     "G-SHOCK": 458,
     "LINEAGE": 3,
     "Lineage": 22,
-    "Oceanus": 85,
+    "Oceanus": 88,
     "Pathfinder": 4,
-    "Pro Trek": 81,
+    "Pro Trek": 87,
     "Sea-Pathfinder": 4,
     "Sheen": 15,
     "Unclassified": 217,
@@ -9634,6 +9634,16 @@
       "glass",
       "water_resistance_rating"
     ],
+    "OCW-G1200B-1AJF": [
+      "water_resistance_rating"
+    ],
+    "OCW-G1200C-2AJF": [
+      "water_resistance_rating"
+    ],
+    "OCW-G1200D-1AJF": [
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "OCW-P1000-1AJF": [
       "dimensions_mm",
       "weight_g",
@@ -10491,6 +10501,31 @@
       "band_material",
       "glass"
     ],
+    "PRW-69Y-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-69Y-1JF": [
+      "water_resistance_rating"
+    ],
+    "PRW-69YB-3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "PRW-69YB-3JF": [
+      "water_resistance_rating"
+    ],
+    "PRW-69YT-7JF": [
+      "water_resistance_rating"
+    ],
     "PRW-7000-1A": [
       "dimensions_mm",
       "weight_g",
@@ -10614,6 +10649,14 @@
       "weight_g",
       "case_material",
       "glass"
+    ],
+    "PRW69Y-1D": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "PRX-2000T": [
       "dimensions_mm",
@@ -12704,6 +12747,11 @@
     "PRW-6100YT-1B",
     "PRW-6100YT-1BJF",
     "PRW-6100YT-1JF",
+    "PRW-69Y-1",
+    "PRW-69Y-1JF",
+    "PRW-69YB-3",
+    "PRW-69YB-3JF",
+    "PRW-69YT-7JF",
     "PRW-7000-1A",
     "PRW-7000-1AJF",
     "PRW-7000-1B",
@@ -12722,6 +12770,7 @@
     "PRW-S3500-1JF",
     "PRW-S6100Y-1",
     "PRW-S6100Y-1JF",
+    "PRW69Y-1D",
     "PRX-7000T-7JF",
     "PRX-8000T-7AJF",
     "PRX-8000T-7BJF",
@@ -12852,7 +12901,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 795,
+  "models_with_single_module_reference": 798,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -13409,6 +13458,9 @@
     "MW31-98V": "388",
     "OCW-G1200-1AJF": "5454",
     "OCW-G1200-2AJF": "5454",
+    "OCW-G1200B-1AJF": "5454",
+    "OCW-G1200C-2AJF": "5454",
+    "OCW-G1200D-1AJF": "5454",
     "OCW-P100TD": "2719",
     "OCW-S1200P": "5031",
     "OCW-T1000": "5141",
@@ -14361,6 +14413,11 @@
     "PRW-6100YT-1B",
     "PRW-6100YT-1BJF",
     "PRW-6100YT-1JF",
+    "PRW-69Y-1",
+    "PRW-69Y-1JF",
+    "PRW-69YB-3",
+    "PRW-69YB-3JF",
+    "PRW-69YT-7JF",
     "PRW-7000-1A",
     "PRW-7000-1AJF",
     "PRW-7000-1B",
@@ -14379,6 +14436,7 @@
     "PRW-S3500-1JF",
     "PRW-S6100Y-1",
     "PRW-S6100Y-1JF",
+    "PRW69Y-1D",
     "PRX-7000T-7JF",
     "PRX-8000T-7AJF",
     "PRX-8000T-7BJF",
@@ -14532,6 +14590,7 @@
     "power_supply": 107,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
+    "series_pdf_evidence": 2,
     "snooze_alarm": 42,
     "stopwatch": 85,
     "supplied_module_specifications": 12,
@@ -14542,7 +14601,7 @@
     "world_time_zones": 74
   },
   "module_profiles_by_fact_count": {
-    "1": 101,
+    "1": 102,
     "2": 16,
     "3": 12,
     "4": 13,
@@ -14551,8 +14610,8 @@
     "7": 14,
     "8": 15,
     "9": 12,
-    "10": 21,
-    "11": 9,
+    "10": 20,
+    "11": 10,
     "12": 12,
     "13": 5,
     "14": 1,
@@ -14618,6 +14677,7 @@
     "3482",
     "350",
     "3506",
+    "3514",
     "3515",
     "3716",
     "3721",
