@@ -1,0 +1,9 @@
+# Regional-reference grouping and family-label reconciliation
+
+The main search presents matching market references (JF, ER, DR, CR, DF) as one row. Every exact identifier stays in the unified index, remains individually searchable, and can be opened through the row's regional-reference list. Colorway codes and edition suffixes remain part of the grouping key. JR is retained separately because it may distinguish a limited release. Different recorded modules or physical facts prevent grouping. Missing facts are not copied between identifiers.
+
+A group displays the most informative original member and its own module/specification data; the row lists all retained references. Opening an individual member shows that exact member's evidence. Search pagination, family filters, sidebar totals and hero model counts operate on groups in the main UI; the reconciliation summary retains the distinct identifier count and separately reports the presentation group count. Packages, partial families, clocks, fitment labels and uncertain readings are never folded into a watch group. The raw research search API remains available without grouping.
+
+Family labels use shared rules from `research/family-classification-rules.json`, generated for the browser with `python family_classification.py`. They fill supported missing family labels, distinguish OVERLAND / LINEAGE / Oceanus / Wave Ceptor, and preserve ambiguous historical references conservatively. Addendum composition now refreshes existing search-row families, and a final pass covers reference-only rows. These label changes do not authenticate a model, merge identifiers, change categories, or infer modules and physical specifications.
+
+The supplied OAW-100TDJ-1A and OAW-100TDJ-1AJF references appear together as one OVERLAND search result. The recorded 4319 profile belongs to the sourced JF member; the shorter identifier's original missing module remains unchanged. OAW-100TDJ-7AJF remains a separate colorway.

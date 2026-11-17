@@ -1,3 +1,4 @@
+from family_classification import resolve_family
 """Build one exact-identifier index from every committed Casio intake.
 
 Identity is exact after trimming outer whitespace. Compact search never merges
@@ -204,7 +205,7 @@ def build(root=Path('.')):
         match=re.search(r'(?:const baseEntries|export const researchEntries)=(\[.*?\]);',(root/path).read_text(),re.S)
         for entry in json.loads(match[1]) if match else []:
             if entry[0] not in ['HISTORICAL CASIO','RESEARCH REFERENCE']:prefix_families[entry[1]]=family_name(entry[0])
-    for name in ['catalog.py','specs.py','build_web.py','unified_index.py','collector.py']:
+    for name in ['catalog.py','specs.py','build_web.py','unified_index.py','collector.py','family_classification.py','research/family-classification-rules.json','web/family-classification-runtime.txt']:
         source(name);audit.append({'path':name,'sha256':sha(root/name),'method':'pipeline_implementation_audit','identifier_occurrences':0})
     resolutions=load(root/'research/fitment-resolutions-2026-11-16.json')['resolutions']
     for resolution in resolutions:
@@ -223,6 +224,7 @@ def build(root=Path('.')):
         if key in families and hints<={'family','uncertain'}:hint='family'
         model=catalog['models'].get(key);prefix=re.match(r'[A-Z]+',key)
         family=(family_name(model['specs'].get('series',{}).get('value')) if model else '') or next((f for f in item.pop('family_hints') if f), '') or (prefix_families.get(prefix[0],'') if prefix and hint=='watch' else '') or 'Unclassified'
+        if hint in {'watch','family','package'}:family=resolve_family(key,family,family_name(model['specs'].get('series',{}).get('value')) if model else '')
         if 'family_hints' in item:item.pop('family_hints')
         ids=module_ids(model) if model else []
         if not ids and 'master_row' in item:

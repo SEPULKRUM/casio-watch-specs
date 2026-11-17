@@ -1,0 +1,22 @@
+const placeholders=new Set(['','unclassified','unknown','none','null','research reference','2011 watch index','historical casio']);
+export function familyForModel(id,existing='',series=''){
+ const prefix=String(id).match(/^([A-Z]+)(?=-|\d)/)?.[1]||'',known=familyRules.prefix_families[prefix];
+ existing=String(existing||'').trim();series=String(series||'').trim();
+ if(known&&familyRules.specific_prefixes.includes(prefix))return known;
+ if(!placeholders.has(series.toLowerCase()))return series;
+ if(!placeholders.has(existing.toLowerCase()))return existing;
+ return known||existing||'Unclassified';
+}
+export function reconcileFamilyLabels(catalog,index,report){
+ const changes=[];
+ const records=index.records.map(row=>{
+  if(!['watch','family','package'].includes(row.category))return row;
+  const series=row.catalog_id?catalog.models[row.catalog_id]?.specs?.series?.value:'';
+  const family=familyForModel(row.id,row.family,series);
+  if(family===row.family)return row;
+  changes.push({id:row.id,previous_family:row.family,family});return {...row,family};
+ });
+ const audit={...familyClassificationSource,corrected_records:changes.length,examples:changes.slice(0,12),scope:familyRules.scope};
+ if(!changes.length)return {catalog,index,report:{...report,family_classification:audit}};
+ return {catalog,index:{...index,records,family_classification:audit},report:{...report,family_classification:audit}};
+}
