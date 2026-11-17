@@ -15,7 +15,7 @@ test('owner video is linked independently to each of the three supplied AWG vari
 test('collaboration mappings do not leak to other colors or ordinary base models',()=>{
  for(const model of ['AWG-M520UA','AWG-M520UA-1EJR'])assert.equal(creatorVideosForModel(model)[0].url,'https://www.youtube.com/watch?v=qJTOpZHMlnw');
  for(const model of ['AWG-500J-1B','AWG-M510-1A','AWG-M520-1A','AWG-500J','AWG-M520UA-9JF'])assert.deepEqual(creatorVideosForModel(model),[]);
- for(const row of creatorVideos){assert.equal(new URL(row.url).hostname,'www.youtube.com');assert.ok(row.models.length||row.modules?.length||row.families?.length);assert.match(row.attribution,/owner/)}
+ for(const row of creatorVideos){assert.equal(new URL(row.url).hostname,'www.youtube.com');assert.ok(row.models.length||row.modules?.length||row.families?.length||row.groups?.length);assert.match(row.attribution,/owner/)}
 });
 test('JR reading stays a community interpretation and keeps the suffix intact',()=>{
  for(const model of ['AWG-M520UA-1EJR','GW-M5610U-1JR']){
@@ -25,11 +25,11 @@ test('JR reading stays a community interpretation and keeps the suffix intact',(
  }
 });
 
-test('GPW owner playlist is public and scoped to the exact variant',()=>{
+test('GPW owner playlist remains public when expanded to the Gravitymaster family',()=>{
  const [link]=creatorVideosForModel('GPW-2000TFB-1A');
  assert.equal(link.url,'https://www.youtube.com/playlist?list=PLDqbRJ4qDRs0');
  assert.equal(link.kind,'playlist');
- assert.deepEqual(creatorVideosForModel('GPW-2000-1A'),[]);
+ assert.equal(creatorVideosForModel('GPW-2000-1A')[0].url,'https://www.youtube.com/playlist?list=PLDqbRJ4qDRs0');
 });
 
 test('module playlists apply to recorded associations without guessing families',()=>{
