@@ -1,0 +1,146 @@
+{
+  "title": "Casio Heavy-Duty catalog \u2014 supplied printed page 7",
+  "source_filename": "4e41ac7fece512af3707260cd1c977c474124656.pdf",
+  "source_sha256": "2802ea43f100d45dbaaacc3dc0fa927a1c7c874b738610eecddc11f24eb12fbc",
+  "received": "2026-11-17",
+  "pdf_page_count": 1,
+  "printed_page": 7,
+  "publication_date": null,
+  "publication_date_note": "No original catalog date or edition is visible. PDF creation metadata describes the digital file, not the historical publication.",
+  "source_status": "User-supplied catalog scan; visually transcribed, pending independent corroboration. No original URL or archive snapshot supplied.",
+  "extraction_scope": "Technical watch/module facts only; original page, advertisements, artwork and handwritten marks are not republished. No OCR text layer was available.",
+  "models": [
+    {
+      "model_id": "DW-210",
+      "module_id": "548",
+      "printed_material_label": "Resin",
+      "material_scope": "Watch material caption; does not establish strap material.",
+      "water_resistance_m": 200,
+      "advertised_battery_life_years": 5,
+      "alarm_badge": true,
+      "g_shock_heading": false,
+      "shock_resistant_claim": null,
+      "locator": {
+        "pdf_page": 1,
+        "printed_page": 7,
+        "region": "top row",
+        "position_left_to_right": 1
+      },
+      "status": "supplied_scan_visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-1000C",
+      "module_id": "280",
+      "printed_material_label": "Stainless steel",
+      "material_scope": "Watch material caption; does not establish strap material.",
+      "water_resistance_m": 200,
+      "advertised_battery_life_years": 7,
+      "alarm_badge": true,
+      "g_shock_heading": false,
+      "shock_resistant_claim": null,
+      "locator": {
+        "pdf_page": 1,
+        "printed_page": 7,
+        "region": "top row",
+        "position_left_to_right": 2
+      },
+      "status": "supplied_scan_visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-5200C",
+      "module_id": "240",
+      "printed_material_label": "Stainless steel",
+      "material_scope": "Watch material caption; does not establish strap material.",
+      "water_resistance_m": 200,
+      "advertised_battery_life_years": 7,
+      "alarm_badge": true,
+      "g_shock_heading": true,
+      "shock_resistant_claim": true,
+      "locator": {
+        "pdf_page": 1,
+        "printed_page": 7,
+        "region": "top row",
+        "position_left_to_right": 3
+      },
+      "status": "supplied_scan_visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-5400C",
+      "module_id": "240",
+      "printed_material_label": "Stainless steel",
+      "material_scope": "Watch material caption; does not establish strap material.",
+      "water_resistance_m": 200,
+      "advertised_battery_life_years": 7,
+      "alarm_badge": true,
+      "g_shock_heading": true,
+      "shock_resistant_claim": true,
+      "locator": {
+        "pdf_page": 1,
+        "printed_page": 7,
+        "region": "top row",
+        "position_left_to_right": 4
+      },
+      "status": "supplied_scan_visual_transcription_pending_independent_review"
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "240",
+      "locator": {
+        "pdf_page": 1,
+        "printed_page": 7,
+        "region": "bottom-right specifications table"
+      },
+      "regular_timekeeping": [
+        "hour",
+        "minute",
+        "second",
+        "am/pm",
+        "month",
+        "date",
+        "day"
+      ],
+      "calendar_system_as_printed": "Auto-calendar set at 28 days for February",
+      "time_formats": [
+        "12-hour",
+        "24-hour"
+      ],
+      "daily_alarm": true,
+      "time_signals_as_printed": "Hourly/half-hourly time signals",
+      "stopwatch": {
+        "working_range_as_printed": "59 min 59.99 sec",
+        "modes_as_printed": [
+          "Net time",
+          "Lap time",
+          "1st-2nd place times"
+        ]
+      },
+      "countdown_alarm": {
+        "input_range_as_printed": "1 min-11 hr 59 min",
+        "unit_as_printed": "Sec"
+      },
+      "micro_light": true,
+      "accuracy_seconds_per_month": 15,
+      "accuracy_sign": "plus/minus",
+      "battery": {
+        "type_as_printed": "BR-2320",
+        "quantity": 1,
+        "chemistry_as_printed": "Lithium battery"
+      },
+      "approximate_battery_life_years": 7,
+      "excluded_watch_construction_claims": [
+        "Shock resistant"
+      ],
+      "status": "supplied_scan_visual_transcription_pending_independent_review"
+    }
+  ],
+  "review_notes": [
+    "Printed identifiers are base references without color/regional suffixes; no variants are invented.",
+    "Material words appear beneath the watch identifier. Retain them as printed watch material labels, not proof of band material, alloy, coating or dimensions.",
+    "Handwritten X marks have no specified meaning and are not interpreted as discontinuation or availability.",
+    "The module 240 table is not applied to module 548 or 280.",
+    "Shock resistance appears inside the module 240 table, but is cataloged as a watch-construction claim; water resistance also belongs to watches.",
+    "No glass, dimensions, weight, battery substitution, production year or factory information is established by this page.",
+    "No facts are labeled archive-verified; the supplied scan can corroborate owner research but is not itself a retrieved archive snapshot."
+  ]
+}
