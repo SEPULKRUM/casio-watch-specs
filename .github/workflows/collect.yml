@@ -28,5 +28,3 @@ jobs:
         with:
           name: casio-review-candidates
           path: review_candidates.json
-- name: ChatGPT & Codex Plugin Autopilot
-  uses: imMamdouhaboammar/chatgpt-codex-plugin-autopilot@v0.8.0
