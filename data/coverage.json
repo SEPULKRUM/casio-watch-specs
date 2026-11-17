@@ -1,8 +1,8 @@
 {
-  "models": 1771,
-  "modules": 276,
+  "models": 1786,
+  "modules": 277,
   "facts_by_status": {
-    "pending_review": 10091,
+    "pending_review": 10195,
     "verified": 33
   },
   "models_by_series": {
@@ -20,15 +20,16 @@
     "Clocks": 5,
     "Edifice": 20,
     "G-SHOCK": 501,
-    "LINEAGE": 3,
+    "LINEAGE": 11,
     "Lineage": 22,
-    "Oceanus": 88,
+    "OVERLAND": 2,
+    "Oceanus": 91,
     "Pathfinder": 4,
     "Pro Trek": 87,
     "Sea-Pathfinder": 4,
     "Sheen": 15,
     "Unclassified": 217,
-    "Wave Ceptor": 32
+    "Wave Ceptor": 34
   },
   "models_missing_fields": {
     "29CS-49B-1": [
@@ -7804,6 +7805,42 @@
       "glass",
       "water_resistance_rating"
     ],
+    "LCW-100DJ-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "LCW-100TDJ-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "LCW-100TDJ-2A2JF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "LCW-100TDJ-7AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "LCW-110": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LCW-110T": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "LCW-M100D": [
       "dimensions_mm",
       "weight_g",
@@ -7951,7 +7988,23 @@
       "glass",
       "water_resistance_rating"
     ],
+    "LIW-100TDJ": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "LIW-110DJ": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LIW-110T": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -9754,6 +9807,16 @@
       "glass",
       "water_resistance_rating"
     ],
+    "OAW-100TDJ-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "OAW-100TDJ-7AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "OCW-100TDJ-1AJF": [
       "dimensions_mm",
       "weight_g",
@@ -10045,11 +10108,9 @@
       "water_resistance_rating"
     ],
     "OCW-T1000-1AJF": [
-      "dimensions_mm",
       "water_resistance_rating"
     ],
     "OCW-T1000-7AJF": [
-      "dimensions_mm",
       "water_resistance_rating"
     ],
     "OCW-T1000B": [
@@ -10074,6 +10135,21 @@
     ],
     "OCW-T1000F-2AJF": [
       "dimensions_mm",
+      "water_resistance_rating"
+    ],
+    "OCW-T1010-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "OCW-T1010B-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "OCW-T1010G-7AJF": [
+      "dimensions_mm",
+      "weight_g",
       "water_resistance_rating"
     ],
     "OCW-T2600-1A2JF": [
@@ -12134,6 +12210,22 @@
       "glass",
       "water_resistance_rating"
     ],
+    "WVA-320DJ-1E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "WVA-320J-1E": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "WVA-470DJ": [
       "dimensions_mm",
       "weight_g",
@@ -12818,6 +12910,8 @@
     "ITM-600J",
     "ITM-710J",
     "ITM-720SNJ",
+    "LCW-110",
+    "LCW-110T",
     "LCW-M100D-1AJF",
     "LCW-M100D-7AJF",
     "LCW-M100TD-1AJF",
@@ -12825,6 +12919,8 @@
     "LCW-M180D-1AJF",
     "LCW-M200DJ-1AJF",
     "LCW-M200DJ-7AJF",
+    "LIW-100TDJ",
+    "LIW-110T",
     "LQ-11W-7G",
     "LQ-139AMV",
     "LQ-398GL",
@@ -12936,6 +13032,9 @@
     "OCW-S5000B-1AJF",
     "OCW-S5000E-1AJF",
     "OCW-S6000BV-1AJR",
+    "OCW-T1010-1AJF",
+    "OCW-T1010B-1AJF",
+    "OCW-T1010G-7AJF",
     "OCW-T150-1AJF",
     "OCW-T6000A-1AJF",
     "OCW-T6000BV-2AJR",
@@ -13149,7 +13248,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 841,
+  "models_with_single_module_reference": 849,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -13572,6 +13671,10 @@
     "LB-610G": "401",
     "LB319": "192",
     "LB319G": "192",
+    "LCW-100DJ-1AJF": "4319",
+    "LCW-100TDJ-1AJF": "4319",
+    "LCW-100TDJ-2A2JF": "4319",
+    "LCW-100TDJ-7AJF": "4319",
     "LCW-M100D": "5161",
     "LCW-M100DSE-1A": "5161",
     "LCW-M100TD": "5161",
@@ -13747,6 +13850,8 @@
     "MW-101-7A2V": "394",
     "MW-59": null,
     "MW31-98V": "388",
+    "OAW-100TDJ-1AJF": "4319",
+    "OAW-100TDJ-7AJF": "4319",
     "OCW-G1200-1AJF": "5454",
     "OCW-G1200-2AJF": "5454",
     "OCW-G1200B-1AJF": "5454",
@@ -13837,6 +13942,8 @@
     "W150-1": "106",
     "WV-58R-1A": "3476",
     "WV-59R-1A": "3476",
+    "WVA-320DJ-1E": "4319",
+    "WVA-320J-1E": "4319",
     "WW-15": "189",
     "WW-5100C": "491"
   },
@@ -14539,6 +14646,8 @@
     "ITM-600J",
     "ITM-710J",
     "ITM-720SNJ",
+    "LCW-110",
+    "LCW-110T",
     "LCW-M100D-1AJF",
     "LCW-M100D-7AJF",
     "LCW-M100TD-1AJF",
@@ -14546,6 +14655,8 @@
     "LCW-M180D-1AJF",
     "LCW-M200DJ-1AJF",
     "LCW-M200DJ-7AJF",
+    "LIW-100TDJ",
+    "LIW-110T",
     "LQ-11W-7G",
     "LQ-820G",
     "LTD-1035A",
@@ -14646,6 +14757,9 @@
     "OCW-S5000B-1AJF",
     "OCW-S5000E-1AJF",
     "OCW-S6000BV-1AJR",
+    "OCW-T1010-1AJF",
+    "OCW-T1010B-1AJF",
+    "OCW-T1010G-7AJF",
     "OCW-T6000A-1AJF",
     "OCW-T6000BV-2AJR",
     "OVW-100BJ",
@@ -14881,7 +14995,7 @@
     "power_supply": 107,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
-    "series_pdf_evidence": 6,
+    "series_pdf_evidence": 8,
     "snooze_alarm": 42,
     "stopwatch": 85,
     "supplied_module_specifications": 12,
@@ -14892,7 +15006,7 @@
     "world_time_zones": 74
   },
   "module_profiles_by_fact_count": {
-    "1": 103,
+    "1": 104,
     "2": 17,
     "3": 12,
     "4": 13,
@@ -14901,8 +15015,8 @@
     "7": 14,
     "8": 15,
     "9": 12,
-    "10": 20,
-    "11": 10,
+    "10": 19,
+    "11": 11,
     "12": 12,
     "13": 5,
     "14": 1,
@@ -14979,6 +15093,7 @@
     "400",
     "401",
     "415",
+    "4319",
     "4323",
     "4390",
     "465",

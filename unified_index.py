@@ -55,7 +55,12 @@ def build(root=Path('.')):
         for key,category in load(extra_resolution_path).get('category_resolutions',{}).items():
             if key in category_resolutions and category_resolutions[key]!=category:raise ValueError('Conflicting explicit reference category')
             category_resolutions[key]=category
-    if any(v not in {'watch','package','uncertain'} for v in category_resolutions.values()):raise ValueError('Invalid special-reference category resolution')
+    ocean_wave_resolution_path=root/'research/supplied-oceanus5141-wave4319-2026-11-17.json'
+    if ocean_wave_resolution_path.exists():
+        for key,category in load(ocean_wave_resolution_path).get('category_resolutions',{}).items():
+            if key in category_resolutions and category_resolutions[key]!=category:raise ValueError('Conflicting explicit reference category')
+            category_resolutions[key]=category
+    if any(v not in {'watch','family','package','uncertain'} for v in category_resolutions.values()):raise ValueError('Invalid special-reference category resolution')
     def source(path):
         name=path.as_posix() if isinstance(path,Path) else path
         if name not in source_numbers:

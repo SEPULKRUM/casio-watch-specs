@@ -1,0 +1,11 @@
+# Oceanus 5141 and Wave Ceptor 4319 PDF implementation
+
+Two owner-supplied five-page PDFs identify nine Oceanus references, eight complete Overland/Lineage/Wave Ceptor references, two partial LCW family identifiers and two unresolved LIW identifiers. All 21 exact strings remain accessible, with 17 eligible watch identifiers. LCW/LIW strings are never merged or expanded into invented regional/color SKUs.
+
+`research/supplied-oceanus5141-wave4319-2026-11-17.json` retains structured technical transcription, PDF SHA-256 values, page locators, extracted citation hyperlinks, and honest archive lookup results. Exact-URL CDX lookups for the cited English manuals returned no captures. Supplied evidence remains pending independent archived-source verification. Original PDFs/scans are excluded. Run `python ocean_wave_import.py --check` to verify reproducible artifacts.
+
+Module 5141 and 4319 functions stay separate from physical watch facts. Module 4319 receives JJY 40/60 kHz and WWVB 60 kHz, not MSF/DCF77/BPC or Multi Band 6. Module 5141 retains approximately five months normal runtime and contradictory 18-/23-month power-save reports. CTL920F cell characteristics do not establish the exact Casio terminal-equipped battery assembly. T1010 module assignments are reported family context, not independently confirmed exact-watch mappings.
+
+No approximate 100 g Oceanus, independently measured 85 g Overland, or family-level 71 g Lineage figure is newly promoted to an exact variant weight. Existing scalar facts retain their provenance. The T1010G listing by 2014 is not assigned as a release date, and its archived tax-inclusive price does not establish a launch-year tax rate. TDJ D is a metal-bracelet association, including titanium, rather than a steel-case assertion. WVA E and internal J remain unresolved formal expansions.
+
+The requested Wave Ceptor playlist retains its trailing underscore. It applies to the existing Wave Ceptor family, recorded module 4319 associations and these explicitly supplied 4319 inventory references, including partial references for educational context. Playlist links do not verify the identity or module of unresolved records. Oceanus references retain the Oceanus playlist. All existing video mappings remain intact.
