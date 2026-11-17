@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "received": "2026-11-17",
+  "provided_by": "SEPULKRUM",
+  "type": "scoped_owner_lineage_interpretation",
+  "context_models": [
+    "LCW-M200DJ-2AJF",
+    "LCW-M100DE",
+    "LCW-M100DSE",
+    "LCW-M170TD"
+  ],
+  "readings": {
+    "M_in_M200DJ": "Multi-Band association; exact-model research records Multi-Band 5 with module 4709",
+    "200": "Series/design designation, not module, production year or parts interchangeability",
+    "D_in_DJ_DE_DSE": "Steel case/bracelet association in these compared trims, not every D in Lineage",
+    "J_in_DJ": "Proposed older Japanese-market configuration reading, not a manufacturing-country or glass code",
+    "2_in_M200DJ_2AJF": "Blue primary dial",
+    "A_in_2A": "Variation/order marker; no universal silver-accent or hand-color definition",
+    "JF": "Japanese retail-market suffix; no automatic proof of manufacture, packaging or manual language"
+  },
+  "configuration_comparison": [
+    {
+      "code": "DJ",
+      "scope": "LCW-M200DJ",
+      "reading": "D + J; steel, older domestic configuration; mineral glass and mid-2000s era are separately reported model evidence, not universally encoded by DJ"
+    },
+    {
+      "code": "DE",
+      "scope": "LCW-M100DE",
+      "reading": "D + E; steel / export configuration interpretation; mineral-glass claim from owner comparison remains exact-model pending"
+    },
+    {
+      "code": "DSE",
+      "scope": "LCW-M100DSE",
+      "reading": "D + S + E; steel / sapphire / export configuration interpretation"
+    },
+    {
+      "code": "TD",
+      "scope": "LCW-M170TD",
+      "reading": "T + D; titanium configuration. The separate D expansion remains unresolved; it is not applied as a steel-case claim. Sapphire confirmed on the cited exact model is not a universal TD rule."
+    }
+  ],
+  "confirmed_material_examples": [
+    {
+      "reference": "LCW-M100DSE-2A",
+      "source_url": "https://www.casio.com/europe/watches/casio/product.LCW-M100DSE-2A/",
+      "facts": [
+        "Stainless-steel case and band",
+        "Sapphire crystal with anti-reflective coating"
+      ],
+      "scope": "Exact-model manufacturer description supports features, not a universal letter key"
+    },
+    {
+      "reference": "LCW-M170TD-1A",
+      "source_url": "https://www.casio.com/europe/watches/casio/product.LCW-M170TD-1A/",
+      "facts": [
+        "Titanium case and band with stainless-steel buckle",
+        "Sapphire crystal with anti-reflective coating",
+        "Multi-Band 6"
+      ],
+      "scope": "Exact-model manufacturer description; not inherited by all TD or M references"
+    }
+  ],
+  "prior_M200_research_reference": "research/supplied-three-pdf-research-2026-11-17.json",
+  "module_4709_manual_url": "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+  "unestablished_or_corrected_claims": [
+    {
+      "claim": "A universally denotes silver-tone hands and accents",
+      "treatment": "Not applied; existing M200DJ-2AJF owner-supplied research reports gold-tone accents. Exact appearance needs exact-model evidence."
+    },
+    {
+      "claim": "JF proves Japanese manufacture and Japanese packaging/manual",
+      "treatment": "Not applied; sales-market suffix does not establish those facts."
+    },
+    {
+      "claim": "D always means steel even inside TD",
+      "treatment": "Not applied; cited LCW-M170TD has titanium case and band."
+    },
+    {
+      "claim": "DJ / DE / TD alone guarantee a crystal material",
+      "treatment": "Not applied; crystal is a separately sourced model specification."
+    }
+  ],
+  "status": "Scoped owner/community interpretations; material features and reception systems have separate evidence",
+  "official_universal_letter_key_confirmed": false,
+  "archive_lookup": [
+    {
+      "original_url": "https://www.casio.com/europe/watches/casio/product.LCW-M100DE-1A/",
+      "result": "No successful snapshot returned"
+    },
+    {
+      "original_url": "https://www.casio.com/europe/watches/casio/product.LCW-M100DSE-2A/",
+      "archive_timestamp": "20240715070800",
+      "url": "https://web.archive.org/web/20240715070800/https://www.casio.com/europe/watches/casio/product.LCW-M100DSE-2A/",
+      "snapshot_sha256": "6470d02c02f9d3f39f4816183394bb7db20af0f69b31680e14fce5f8008bd7f6",
+      "bytes": 277641,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/europe/watches/casio/product.LCW-M170TD-1A/",
+      "archive_timestamp": "20240715070628",
+      "url": "https://web.archive.org/web/20240715070628/https://www.casio.com/europe/watches/casio/product.LCW-M170TD-1A/",
+      "snapshot_sha256": "f5c42c5b8198a0ca2824f92f78ee8d7da2b5a68915ffb7cae774f6d91a136c70",
+      "bytes": 281736,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+      "archive_timestamp": "20140124023315",
+      "url": "https://web.archive.org/web/20140124023315/https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+      "snapshot_sha256": "88ddcb77791783dc4b5acfeecc3f2a6031fe408720f2961d2f5d657d5ccb4a54",
+      "bytes": 1438820,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    }
+  ],
+  "scope": "Decoder and guide text only. Existing watch specifications, module functions, dimensions, weights, colors and production evidence are preserved.",
+  "qualification": "The proposed E/export association is not an official expansion or a guaranteed destination; final regional suffixes are read separately."
+}
