@@ -1,0 +1,1205 @@
+{
+  "title": "Casio June 1984 catalog \u2014 Ratscats archived visual transcription",
+  "source_page": "https://ratscats.client.jp/caws596.html",
+  "accessed": "2026-11-17",
+  "catalog_date": "1984-06",
+  "date_discrepancy": "Web title says 1985 alongside Showa 59 June. Panel 3 footer explicitly says information current as of Showa 59 June = June 1984; no publication day inferred.",
+  "scope": "Technical reference transcription only. No source images, personal contact details, advertisements or full prose reproduced. No completeness claim for illegible or clipped edge labels. Exact suffix spelling retained; no suffix expansion. Historical prices are list prices, not current values.",
+  "captures": [
+    {
+      "original_url": "http://ratscats.client.jp/caws596.html",
+      "archive_url": "https://web.archive.org/web/20190509074522/http://ratscats.client.jp/caws596.html",
+      "snapshot_timestamp": "20190509074522",
+      "sha256": "cd4e2bc2fba35ab208cf22979ac2243870e699b20ab8c025eb80baa236e8c09f",
+      "media_type": "text/html"
+    },
+    {
+      "original_url": "http://ratscats.client.jp/caw/casws59060.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075149/http://ratscats.client.jp/caw/casws59060.JPG",
+      "snapshot_timestamp": "20190509075149",
+      "sha256": "6d69619e319a2e9a93a67ae9e6beb5740c34367e14667f919311935fa7664423",
+      "media_type": "image/jpeg"
+    },
+    {
+      "original_url": "http://ratscats.client.jp/caw/casws59061.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075150/http://ratscats.client.jp/caw/casws59061.JPG",
+      "snapshot_timestamp": "20190509075150",
+      "sha256": "7c592547e71eba9d1e2cc24007a1200a645359962340719ce761a1bfc9f6e939",
+      "media_type": "image/jpeg"
+    },
+    {
+      "original_url": "http://ratscats.client.jp/caw/casws59062.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075148/http://ratscats.client.jp/caw/casws59062.JPG",
+      "snapshot_timestamp": "20190509075148",
+      "sha256": "87b3147711941317ef83ad38976aef762d18372e1b4996e33b20b62c3ed6edaa",
+      "media_type": "image/jpeg"
+    },
+    {
+      "original_url": "http://ratscats.client.jp/caw/casws59063.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075150/http://ratscats.client.jp/caw/casws59063.JPG",
+      "snapshot_timestamp": "20190509075150",
+      "sha256": "e7124b7915ce6dc46ae20456b37b6d7ca7c72895363e1c54c5ab038fd5b04a48",
+      "media_type": "image/jpeg"
+    },
+    {
+      "original_url": "http://ratscats.client.jp/caw/casws5906fx.jpg",
+      "archive_url": "https://web.archive.org/web/20190509075150/http://ratscats.client.jp/caw/casws5906fx.jpg",
+      "snapshot_timestamp": "20190509075150",
+      "sha256": "032723ae8c3260bbcc0780d1564f1a7d88a6fdeaefaf00563f4a188c5c10b11e",
+      "media_type": "image/jpeg"
+    }
+  ],
+  "models": [
+    {
+      "model_id": "DW-200-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "240",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "DW-5200C-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "240",
+      "historical_list_price_jpy": 11000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "DW-2000C-1A",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "242",
+      "historical_list_price_jpy": 11400,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "DW-2000-1A",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "242",
+      "historical_list_price_jpy": 12800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "TW-7100C-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "242",
+      "historical_list_price_jpy": 24000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "TW-7000C-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "548",
+      "historical_list_price_jpy": 18000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "TS-1200J-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "WS-76-7",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "468",
+      "historical_list_price_jpy": 8900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-550CW-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "328",
+      "historical_list_price_jpy": 11400,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-550CW-2",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "328",
+      "historical_list_price_jpy": 11400,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-50W-1B",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "334",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-50W-4",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "334",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-50W-7",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "334",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "W-15-1A",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "119",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "W-16-1",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "242",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "W-1C-1A",
+      "panel": 0,
+      "printed_parenthetical_module_candidate": "213",
+      "historical_list_price_jpy": 4900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "TS-1100J-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "235",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "W-750C-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "248",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-30W-1B",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "137",
+      "historical_list_price_jpy": 6500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-30W-7B",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "137",
+      "historical_list_price_jpy": 6500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-50W-1A",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "334",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-30W-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-30W-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-31W-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-31W-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-35IW-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-35IW-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-352W-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 11000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-350W-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-900W-7",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 12800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B819L-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "155",
+      "historical_list_price_jpy": 2700,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B819GL-5",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "155",
+      "historical_list_price_jpy": 3200,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B821GL-5",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "440",
+      "historical_list_price_jpy": 3900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B821L-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "440",
+      "historical_list_price_jpy": 3200,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B220GL-5",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "440",
+      "historical_list_price_jpy": 3900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "B220L-1",
+      "panel": 1,
+      "printed_parenthetical_module_candidate": "440",
+      "historical_list_price_jpy": 3200,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "DB-500-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 11400,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "DB-500G-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 14800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CD-40-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "246",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CD-401-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "246",
+      "historical_list_price_jpy": 11000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "M-62-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "480",
+      "historical_list_price_jpy": 4900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CFX-200-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "197",
+      "historical_list_price_jpy": 13500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CFX-20-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "197",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CS-82-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "218",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CA-50-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "437",
+      "historical_list_price_jpy": 4900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CA-501-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "437",
+      "historical_list_price_jpy": 6500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CL-30-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "243",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "CL-301-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "243",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "TC-50-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "394",
+      "historical_list_price_jpy": 11000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A152GL-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "415",
+      "historical_list_price_jpy": 4500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A152L-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "415",
+      "historical_list_price_jpy": 3500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-110-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 12800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-110G-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 16500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-100G-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 14800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-100-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 11000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-100GL-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 11400,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-100L-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 9800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-1000G-9",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "430",
+      "historical_list_price_jpy": 20000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A1640L-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "415",
+      "historical_list_price_jpy": 4500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A1640GL-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "415",
+      "historical_list_price_jpy": 5500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A662YGL-5",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "232",
+      "historical_list_price_jpy": 4900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "A662L-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "232",
+      "historical_list_price_jpy": 4000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AT-550G-9",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "320",
+      "historical_list_price_jpy": 25000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AT-551GL-9",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "320",
+      "historical_list_price_jpy": 22000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AT-551L-7",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "320",
+      "historical_list_price_jpy": 18000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AT-552-7",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "320",
+      "historical_list_price_jpy": 18000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-321-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-321-7",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-340-1",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "AQ-340-7",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "395",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3001-7C",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 22000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3001G-9C",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 28000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3004-7",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 22000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3004G-9C",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": null,
+      "historical_list_price_jpy": 28000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-600L-1A",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 5500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-600L-7A",
+      "panel": 2,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 5500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-55B-1",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "145",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-55GL-9C",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "145",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-55L-1B",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "145",
+      "historical_list_price_jpy": 4900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-7KG-5",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "145",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-71-1",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "145",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-70L-1",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "445",
+      "historical_list_price_jpy": 6500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-70GL-5",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "445",
+      "historical_list_price_jpy": 7500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-60-1",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "118",
+      "historical_list_price_jpy": 8500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "SA-60G-9",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "118",
+      "historical_list_price_jpy": 9500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3003-1A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "321",
+      "historical_list_price_jpy": 45000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-3003-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "321",
+      "historical_list_price_jpy": 45000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-500-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "338",
+      "historical_list_price_jpy": 6800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-501-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "338",
+      "historical_list_price_jpy": 7000,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-502L-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "338",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-502L-9C",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "338",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-700L-7B",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 7500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-700L-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 7500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-700GL-1B",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 8500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-700GL-9A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 8500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-701L-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 7900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-701GL-5A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 8900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-701GL-9A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 8900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-600-1A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-600-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-600GL-9A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "319",
+      "historical_list_price_jpy": 6500,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-300-1",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "311",
+      "historical_list_price_jpy": 5800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-300-7",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "311",
+      "historical_list_price_jpy": 5800,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-30L-7A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "311",
+      "historical_list_price_jpy": 5900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-30GL-9A",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "311",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    },
+    {
+      "model_id": "MQ-30GL-9B",
+      "panel": 3,
+      "printed_parenthetical_module_candidate": "311",
+      "historical_list_price_jpy": 6900,
+      "verification": "Manual visual transcription; not independently cross-checked. Parenthetical module readings remain candidates."
+    }
+  ],
+  "grouped_or_uncertain_labels": [
+    {
+      "label_transcription": "TW-7000-1/7",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-700-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-10-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-600-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-850-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-850C-1",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "WS-80-1/7",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "WS-81-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "WS-82-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "WS-83-1/10",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AE-8W-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AE-90W-1/9",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-27-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-40-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-41-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-36-1/2",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-34-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "S-50W-1A/1B",
+      "panel": 0,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-750-1/2",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-25-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-11-1A/1B/7",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-29-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "J-51W-1A/7",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-24-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "W-26-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-87W-1",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-87FW-1/5",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-21FW-2C",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-21FW-8/3/4",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-20W-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "B817-1/2",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "B819-1/2",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "B821-1/2",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "B210-1/2",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-12-1A/1B",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "F-86F-1/2/3/5",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "DF-10R-1",
+      "panel": 1,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "CS-821-1/7",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "A152-1/2",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "SA-710GL-5A/5B",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "SA-700G-9/7",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "SA-1000-1/2",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "A662-1/2",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AT-550-7/1",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-330-7/1",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-3000BL-7A/9C",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-3000GL-9A/9C",
+      "panel": 2,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "A151-1/2",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "SA-55-1A/1B",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-513L-7A/1A",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-513GL-9A/1A",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-513BL-7/1",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-512L-7A/7B",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "AQ-512GL-9A/9B",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-301-7A/7B",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-3002-7C/9C",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-3002G-9C/5C",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    },
+    {
+      "label_transcription": "MQ-502GL-9A/9B",
+      "panel": 3,
+      "category": "grouped_label_or_uncertain",
+      "note": "Compact transcription of multi-suffix label or small print requiring another visual pass; do not expand or count as confirmed individual variants."
+    }
+  ],
+  "technical_observations": [
+    {
+      "model_id": "DW-5200C-1",
+      "panel": 0,
+      "module_candidate": "240",
+      "historical_list_price_jpy": 11000,
+      "water_resistance": "20 bar / 200 m",
+      "shock_resistant": true,
+      "june_release_marker": true,
+      "scope": "June release marker on June 1984 catalog; archive scan hosted by collector, not a live Casio product page. No dimensions, weight, battery or materials inferred."
+    },
+    {
+      "model_ids": [
+        "CFX-200-1",
+        "CFX-20-1"
+      ],
+      "panel": 2,
+      "closeup": "casws5906fx.jpg",
+      "module_candidate": "197",
+      "functions_observed": [
+        "scientific calculator",
+        "F1/F2 function keys",
+        "INV key",
+        "EXE key"
+      ],
+      "historical_list_prices_jpy": [
+        13500,
+        9800
+      ]
+    },
+    {
+      "model_id": "M-62-1",
+      "panel": 2,
+      "function": "Melody alarm",
+      "scope": "No tune list transcribed; small text requires a further pass."
+    },
+    {
+      "model_id": "TC-50-1",
+      "panel": 2,
+      "function": "Touch-screen calculator",
+      "scope": "No inferred battery, size or material data."
+    }
+  ],
+  "excluded_non_watch_products": [
+    {
+      "id": "TV-10",
+      "type": "pocket television"
+    },
+    {
+      "id": "TV-50",
+      "type": "pocket television"
+    }
+  ],
+  "review_notes": [
+    "TS-1200J-1 parenthetical module unreadable in supplied resolution; left blank.",
+    "Do not replace or overwrite existing verified modules or specifications from visual candidates.",
+    "Some module digits and small suffix letters require an independent visual check; all transcriptions remain pending.",
+    "DW-5200C-1 printed label and module 240 corroborate the supplied restoration research; do not infer shared case specifications for other watches."
+  ]
+}
