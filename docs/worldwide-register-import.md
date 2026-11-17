@@ -10,4 +10,6 @@ Source assertions of manufacturer confirmation remain supplied claims pending in
 
 Tests reconcile every supplied identifier, search every model, execute all register detail-rendering paths, and verify reproducible generated artifacts. Original uploads are not offered as downloads.
 
-Japan-market JR references are grouped with the identical complete color/design reference under the same conflict safeguards as JF/ER/DR/CR/DF. This affects presentation only and never strips edition or color tokens.
+Japan-market JR references are grouped with the identical complete color/design reference alongside JF/ER/DR/CR/DF. This affects presentation only and never strips edition or color tokens.
+
+Regional market endings identify stored references for the same complete color/design code. Source-description or recorded-specification disagreements remain inside the reference group rather than generating duplicate watch rows. Every exact observation and detail link remains accessible. Availability labels describe whether specifications exist; independent source-check status remains separate and is never inferred from availability.

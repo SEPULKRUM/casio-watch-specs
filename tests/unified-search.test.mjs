@@ -27,7 +27,7 @@ test('region, color and edition identifiers are never merged by compact searchin
  assert.notEqual(modelForDetail(index,catalog,ids[0]).model.id,modelForDetail(index,catalog,ids[1]).model.id);
 });
 test('reference-only details are empty and never copy another variant case via module',()=>{
- const result=modelForDetail(index,catalog,'A-20-1A');assert.deepEqual(result.model.specs,{});assert.equal(result.model.id,'A-20-1A');assert.match(indexedStatus(result.entry),/Specifications pending verification/);
+ const result=modelForDetail(index,catalog,'A-20-1A');assert.deepEqual(result.model.specs,{});assert.equal(result.model.id,'A-20-1A');assert.match(indexedStatus(result.entry),/Specifications not yet recorded/);
  const a=modelForDetail(index,catalog,'GW-9400KJ-8'),b=modelForDetail(index,catalog,'GW-9400-1');
  assert.deepEqual(a.module_ids,b.module_ids);assert.equal(a.model.specs.dimensions_mm,undefined);assert.ok(b.model.specs.dimensions_mm);
  assert.equal(modelForDetail(index,catalog,'DW-OOlJ-9').entry.category,'uncertain');
@@ -69,3 +69,5 @@ test('explicit combined reference finds its three individual watches without cop
  assert.deepEqual(fitmentContext(index,'A-151/153G-1A'),[]);
  const bad=structuredClone(index);bad.fitment_resolutions[0].related_models.push('UNPROVEN-999');assert.throws(()=>validateSearchIndex(bad,catalog));
 });
+
+test('specification availability is separate from independent source checks',()=>{assert.equal(indexedStatus({category:'watch',has_specifications:true,has_checked_fields:false}),'Specifications available');assert.equal(indexedStatus({category:'watch',has_specifications:true,has_checked_fields:true}),'Source-checked specifications');assert.equal(indexedStatus({category:'watch',has_specifications:false,has_checked_fields:false}),'Specifications not yet recorded')});
