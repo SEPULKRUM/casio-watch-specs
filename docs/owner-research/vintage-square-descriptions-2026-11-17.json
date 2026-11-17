@@ -1,0 +1,209 @@
+{
+  "type": "owner_supplied_video_descriptions",
+  "received": "2026-11-17",
+  "verification": "Owner-supplied descriptions; not independently archive-verified. Original documentation claims await archived evidence.",
+  "manual_links": [
+    "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/2/240/qw240_JA.pdf",
+    "https://oldwatch.shop/manuals/casio/240"
+  ],
+  "watch_claims": [
+    {
+      "model": "DW-5000C",
+      "video": "https://www.youtube.com/watch?v=1k5VMJY6Y-Y",
+      "release": "1983-04",
+      "module": "240",
+      "historical_role": "First production G-SHOCK",
+      "shock_structure": "Hollow module with multiple impact-absorbing layers",
+      "water_resistance": "200 m / 20 bar",
+      "case": "Stainless steel inner case",
+      "bezel": "Resin / urethane",
+      "band": "Resin",
+      "glass": "Mineral glass",
+      "caseback": "Stainless steel screw-back",
+      "approximate_dimensions_mm": [
+        48.9,
+        42.8,
+        13.5
+      ],
+      "display": "Digital LCD",
+      "researched_variants": [
+        "DW-5000C-1A",
+        "DW-5000C-1B"
+      ],
+      "teardown_claim": "Modules 106 and 240 use MC6181 circuit-board platform; owner physically tested a 106 board with a 240 LCD. Description does not specify the test outcome or establish universal interchangeability.",
+      "research_topics": [
+        "original parts",
+        "magazine advertising",
+        "serial numbers and ranges",
+        "JAPAN factory markings",
+        "battery system"
+      ]
+    },
+    {
+      "model": "DW-5200C",
+      "video": "https://www.youtube.com/watch?v=vPtNwa5pwGk",
+      "release_year": 1984,
+      "module": "240",
+      "historical_role": "Hero; associated with Casio hockey commercial",
+      "observations": [
+        "JAPAN A, B, H and Y caseback markings",
+        "Serialized and non-serialized examples"
+      ],
+      "factory_interpretations": {
+        "JAPAN A": "Higashi Yamato, Tokyo",
+        "JAPAN B": "Kofu / Tamaho, Yamanashi, now Chuo City",
+        "JAPAN H": "Hachioji",
+        "JAPAN Y": "Yamagata / Higashine"
+      },
+      "factory_scope": "Owner-supplied associations only, not confirmed factory-code rules; root production-code decoder unchanged."
+    },
+    {
+      "model": "DW-5600C-1V",
+      "video": "https://www.youtube.com/watch?v=C-naeOirbe4",
+      "specimen_year": 1989,
+      "year_scope": "Date of the restored example, not the DW-5600C series introduction",
+      "module_of_restored_example": "901",
+      "historical_module_options": [
+        "691",
+        "901"
+      ],
+      "case": "Stainless steel screw-back",
+      "bezel": "Resin",
+      "band": "Resin",
+      "glass": "Mineral glass",
+      "display": "Positive LCD",
+      "light": "Micro/bulb light",
+      "water_resistance": "200 m when properly sealed",
+      "shock_resistant": true
+    }
+  ],
+  "module_claims": {
+    "240": {
+      "battery": "BR2320",
+      "voltage_v": 3,
+      "battery_diameter_mm": 23,
+      "battery_thickness_mm": 2,
+      "estimated_life_years": 7,
+      "life_scope": "Owner reports original documentation specifies approximately seven years under its stated conditions",
+      "functions": [
+        "time/calendar",
+        "12/24-hour",
+        "1/100-second stopwatch",
+        "countdown timer",
+        "alarm",
+        "hourly signal",
+        "micro light"
+      ]
+    },
+    "691": {
+      "battery": "CR2320",
+      "estimated_life_years": 7,
+      "functions": [
+        "digital timekeeping",
+        "12/24-hour",
+        "month/date/day",
+        "auto calendar",
+        "multi alarm",
+        "hourly signal",
+        "dual time",
+        "stopwatch",
+        "countdown timer / zero warning alarm",
+        "micro light"
+      ]
+    },
+    "901": {
+      "battery": "CR2016",
+      "estimated_life_years": 7,
+      "functions": [
+        "digital timekeeping",
+        "12/24-hour",
+        "month/date/day",
+        "auto calendar",
+        "multi alarm",
+        "hourly signal",
+        "dual time",
+        "stopwatch",
+        "countdown timer / zero warning alarm",
+        "micro light"
+      ]
+    }
+  },
+  "battery_notes": {
+    "BR": "Lithium/carbon-monofluoride chemistry",
+    "CR": "Lithium/manganese-dioxide chemistry",
+    "CR2320_dimensions_mm": [
+      23,
+      2
+    ],
+    "CR2025_dimensions_mm": [
+      20,
+      2.5
+    ],
+    "scope": "Owner-supplied comparison, not a verified substitution recommendation"
+  },
+  "parts_fitment_claims": {
+    "listed_members": [
+      {
+        "model": "DW-5600C-1V",
+        "module": "901"
+      },
+      {
+        "model": "DW-5600C-1V",
+        "module": "691"
+      },
+      {
+        "model": "DW-5200C-1",
+        "module": "240"
+      },
+      {
+        "model": "DW-5000-1A",
+        "module": "240"
+      },
+      {
+        "model": "DW-5200C-9",
+        "module": "240"
+      }
+    ],
+    "parts": [
+      {
+        "number": "72101103",
+        "description": "Resin bezel"
+      },
+      {
+        "number": "72045696",
+        "description": "Packing / O-ring",
+        "claimed_dimensions_mm": [
+          35,
+          0.9
+        ]
+      },
+      {
+        "number": "74263948",
+        "description": "Bezel screw"
+      },
+      {
+        "number": "70360110",
+        "description": "Resin band"
+      }
+    ],
+    "scope": "Owner-supplied shared fitment claim; verify each exact model and part. DW-5000-1A retained literally, not silently corrected to DW-5000C-1A. Parts fitment does not imply shared case specifications."
+  },
+  "prefix_interpretations": {
+    "DW": "Digital Watch; owner interpretation, alternative to earlier Digital Water Resistant community expansion; no official universal expansion established",
+    "5000": "Original square design family launched in 1983",
+    "C": "Original generation / casing-revision interpretation scoped to DW-5000C, DW-5200C and DW-5600C; not a universal Casio suffix definition"
+  },
+  "module_playlist": {
+    "modules": [
+      "240",
+      "691",
+      "901"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLG3czY0P7-Gw"
+  },
+  "related_general_video": {
+    "url": "https://www.youtube.com/watch?v=MVIbxbAJcFQ",
+    "title": "G-Shock Bezel Restoration / How to paint a Casio Bezel",
+    "scope": "General technique, no exact-model mapping supplied"
+  }
+}
