@@ -9,3 +9,5 @@ Individual IDs retain their full color and market endings. Existing regional pre
 Source assertions of manufacturer confirmation remain supplied claims pending independent archived-source review. Existing catalog fields are preserved, including equal-valued facts and their provenance. Conflicting new values remain visible in the per-model evidence rather than replacing existing facts. Physical measurements are never copied from module profiles or sibling variants. Newly associated modules without researched functions receive an association-only pending profile. No Shockbase sources are used.
 
 Tests reconcile every supplied identifier, search every model, execute all register detail-rendering paths, and verify reproducible generated artifacts. Original uploads are not offered as downloads.
+
+Japan-market JR references are grouped with the identical complete color/design reference under the same conflict safeguards as JF/ER/DR/CR/DF. This affects presentation only and never strips edition or color tokens.
