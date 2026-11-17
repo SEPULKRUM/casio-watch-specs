@@ -8,7 +8,7 @@ REFERENCE = 'research/supplied-three-pdf-research-2026-11-17.json'
 IMPORT = 'imports/zzzzzzzzzzzzzzzzzzzzzzzzzzz-three-pdf-research-2026-11-17.json'
 WEB = 'web/research-pdfs-data.mjs'
 
-def convert(notes, reference=REFERENCE):
+def convert(notes, reference=REFERENCE, uncertainty=None):
     if notes.get('type') != 'user_watch_specifications':
         raise ValueError('Expected supplied technical research')
     checksum = specs.digest(notes)
@@ -20,7 +20,7 @@ def convert(notes, reference=REFERENCE):
             raise ValueError('Duplicate claim field')
         record['specs'][claim['field']] = {
             'value': claim['value'],
-            'uncertainty': 'Owner-supplied research conversation; pending independent verification. Exact model scope; estimates and parts fitment retain their qualifications.',
+            'uncertainty': uncertainty or 'Owner-supplied research conversation; pending independent verification. Exact model scope; estimates and parts fitment retain their qualifications.',
             'sources': [{'kind': 'user_provided', 'provided_by': notes['provided_by'],
                 'permission': 'user_provided', 'reference': reference, 'source_sha256': checksum,
                 'accessed': notes['received'],

@@ -1,8 +1,8 @@
 {
-  "models": 1648,
+  "models": 1661,
   "modules": 272,
   "facts_by_status": {
-    "pending_review": 9225,
+    "pending_review": 9362,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 387,
+    "G-SHOCK": 400,
     "LINEAGE": 3,
     "Lineage": 22,
     "Oceanus": 85,
@@ -5354,6 +5354,11 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GW-5000-1JF": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
     "GW-5000B-1": [
       "case_material",
       "glass"
@@ -5361,6 +5366,11 @@
     "GW-5000HR-1": [
       "case_material",
       "glass"
+    ],
+    "GW-5000HS-7JF": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
     ],
     "GW-5000U-1JF": [
       "dimensions_mm",
@@ -5371,11 +5381,13 @@
       "water_resistance_rating"
     ],
     "GW-5035A-1": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
       "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-5035A-1JR": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW-5500": [
@@ -5384,6 +5396,16 @@
       "case_material",
       "band_material",
       "glass",
+      "water_resistance_rating"
+    ],
+    "GW-5510-1B": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GW-5510-1BJF": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW-5600BJ": [
@@ -6007,24 +6029,28 @@
       "glass",
       "water_resistance_rating"
     ],
-    "GW-M5610-1JF": [
-      "dimensions_mm",
-      "weight_g",
+    "GW-M5610-1BJF": [
       "case_material",
       "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610-1JF": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW-M5610B-1": [
       "case_material",
       "glass"
     ],
-    "GW-M5610BC-1JF": [
-      "dimensions_mm",
-      "weight_g",
+    "GW-M5610BA-1JF": [
       "case_material",
       "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610BC-1JF": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW-M5610BY-1": [
@@ -6120,11 +6146,13 @@
       "water_resistance_rating"
     ],
     "GW-M5610U-1CJF": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
       "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610U-1ER": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW-M5610U-1JF": [
@@ -6139,11 +6167,8 @@
       "water_resistance_rating"
     ],
     "GW-M5610UBC-1JF": [
-      "dimensions_mm",
-      "weight_g",
       "case_material",
       "band_material",
-      "glass",
       "water_resistance_rating"
     ],
     "GW-M5610UMOT21-1": [
@@ -6154,12 +6179,37 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GW-M5610UMOT21-1JR": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GW-M5630E-9": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
     "GW-M850": [
       "dimensions_mm",
       "weight_g",
       "case_material",
       "band_material",
       "glass",
+      "water_resistance_rating"
+    ],
+    "GW-S5600-1": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GW-S5600-1JF": [
+      "case_material",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GW-S5600U-1": [
+      "case_material",
+      "band_material",
       "water_resistance_rating"
     ],
     "GW2500-1A": [
@@ -11974,8 +12024,6 @@
     "GW-A1130-1A",
     "GW-B5600-2",
     "GW-B5600BC-1BJF",
-    "GW-M5610-1JF",
-    "GW-M5610BC-1JF",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
@@ -12373,7 +12421,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 729,
+  "models_with_single_module_reference": 744,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -12573,7 +12621,12 @@
     "GW-1500J": "3367",
     "GW-2500": "5064",
     "GW-5000": "3159",
+    "GW-5000-1JF": "3159",
+    "GW-5000HS-7JF": "3495",
+    "GW-5035A-1JR": "3159",
     "GW-5500": "3159",
+    "GW-5510-1B": "3159",
+    "GW-5510-1BJF": "3159",
     "GW-5600BJ": "2924",
     "GW-5600J": "2924",
     "GW-6900": "3179",
@@ -12633,16 +12686,26 @@
     "GW-9501KJ-8": "3553",
     "GW-9502KJ-8": "3553",
     "GW-9503KJ-2": "3553",
+    "GW-M5610-1BJF": "3159",
+    "GW-M5610-1JF": "3159",
+    "GW-M5610BA-1JF": "3159",
+    "GW-M5610BC-1JF": "3159",
     "GW-M5610MOYC-1ER": "3495",
     "GW-M5610NASA-4": "3495",
     "GW-M5610NASA22-4": "3495",
     "GW-M5610U-1BJF": "3495",
     "GW-M5610U-1CJF": "3495",
+    "GW-M5610U-1ER": "3495",
     "GW-M5610U-1JF": "3495",
     "GW-M5610U-2JF": "3495",
     "GW-M5610UBC-1JF": "3495",
     "GW-M5610UMOT21-1": "3495",
+    "GW-M5610UMOT21-1JR": "3495",
+    "GW-M5630E-9": "3159",
     "GW-M850": "3155",
+    "GW-S5600-1": "3159",
+    "GW-S5600-1JF": "3159",
+    "GW-S5600U-1": "3495",
     "GWF-1000": "3184",
     "GWF-D1000-1": "3445",
     "GWF-D1000-1ZB": "3445",
@@ -13572,8 +13635,6 @@
     "GW-A1100-2A",
     "GW-A1130-1A",
     "GW-B5600BC-1BJF",
-    "GW-M5610-1JF",
-    "GW-M5610BC-1JF",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
@@ -13965,7 +14026,7 @@
     "accuracy_seconds_per_month": 152,
     "alarm_count": 114,
     "battery_cell": 33,
-    "battery_runtime": 33,
+    "battery_runtime": 34,
     "calendar": 148,
     "catalog_1983_evidence": 29,
     "catalog_2011_associations": 48,
@@ -13977,6 +14038,7 @@
     "dive_log": 1,
     "illumination": 60,
     "master_module_reference": 18,
+    "module_comparison_evidence": 2,
     "power_supply": 106,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
@@ -14002,9 +14064,10 @@
     "10": 20,
     "11": 11,
     "12": 10,
-    "13": 6,
+    "13": 5,
     "14": 1,
     "15": 2,
+    "16": 1,
     "19": 1
   },
   "modules_with_sparse_profiles": [
