@@ -44,7 +44,12 @@ class MasterResearchTests(unittest.TestCase):
         for bucket in ['models', 'modules']:
             for key, row in self.baseline[bucket].items():
                 for field, fact in row['specs'].items():
-                    self.assertEqual(self.catalog[bucket][key]['specs'][field], fact)
+                    current=self.catalog[bucket][key]['specs'][field]
+                    if current!=fact:
+                        history=self.catalog['report']['master_2026_corrections']['superseded_or_retained']
+                        self.assertTrue(any(r['id']==key and r['field']==field and r.get('superseded_fact',{}).get('value')==fact['value'] for r in history))
+                        self.assertTrue(any(s.get('reference')=='research/supplied-2026-master-corrections-2026-11-17.json' for s in current['sources']))
+                    else:self.assertEqual(current,fact)
         self.assertEqual(set(self.catalog['models']) - set(self.baseline['models']), {r['id'] for r in self.records if r['kind']=='model'} - set(self.baseline['models']))
         self.assertGreaterEqual(len(self.catalog['modules']), 282)
 

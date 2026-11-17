@@ -112,7 +112,7 @@ def export_csv(catalog):
                'weight_g', 'water_resistance_rating', 'water_resistance_m', 'water_resistance_bar',
                      'case_material', 'case_finish', 'band_material', 'glass',
                      'catalog_year', 'catalog_description', 'catalog_material_finish',
-                     'supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references', 'master_research_reference', 'catalog_1983_evidence', 'research_pdf_evidence', 'module_comparison_evidence', 'metal_square_evidence', 'special_variant_evidence', 'series_pdf_evidence', 'worldwide_evidence',
+                     'supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references', 'master_research_reference', 'catalog_1983_evidence', 'research_pdf_evidence', 'module_comparison_evidence', 'metal_square_evidence', 'special_variant_evidence', 'series_pdf_evidence', 'worldwide_evidence', 'master_2026_evidence',
                      'verified_facts', 'pending_facts', 'source_urls', 'source_references'])
     for record in search(catalog):
         value = lambda name: field_value(record, name)
@@ -128,7 +128,7 @@ def export_csv(catalog):
                value('water_resistance_rating'), value('water_resistance_m'), value('water_resistance_bar'),
                value('case_material'), value('case_finish'), value('band_material'), value('glass'),
                value('catalog_year'), value('catalog_description'), value('catalog_material_finish'),
-               *[json.dumps(value(field), ensure_ascii=False) if value(field) is not None else '' for field in ('supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references', 'master_research_reference', 'catalog_1983_evidence', 'research_pdf_evidence', 'module_comparison_evidence', 'metal_square_evidence', 'special_variant_evidence', 'series_pdf_evidence', 'worldwide_evidence')],
+               *[json.dumps(value(field), ensure_ascii=False) if value(field) is not None else '' for field in ('supplied_model_details', 'supplied_family_specifications', 'reported_measurements', 'module_chronology', 'supplied_aliases', 'reported_module_claim', 'protrek_source_reference', 'reference_scope', 'catalog_2011_reference', 'indexed_dimensions_mm', 'indexed_weight_g', 'catalog_source_references', 'master_research_reference', 'catalog_1983_evidence', 'research_pdf_evidence', 'module_comparison_evidence', 'metal_square_evidence', 'special_variant_evidence', 'series_pdf_evidence', 'worldwide_evidence', 'master_2026_evidence')],
                sum(f['status'] == 'verified' for f in facts),
                sum(f['status'] == 'pending_review' for f in facts), ' | '.join(urls), ' | '.join(references)]
         writer.writerow(['' if v is None else spreadsheet_safe(v) for v in row])
@@ -157,6 +157,12 @@ def validate_user_evidence(root, records):
                                and row.get('field') == field and row.get('value') == fact['value']
                                for row in note.get('claims', [])):
                         raise ValueError('User citation does not contain this exact specification')
+                elif note.get('type') == 'supplied_2026_master_corrections':
+                    from master_2026_import import payload
+                    key=(reference,'master_2026_claims')
+                    if key not in cache:cache[key]={(r['kind'],r['id']):r for r in payload(root)[0]}
+                    candidate=cache[key].get((record['kind'],record['id']),{}).get('specs',{}).get(field)
+                    if not candidate or candidate['value']!=fact['value']:raise ValueError('2026 master evidence mismatch')
                 elif note.get('type') == 'supplied_worldwide_register':
                     from worldwide_import import artifacts, IMPORT
                     key=(reference,'worldwide_claims')
@@ -218,6 +224,8 @@ def build_catalog(root=Path('.')):
     result = specs.build(specs.load(root / 'watches.json'), records, reviews)
     if result['report']['conflicts']:
         raise ValueError('Conflicting facts: resolve before publishing catalog')
+    from master_2026_import import apply_to_catalog
+    result=apply_to_catalog(result,root)
     prior = root / 'data/catalog.json'
     if prior.exists():
         preserve_verified(specs.load(prior), result)

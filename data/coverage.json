@@ -1,8 +1,8 @@
 {
-  "models": 2680,
-  "modules": 285,
+  "models": 2685,
+  "modules": 286,
   "facts_by_status": {
-    "pending_review": 11561,
+    "pending_review": 11949,
     "verified": 33
   },
   "models_by_series": {
@@ -28,7 +28,7 @@
     "Pro Trek": 87,
     "Sea-Pathfinder": 4,
     "Sheen": 15,
-    "Unclassified": 1096,
+    "Unclassified": 1101,
     "Wave Ceptor": 34
   },
   "models_missing_fields": {
@@ -185,12 +185,7 @@
       "water_resistance_rating"
     ],
     "A158WEA-2JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "A158WEA-7JF": [
       "dimensions_mm",
@@ -209,12 +204,7 @@
       "water_resistance_rating"
     ],
     "A159WEVJ-2JR": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "A159WEVJ-7JR": [
       "dimensions_mm",
@@ -573,7 +563,7 @@
       "glass",
       "water_resistance_rating"
     ],
-    "AQ-240EAC-3A": [
+    "AQ-240EAC-3AJR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -581,7 +571,7 @@
       "glass",
       "water_resistance_rating"
     ],
-    "AQ-240EGAC-9A": [
+    "AQ-240EGAC-9AJR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -1900,14 +1890,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "BGA-290SA-2A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "BGA-290SA-4A": [
       "dimensions_mm",
       "weight_g",
@@ -2232,14 +2214,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "BGD-565TW-5": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "BGD-5700U-1BJF": [
       "dimensions_mm",
       "weight_g",
@@ -2493,54 +2467,6 @@
       "water_resistance_rating"
     ],
     "CL-301": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CMK-100TC-1A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CMK-100TCC-8A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CMK-100TCL-5A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CMK-100TD-1A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CMK-100TL-1A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "CRW-001JB-9JR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -3347,12 +3273,7 @@
       "water_resistance_rating"
     ],
     "DW-5600AKA-4JR": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "DW-5600BEP-9": [
       "dimensions_mm",
@@ -7579,28 +7500,13 @@
       "water_resistance_rating"
     ],
     "GG-B100X-1A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GG-B100X-1A3": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GG-B100X-1A9": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GG-B100XM-1A": [
       "dimensions_mm",
@@ -8270,7 +8176,7 @@
       "glass",
       "water_resistance_rating"
     ],
-    "GM-S5600XG-1": [
+    "GM-S5600XG-1JR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -8487,6 +8393,14 @@
       "water_resistance_rating"
     ],
     "GMA-S110XG-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMA-S110XG-4AJR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -9190,14 +9104,6 @@
       "water_resistance_rating"
     ],
     "GMW-BZ5000GD-9JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "GMW-BZ5000RC-1JR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -9918,14 +9824,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "GW-6900U-1JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "GW-6905K-7AJR": [
       "dimensions_mm",
       "weight_g",
@@ -10443,9 +10341,6 @@
       "water_resistance_rating"
     ],
     "GW-9500MH-5": [
-      "weight_g",
-      "case_material",
-      "band_material",
       "glass"
     ],
     "GW-9500MRY-1A9": [
@@ -10492,12 +10387,7 @@
       "glass"
     ],
     "GW-9503KJ-2JR": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "GW-A1000-1AJF": [
       "dimensions_mm",
@@ -14495,14 +14385,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "MRG-B2100HS-9A": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "MRG-B2100R-2AJR": [
       "dimensions_mm",
       "weight_g",
@@ -15075,14 +14957,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "MTG-B4000D-1AJF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "MTG-G1000D-1A2JF": [
       "dimensions_mm",
       "weight_g",
@@ -15239,14 +15113,6 @@
       "water_resistance_rating"
     ],
     "MTP-1302SG-7B3V": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "MTP-1440DJ-1AJF": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -16216,14 +16082,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "OCW-S40PW-7AJF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
     "OCW-S5000AP-2AJF": [
       "dimensions_mm",
       "weight_g",
@@ -16303,20 +16161,6 @@
     "OCW-S6000BV-1AJR": [
       "dimensions_mm",
       "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "OCW-S7000F-2AJF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
-    ],
-    "OCW-SG1000MC-1AJR": [
       "case_material",
       "band_material",
       "glass",
@@ -16787,12 +16631,7 @@
       "water_resistance_rating"
     ],
     "PRG-69-1JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "PRJ-01-1JF": [
       "dimensions_mm",
@@ -16835,12 +16674,7 @@
       "water_resistance_rating"
     ],
     "PRJ-B001NJ-3JR": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "PRT-B50T-7": [
       "dimensions_mm",
@@ -17268,12 +17102,7 @@
       "water_resistance_rating"
     ],
     "PRW-61D-2JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "PRW-61MA": [
       "dimensions_mm",
@@ -17339,9 +17168,6 @@
       "glass",
       "water_resistance_rating"
     ],
-    "PRW-69Y-1JF": [
-      "water_resistance_rating"
-    ],
     "PRW-69YB-3": [
       "dimensions_mm",
       "weight_g",
@@ -17351,9 +17177,6 @@
       "water_resistance_rating"
     ],
     "PRW-69YB-3JF": [
-      "water_resistance_rating"
-    ],
-    "PRW-69YT-7JF": [
       "water_resistance_rating"
     ],
     "PRW-7000-1A": [
@@ -17472,12 +17295,7 @@
       "water_resistance_rating"
     ],
     "PRW-B1000B-2JF": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
-      "water_resistance_rating"
+      "glass"
     ],
     "PRW-B1000WM-1": [
       "dimensions_mm",
@@ -19313,8 +19131,8 @@
     "AQ-230ECK-3A",
     "AQ-230EMG-9A",
     "AQ-230GA",
-    "AQ-240EAC-3A",
-    "AQ-240EGAC-9A",
+    "AQ-240EAC-3AJR",
+    "AQ-240EGAC-9AJR",
     "AQF-100WBJ",
     "AQF-100WDJ",
     "AQW-100",
@@ -20128,6 +19946,7 @@
     "GM-S5600PG-1JF",
     "GM-S5600XG",
     "GM-S5600XG-1",
+    "GM-S5600XG-1JR",
     "GM-S5640GEM",
     "GMA-P2100BA-1A",
     "GMA-P2100BA-2A",
@@ -20155,6 +19974,8 @@
     "GMA-S110ST-7AJF",
     "GMA-S110XG",
     "GMA-S110XG-4",
+    "GMA-S110XG-4A",
+    "GMA-S110XG-4AJR",
     "GMA-S114RX",
     "GMA-S114RX-7AJR",
     "GMA-S120SA-7A1JF",
@@ -21078,7 +20899,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 878,
+  "models_with_single_module_reference": 880,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -21114,6 +20935,8 @@
     "AG-21L-4": "207",
     "AG-30-1": "226",
     "AG-31L-4": "226",
+    "AQ-240EAC-3A": "5154",
+    "AQ-240EGAC-9A": "5154",
     "AQ-30W": "305",
     "AQ-320": "305",
     "AQ-320G": "305",
@@ -21953,8 +21776,8 @@
     "AQ-230ECK-3A",
     "AQ-230EMG-9A",
     "AQ-230GA",
-    "AQ-240EAC-3A",
-    "AQ-240EGAC-9A",
+    "AQ-240EAC-3AJR",
+    "AQ-240EGAC-9AJR",
     "AQF-100WBJ",
     "AQF-100WDJ",
     "AQW-100",
@@ -22759,6 +22582,7 @@
     "GM-S5600PG-1JF",
     "GM-S5600XG",
     "GM-S5600XG-1",
+    "GM-S5600XG-1JR",
     "GM-S5640GEM",
     "GMA-P2100BA-1A",
     "GMA-P2100BA-2A",
@@ -22786,6 +22610,8 @@
     "GMA-S110ST-7AJF",
     "GMA-S110XG",
     "GMA-S110XG-4",
+    "GMA-S110XG-4A",
+    "GMA-S110XG-4AJR",
     "GMA-S114RX",
     "GMA-S114RX-7AJR",
     "GMA-S120SA-7A1JF",
@@ -23713,6 +23539,7 @@
     "display_polarity": 2,
     "dive_log": 1,
     "illumination": 62,
+    "master_2026_evidence": 1,
     "master_module_reference": 18,
     "metal_square_evidence": 4,
     "module_comparison_evidence": 2,
@@ -23731,7 +23558,7 @@
     "worldwide_evidence": 3
   },
   "module_profiles_by_fact_count": {
-    "1": 112,
+    "1": 113,
     "2": 17,
     "3": 12,
     "4": 13,
@@ -23852,6 +23679,7 @@
     "5133",
     "5135",
     "515",
+    "5154",
     "5163",
     "5214",
     "5227",

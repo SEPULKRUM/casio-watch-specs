@@ -1,0 +1,11 @@
+# Updated 2026 master
+
+The supplied 17 November 2026 continuation has 203 current records (202 individual watch references and one paired-watch retail package), 78 dated field events and 36 records with targeted manufacturer-page specification research. It retains two archived XG press-release shorthand records. It corrects GMA-S110XG-4 to GMA-S110XG-4A. Four explicitly documented Japan-market references are also indexed and grouped with their canonical watches, without copying physical fields. The previous register remains a provenance record, not the current display for these models. No full baseline snapshot or original upload is distributed.
+
+Run `python master_2026_import.py`, `python model_identity.py`, then `python catalog.py build`. Generated technical evidence is imported before the dated correction layer updates unverified scalar values. Existing source-checked facts are protected; any disagreement with them is retained for review. Superseded values remain in the correction history, rather than being silently discarded. The browser applies the same correction layer after the earlier technical addenda.
+
+Only the 36 model-specific audit records authorize scalar replacements; the remaining records retain their explicit uncertainty and release-status qualifications. Japan list prices and release/announcement distinctions remain in the current model evidence. Module 5154 is linked only to the two explicitly documented AQ-240 references. No physical measurements are copied to modules or between variants; no functional module specifications are invented. Mechanical CMK watches receive no inferred quartz module.
+
+Old XG spelling links open the corrected full reference. Partial XG press-release codes remain family context and do not count as additional watch designs. Regional market spellings remain grouped, each retaining exact-reference citations. Current master data replaces earlier register text in active display and search; dated prior values remain available as history.
+
+The supplied file describes a partial manufacturer-page audit, not a full reinspection of all models. Source claims and verified-field lists are preserved without inventing an independent archive review. No Shockbase sources are used.

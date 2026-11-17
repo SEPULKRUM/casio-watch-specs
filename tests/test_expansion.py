@@ -60,7 +60,12 @@ class ExpansionTests(unittest.TestCase):
         for bucket in ('models', 'modules'):
             for key, record in baseline[bucket].items():
                 for field, fact in record['specs'].items():
-                    self.assertEqual(self.catalog[bucket][key]['specs'][field], fact)
+                    current=self.catalog[bucket][key]['specs'][field]
+                    if current!=fact:
+                        history=self.catalog['report']['master_2026_corrections']['superseded_or_retained']
+                        self.assertTrue(any(r['id']==key and r['field']==field and r.get('superseded_fact',{}).get('value')==fact['value'] for r in history))
+                        self.assertTrue(any(s.get('reference')=='research/supplied-2026-master-corrections-2026-11-17.json' for s in current['sources']))
+                    else:self.assertEqual(current,fact)
 
     def test_sparse_profiles_and_field_coverage_are_reported(self):
         report = catalog.coverage(self.catalog)
