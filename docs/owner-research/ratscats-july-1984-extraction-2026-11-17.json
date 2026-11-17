@@ -1,0 +1,737 @@
+{
+  "source_page": "https://ratscats.client.jp/caws597.html",
+  "catalog_date": "1984-07",
+  "date_note": "Webpage title says 1985 alongside Showa 59 July. Printed SUMMER 1984 emblem and footer Showa 59 July support July 1984.",
+  "accessed": "2026-11-17",
+  "brand": "Casio",
+  "scope": "Manual visual candidate transcription of legible watch labels. Small/ambiguous and multi-suffix labels are quarantined; slash notation is compact transcription, not an invented retail model. No exhaustive claim for clipped edges or tiny labels. Preserve exact spelling and confirm against source before import. Historical publication date is not every model's release date. No images or personal/contact details republished.",
+  "captures": [
+    {
+      "path": "caws597.html",
+      "original_url": "https://ratscats.client.jp/caws597.html",
+      "archive_url": "https://web.archive.org/web/20250203022531/https://ratscats.client.jp/caws597.html",
+      "timestamp": "20250203022531",
+      "sha256": "7533569943586b759dfc1ddc257128de2c3f1bee9f65cec41be9d908ca80429c",
+      "bytes": 3082,
+      "retrieved": true,
+      "discovery_url": "http://ratscats.client.jp/caws597.html"
+    },
+    {
+      "path": "caw/caw-s597-a.JPG",
+      "original_url": "https://ratscats.client.jp/caw/caw-s597-a.JPG",
+      "archive_url": "https://web.archive.org/web/20250203022531/https://ratscats.client.jp/caw/caw-s597-a.JPG",
+      "timestamp": "20250203022531",
+      "sha256": "9d0fb6dad57b486af2f175809fd0ffa23ee9bbd614d186c72667adee8a59c49f",
+      "bytes": 1011133,
+      "retrieved": true,
+      "discovery_url": "http://ratscats.client.jp/caw/caw-s597-a.JPG"
+    },
+    {
+      "path": "caw/caw-s597-c.JPG",
+      "original_url": "https://ratscats.client.jp/caw/caw-s597-c.JPG",
+      "archive_url": "https://web.archive.org/web/20250203023436/https://ratscats.client.jp/caw/caw-s597-c.JPG",
+      "timestamp": "20250203023436",
+      "sha256": "8c8eb9d3b4d4d291c5528ef8987c49ec49d4bdea6ba95c3ce1296d176e6b656f",
+      "bytes": 847648,
+      "retrieved": true,
+      "discovery_url": "http://ratscats.client.jp/caw/caw-s597-c.JPG"
+    }
+  ],
+  "models": [
+    {
+      "model_id": "LW-304-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LW-305-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LW-103-2",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LW-502-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LW-601-2",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-50W-1A",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-31W-1A",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-350CW-2",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-350CW-4",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-351CW-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-351CW-4",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-351CW-7",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-31W-1B",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-30W-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-30W-7",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-810W-7",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "FL-70C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L-5-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L-52G-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L-9G-5",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AG-55-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-801L-7B",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-801GL-5A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-803L-7A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-803GL-1C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2000L-7D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2000GL-9C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2001BL-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2003-7C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2003G-9C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2002-7C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-2002G-9C",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF120-2",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF200L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF200GL-4",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF1000GL-5",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF1000L-2",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF450G-5",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF450-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF140L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF150L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF210-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF210G-5",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF210G-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LA10-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-310GL-5D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-310GL-1D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-310L-7D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-312-7A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-312-1A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-312L-7A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-313-7D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-313-1D",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-314L-7A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-314L-7B",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-314GL-9A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-316L-7A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-312G-5A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-312G-9A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB610-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB610GL-5",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB610L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB319L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB320GL-5",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB320L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB810-2",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L790L-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L790GL-5A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    }
+  ],
+  "grouped_or_uncertain_labels": [
+    {
+      "label_transcription": "LW-7-1A/1B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-10-1/2/3/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-20-1/2/4/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-30-1/2/3/4",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-50-2/4/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-305C-1A/1B/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-110C-1/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-110-7A/7B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-201C-1/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-31W-1C/2/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-600CW-2C/3C/4C",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-950W-7/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-960CW-2/4",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "F-21W-2/3/4/8",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-2FW-1/2/4",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-6F-2/4/7/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-6-1/5/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-5F-2/4/7/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-3-1/1A/4/8/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-40-1/2/4/7/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-SC-1/2/6/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-SB-1/2/4/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-SH-1A/4B/7B/9C",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-6A-1/2/4/4B/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-3J-1/4/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-3P-2/4/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AG-1S-1/4/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AG-2-1/4/7",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AG-2Y-2A/4B/9B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AG-60-1A/2A/4B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-801L-7A/1A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-801GL-9A/9B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-803GL-7B/9A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-700L-7A/7B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-802G-9A/1D",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-802-7C/7A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-800-7C/1A/7A/7C",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-800G-9C/1A/1C/9A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LF150-1/7",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LF150G-4/9",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LF200G-5",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LA557-1",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LA556-1/2",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LA557GL-5",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LA557L-1",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-312L-1C/7A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-312GL-1C/9A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-317L-7A/7B/7C",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-317GL-9C/9A/9B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-316GL-9A/1A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-316-7A/1D",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LB319-1/2",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LB320-1/2",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L790G-5A/5B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    }
+  ],
+  "technical_observations": [
+    {
+      "model_id": "LW-304-1",
+      "panel": 0,
+      "historical_price_jpy": 5500,
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-305-1",
+      "panel": 0,
+      "historical_price_jpy": 4900,
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "LW-601-2",
+      "panel": 0,
+      "historical_price_jpy": 8900,
+      "water_resistance_m": 50
+    },
+    {
+      "model_id": "FL-70C-1",
+      "panel": 0,
+      "historical_price_jpy": 4900,
+      "water_resistance_m": 30,
+      "scope": "Printed 30 m badge for casual quartz group; pending exact-row review."
+    }
+  ],
+  "excluded_non_watch": [
+    {
+      "label_transcription": "LP-31W-7",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "TK-58-4/9",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "TK-5A-1",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-14H-7",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-14C-4",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-15-7",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-520-7",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-520G-9",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    },
+    {
+      "label_transcription": "LP-30-7",
+      "category": "pendant_or_keychain_timepiece",
+      "panel": 0,
+      "note": "Not a wristwatch; no Casio watch-count contribution. Multi-suffix labels not expanded."
+    }
+  ]
+}

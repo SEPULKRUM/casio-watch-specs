@@ -1,0 +1,931 @@
+{
+  "source_page": "https://ratscats.client.jp/caw.html",
+  "catalog_date": "1985-08",
+  "date_note": "Page heading Showa 60 August and printed footer agree on August 1985.",
+  "accessed": "2026-11-17",
+  "brand": "Casio",
+  "scope": "Manual visual candidate transcription of legible watch labels. Small/ambiguous and multi-suffix labels are quarantined; slash notation is compact transcription, not an invented retail model. No exhaustive claim for clipped edges or tiny labels. Preserve exact spelling and confirm against source before import. Historical publication date is not every model's release date. No images or personal/contact details republished.",
+  "captures": [
+    {
+      "path": "caw.html",
+      "original_url": "http://ratscats.client.jp/caw.html",
+      "archive_url": "https://web.archive.org/web/20190509074528/http://ratscats.client.jp/caw.html",
+      "timestamp": "20190509074528",
+      "sha256": "c1d47e04a2dc7774de9bf8d65834c008419839c0b7a7e8610f361809e042fe77",
+      "bytes": 3453,
+      "retrieved": true
+    },
+    {
+      "path": "caw/caw01.JPG",
+      "original_url": "http://ratscats.client.jp/caw/caw01.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075303/http://ratscats.client.jp/caw/caw01.JPG",
+      "timestamp": "20190509075303",
+      "sha256": "9096d543cf5508a98d6aae80f2a046402efac15ba43d934e93e74848e1f0d67a",
+      "bytes": 423802,
+      "retrieved": true
+    },
+    {
+      "path": "caw/caw02.JPG",
+      "original_url": "http://ratscats.client.jp/caw/caw02.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075304/http://ratscats.client.jp/caw/caw02.JPG",
+      "timestamp": "20190509075304",
+      "sha256": "528ede744419b34667945004be0e35c114cbc28c6f6f649a6fed5f3d22eaeb8b",
+      "bytes": 442877,
+      "retrieved": true
+    },
+    {
+      "path": "caw/caw03.JPG",
+      "original_url": "http://ratscats.client.jp/caw/caw03.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075303/http://ratscats.client.jp/caw/caw03.JPG",
+      "timestamp": "20190509075303",
+      "sha256": "47ca0a7ca0c60d7a66a24b0e781e5b00ab396337f89a1c985936deb6b05d9ac8",
+      "bytes": 448646,
+      "retrieved": true
+    },
+    {
+      "path": "caw/caw04.JPG",
+      "original_url": "http://ratscats.client.jp/caw/caw04.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075304/http://ratscats.client.jp/caw/caw04.JPG",
+      "timestamp": "20190509075304",
+      "sha256": "459041f0be0901e9fe9ecf3ff034cf8273debce4f54e12fed8261eca53f219e4",
+      "bytes": 449552,
+      "retrieved": true
+    }
+  ],
+  "models": [
+    {
+      "model_id": "FS-10-1A",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "FS-10-1B",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "FS-10-1E",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "BA-80-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "BA-200-1A",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "BA-200G-5",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DB-1000G-5",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DB-1000-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DB-50-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "CD-40-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "CD-401-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AE-80-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AE-71G-5",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-300-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-3000C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-210-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-1100C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-1200C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-1400-1A",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-5200C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-5400C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-5500C-1",
+      "panel": 0,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-700SC-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-105C-1A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-51WSC-1A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "DW-600-1A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "WW-31-1A",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "WW-34-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-760C-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-760-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "J-31W-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-17-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-62-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "W-56-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "WS-77-1",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQD-3000W-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQD-2000W-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQD-200W-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQW-100-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQW-100-1E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-600CW-7E",
+      "panel": 1,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "A271-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "A160-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "A256-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-35CW-1E",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-354W-1E",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-35IW-7",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "A663-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-32W-1E",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "GR-3-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "GS-12-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "GM-5-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "CA-50-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "CA-502-1",
+      "panel": 2,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "SA-100G-5",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "SA-9001G-9",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF203L-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF203GL-5",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF200GL-5",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LF200L-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "FL-70C-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L-52G-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AG-5-3",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AG-6-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LA558-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LB610-1",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L401L-2",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L401-2",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "L401G-5",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-302-7F",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-302GL-9F",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-318GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-815GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-816GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "LQ-805GL-9D",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-515GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AQ-515L-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "AT-552-7",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-503G-9",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-503-7",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-504GL-9C",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-705GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-706GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-3015GL-9A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    },
+    {
+      "model_id": "MQ-3016GL-7A",
+      "panel": 3,
+      "status": "visual_transcription_pending_independent_review"
+    }
+  ],
+  "grouped_or_uncertain_labels": [
+    {
+      "label_transcription": "AQ-340-7/1",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-321-7/1",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "DB-500-1/2",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "DB-500G-5",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AE-8W-1A/1B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AE-10W-1A/1B",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AE-90W-1/9",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AE-70-1/2",
+      "panel": 0,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-16-1",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-15-1A/1B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "TS-1200J-1",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-700-1/2",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-10-1A/1B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-26-1A/1B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "W-34-1A/1B",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQW-500C-1A/9A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MDW-500-1A/9A",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-533CW-7E/2E",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-600CW-7E/2E",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-554CW-1E",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-601CW-1E",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-550CW-2/1/4",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-351CW-7/1/4",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-100W-1E/3E",
+      "panel": 1,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQA-10W-7E/3E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-30W-7B/1B",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQW-10-1E/2E/7E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQW-11-7E/1E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-52W-7E/2E/1E/4E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-400W-1A/9A",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-30W-1/7",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-31W-1/7",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-33W-7E/3E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "A152-1/2",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "A662-1/2",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "B612-2",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "B210-1/2",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "B817-1/2",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "B819GL-5",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "B819L-1",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "F-87W-1",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "F-86-1",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "F-20W-1A/1B",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "F-14-1A/1B",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-4-1/4/7",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-10-2/1/3/7",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-112-1",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LW-60-7/1/4",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-35W-4E/2E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-34W-1E/4E/3E/2E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LQ-34W-7E/9E",
+      "panel": 2,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "SA-900-1/2",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-2W-4A/1A/4B/7",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-6-1/5/7",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "L-6F-2/4/7/9",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LB320-1/2",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LB320GL-5",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LB320L-1",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-100W-1E/7E",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-412-7E/3E",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-412G-9A",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-410-7A/3E",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "AQ-410G-9A",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-305-7A/3D",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-505-7A/1D",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MQ-302GL-9A/9B",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MV-306GL-9B/7B",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LV-316GL-9B/7B",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "MV-322L-7B",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    },
+    {
+      "label_transcription": "LV-382L-7B",
+      "panel": 3,
+      "category": "grouped_or_uncertain"
+    }
+  ],
+  "technical_observations": [
+    {
+      "model_id": "FS-10-1A",
+      "panel": 0,
+      "line": "PELA",
+      "historical_price_jpy": 3900,
+      "scope": "No thickness inferred from thin-watch branding."
+    },
+    {
+      "model_id": "BA-80-1",
+      "panel": 0,
+      "feature": "Loud alarm",
+      "historical_price_jpy": 5900
+    },
+    {
+      "model_id": "DW-300-1",
+      "panel": 0,
+      "water_resistance_m": 300,
+      "module_candidate": "548",
+      "historical_price_jpy": 7900
+    },
+    {
+      "model_id": "DW-3000C-1",
+      "panel": 0,
+      "water_resistance_m": 300,
+      "module_candidate": "548",
+      "historical_price_jpy": 11400
+    },
+    {
+      "model_id": "DW-5200C-1",
+      "panel": 0,
+      "water_resistance_m": 200,
+      "module_candidate": "240",
+      "historical_price_jpy": 11000
+    },
+    {
+      "model_id": "DW-5400C-1",
+      "panel": 0,
+      "water_resistance_m": 200,
+      "module_candidate": "240",
+      "historical_price_jpy": 11000
+    },
+    {
+      "model_id": "DW-5500C-1",
+      "panel": 0,
+      "water_resistance_m": 200,
+      "historical_price_jpy": 14800,
+      "feature": "Mud-resistant / shock-resistant printed group association"
+    },
+    {
+      "model_id": "GM-5-1",
+      "panel": 2,
+      "feature": "Game Digital \u2014 basketball game",
+      "historical_price_jpy": 4900
+    },
+    {
+      "model_id": "GR-3-1",
+      "panel": 2,
+      "feature": "Game Digital \u2014 robot game",
+      "historical_price_jpy": 4900
+    },
+    {
+      "model_id": "GS-12-1",
+      "panel": 2,
+      "feature": "Game Digital \u2014 football game",
+      "historical_price_jpy": 4900
+    },
+    {
+      "model_id": "CA-50-1",
+      "panel": 2,
+      "feature": "8-digit calculator watch",
+      "historical_price_jpy": 4900
+    },
+    {
+      "model_id": "CA-502-1",
+      "panel": 2,
+      "feature": "8-digit calculator watch",
+      "historical_price_jpy": 5900
+    }
+  ],
+  "excluded_non_watch": [
+    {
+      "model_id": "HS-20-1",
+      "category": "handheld_stopwatch",
+      "historical_price_jpy": 5900
+    },
+    {
+      "model_id": "TV-21",
+      "category": "pocket_television",
+      "historical_price_jpy": 19800
+    },
+    {
+      "model_id": "TV-1000",
+      "category": "pocket_television",
+      "historical_price_jpy": 58000
+    }
+  ]
+}

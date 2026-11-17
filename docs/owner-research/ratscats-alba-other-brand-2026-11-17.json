@@ -1,0 +1,202 @@
+{
+  "source_page": "https://ratscats.client.jp/alb.html",
+  "catalog_date_as_page_described": "1984-06",
+  "brand": "ALBA / Seiko",
+  "category": "other_brand_reference",
+  "casio_watch_count_contribution": 0,
+  "accessed": "2026-11-17",
+  "scope": "Two archived ALBA catalog panels visually inspected. ALBA branding is explicit. No ALBA product imported as Casio. Retain provenance separately; full small-print model transcription not completed.",
+  "captures": [
+    {
+      "path": "alb.html",
+      "original_url": "http://ratscats.client.jp/alb.html",
+      "archive_url": "https://web.archive.org/web/20190509074517/http://ratscats.client.jp/alb.html",
+      "timestamp": "20190509074517",
+      "sha256": "473e7486c6f860922016da469a81ffa7cf969f337a45f6f0fa5482e31153aa2a",
+      "bytes": 2892,
+      "retrieved": true
+    },
+    {
+      "path": "alb/alba01.jpg",
+      "original_url": "http://ratscats.client.jp/alb/alba01.jpg",
+      "archive_url": "https://web.archive.org/web/20190509075055/http://ratscats.client.jp/alb/alba01.jpg",
+      "timestamp": "20190509075055",
+      "sha256": "180d16e089371d1bd082fe268e993f5c9f1f7ea54754393f69ab4b308510cd1a",
+      "bytes": 360599,
+      "retrieved": true
+    },
+    {
+      "path": "alb/alba02.JPG",
+      "original_url": "http://ratscats.client.jp/alb/alba02.JPG",
+      "archive_url": "https://web.archive.org/web/20190509075055/http://ratscats.client.jp/alb/alba02.JPG",
+      "timestamp": "20190509075055",
+      "sha256": "f171d8db0b0912acf05a214e3b52ab98bb19946c0654f2e5298e2605b9c2d470",
+      "bytes": 381301,
+      "retrieved": true
+    }
+  ],
+  "observed_product_groups": [
+    "analog divers and water-resistant watches",
+    "digital sports watches",
+    "outdoor compass accessories",
+    "interchangeable straps and bezels"
+  ],
+  "legible_reference_candidates": [
+    {
+      "id": "TP001M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TP002M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TW932R",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VT011G",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VT011A",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VT120B",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VS692A",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VT110B",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TJ350G",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TC042M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TC040M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VR040B",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VR042R",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TG010M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TG020M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VT001M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TY223M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TY704M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TY301M",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "PC000E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TH002R",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TH002E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "PC002E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VG700E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TH046B",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VG701L",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "VG702R",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TC031E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TC032E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TL030E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TL032E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TS940E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "SH071E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "SH000E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TS070E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TT003E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "SE002B",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TT042E",
+      "status": "other_brand_pending_visual_review"
+    },
+    {
+      "id": "TT040E",
+      "status": "other_brand_pending_visual_review"
+    }
+  ]
+}
