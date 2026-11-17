@@ -1,8 +1,8 @@
 {
-  "models": 1786,
-  "modules": 277,
+  "models": 1801,
+  "modules": 282,
   "facts_by_status": {
-    "pending_review": 10195,
+    "pending_review": 10298,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 501,
+    "G-SHOCK": 516,
     "LINEAGE": 11,
     "Lineage": 22,
     "OVERLAND": 2,
@@ -2179,6 +2179,14 @@
       "band_material",
       "glass"
     ],
+    "DW-1983-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "DW-200": [
       "dimensions_mm",
       "weight_g",
@@ -2292,6 +2300,28 @@
       "weight_g",
       "water_resistance_rating"
     ],
+    "DW-5000ML-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5000R-1A": [
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5000SP-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "DW-500C-1V": [
       "dimensions_mm",
       "weight_g",
@@ -2305,6 +2335,80 @@
       "case_material",
       "band_material",
       "glass"
+    ],
+    "DW-5025B-7": [
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5025D-8": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5025SP-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5030-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5030C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5030D-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5035D-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5035E-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5040PG-1": [
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5040RX-7": [
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "DW-5040RX-7JR": [
       "dimensions_mm",
@@ -5406,6 +5510,14 @@
       "water_resistance_rating"
     ],
     "GS-500G-9A": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GSET-30-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -12787,6 +12899,7 @@
     "GS-1400B",
     "GS-500-1A",
     "GS-500G-9A",
+    "GSET-30-1",
     "GST-B100-1AJF",
     "GST-B100D-1AJF",
     "GST-B400-1AJF",
@@ -13248,7 +13361,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 849,
+  "models_with_single_module_reference": 863,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -13338,6 +13451,7 @@
     "DW-1000": "280",
     "DW-1000C": "280",
     "DW-1500C-1V": "690",
+    "DW-1983-1": "901",
     "DW-200": "181",
     "DW-210": "548",
     "DW-260-1V": "690",
@@ -13354,8 +13468,21 @@
     "DW-5000C": "240",
     "DW-5000C-1A": "240",
     "DW-5000C-1B": "240",
+    "DW-5000ML-1": "1545",
+    "DW-5000R-1A": "3576",
+    "DW-5000SP-1": "1545",
     "DW-500C-1V": "540",
     "DW-500C-9BV": "540",
+    "DW-5025B-7": "1545",
+    "DW-5025D-8": "1545",
+    "DW-5025SP-1": "1545",
+    "DW-5030-1": "3421",
+    "DW-5030C-1": "3421",
+    "DW-5030D-1": "3421",
+    "DW-5035D-1B": "3421",
+    "DW-5035E-7": "3421",
+    "DW-5040PG-1": "3421",
+    "DW-5040RX-7": "3534",
     "DW-5200C": "240",
     "DW-5200C-1": "240",
     "DW-5200C-9": "240",
@@ -14524,6 +14651,7 @@
     "GS-1400B",
     "GS-500-1A",
     "GS-500G-9A",
+    "GSET-30-1",
     "GST-B100-1AJF",
     "GST-B100D-1AJF",
     "GST-B400-1AJF",
@@ -14995,7 +15123,7 @@
     "power_supply": 107,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
-    "series_pdf_evidence": 8,
+    "series_pdf_evidence": 14,
     "snooze_alarm": 42,
     "stopwatch": 85,
     "supplied_module_specifications": 12,
@@ -15006,7 +15134,7 @@
     "world_time_zones": 74
   },
   "module_profiles_by_fact_count": {
-    "1": 104,
+    "1": 109,
     "2": 17,
     "3": 12,
     "4": 13,
@@ -15018,8 +15146,8 @@
     "10": 19,
     "11": 11,
     "12": 12,
-    "13": 5,
-    "14": 1,
+    "13": 4,
+    "14": 2,
     "15": 2,
     "16": 1,
     "20": 1
@@ -15035,6 +15163,7 @@
     "134",
     "135",
     "152",
+    "1545",
     "1572",
     "164",
     "166",
@@ -15078,12 +15207,15 @@
     "337",
     "339",
     "340",
+    "3421",
     "344",
     "3482",
     "350",
     "3506",
     "3514",
     "3515",
+    "3534",
+    "3576",
     "3716",
     "3721",
     "376",
@@ -15157,7 +15289,8 @@
     "83",
     "830",
     "85",
-    "87"
+    "87",
+    "901"
   ],
   "note": "Coverage counts include pending candidates; unknown does not mean absent."
 }

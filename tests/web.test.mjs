@@ -118,7 +118,7 @@ test('original and updated 5610 BC suffixes retain separate U and avoid global U
 test('multi-line guide adds qualified prefix associations and references without catalog inflation',()=>{
  for(const prefix of ['CMK','MDV','AEQ','WVQ','LIN','BGS','MTD','MRW'])assert.equal(decodeModel(prefix,data,refs).prefix,prefix);
  assert.equal(decodeModel('CMK',data,refs).family,'CASIO AUTOMATIC');assert.equal(decodeModel('CMK',data,refs).segments[0].status,'official_observed');assert.match(decodeModel('MDV',data,refs).segments[0].description,/do not infer 200 m/);
- const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,1786);
+ const cmk=exactReferences(refs,'CMK-100TCC-8AER')[0];assert.ok(cmk);assert.equal(cmk.status,'machine_candidate');assert.ok(cmk.observations.some(o=>o.role==='supplied_guide_text'&&o.pdf_page===1));assert.equal(data.models[cmk.id],undefined);assert.equal(stats(data).models,1801);
 });
 
 const {prefixMeaning}=await import('../web/prefix-meanings.mjs');
@@ -200,7 +200,7 @@ test('Gold Tornado commemorative code and module specifications stay correctly s
 test('anniversary directory exposes every supplied entry without importing all as verified watches',async()=>{
  const {anniversaryDirectory}=await import('../web/anniversary.mjs');assert.equal(anniversaryDirectory.length,124);assert.equal(new Set(anniversaryDirectory.map(r=>r.id)).size,120);
  for(const item of anniversaryDirectory){assert.ok(refs.models[item.id],item.id);const r=decodeModel(item.id,data,refs);assert.ok(r.editionNotes?.length,item.id);}
- assert.equal(stats(data).models,1786);
+ assert.equal(stats(data).models,1801);
 });
 
 test('historical catalog rows display exact facts without modern prefix or colour inference',()=>{
@@ -209,7 +209,7 @@ test('historical catalog rows display exact facts without modern prefix or colou
  assert.match(decodeModel('GMW-B5000',data,refs).segments[0].communityMeaning.meaning,/Metal/);
 });
 test('uncertain historical readings remain separate from imported model identities',async()=>{
- const {historicalReview}=await import('../web/historical-review.mjs');assert.equal(historicalReview.length,56);assert.equal(historicalReview.filter(r=>r.catalog_year===1989).length,41);assert.ok(historicalReview.some(r=>r.reading==='MQ.S0W.18'));assert.ok(!data.models['MQ.S0W.18']);assert.equal(stats(data).models,1786);
+ const {historicalReview}=await import('../web/historical-review.mjs');assert.equal(historicalReview.length,56);assert.equal(historicalReview.filter(r=>r.catalog_year===1989).length,41);assert.ok(historicalReview.some(r=>r.reading==='MQ.S0W.18'));assert.ok(!data.models['MQ.S0W.18']);assert.equal(stats(data).models,1801);
 });
 
 test('consolidated source aliases, family scope and explicit discrepancies remain accessible',()=>{
@@ -219,7 +219,7 @@ test('consolidated source aliases, family scope and explicit discrepancies remai
 });
 test('complete compilation tables and reference-only identifiers are available without adding variants',async()=>{
  const {combinedReference}=await import('../web/combined-reference.mjs');assert.equal(combinedReference.tables.length,29);assert.equal(combinedReference.reported_references.length,9);assert.equal(combinedReference.tables.find(t=>t.kind==='chart').rows.length,6);assert.ok(refs.models['OCW-T5000'].observations.some(o=>o.reading_scope==='family_label_only_not_exact_variant'));assert.ok(!data.models['OCW-T5000']);
- const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="combined-reference-tables"'));assert.ok(html.includes('id="combined-cautions"'));assert.equal(stats(data).models,1786);
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="combined-reference-tables"'));assert.ok(html.includes('id="combined-cautions"'));assert.equal(stats(data).models,1801);
 });
 
 test('all Pro Trek regional references resolve separately and graphic-only modules stay unassigned',()=>{
@@ -229,7 +229,7 @@ test('all Pro Trek regional references resolve separately and graphic-only modul
 });
 test('complete Pro Trek source panel contains all family and conflict tables',async()=>{
  const {protrekReference}=await import('../web/protrek-reference.mjs');assert.equal(protrekReference.models.length,79);assert.equal(protrekReference.detailed_families.length,16);assert.equal(protrekReference.spf_source_comparison.length,11);assert.equal(protrekReference.models.filter(r=>r.cells[4].startsWith('CASIO26')).length,11);
- const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="protrek-families"'));assert.ok(html.includes('id="protrek-spf"'));assert.equal(stats(data).models,1786);
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="protrek-families"'));assert.ok(html.includes('id="protrek-spf"'));assert.equal(stats(data).models,1801);
 });
 
 test('2011 family and clock index entries preserve scope rather than invent exact retail variants',()=>{
@@ -239,7 +239,7 @@ test('2011 family and clock index entries preserve scope rather than invent exac
 });
 test('complete 2011 source panel retains 311 watch rows and 109 clocks',async()=>{
  const {catalog2011Reference}=await import('../web/catalog-2011-reference.mjs');assert.equal(catalog2011Reference.watch_rows.length,311);assert.equal(catalog2011Reference.clock_rows.length,109);assert.equal(new Set(catalog2011Reference.watch_rows.map(r=>r.id)).size,310);
- const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="catalog-2011-watches"'));assert.ok(html.includes('id="catalog-2011-clocks"'));assert.equal(stats(data).models,1786);
+ const html=fs.readFileSync(new URL('../web/index.html',import.meta.url),'utf8');assert.ok(html.includes('id="catalog-2011-watches"'));assert.ok(html.includes('id="catalog-2011-clocks"'));assert.equal(stats(data).models,1801);
 });
 
 test('automated source checks are field-scoped and never imply a human or module audit',async()=>{
