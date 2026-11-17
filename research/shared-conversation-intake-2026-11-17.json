@@ -1,7 +1,7 @@
 {
   "type": "shared_conversation_research_intake",
   "received": "2026-11-17",
-  "status": "conversation_text_unavailable",
+  "status": "superseded_by_uploaded_pdf_research",
   "models": [
     {
       "model_id": "LCW-M200DJ-2AJF",
@@ -35,5 +35,6 @@
       "conversation_read": false
     }
   ],
-  "required_input": "Full text or export of each shared conversation, including primary-source citations and attachments needed to verify claims."
+  "required_input": "Supplied PDF exports processed; independent verification gaps remain identified in the technical research.",
+  "processed_pdf_reference": "research/supplied-three-pdf-research-2026-11-17.json"
 }

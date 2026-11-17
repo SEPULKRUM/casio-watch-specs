@@ -1,8 +1,8 @@
 {
-  "models": 1631,
-  "modules": 271,
+  "models": 1648,
+  "modules": 272,
   "facts_by_status": {
-    "pending_review": 9072,
+    "pending_review": 9225,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,8 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 373,
+    "G-SHOCK": 387,
+    "LINEAGE": 3,
     "Lineage": 22,
     "Oceanus": 85,
     "Pathfinder": 4,
@@ -2272,6 +2273,16 @@
       "glass",
       "water_resistance_rating"
     ],
+    "DW-5000C-1A": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "DW-5000C-1B": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "DW-500C-1V": [
       "dimensions_mm",
       "weight_g",
@@ -2302,6 +2313,16 @@
       "glass",
       "water_resistance_rating"
     ],
+    "DW-5200C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "DW-5200C-9": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "DW-5400C": [
       "dimensions_mm",
       "weight_g",
@@ -2310,12 +2331,28 @@
       "glass",
       "water_resistance_rating"
     ],
+    "DW-5400C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
+    "DW-5400C-9": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "DW-5500C": [
       "dimensions_mm",
       "weight_g",
       "case_material",
       "band_material",
       "glass",
+      "water_resistance_rating"
+    ],
+    "DW-5500C-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
       "water_resistance_rating"
     ],
     "DW-5600C-1V": [
@@ -6038,9 +6075,33 @@
       "case_material",
       "glass"
     ],
+    "GW-M5610MOYC-1ER": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GW-M5610MW-7": [
       "case_material",
       "glass"
+    ],
+    "GW-M5610NASA-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610NASA22-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
     ],
     "GW-M5610SD-8": [
       "case_material",
@@ -6058,7 +6119,34 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GW-M5610U-1CJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GW-M5610U-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610U-2JF": [
+      "water_resistance_rating"
+    ],
+    "GW-M5610UBC-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-M5610UMOT21-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -7067,6 +7155,25 @@
       "water_resistance_rating"
     ],
     "LCW-M180D-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LCW-M200DJ-1AJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "LCW-M200DJ-2AJF": [
+      "water_resistance_rating"
+    ],
+    "LCW-M200DJ-7AJF": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -11870,8 +11977,6 @@
     "GW-M5610-1JF",
     "GW-M5610BC-1JF",
     "GW-M5610LY-1JF",
-    "GW-M5610U-1BJF",
-    "GW-M5610U-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
     "GWF-D1000-1JF",
@@ -11948,6 +12053,8 @@
     "LCW-M100TD-1AJF",
     "LCW-M100TD-7AJF",
     "LCW-M180D-1AJF",
+    "LCW-M200DJ-1AJF",
+    "LCW-M200DJ-7AJF",
     "LQ-11W-7G",
     "LQ-139AMV",
     "LQ-398GL",
@@ -12266,7 +12373,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 712,
+  "models_with_single_module_reference": 729,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -12370,11 +12477,18 @@
     "DW-3000C": "548",
     "DW-310-1V": "690",
     "DW-5000C": "240",
+    "DW-5000C-1A": "240",
+    "DW-5000C-1B": "240",
     "DW-500C-1V": "540",
     "DW-500C-9BV": "540",
     "DW-5200C": "240",
+    "DW-5200C-1": "240",
+    "DW-5200C-9": "240",
     "DW-5400C": "240",
+    "DW-5400C-1": "240",
+    "DW-5400C-9": "240",
     "DW-5500C": "240",
+    "DW-5500C-1": "240",
     "DW-5600C-1V": "691",
     "DW-5600C-9BV": "691",
     "DW-5700C-9V": "691",
@@ -12519,6 +12633,15 @@
     "GW-9501KJ-8": "3553",
     "GW-9502KJ-8": "3553",
     "GW-9503KJ-2": "3553",
+    "GW-M5610MOYC-1ER": "3495",
+    "GW-M5610NASA-4": "3495",
+    "GW-M5610NASA22-4": "3495",
+    "GW-M5610U-1BJF": "3495",
+    "GW-M5610U-1CJF": "3495",
+    "GW-M5610U-1JF": "3495",
+    "GW-M5610U-2JF": "3495",
+    "GW-M5610UBC-1JF": "3495",
+    "GW-M5610UMOT21-1": "3495",
     "GW-M850": "3155",
     "GWF-1000": "3184",
     "GWF-D1000-1": "3445",
@@ -12574,6 +12697,7 @@
     "LCW-M150TD": "5135",
     "LCW-M170TD-1A": "5161",
     "LCW-M170TD-2A": "5161",
+    "LCW-M200DJ-2AJF": "4709",
     "LCW-M300D": "5110",
     "LF140": "210",
     "LF140G": "210",
@@ -13451,8 +13575,6 @@
     "GW-M5610-1JF",
     "GW-M5610BC-1JF",
     "GW-M5610LY-1JF",
-    "GW-M5610U-1BJF",
-    "GW-M5610U-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
     "GWF-D1000-1JF",
@@ -13529,6 +13651,8 @@
     "LCW-M100TD-1AJF",
     "LCW-M100TD-7AJF",
     "LCW-M180D-1AJF",
+    "LCW-M200DJ-1AJF",
+    "LCW-M200DJ-7AJF",
     "LQ-11W-7G",
     "LQ-820G",
     "LTD-1035A",
@@ -13837,12 +13961,12 @@
   "referenced_module_ids_without_specs": [],
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
-    "accuracy_condition": 103,
-    "accuracy_seconds_per_month": 151,
-    "alarm_count": 113,
-    "battery_cell": 31,
-    "battery_runtime": 31,
-    "calendar": 147,
+    "accuracy_condition": 104,
+    "accuracy_seconds_per_month": 152,
+    "alarm_count": 114,
+    "battery_cell": 33,
+    "battery_runtime": 33,
+    "calendar": 148,
     "catalog_1983_evidence": 29,
     "catalog_2011_associations": 48,
     "catalog_features": 15,
@@ -13851,18 +13975,19 @@
     "digital_compass": 1,
     "display_polarity": 2,
     "dive_log": 1,
-    "illumination": 58,
+    "illumination": 60,
     "master_module_reference": 18,
-    "power_supply": 104,
-    "radio_reception": 31,
+    "power_supply": 106,
+    "radio_reception": 32,
+    "research_pdf_evidence": 3,
     "snooze_alarm": 41,
-    "stopwatch": 84,
+    "stopwatch": 85,
     "supplied_module_specifications": 12,
     "thermometer": 2,
     "tide_moon": 1,
     "timer": 59,
     "world_time_cities": 74,
-    "world_time_zones": 72
+    "world_time_zones": 73
   },
   "module_profiles_by_fact_count": {
     "1": 101,
@@ -13874,12 +13999,12 @@
     "7": 14,
     "8": 16,
     "9": 11,
-    "10": 21,
+    "10": 20,
     "11": 11,
     "12": 10,
-    "13": 5,
+    "13": 6,
     "14": 1,
-    "15": 1,
+    "15": 2,
     "19": 1
   },
   "modules_with_sparse_profiles": [

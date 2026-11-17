@@ -1,0 +1,2803 @@
+{
+  "schema_version": 1,
+  "type": "user_watch_specifications",
+  "provided_by": "SEPULKRUM",
+  "received": "2026-11-16",
+  "title": "Technical research extracted from three owner-supplied conversation PDFs",
+  "source_documents": {
+    "lineage": {
+      "filename": "Casio LCW-M200DJ-2AJF Specs.pdf",
+      "sha256": "3b3a0db0d55a8bafd37569812a220ebc47661213b9b0253a3553270ddadc472f",
+      "pages": 19,
+      "citations": [
+        {
+          "page": 2,
+          "urls": [
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 4,
+          "urls": [
+            "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11165311576",
+            "https://paypayfleamarket.yahoo.co.jp/item/z291680772",
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 5,
+          "urls": [
+            "https://jp.mercari.com/item/m38704068537",
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf"
+          ]
+        },
+        {
+          "page": 6,
+          "urls": [
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf"
+          ]
+        },
+        {
+          "page": 7,
+          "urls": [
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+            "https://www.amazon.ca/Genuine-Replacement-Panasonic-CTL1025-10135068/dp/B00TA80H88",
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 8,
+          "urls": [
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf"
+          ]
+        },
+        {
+          "page": 9,
+          "urls": [
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 10,
+          "urls": [
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf"
+          ]
+        },
+        {
+          "page": 11,
+          "urls": [
+            "https://paypayfleamarket.yahoo.co.jp/item/z291680772",
+            "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+            "https://support.casio.jp/wat/adjustment/ta4709_4713_ja/index.html",
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 12,
+          "urls": [
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 13,
+          "urls": [
+            "https://paypayfleamarket.yahoo.co.jp/item/z291680772",
+            "https://paypayfleamarket.yahoo.co.jp/item/z495927218",
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        },
+        {
+          "page": 14,
+          "urls": [
+            "https://boley.de/case-parts/casio/20385.lcw-m200dj-7a",
+            "https://kakaku.com/item/51607014677/"
+          ]
+        },
+        {
+          "page": 15,
+          "urls": [
+            "https://boley.de/case-parts/casio/20385.lcw-m200dj-7a",
+            "https://www.amazon.ca/Genuine-Replacement-Panasonic-CTL1025-10135068/dp/B00TA80H88"
+          ]
+        },
+        {
+          "page": 16,
+          "urls": [
+            "https://www.yodobashi.com/product/100000001000739209/"
+          ]
+        }
+      ]
+    },
+    "5610": {
+      "filename": "GW M5610U 2JF Specs.pdf",
+      "sha256": "97b92193fd06b9672c8a2c73c99984f0d3e01bcb4f1f56d2ff2b58c2fc464454",
+      "pages": 6,
+      "citations": [
+        {
+          "page": 2,
+          "urls": [
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/"
+          ]
+        },
+        {
+          "page": 3,
+          "urls": [
+            "https://ec.g-bridges.com/products/gw-m5610umot21-1",
+            "https://www.casio.com/us/watches/gshock/product.GW-M5610NASA22-4/"
+          ]
+        },
+        {
+          "page": 4,
+          "urls": [
+            "https://ec.g-bridges.com/products/gw-m5610u"
+          ]
+        },
+        {
+          "page": 5,
+          "urls": [
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1/",
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1B/",
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-1C/",
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+            "https://www.casio.com/jp/watches/gshock/product.GW-M5610UBC-1/"
+          ]
+        }
+      ]
+    },
+    "240": {
+      "filename": "Module 240 Models Reference.pdf",
+      "sha256": "0f70a12ce4fcc2f38c9e66cfffa825d34f77ed57df760450873da0c3e427ca25",
+      "pages": 18,
+      "citations": [
+        {
+          "page": 4,
+          "urls": [
+            "https://device.report/m/4d0845d46b46d6fcbb05e58ec38a9786d47dc397beac26cf711bd46e0f890ab9.pdf",
+            "https://www.casio.com/content/dam/casio/global/watch/g_shock/other/17aw_origin_en.pdf",
+            "https://www.digital-watch.com/images/pdf_bank/1984_Casio.pdf"
+          ]
+        },
+        {
+          "page": 17,
+          "urls": [
+            "https://device.report/m/4d0845d46b46d6fcbb05e58ec38a9786d47dc397beac26cf711bd46e0f890ab9.pdf",
+            "https://gshock.casio.com/intl/identity/",
+            "https://world.casio.com/corporate/history/chronology/",
+            "https://www.g-central.com/wp-content/uploads/2024/04/G-SHOCK-WATCHNAVI-2015-64MB.pdf"
+          ]
+        }
+      ]
+    }
+  },
+  "scope": "Only technical model/module/parts/production claims; no uploaded PDFs, complete conversations, promotional content, private messages, personal details or blocked sources are republished. AI labels such as verified are not independent evidence.",
+  "models": [
+    "LCW-M200DJ-2AJF",
+    "LCW-M200DJ-1AJF",
+    "LCW-M200DJ-7AJF",
+    "GW-M5610U-1JF",
+    "GW-M5610U-1BJF",
+    "GW-M5610U-1CJF",
+    "GW-M5610U-2JF",
+    "GW-M5610UBC-1JF",
+    "GW-M5610NASA-4",
+    "GW-M5610NASA22-4",
+    "GW-M5610UMOT21-1",
+    "GW-M5610MOYC-1ER",
+    "DW-5000C-1A",
+    "DW-5000C-1B",
+    "DW-5200C-1",
+    "DW-5200C-9",
+    "DW-5400C-1",
+    "DW-5400C-9",
+    "DW-5500C-1"
+  ],
+  "modules": [
+    "4709",
+    "3495",
+    "240"
+  ],
+  "claims": [
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "module_id",
+      "value": "4709",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "series",
+      "value": "LINEAGE",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 42.2,
+        "width": 37.9,
+        "thickness": 8.7
+      },
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "weight_g",
+      "value": 97.5,
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "water_resistance_m",
+      "value": 50,
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "case_material",
+      "value": "Stainless steel",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "band_material",
+      "value": "Stainless steel bracelet with folding clasp",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "glass",
+      "value": "Mineral glass (secondary exact-model listing; original Casio confirmation pending)",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "color",
+      "value": "Dark blue / navy dial with gold-tone accents",
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-2AJF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "lineage",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "4709",
+          "series": "LINEAGE",
+          "dimensions_mm": {
+            "length": 42.2,
+            "width": 37.9,
+            "thickness": 8.7
+          },
+          "weight_g": 97.5,
+          "water_resistance_m": 50,
+          "case_material": "Stainless steel",
+          "band_material": "Stainless steel bracelet with folding clasp",
+          "glass": "Mineral glass (secondary exact-model listing; original Casio confirmation pending)",
+          "color": "Dark blue / navy dial with gold-tone accents"
+        },
+        "watch_details": {
+          "display": "Analog hours and minutes; digital seconds and LCD at 6 o’clock",
+          "luminous_markings": "Reported by secondary seller; pending verification",
+          "original_price_jpy_excluding_tax": 20000,
+          "original_price_jpy_including_5_percent_tax": 21000
+        },
+        "production_evidence": {
+          "family_retail_launch": "2006-05-31, Yodobashi family record; not an independently confirmed exact-color release day",
+          "source_url": "https://www.yodobashi.com/product/100000001000739209/",
+          "seller_serial_interpretations": [
+            "2008",
+            "2009"
+          ],
+          "serial_scope": "Seller interpretations only; not a validated production-date decoder",
+          "retail_history": "Reported scarcity in 2009 and recalled availability around 2012. Inventory availability does not establish production in 2012.",
+          "factory_production_end": "Unknown",
+          "estimated_era": "2006 introduction, seller-dated specimens through 2009; possible early-2010s retail inventory"
+        },
+        "service_parts": {
+          "source_model": "LCW-M200DJ-7A",
+          "source_url": "https://boley.de/case-parts/casio/20385.lcw-m200dj-7a",
+          "fitment_scope": "Related white-dial model only; fitment to LCW-M200DJ-2AJF is not confirmed, especially color-sensitive parts",
+          "parts": [
+            {
+              "number": "10237828",
+              "description": "Caseback gasket / O-ring"
+            },
+            {
+              "number": "10237916",
+              "description": "Stainless steel bracelet"
+            },
+            {
+              "number": "10237901",
+              "description": "Solar cell assembly"
+            },
+            {
+              "number": "10231755",
+              "description": "LCD"
+            },
+            {
+              "number": "76409810",
+              "description": "Module / movement assembly"
+            },
+            {
+              "number": "76409820",
+              "description": "Caseback assembly"
+            },
+            {
+              "number": "76409809",
+              "description": "Analog movement block"
+            }
+          ],
+          "reported_cell_cross_reference": {
+            "cell": "CTL1025",
+            "part": "10135068",
+            "status": "Secondary parts reference; exact service-part verification pending"
+          }
+        },
+        "exclusions": [
+          "Not module 5161",
+          "Not Multi-Band 6",
+          "No analog seconds hand",
+          "No confirmed sapphire crystal"
+        ]
+      },
+      "document": "lineage",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-1AJF",
+      "field": "series",
+      "value": "LINEAGE",
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-1AJF",
+      "field": "color",
+      "value": "Black dial",
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-1AJF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "lineage",
+        "pdf_pages": [
+          3,
+          14
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "LINEAGE",
+          "color": "Black dial"
+        },
+        "scope": "Related variant mentioned in supplied research; no case dimensions, weight, glass or module copied from the blue model"
+      },
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-7AJF",
+      "field": "series",
+      "value": "LINEAGE",
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-7AJF",
+      "field": "color",
+      "value": "White / silver dial",
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "LCW-M200DJ-7AJF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "lineage",
+        "pdf_pages": [
+          3,
+          14
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "LINEAGE",
+          "color": "White / silver dial"
+        },
+        "scope": "Related variant mentioned in supplied research; no case dimensions, weight, glass or module copied from the blue model"
+      },
+      "document": "lineage",
+      "pdf_pages": [
+        3,
+        14
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "accuracy_seconds_per_month",
+      "value": 20,
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "accuracy_condition",
+      "value": "Without radio calibration",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "power_supply",
+      "value": "Solar panel and rechargeable battery",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "battery_cell",
+      "value": "CTL1025 (reported; cell service reference remains secondary)",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "battery_runtime",
+      "value": "Reported: approximately 6 months normal use, 16 months in power saving; full charge without further light",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "world_time_zones",
+      "value": 29,
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "alarm_count",
+      "value": 1,
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "calendar",
+      "value": "Full auto calendar 2000–2099; English/Japanese weekday; 12/24-hour display",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "stopwatch",
+      "value": "1/100 second, 59 min 59.99 sec limit, elapsed time; restarts at limit",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "illumination",
+      "value": "LED illumination of digital LCD with afterglow",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "radio_reception",
+      "value": "Multi-Band 5: JJY 40/60 kHz, WWVB 60 kHz, MSF 60 kHz, DCF77 77.5 kHz; no BPC",
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "4709",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "lineage",
+        "pdf_pages": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "accuracy_seconds_per_month": 20,
+          "accuracy_condition": "Without radio calibration",
+          "power_supply": "Solar panel and rechargeable battery",
+          "battery_cell": "CTL1025 (reported; cell service reference remains secondary)",
+          "battery_runtime": "Reported: approximately 6 months normal use, 16 months in power saving; full charge without further light",
+          "world_time_zones": 29,
+          "alarm_count": 1,
+          "calendar": "Full auto calendar 2000–2099; English/Japanese weekday; 12/24-hour display",
+          "stopwatch": "1/100 second, 59 min 59.99 sec limit, elapsed time; restarts at limit",
+          "illumination": "LED illumination of digital LCD with afterglow",
+          "radio_reception": "Multi-Band 5: JJY 40/60 kHz, WWVB 60 kHz, MSF 60 kHz, DCF77 77.5 kHz; no BPC"
+        },
+        "guide_url": "https://support.casio.jp/storage/pdf/002/qw4709.pdf",
+        "operation_details": {
+          "automatic_reception": "Up to six attempts daily around midnight through 05:00; success cancels remaining attempts; depends on selected home zone",
+          "manual_reception": true,
+          "alarm_duration_seconds": 10,
+          "hourly_signal": true,
+          "daylight_saving": "Home-zone and manual DST rules reflect the guide era, not current political time-zone rules",
+          "hand_alignment": "Manual Hand Set mode",
+          "charge_levels": 5,
+          "low_charge": "Low battery / recovery restricts functions, including radio reception",
+          "daily_charge_exposure": [
+            {
+              "lux": 50000,
+              "minutes": 8
+            },
+            {
+              "lux": 10000,
+              "minutes": 30
+            },
+            {
+              "lux": 5000,
+              "minutes": 48
+            },
+            {
+              "lux": 500,
+              "hours": 8
+            }
+          ],
+          "charging_scope": "Daily-use replenishment only; deeply depleted recovery takes longer",
+          "power_saving": "Reported first stage after about 3–4 dark days switches LCD off; deeper stage after roughly 4 more days stops hands, reception and audible signals while internal timekeeping continues; verify guide conditions before service",
+          "not_supported": [
+            "Bluetooth",
+            "GPS",
+            "Multi-Band 6",
+            "BPC reception",
+            "Countdown timer",
+            "Five daily alarms"
+          ]
+        }
+      },
+      "document": "lineage",
+      "pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1JF",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1JF",
+      "field": "color",
+      "value": "Black resin; positive LCD; red border with blue accents",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1JF",
+      "field": "release_date",
+      "value": "2021-07",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1JF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "3495",
+          "series": "G-SHOCK",
+          "color": "Black resin; positive LCD; red border with blue accents",
+          "release_date": "2021-07"
+        },
+        "scope": "Exact variant color / module claim; family-level physical specifications are not inherited by other variants"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1BJF",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1BJF",
+      "field": "color",
+      "value": "Black resin; negative LCD; monochrome styling",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1BJF",
+      "field": "release_date",
+      "value": "2021-07",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1BJF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "3495",
+          "series": "G-SHOCK",
+          "color": "Black resin; negative LCD; monochrome styling",
+          "release_date": "2021-07"
+        },
+        "scope": "Exact variant color / module claim; family-level physical specifications are not inherited by other variants"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1CJF",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1CJF",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1CJF",
+      "field": "color",
+      "value": "Black resin; positive LCD; blue display border",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1CJF",
+      "field": "release_date",
+      "value": "2021-10",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-1CJF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "3495",
+          "series": "G-SHOCK",
+          "color": "Black resin; positive LCD; blue display border",
+          "release_date": "2021-10"
+        },
+        "scope": "Exact variant color / module claim; family-level physical specifications are not inherited by other variants"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "color",
+      "value": "Navy / blue-gray resin; negative LCD; red display border",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "release_date",
+      "value": "2021-10-09",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 46.7,
+        "width": 43.2,
+        "thickness": 12.7
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "weight_g",
+      "value": 52,
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "case_material",
+      "value": "Resin",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "display_polarity",
+      "value": "negative",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610U-2JF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "3495",
+          "series": "G-SHOCK",
+          "color": "Navy / blue-gray resin; negative LCD; red display border",
+          "release_date": "2021-10-09",
+          "dimensions_mm": {
+            "length": 46.7,
+            "width": 43.2,
+            "thickness": 12.7
+          },
+          "weight_g": 52,
+          "case_material": "Resin",
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "water_resistance_m": 200,
+          "display_polarity": "negative"
+        },
+        "scope": "Exact variant color / module claim; family-level physical specifications are not inherited by other variants",
+        "reported_details": {
+          "JAN": "4549526311932",
+          "country_of_manufacture": "China; reported for this reference, not every production batch",
+          "LCD_technology": "TN claimed; absence of STN marketing is not independent confirmation of TN",
+          "predecessor": "GW-M5610NV-2JF"
+        },
+        "archive_corroboration": {
+          "url": "https://web.archive.org/web/20211019223435/https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+          "original_url": "https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/",
+          "archive_timestamp": "20211019223435",
+          "snapshot_sha256": "e097d90e4afc336836921ffc45342c7421ad5412fd407c45fa0d3a63485c4394",
+          "checked_fields": [
+            "model_id",
+            "module_id",
+            "dimensions_mm",
+            "weight_g",
+            "case_material",
+            "band_material",
+            "glass",
+            "water_resistance_m"
+          ],
+          "scope": "Exact Japanese GW-M5610U-2JF page retrieved and technical table checked; exact release day, JAN, LCD technology and origin not confirmed by this snapshot"
+        }
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UBC-1JF",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UBC-1JF",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UBC-1JF",
+      "field": "color",
+      "value": "Black resin case; negative LCD; composite bracelet",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UBC-1JF",
+      "field": "release_date",
+      "value": "2021-07",
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UBC-1JF",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "3495",
+          "series": "G-SHOCK",
+          "color": "Black resin case; negative LCD; composite bracelet",
+          "release_date": "2021-07"
+        },
+        "scope": "Exact variant color / module claim; family-level physical specifications are not inherited by other variants"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA-4",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA-4",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA-4",
+      "field": "catalog_description",
+      "value": "Orange resin, positive LCD, NASA graphics and flag keeper; exact-reference discrepancy with linked GW-M5610NASA22-4",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA-4",
+      "field": "release_date",
+      "value": "2022",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA-4",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "G-SHOCK",
+          "module_id": "3495",
+          "catalog_description": "Orange resin, positive LCD, NASA graphics and flag keeper; exact-reference discrepancy with linked GW-M5610NASA22-4",
+          "release_date": "2022"
+        },
+        "scope": "Supplied special-edition research; exact module and production details require primary verification"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA22-4",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA22-4",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA22-4",
+      "field": "catalog_description",
+      "value": "Linked Casio NASA reference; not silently merged with the PDF text GW-M5610NASA-4",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA22-4",
+      "field": "release_date",
+      "value": "2022",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610NASA22-4",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "G-SHOCK",
+          "module_id": "3495",
+          "catalog_description": "Linked Casio NASA reference; not silently merged with the PDF text GW-M5610NASA-4",
+          "release_date": "2022"
+        },
+        "scope": "Supplied special-edition research; exact module and production details require primary verification"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UMOT21-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UMOT21-1",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UMOT21-1",
+      "field": "catalog_description",
+      "value": "MOTHER collaboration, Japan-market graphics and packaging",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UMOT21-1",
+      "field": "release_date",
+      "value": "2022-02",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610UMOT21-1",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "G-SHOCK",
+          "module_id": "3495",
+          "catalog_description": "MOTHER collaboration, Japan-market graphics and packaging",
+          "release_date": "2022-02"
+        },
+        "scope": "Supplied special-edition research; exact module and production details require primary verification"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610MOYC-1ER",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610MOYC-1ER",
+      "field": "module_id",
+      "value": "3495",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610MOYC-1ER",
+      "field": "catalog_description",
+      "value": "Museum of Youth Culture / Gavin Watson collaboration",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610MOYC-1ER",
+      "field": "release_date",
+      "value": "2022",
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-M5610MOYC-1ER",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          3,
+          4
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "series": "G-SHOCK",
+          "module_id": "3495",
+          "catalog_description": "Museum of Youth Culture / Gavin Watson collaboration",
+          "release_date": "2022"
+        },
+        "scope": "Supplied special-edition research; exact module and production details require primary verification"
+      },
+      "document": "5610",
+      "pdf_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3495",
+      "field": "battery_cell",
+      "value": "CTL1616 rechargeable",
+      "document": "5610",
+      "pdf_pages": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3495",
+      "field": "battery_runtime",
+      "value": "About 10 months normal use; about 22 months power saving without further charging (archived GW-M5610U-2JF table)",
+      "document": "5610",
+      "pdf_pages": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3495",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "5610",
+        "pdf_pages": [
+          2,
+          4,
+          5
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "battery_cell": "CTL1616 rechargeable",
+          "battery_runtime": "About 10 months normal use; about 22 months power saving without further charging (archived GW-M5610U-2JF table)",
+          "power_supply": "Tough Solar",
+          "world_time_cities": 48,
+          "world_time_zones": 31,
+          "alarm_count": 5,
+          "snooze_alarm": true
+        },
+        "module_details": {
+          "illumination": "White LED Super Illuminator, full auto light, afterglow selectable 1.5 or 3 seconds",
+          "date_format": "MM/DD or DD/MM",
+          "weekday_languages": [
+            "English",
+            "Spanish",
+            "French",
+            "German",
+            "Italian",
+            "Russian"
+          ],
+          "stopwatch": "1/100 second below one hour, one second above; 24-hour capacity; elapsed/split/first-second finishes",
+          "timer": "1 second to 24 hours, one-second setting and measurement",
+          "calendar": "Full auto to 2099",
+          "Bluetooth": false,
+          "power_saving": true
+        },
+        "comparison_with_3159": {
+          "3159": "EL backlight, fixed duration, MM/DD and English weekday, timer setting in minutes",
+          "3495": "White LED, selectable duration, date-order and six-language weekday, current time visible in stopwatch/timer modes, timer setting in seconds"
+        },
+        "family_scope": {
+          "standard_resin_dimensions_mm": [
+            46.7,
+            43.2,
+            12.7
+          ],
+          "standard_resin_weight_g": 52,
+          "composite_bracelet_weight_g": 102,
+          "note": "Family comparison only; not copied as verified dimensions or weights into every variant"
+        }
+      },
+      "document": "5610",
+      "pdf_pages": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "release_date",
+      "value": "1983-04",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "catalog_description",
+      "value": "Original square; black resin, red accents",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1A",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          12
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1983-04",
+          "catalog_description": "Original square; black resin, red accents",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11400,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "dimensions_reported_mm": [
+            48.9,
+            42.8,
+            13.4
+          ],
+          "measurement_status": "Collector / research figure; conflicts with owner-reported 13.5 mm thickness; no factory exact-variant confirmation"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "release_date",
+      "value": "1983-04",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "catalog_description",
+      "value": "Original square; black resin, gold accents",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5000C-1B",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          12,
+          13
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1983-04",
+          "catalog_description": "Original square; black resin, gold accents",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11400,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "status": "Exact dimensions and weight not independently confirmed"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "release_date",
+      "value": "1984-06",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "catalog_description",
+      "value": "Hero square; black resin, red/white accents",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-1",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          13
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1984-06",
+          "catalog_description": "Hero square; black resin, red/white accents",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11000,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "reported_lug_to_lug_mm": 41.5,
+          "reported_width_mm": 42,
+          "reported_thickness_mm": 13,
+          "reported_weight_g": 65.2,
+          "measurement_scope": "Collector listing; case without full bezel extent; not confirmed factory dimensions"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "release_date",
+      "value": "1984-06",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "catalog_description",
+      "value": "Hero square; black resin, gold accents",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5200C-9",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          14
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1984-06",
+          "catalog_description": "Hero square; black resin, gold accents",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11000,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "status": "Exact dimensions and weight not independently confirmed"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "release_date",
+      "value": "1985-05",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "catalog_description",
+      "value": "First round-face G-SHOCK; black resin / black dial surround",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-1",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          14,
+          15
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1985-05",
+          "catalog_description": "First round-face G-SHOCK; black resin / black dial surround",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11000,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "status": "Exact dimensions and weight not independently confirmed"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "release_date",
+      "value": "1985-05",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "catalog_description",
+      "value": "Round-face G-SHOCK; black resin, gold accents",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "case_material",
+      "value": "Stainless steel inner case; resin outer bezel",
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5400C-9",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          15
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1985-05",
+          "catalog_description": "Round-face G-SHOCK; black resin, gold accents",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive",
+          "case_material": "Stainless steel inner case; resin outer bezel"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel screw-back",
+          "original_price_jpy": 11000,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "status": "Exact dimensions and weight not independently confirmed"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "module_id",
+      "value": "240",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "release_date",
+      "value": "1985-08",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "catalog_description",
+      "value": "G-SHOCK II; wide square, mud-resistant protective molding",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "band_material",
+      "value": "Resin",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "display_polarity",
+      "value": "positive",
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "DW-5500C-1",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          15,
+          16
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "module_id": "240",
+          "series": "G-SHOCK",
+          "release_date": "1985-08",
+          "catalog_description": "G-SHOCK II; wide square, mud-resistant protective molding",
+          "water_resistance_m": 200,
+          "band_material": "Resin",
+          "glass": "Mineral glass",
+          "display_polarity": "positive"
+        },
+        "watch_details": {
+          "caseback": "Stainless steel; fastening details unverified",
+          "original_price_jpy": 14800,
+          "price_status": "Historical secondary reference; not current price",
+          "release_status": "Historical chronology reported in supplied research; exact variant month pending primary corroboration"
+        },
+        "reported_measurements": {
+          "status": "Exact dimensions and weight not independently confirmed"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "power_supply",
+      "value": "3 V lithium battery",
+      "document": "240",
+      "pdf_pages": [
+        3,
+        9,
+        10,
+        11,
+        17
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "illumination",
+      "value": "Incandescent micro-light",
+      "document": "240",
+      "pdf_pages": [
+        3,
+        9,
+        10,
+        11,
+        17
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "research_pdf_evidence",
+      "value": {
+        "document": "240",
+        "pdf_pages": [
+          3,
+          9,
+          10,
+          11,
+          17
+        ],
+        "status": "Supplied research conversation; pending independent verification unless separately corroborated below",
+        "facts": {
+          "power_supply": "3 V lithium battery",
+          "battery_cell": "BR2320",
+          "battery_runtime": "Approximately 7 years under original specified conditions",
+          "accuracy_seconds_per_month": 15,
+          "alarm_count": 1,
+          "calendar": "Month/date/weekday; February treated as 28 days; manual correction required",
+          "stopwatch": "1/100 second to 59:59.99; elapsed/lap/first-second finishes",
+          "timer": "1 minute to 11 hours 59 minutes; one-second measurement; start/stop/repeat",
+          "illumination": "Incandescent micro-light"
+        },
+        "module_details": {
+          "movement_reference": "QW-240B01 (reported)",
+          "time_format": "12/24-hour selectable",
+          "hourly_and_half_hourly_signals": true,
+          "alarm_duration_seconds": 30,
+          "timer_completion_signal_seconds": 30,
+          "interval_signals": "Reported ten-minute signals for stopwatch and timer; confirm original guide",
+          "alarm_preview": "Sound demonstration",
+          "not_supported": [
+            "Solar charging",
+            "Atomic reception",
+            "Bluetooth"
+          ],
+          "battery_dimensions_mm": {
+            "diameter": 23,
+            "thickness": 2
+          },
+          "accuracy_scope": "Earlier table reports ±15 seconds/month; final PDF cautions factory accuracy still requires verification; retained as reported, not newly source-checked"
+        },
+        "exclusions": {
+          "WW-5100C": "Module 491",
+          "WW-5300C": "Module 491",
+          "DW-5600C": "Modules 691 / 901, not 240"
+        }
+      },
+      "document": "240",
+      "pdf_pages": [
+        3,
+        9,
+        10,
+        11,
+        17
+      ]
+    }
+  ],
+  "retained_existing_scalars": [
+    {
+      "kind": "module",
+      "id": "3495",
+      "field": "power_supply",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "battery_cell",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "battery_runtime",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "calendar",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "stopwatch",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "240",
+      "field": "timer",
+      "reason": "Existing scalar retained; incoming claim preserved in research_pdf_evidence"
+    }
+  ],
+  "unresolved_references": [
+    {
+      "description": "GW-M5610U × Tamio Okuda OT60",
+      "reason": "No exact retail model identifier supplied; preserved as a collaboration reference without inventing a SKU",
+      "reported_release": "2025-08"
+    },
+    {
+      "identifiers": [
+        "GW-M5610NASA-4",
+        "GW-M5610NASA22-4"
+      ],
+      "reason": "PDF text and linked Casio page use different identifiers; both searchable, equivalence unverified"
+    }
+  ],
+  "excluded_reference": "Honda entries derived only from a prohibited source were not imported",
+  "archive_lookup": [
+    {
+      "url": "https://web.archive.org/__wb/calendarcaptures/2?date=202411&groupby=day&url=https%3A%2F%2Fsupport.casio.jp%2Fstorage%2Fpdf%2F002%2Fqw4709.pdf",
+      "status": 200,
+      "body": "{}"
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.casio.com/jp/watches/gshock/product.GW-M5610U-2/&output=json&filter=statuscode:200&collapse=timestamp:4&limit=3",
+      "status": 200,
+      "body": "[[\"urlkey\",\"timestamp\",\"original\",\"mimetype\",\"statuscode\",\"digest\",\"length\"],\n[\"com,casio)/jp/watches/gshock/product.gw-m5610u-2\",\"20211019223435\",\"https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/\",\"text/html\",\"200\",\"QUGHKDO5PR2MQ32FCAZQ273SQ2MTY747\",\"34821\"],\n[\"com,casio)/jp/watches/gshock/product.gw-m5610u-2\",\"20220122214036\",\"https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/\",\"text/html\",\"200\",\"X5PAYHX3CQL7TYRMDHQ6KNKO2CLMK5EY\",\"39197\"],\n[\"com,casio)/jp/watches/gshock/product.gw-m5610u-2\",\"20230220013914\",\"https://www.casio.com/jp/watches/gshock/product.GW-M5610U-2/\",\"text/html\",\"200\",\"YIFUPO5DHLPUN5HYIZG7YHWLV4OKMZAJ\",\"64839\"]]\n"
+    }
+  ]
+}
