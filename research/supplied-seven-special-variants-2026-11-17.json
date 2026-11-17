@@ -1,0 +1,1236 @@
+{
+  "schema_version": 1,
+  "type": "user_watch_specifications",
+  "provided_by": "SEPULKRUM",
+  "received": "2026-11-17",
+  "title": "Seven special references — documented package and watch distinctions",
+  "source_documents": {
+    "seven_special": {
+      "filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+      "sha256": "3ee2983ef8d78c92f089575c5483354cf6db74b4458f64bcec754abf00108949",
+      "pages": 4,
+      "document_date": "2026-11-16",
+      "source_urls": {
+        "S1": "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+        "S2": "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition",
+        "S3": "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+        "S4": "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/",
+        "S5": "https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/",
+        "S6": "https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/",
+        "S7": "https://www.casio.com.cn/watches/gshock/brandpage/5600/",
+        "S8": "https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/",
+        "S9": "https://www.g-central.com/randomevent-x-g-shock-gw-b5600dc-1prrdet-with-bag-china/",
+        "S10": "https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/",
+        "S11": "https://store.rockforpeople.cz/doplnky/",
+        "S12": "https://blog.chronoshop.cz/limitka-g-shock-pro-rock-for-people/",
+        "S13": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/"
+      }
+    }
+  },
+  "models": [
+    "GMW-B5000SB-1A2",
+    "GMW-B5000PS-1ERFP"
+  ],
+  "package_identifiers": [
+    "GMW-B5000GDLTD-1ER",
+    "GMWB5000TCM-1LT",
+    "GW-B5600MG-1PRL",
+    "GW-B5600DC-1PRRDET",
+    "GW-B5600-2E-FR"
+  ],
+  "category_resolutions": {
+    "GMW-B5000GDLTD-1ER": "package",
+    "GMWB5000TCM-1LT": "package",
+    "GMW-B5000SB-1A2": "watch",
+    "GW-B5600MG-1PRL": "package",
+    "GW-B5600DC-1PRRDET": "package",
+    "GW-B5600-2E-FR": "package",
+    "GMW-B5000PS-1ERFP": "watch"
+  },
+  "reference_records": [
+    {
+      "id": "GMW-B5000GDLTD-1ER",
+      "category": "package",
+      "title": "Legend of Steel",
+      "base_model": "GMW-B5000GD-1",
+      "module": "3459",
+      "pages": [
+        1,
+        4
+      ],
+      "source_keys": [
+        "S1",
+        "S2"
+      ],
+      "related_labels": [
+        "GMW-B5000GDLTD-1"
+      ],
+      "hardware_scope": "Standard black GMW-B5000GD-1 appears to be supplied; no redesigned watch established",
+      "hardware_claims": {
+        "dimensions_mm": {
+          "length": 49.3,
+          "width": 43.2,
+          "thickness": 13
+        },
+        "approximate_watch_weight_g": 167,
+        "case_and_bracelet": "Black ion-plated stainless steel",
+        "display": "Negative STN LCD"
+      },
+      "package_details": {
+        "reported_date": "2020-05-02",
+        "numbered_set_count": 500,
+        "contents": [
+          "Tru Virtu G-SHOCK wallet",
+          "Metal watch case",
+          "Numbered engraved steel plate"
+        ],
+        "historical_price": {
+          "currency": "EUR",
+          "value": 559.42
+        },
+        "scope": "500 retail sets, not proof of 500 individually modified watches"
+      }
+    },
+    {
+      "id": "GMWB5000TCM-1LT",
+      "category": "package",
+      "title": "LEATHERMAN accessory set",
+      "base_model": "GMW-B5000TCM-1DR",
+      "module": "3459",
+      "pages": [
+        1,
+        2,
+        4
+      ],
+      "source_keys": [
+        "S3",
+        "S4"
+      ],
+      "related_labels": [
+        "GMW-B5000TCM-1LT"
+      ],
+      "hardware_scope": "Casio Singapore explicitly identifies the included watch as GMW-B5000TCM-1DR",
+      "hardware_claims": {
+        "dimensions_mm": {
+          "length": 49.3,
+          "width": 43.2,
+          "thickness": 13
+        },
+        "watch_weight_g": 110,
+        "case_and_bracelet": "DLC-coated titanium",
+        "glass": "Sapphire with anti-reflective coating",
+        "functions": [
+          "Tough Solar",
+          "Multi Band 6",
+          "Bluetooth",
+          "200 m water resistance"
+        ]
+      },
+      "package_details": {
+        "contents": [
+          "GMW-B5000TCM-1DR watch",
+          "LEATHERMAN G-SHOCK cutter"
+        ],
+        "canonical_spelling": "GMWB5000TCM-1LT, without the hyphen after GMW",
+        "identity_scope": "Accessory bundle; not a new movement or case design"
+      }
+    },
+    {
+      "id": "GMW-B5000SB-1A2",
+      "category": "watch",
+      "title": "Gem Accents",
+      "module": "3539",
+      "pages": [
+        1,
+        2,
+        4
+      ],
+      "source_keys": [
+        "S5"
+      ],
+      "related_labels": [],
+      "module_scope": "Family/prior-research attribution only; exact installed module requires caseback confirmation",
+      "exact_facts": {
+        "dimensions_mm": {
+          "length": 49.3,
+          "width": 43.2,
+          "thickness": 13
+        },
+        "weight_g": 98,
+        "case_material": "Stainless-steel case and bezel; black ion-plated bezel",
+        "band_material": "Black resin / soft urethane",
+        "glass": "Mineral glass",
+        "water_resistance_m": 200,
+        "display_polarity": "negative"
+      },
+      "edition_details": {
+        "reported_release_month": "2026-10",
+        "bezel": "Four lab-grown blue sapphire gemstones",
+        "dial": "Blue accents",
+        "light": "White full-auto LED",
+        "functions": [
+          "Tough Solar",
+          "Multi Band 6",
+          "Bluetooth"
+        ],
+        "correction": "Physically distinct resin-band model; never assign the 167 g steel-bracelet template. Bezel gemstones do not mean sapphire crystal."
+      }
+    },
+    {
+      "id": "GW-B5600MG-1PRL",
+      "category": "package",
+      "title": "Lenovo Legion",
+      "base_model": "GW-B5600MG-1",
+      "module": "3461",
+      "pages": [
+        1,
+        2,
+        4
+      ],
+      "source_keys": [
+        "S6",
+        "S7"
+      ],
+      "related_labels": [],
+      "hardware_scope": "Exact China retail page gives the included watch specifications; construction shared with MG-1",
+      "hardware_claims": {
+        "dimensions_mm": {
+          "length": 48.9,
+          "width": 42.8,
+          "thickness": 13.4
+        },
+        "watch_weight_g": 53,
+        "case_bezel_band": "Resin",
+        "glass": "Mineral glass",
+        "functions": [
+          "Tough Solar",
+          "Multi Band 6",
+          "Bluetooth",
+          "200 m water resistance"
+        ]
+      },
+      "package_details": {
+        "market": "China",
+        "reported_collaboration_year": 2021,
+        "historical_price": {
+          "currency": "CNY",
+          "value": 1190,
+          "base_model_value": 1090
+        },
+        "scope": "Separate collaboration retail listing; Lenovo Legion/year from secondary reporting, not a certified expansion of PR + L"
+      }
+    },
+    {
+      "id": "GW-B5600DC-1PRRDET",
+      "category": "package",
+      "title": "RANDOMEVENT",
+      "base_model": "GW-B5600DC-1",
+      "module": "3461",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_keys": [
+        "S8",
+        "S9"
+      ],
+      "related_labels": [],
+      "hardware_scope": "Exact Casio China listing; base functions unchanged",
+      "hardware_claims": {
+        "dimensions_mm": {
+          "length": 48.9,
+          "width": 42.8,
+          "thickness": 13.4
+        },
+        "watch_weight_g": 53,
+        "case_and_band": "Black resin",
+        "display": "Negative LCD",
+        "dial": "Digital camouflage",
+        "functions": [
+          "Tough Solar",
+          "Multi Band 6",
+          "Bluetooth",
+          "200 m water resistance"
+        ]
+      },
+      "package_details": {
+        "market": "China",
+        "report_published": "2020-07-30",
+        "release_month_scope": "Exact May release month not firmly established",
+        "contents": [
+          "Custom collector case",
+          "RANDOMEVENT phone shoulder bag"
+        ],
+        "historical_price": {
+          "currency": "CNY",
+          "value": 1190
+        },
+        "suffix_scope": "Letter-by-letter PRRDET expansion is an inference"
+      }
+    },
+    {
+      "id": "GW-B5600-2E-FR",
+      "category": "package",
+      "title": "Loop x G-SHOCK / LoopColors",
+      "base_model": "GW-B5600-2E",
+      "module": "3461",
+      "pages": [
+        1,
+        3,
+        4
+      ],
+      "source_keys": [
+        "S10"
+      ],
+      "related_labels": [],
+      "hardware_scope": "Retail-reported standard GW-B5600 construction; measurements refer to included base watch, not the complete package",
+      "hardware_claims": {
+        "dimensions_mm": {
+          "length": 48.9,
+          "width": 42.8,
+          "thickness": 13.4
+        },
+        "approximate_watch_weight_g": 53
+      },
+      "package_details": {
+        "market": "France, per retailer",
+        "report_published": "2019-06-09",
+        "contents": [
+          "Silver LoopColors spray-paint can",
+          "Three Kikuo Ibe motto-inspired stencils"
+        ],
+        "historical_price": {
+          "currency": "EUR",
+          "value": 139
+        },
+        "source_scope": "Contemporary retail/media documentation; reporter found no official Casio France or LoopColors announcement",
+        "hardware_scope": "No watch hardware modification documented"
+      }
+    },
+    {
+      "id": "GMW-B5000PS-1ERFP",
+      "category": "watch",
+      "title": "Rock for People 30th anniversary",
+      "base_model": "GMW-B5000PS-1",
+      "module": "3539",
+      "pages": [
+        1,
+        3,
+        4
+      ],
+      "source_keys": [
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "related_labels": [
+        "GMW-B5000PS-1 Rock for People"
+      ],
+      "exact_facts": {
+        "reported_measurements": {
+          "base_model": "GMW-B5000PS-1",
+          "base_dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "base_weight_g": 167,
+          "scope": "Base-model dimensions and mass only; exact engraved festival variant weight not independently certified"
+        }
+      },
+      "edition_details": {
+        "edition_year": 2025,
+        "festival_anniversary": 30,
+        "modifications": [
+          "RFP lettering",
+          "Festival logo engraved on bracelet clasp, per Czech coverage"
+        ],
+        "materials": "Recrystallized and deep-layer hardened stainless steel; TiC exterior; DLC-coated screw back; mineral glass",
+        "display": "Negative STN LCD",
+        "functions": [
+          "Tough Solar",
+          "Multi Band 6",
+          "Bluetooth",
+          "200 m water resistance"
+        ],
+        "historical_price": {
+          "currency": "CZK",
+          "value": 7999
+        },
+        "suffix_scope": "ER / FP expansions not formally confirmed by Casio"
+      }
+    }
+  ],
+  "related_labels": [
+    {
+      "reading": "GMW-B5000GDLTD-1",
+      "documented_reference": "GMW-B5000GDLTD-1ER",
+      "documented_category": "package"
+    },
+    {
+      "reading": "GMW-B5000TCM-1LT",
+      "documented_reference": "GMWB5000TCM-1LT",
+      "documented_category": "package"
+    },
+    {
+      "reading": "GMW-B5000PS-1 Rock for People",
+      "documented_reference": "GMW-B5000PS-1ERFP",
+      "documented_category": "watch"
+    }
+  ],
+  "claims": [
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1ER",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1ER",
+      "field": "catalog_description",
+      "value": "Legend of Steel",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1ER",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          4
+        ],
+        "category": "package",
+        "title": "Legend of Steel",
+        "base_model": "GMW-B5000GD-1",
+        "module": "3459",
+        "related_labels": [
+          "GMW-B5000GDLTD-1"
+        ],
+        "hardware_scope": "Standard black GMW-B5000GD-1 appears to be supplied; no redesigned watch established",
+        "hardware_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "approximate_watch_weight_g": 167,
+          "case_and_bracelet": "Black ion-plated stainless steel",
+          "display": "Negative STN LCD"
+        },
+        "package_details": {
+          "reported_date": "2020-05-02",
+          "numbered_set_count": 500,
+          "contents": [
+            "Tru Virtu G-SHOCK wallet",
+            "Metal watch case",
+            "Numbered engraved steel plate"
+          ],
+          "historical_price": {
+            "currency": "EUR",
+            "value": 559.42
+          },
+          "scope": "500 retail sets, not proof of 500 individually modified watches"
+        },
+        "exact_model_claims": {},
+        "source_urls": [
+          "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+          "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1ER",
+      "field": "module_id",
+      "value": "3459",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          4
+        ],
+        "original_label": "GMW-B5000GDLTD-1",
+        "documented_reference": "GMW-B5000GDLTD-1ER",
+        "documented_category": "package",
+        "resolution_scope": "Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.",
+        "source_urls": [
+          "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+          "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition"
+        ]
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMWB5000TCM-1LT",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMWB5000TCM-1LT",
+      "field": "catalog_description",
+      "value": "LEATHERMAN accessory set",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMWB5000TCM-1LT",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          4
+        ],
+        "category": "package",
+        "title": "LEATHERMAN accessory set",
+        "base_model": "GMW-B5000TCM-1DR",
+        "module": "3459",
+        "related_labels": [
+          "GMW-B5000TCM-1LT"
+        ],
+        "hardware_scope": "Casio Singapore explicitly identifies the included watch as GMW-B5000TCM-1DR",
+        "hardware_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "watch_weight_g": 110,
+          "case_and_bracelet": "DLC-coated titanium",
+          "glass": "Sapphire with anti-reflective coating",
+          "functions": [
+            "Tough Solar",
+            "Multi Band 6",
+            "Bluetooth",
+            "200 m water resistance"
+          ]
+        },
+        "package_details": {
+          "contents": [
+            "GMW-B5000TCM-1DR watch",
+            "LEATHERMAN G-SHOCK cutter"
+          ],
+          "canonical_spelling": "GMWB5000TCM-1LT, without the hyphen after GMW",
+          "identity_scope": "Accessory bundle; not a new movement or case design"
+        },
+        "exact_model_claims": {},
+        "source_urls": [
+          "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+          "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMWB5000TCM-1LT",
+      "field": "module_id",
+      "value": "3459",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1LT",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          4
+        ],
+        "original_label": "GMW-B5000TCM-1LT",
+        "documented_reference": "GMWB5000TCM-1LT",
+        "documented_category": "package",
+        "resolution_scope": "Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.",
+        "source_urls": [
+          "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+          "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/"
+        ]
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          4
+        ],
+        "category": "watch",
+        "title": "Gem Accents",
+        "module": "3539",
+        "related_labels": [],
+        "module_scope": "Family/prior-research attribution only; exact installed module requires caseback confirmation",
+        "edition_details": {
+          "reported_release_month": "2026-10",
+          "bezel": "Four lab-grown blue sapphire gemstones",
+          "dial": "Blue accents",
+          "light": "White full-auto LED",
+          "functions": [
+            "Tough Solar",
+            "Multi Band 6",
+            "Bluetooth"
+          ],
+          "correction": "Physically distinct resin-band model; never assign the 167 g steel-bracelet template. Bezel gemstones do not mean sapphire crystal."
+        },
+        "exact_model_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 98,
+          "case_material": "Stainless-steel case and bezel; black ion-plated bezel",
+          "band_material": "Black resin / soft urethane",
+          "glass": "Mineral glass",
+          "water_resistance_m": 200,
+          "display_polarity": "negative"
+        },
+        "source_urls": [
+          "https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 49.3,
+        "width": 43.2,
+        "thickness": 13
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "weight_g",
+      "value": 98,
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "case_material",
+      "value": "Stainless-steel case and bezel; black ion-plated bezel",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "band_material",
+      "value": "Black resin / soft urethane",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "display_polarity",
+      "value": "negative",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "reported_module_claim",
+      "value": {
+        "proposed_module": "3539",
+        "scope": "Family/prior-research attribution only; exact installed module requires caseback confirmation"
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          4
+        ],
+        "category": "package",
+        "title": "Lenovo Legion",
+        "base_model": "GW-B5600MG-1",
+        "module": "3461",
+        "related_labels": [],
+        "hardware_scope": "Exact China retail page gives the included watch specifications; construction shared with MG-1",
+        "hardware_claims": {
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "watch_weight_g": 53,
+          "case_bezel_band": "Resin",
+          "glass": "Mineral glass",
+          "functions": [
+            "Tough Solar",
+            "Multi Band 6",
+            "Bluetooth",
+            "200 m water resistance"
+          ]
+        },
+        "package_details": {
+          "market": "China",
+          "reported_collaboration_year": 2021,
+          "historical_price": {
+            "currency": "CNY",
+            "value": 1190,
+            "base_model_value": 1090
+          },
+          "scope": "Separate collaboration retail listing; Lenovo Legion/year from secondary reporting, not a certified expansion of PR + L"
+        },
+        "exact_model_claims": {},
+        "source_urls": [
+          "https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/",
+          "https://www.casio.com.cn/watches/gshock/brandpage/5600/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "module_id",
+      "value": "3461",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "category": "package",
+        "title": "RANDOMEVENT",
+        "base_model": "GW-B5600DC-1",
+        "module": "3461",
+        "related_labels": [],
+        "hardware_scope": "Exact Casio China listing; base functions unchanged",
+        "hardware_claims": {
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "watch_weight_g": 53,
+          "case_and_band": "Black resin",
+          "display": "Negative LCD",
+          "dial": "Digital camouflage",
+          "functions": [
+            "Tough Solar",
+            "Multi Band 6",
+            "Bluetooth",
+            "200 m water resistance"
+          ]
+        },
+        "package_details": {
+          "market": "China",
+          "report_published": "2020-07-30",
+          "release_month_scope": "Exact May release month not firmly established",
+          "contents": [
+            "Custom collector case",
+            "RANDOMEVENT phone shoulder bag"
+          ],
+          "historical_price": {
+            "currency": "CNY",
+            "value": 1190
+          },
+          "suffix_scope": "Letter-by-letter PRRDET expansion is an inference"
+        },
+        "exact_model_claims": {},
+        "source_urls": [
+          "https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/",
+          "https://www.g-central.com/randomevent-x-g-shock-gw-b5600dc-1prrdet-with-bag-china/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "module_id",
+      "value": "3461",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          3,
+          4
+        ],
+        "category": "package",
+        "title": "Loop x G-SHOCK / LoopColors",
+        "base_model": "GW-B5600-2E",
+        "module": "3461",
+        "related_labels": [],
+        "hardware_scope": "Retail-reported standard GW-B5600 construction; measurements refer to included base watch, not the complete package",
+        "hardware_claims": {
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "approximate_watch_weight_g": 53
+        },
+        "package_details": {
+          "market": "France, per retailer",
+          "report_published": "2019-06-09",
+          "contents": [
+            "Silver LoopColors spray-paint can",
+            "Three Kikuo Ibe motto-inspired stencils"
+          ],
+          "historical_price": {
+            "currency": "EUR",
+            "value": 139
+          },
+          "source_scope": "Contemporary retail/media documentation; reporter found no official Casio France or LoopColors announcement",
+          "hardware_scope": "No watch hardware modification documented"
+        },
+        "exact_model_claims": {},
+        "source_urls": [
+          "https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "module_id",
+      "value": "3461",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1ERFP",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1ERFP",
+      "field": "catalog_description",
+      "value": "Rock for People 30th anniversary",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1ERFP",
+      "field": "special_variant_evidence",
+      "value": {
+        "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+        "pdf_pages": [
+          1,
+          3,
+          4
+        ],
+        "category": "watch",
+        "title": "Rock for People 30th anniversary",
+        "base_model": "GMW-B5000PS-1",
+        "module": "3539",
+        "related_labels": [
+          "GMW-B5000PS-1 Rock for People"
+        ],
+        "edition_details": {
+          "edition_year": 2025,
+          "festival_anniversary": 30,
+          "modifications": [
+            "RFP lettering",
+            "Festival logo engraved on bracelet clasp, per Czech coverage"
+          ],
+          "materials": "Recrystallized and deep-layer hardened stainless steel; TiC exterior; DLC-coated screw back; mineral glass",
+          "display": "Negative STN LCD",
+          "functions": [
+            "Tough Solar",
+            "Multi Band 6",
+            "Bluetooth",
+            "200 m water resistance"
+          ],
+          "historical_price": {
+            "currency": "CZK",
+            "value": 7999
+          },
+          "suffix_scope": "ER / FP expansions not formally confirmed by Casio"
+        },
+        "exact_model_claims": {
+          "reported_measurements": {
+            "base_model": "GMW-B5000PS-1",
+            "base_dimensions_mm": {
+              "length": 49.3,
+              "width": 43.2,
+              "thickness": 13
+            },
+            "base_weight_g": 167,
+            "scope": "Base-model dimensions and mass only; exact engraved festival variant weight not independently certified"
+          }
+        },
+        "source_urls": [
+          "https://store.rockforpeople.cz/doplnky/",
+          "https://blog.chronoshop.cz/limitka-g-shock-pro-rock-for-people/",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/"
+        ],
+        "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1ERFP",
+      "field": "reported_measurements",
+      "value": {
+        "base_model": "GMW-B5000PS-1",
+        "base_dimensions_mm": {
+          "length": 49.3,
+          "width": 43.2,
+          "thickness": 13
+        },
+        "base_weight_g": 167,
+        "scope": "Base-model dimensions and mass only; exact engraved festival variant weight not independently certified"
+      },
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1ERFP",
+      "field": "module_id",
+      "value": "3539",
+      "document": "seven_special",
+      "pdf_pages": [
+        1,
+        3,
+        4
+      ]
+    }
+  ],
+  "retained_existing_scalars": [
+    {
+      "id": "GMW-B5000SB-1A2",
+      "field": "catalog_description",
+      "action": "Preserve original scalar; new source evidence and category resolution shown separately"
+    },
+    {
+      "id": "GW-B5600MG-1PRL",
+      "field": "catalog_description",
+      "action": "Preserve original scalar; new source evidence and category resolution shown separately"
+    },
+    {
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "catalog_description",
+      "action": "Preserve original scalar; new source evidence and category resolution shown separately"
+    },
+    {
+      "id": "GW-B5600-2E-FR",
+      "field": "catalog_description",
+      "action": "Preserve original scalar; new source evidence and category resolution shown separately"
+    }
+  ],
+  "cautions": [
+    "Retail packages remain searchable but do not increase the individual-watch count.",
+    "Retain original uncertain spellings and link to documented references without silently renaming or merging them.",
+    "GMW-B5000SB-1A2 weighs 98 g with a resin band; blue sapphire bezel stones do not imply a sapphire crystal. Module 3539 remains a family attribution.",
+    "GMW-B5000PS-1ERFP is an engraved watch variant; 167 g is the base-watch specification, not an independently certified festival-variant weight.",
+    "LoopColors set is retail/media documented, not an official Casio press-confirmed release.",
+    "Historical prices and report dates are not current prices or necessarily release dates.",
+    "No unsupported letter-by-letter regional or collaboration suffix definitions."
+  ],
+  "scope": "Only technical specifications, package distinctions, edition facts and citations transcribed. Original PDF and complete conversations not published.",
+  "archive_lookup": [
+    {
+      "original_url": "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+      "archive_timestamp": "20200610151523",
+      "url": "https://web.archive.org/web/20200610151523/https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+      "snapshot_sha256": "2ebe67cda07963fee7f6f46484eca0506d366c5c80eba55d1d05b51413dc9573",
+      "bytes": 78928,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition",
+      "result": "No successful snapshot returned"
+    },
+    {
+      "original_url": "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+      "archive_timestamp": "20220129105802",
+      "url": "https://web.archive.org/web/20220129105802/https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+      "snapshot_sha256": "b4150163f3cbedacc3bd3c5208ec29a8353bb2efca556d0a7c4e594aad4430aa",
+      "bytes": 144154,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/",
+      "archive_timestamp": "20220129093117",
+      "url": "https://web.archive.org/web/20220129093117/https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/",
+      "snapshot_sha256": "0cd4a8e91a672e047bf576a8fe43dea6834129129237419392d209d28bf9116f",
+      "bytes": 140752,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/",
+      "archive_timestamp": "20261002143030",
+      "url": "https://web.archive.org/web/20261002143030/https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/",
+      "snapshot_sha256": "bdd5991c90f82cfff10bb5bfcfbd38c6e93cec4658bdd1b17fe4c4147703ac86",
+      "bytes": 2712,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/",
+      "archive_timestamp": "20220520062349",
+      "url": "https://web.archive.org/web/20220520062349/https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/",
+      "snapshot_sha256": "ffec71423a7ff7895a94b39ccfb73015080655e168ccd7828d07f362a4f809b5",
+      "bytes": 174528,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com.cn/watches/gshock/brandpage/5600/",
+      "archive_timestamp": "20230201015313",
+      "url": "https://web.archive.org/web/20230201015313/https://www.casio.com.cn/watches/gshock/brandpage/5600/",
+      "snapshot_sha256": "9d11acf750bdcf8b89e894805cbb0b9b4e1873e108f9b97cb7aeff994a7668ce",
+      "bytes": 392245,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/",
+      "archive_timestamp": "20220126072253",
+      "url": "https://web.archive.org/web/20220126072253/https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/",
+      "snapshot_sha256": "05799bd3b0536ba4b158a250f2d3bd65df925196f9b49c192dc79bb725ce1a13",
+      "bytes": 142078,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.g-central.com/randomevent-x-g-shock-gw-b5600dc-1prrdet-with-bag-china/",
+      "result": "Archive unavailable: TimeoutError"
+    },
+    {
+      "original_url": "https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/",
+      "archive_timestamp": "20190818113249",
+      "url": "https://web.archive.org/web/20190818113249/https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/",
+      "snapshot_sha256": "911fce3a88deac7e8af26816d2fc090bad27144017120fe32a4454fed71e2bf4",
+      "bytes": 60305,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://store.rockforpeople.cz/doplnky/",
+      "archive_timestamp": "20191205171730",
+      "url": "https://web.archive.org/web/20191205171730/https://store.rockforpeople.cz/doplnky/",
+      "snapshot_sha256": "623cfb73540d67c5127487b0dc89253a143183083fc63eabb60e73ccb31e9474",
+      "bytes": 80455,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://blog.chronoshop.cz/limitka-g-shock-pro-rock-for-people/",
+      "result": "No successful snapshot returned"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/",
+      "archive_timestamp": "20230327122633",
+      "url": "https://web.archive.org/web/20230327122633/https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/",
+      "snapshot_sha256": "3afd99f5fbea0fc6a87d901e53c4b07fec6efc1c37de76c8d9dc9ef7a0948bf2",
+      "bytes": 36797,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    }
+  ],
+  "uncertain_identifiers": [
+    "GMW-B5000GDLTD-1",
+    "GMW-B5000TCM-1LT"
+  ]
+}

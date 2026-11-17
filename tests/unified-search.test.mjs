@@ -33,7 +33,7 @@ test('reference-only details are empty and never copy another variant case via m
  assert.equal(modelForDetail(index,catalog,'DW-OOlJ-9').entry.category,'uncertain');
 });
 test('non-watch categories stay accessible without inflating watch totals',()=>{
- for(const category of ['watch','family','clock','fitment','uncertain'])assert.equal(searchUnified(index,catalog,{mode:category}).total,index.counts[category]);
+ for(const category of ['watch','family','clock','fitment','uncertain','package'])assert.equal(searchUnified(index,catalog,{mode:category}).total,index.counts[category]);
  assert.equal(searchUnified(index,catalog,{mode:'all'}).total,index.counts.all_records);
  assert.equal(searchUnified(index,catalog,{mode:'specifications'}).total,report.models_with_specifications);
  assert.equal(searchUnified(index,catalog,{mode:'reference-only'}).total,report.reference_only_models);

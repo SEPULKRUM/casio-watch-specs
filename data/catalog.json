@@ -201521,6 +201521,38 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "9b0c641ff85cb7871120a1bd9be2719600c1ba9a1f1c7afe7647585d3587cc41"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              4
+            ],
+            "original_label": "GMW-B5000GDLTD-1",
+            "documented_reference": "GMW-B5000GDLTD-1ER",
+            "documented_category": "package",
+            "resolution_scope": "Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.",
+            "source_urls": [
+              "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+              "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition"
+            ]
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 4",
+              "evidence": "GMW-B5000GDLTD-1: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 4], \"original_label\": \"GMW-B5000GDLTD-1\", \"documented_reference\": \"GMW-B5000GDLTD-1ER\", \"documented_category\": \"package\", \"resolution_scope\": \"Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.\", \"source_urls\": [\"https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/\", \"https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition\"]}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "06c77b0f90b20ea1a26c64304499fa2d5c517d6dc39ba6306fcb5a008b7e1e28"
         }
       }
     },
@@ -201616,6 +201648,39 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "e71f168550203255d55bd6ad5f5b54eb801a189e4a7edb7837d4ac2aa065aef0"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              2,
+              4
+            ],
+            "original_label": "GMW-B5000TCM-1LT",
+            "documented_reference": "GMWB5000TCM-1LT",
+            "documented_category": "package",
+            "resolution_scope": "Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.",
+            "source_urls": [
+              "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+              "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/"
+            ]
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000TCM-1LT: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 2, 4], \"original_label\": \"GMW-B5000TCM-1LT\", \"documented_reference\": \"GMWB5000TCM-1LT\", \"documented_category\": \"package\", \"resolution_scope\": \"Related earlier spelling retained verbatim; exact documented retail spelling is separate. Do not certify the earlier spelling as a manufacturer identifier.\", \"source_urls\": [\"https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/\", \"https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/\"]}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "5a87188f3c30018d2bb2b72c85014925e30f73e5c8bbfd2878464d76f823fa76"
         }
       }
     },
@@ -203139,6 +203204,216 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "0074be80fd94be793e04c0461be70cc8b9bbbcb431e10988e7fa57a40496c7f1"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              2,
+              4
+            ],
+            "category": "watch",
+            "title": "Gem Accents",
+            "module": "3539",
+            "related_labels": [],
+            "module_scope": "Family/prior-research attribution only; exact installed module requires caseback confirmation",
+            "edition_details": {
+              "reported_release_month": "2026-10",
+              "bezel": "Four lab-grown blue sapphire gemstones",
+              "dial": "Blue accents",
+              "light": "White full-auto LED",
+              "functions": [
+                "Tough Solar",
+                "Multi Band 6",
+                "Bluetooth"
+              ],
+              "correction": "Physically distinct resin-band model; never assign the 167 g steel-bracelet template. Bezel gemstones do not mean sapphire crystal."
+            },
+            "exact_model_claims": {
+              "dimensions_mm": {
+                "length": 49.3,
+                "width": 43.2,
+                "thickness": 13
+              },
+              "weight_g": 98,
+              "case_material": "Stainless-steel case and bezel; black ion-plated bezel",
+              "band_material": "Black resin / soft urethane",
+              "glass": "Mineral glass",
+              "water_resistance_m": 200,
+              "display_polarity": "negative"
+            },
+            "source_urls": [
+              "https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 2, 4], \"category\": \"watch\", \"title\": \"Gem Accents\", \"module\": \"3539\", \"related_labels\": [], \"module_scope\": \"Family/prior-research attribution only; exact installed module requires caseback confirmation\", \"edition_details\": {\"reported_release_month\": \"2026-10\", \"bezel\": \"Four lab-grown blue sapphire gemstones\", \"dial\": \"Blue accents\", \"light\": \"White full-auto LED\", \"functions\": [\"Tough Solar\", \"Multi Band 6\", \"Bluetooth\"], \"correction\": \"Physically distinct resin-band model; never assign the 167 g steel-bracelet template. Bezel gemstones do not mean sapphire crystal.\"}, \"exact_model_claims\": {\"dimensions_mm\": {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}, \"weight_g\": 98, \"case_material\": \"Stainless-steel case and bezel; black ion-plated bezel\", \"band_material\": \"Black resin / soft urethane\", \"glass\": \"Mineral glass\", \"water_resistance_m\": 200, \"display_polarity\": \"negative\"}, \"source_urls\": [\"https://www.casio.com/us/watches/gshock/product.GMW-B5000SB-1A2/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "dimensions_mm": {
+          "value": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: dimensions_mm = {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "weight_g": {
+          "value": 98,
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: weight_g = 98"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "case_material": {
+          "value": "Stainless-steel case and bezel; black ion-plated bezel",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: case_material = \"Stainless-steel case and bezel; black ion-plated bezel\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "band_material": {
+          "value": "Black resin / soft urethane",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: band_material = \"Black resin / soft urethane\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "glass": {
+          "value": "Mineral glass",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: glass = \"Mineral glass\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "water_resistance_m": {
+          "value": 200,
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: water_resistance_m = 200"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "display_polarity": {
+          "value": "negative",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: display_polarity = \"negative\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
+        },
+        "reported_module_claim": {
+          "value": {
+            "proposed_module": "3539",
+            "scope": "Family/prior-research attribution only; exact installed module requires caseback confirmation"
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMW-B5000SB-1A2: reported_module_claim = {\"proposed_module\": \"3539\", \"scope\": \"Family/prior-research attribution only; exact installed module requires caseback confirmation\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "7c59ee4940fdccdba486907ce5e8bf981ee3872b2782d6216214dc432ab7ff86"
         }
       }
     },
@@ -204295,6 +204570,87 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "d4d7af7518bf4ddd04beb3084f33fa83b779c7c73cc142ecb85441fb85ee3940"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              2,
+              4
+            ],
+            "category": "package",
+            "title": "Lenovo Legion",
+            "base_model": "GW-B5600MG-1",
+            "module": "3461",
+            "related_labels": [],
+            "hardware_scope": "Exact China retail page gives the included watch specifications; construction shared with MG-1",
+            "hardware_claims": {
+              "dimensions_mm": {
+                "length": 48.9,
+                "width": 42.8,
+                "thickness": 13.4
+              },
+              "watch_weight_g": 53,
+              "case_bezel_band": "Resin",
+              "glass": "Mineral glass",
+              "functions": [
+                "Tough Solar",
+                "Multi Band 6",
+                "Bluetooth",
+                "200 m water resistance"
+              ]
+            },
+            "package_details": {
+              "market": "China",
+              "reported_collaboration_year": 2021,
+              "historical_price": {
+                "currency": "CNY",
+                "value": 1190,
+                "base_model_value": 1090
+              },
+              "scope": "Separate collaboration retail listing; Lenovo Legion/year from secondary reporting, not a certified expansion of PR + L"
+            },
+            "exact_model_claims": {},
+            "source_urls": [
+              "https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/",
+              "https://www.casio.com.cn/watches/gshock/brandpage/5600/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GW-B5600MG-1PRL: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 2, 4], \"category\": \"package\", \"title\": \"Lenovo Legion\", \"base_model\": \"GW-B5600MG-1\", \"module\": \"3461\", \"related_labels\": [], \"hardware_scope\": \"Exact China retail page gives the included watch specifications; construction shared with MG-1\", \"hardware_claims\": {\"dimensions_mm\": {\"length\": 48.9, \"width\": 42.8, \"thickness\": 13.4}, \"watch_weight_g\": 53, \"case_bezel_band\": \"Resin\", \"glass\": \"Mineral glass\", \"functions\": [\"Tough Solar\", \"Multi Band 6\", \"Bluetooth\", \"200 m water resistance\"]}, \"package_details\": {\"market\": \"China\", \"reported_collaboration_year\": 2021, \"historical_price\": {\"currency\": \"CNY\", \"value\": 1190, \"base_model_value\": 1090}, \"scope\": \"Separate collaboration retail listing; Lenovo Legion/year from secondary reporting, not a certified expansion of PR + L\"}, \"exact_model_claims\": {}, \"source_urls\": [\"https://www.casio.com.cn/watches/gshock/product.GW-B5600MG-1PRL/\", \"https://www.casio.com.cn/watches/gshock/brandpage/5600/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0ed9be373150a392f0e0d2d6daa2212cde769f1a1e14701e34a10b99c6f8db1c"
+        },
+        "module_id": {
+          "value": "3461",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GW-B5600MG-1PRL: module_id = \"3461\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "0ed9be373150a392f0e0d2d6daa2212cde769f1a1e14701e34a10b99c6f8db1c"
         }
       }
     },
@@ -204401,6 +204757,93 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "12fa302ca07fcfb28a9cf037a8f2ebcf7973a8cfed25c19a13527234cad57ed0"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "category": "package",
+            "title": "RANDOMEVENT",
+            "base_model": "GW-B5600DC-1",
+            "module": "3461",
+            "related_labels": [],
+            "hardware_scope": "Exact Casio China listing; base functions unchanged",
+            "hardware_claims": {
+              "dimensions_mm": {
+                "length": 48.9,
+                "width": 42.8,
+                "thickness": 13.4
+              },
+              "watch_weight_g": 53,
+              "case_and_band": "Black resin",
+              "display": "Negative LCD",
+              "dial": "Digital camouflage",
+              "functions": [
+                "Tough Solar",
+                "Multi Band 6",
+                "Bluetooth",
+                "200 m water resistance"
+              ]
+            },
+            "package_details": {
+              "market": "China",
+              "report_published": "2020-07-30",
+              "release_month_scope": "Exact May release month not firmly established",
+              "contents": [
+                "Custom collector case",
+                "RANDOMEVENT phone shoulder bag"
+              ],
+              "historical_price": {
+                "currency": "CNY",
+                "value": 1190
+              },
+              "suffix_scope": "Letter-by-letter PRRDET expansion is an inference"
+            },
+            "exact_model_claims": {},
+            "source_urls": [
+              "https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/",
+              "https://www.g-central.com/randomevent-x-g-shock-gw-b5600dc-1prrdet-with-bag-china/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 3, 4",
+              "evidence": "GW-B5600DC-1PRRDET: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 2, 3, 4], \"category\": \"package\", \"title\": \"RANDOMEVENT\", \"base_model\": \"GW-B5600DC-1\", \"module\": \"3461\", \"related_labels\": [], \"hardware_scope\": \"Exact Casio China listing; base functions unchanged\", \"hardware_claims\": {\"dimensions_mm\": {\"length\": 48.9, \"width\": 42.8, \"thickness\": 13.4}, \"watch_weight_g\": 53, \"case_and_band\": \"Black resin\", \"display\": \"Negative LCD\", \"dial\": \"Digital camouflage\", \"functions\": [\"Tough Solar\", \"Multi Band 6\", \"Bluetooth\", \"200 m water resistance\"]}, \"package_details\": {\"market\": \"China\", \"report_published\": \"2020-07-30\", \"release_month_scope\": \"Exact May release month not firmly established\", \"contents\": [\"Custom collector case\", \"RANDOMEVENT phone shoulder bag\"], \"historical_price\": {\"currency\": \"CNY\", \"value\": 1190}, \"suffix_scope\": \"Letter-by-letter PRRDET expansion is an inference\"}, \"exact_model_claims\": {}, \"source_urls\": [\"https://www.casio.com.cn/watches/gshock/product.GW-B5600DC-1PRRDET/\", \"https://www.g-central.com/randomevent-x-g-shock-gw-b5600dc-1prrdet-with-bag-china/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "99cb5fbf7d8c1e2e2326d9f30d9b9ecf8d224a97e7d4d9a28b85a398c91faa57"
+        },
+        "module_id": {
+          "value": "3461",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 3, 4",
+              "evidence": "GW-B5600DC-1PRRDET: module_id = \"3461\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "99cb5fbf7d8c1e2e2326d9f30d9b9ecf8d224a97e7d4d9a28b85a398c91faa57"
         }
       }
     },
@@ -204507,6 +204950,82 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "31350282e7eb7a19d3f14389a9cde21f6526519cef4097bfc792e6743e46c005"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              3,
+              4
+            ],
+            "category": "package",
+            "title": "Loop x G-SHOCK / LoopColors",
+            "base_model": "GW-B5600-2E",
+            "module": "3461",
+            "related_labels": [],
+            "hardware_scope": "Retail-reported standard GW-B5600 construction; measurements refer to included base watch, not the complete package",
+            "hardware_claims": {
+              "dimensions_mm": {
+                "length": 48.9,
+                "width": 42.8,
+                "thickness": 13.4
+              },
+              "approximate_watch_weight_g": 53
+            },
+            "package_details": {
+              "market": "France, per retailer",
+              "report_published": "2019-06-09",
+              "contents": [
+                "Silver LoopColors spray-paint can",
+                "Three Kikuo Ibe motto-inspired stencils"
+              ],
+              "historical_price": {
+                "currency": "EUR",
+                "value": 139
+              },
+              "source_scope": "Contemporary retail/media documentation; reporter found no official Casio France or LoopColors announcement",
+              "hardware_scope": "No watch hardware modification documented"
+            },
+            "exact_model_claims": {},
+            "source_urls": [
+              "https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GW-B5600-2E-FR: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 3, 4], \"category\": \"package\", \"title\": \"Loop x G-SHOCK / LoopColors\", \"base_model\": \"GW-B5600-2E\", \"module\": \"3461\", \"related_labels\": [], \"hardware_scope\": \"Retail-reported standard GW-B5600 construction; measurements refer to included base watch, not the complete package\", \"hardware_claims\": {\"dimensions_mm\": {\"length\": 48.9, \"width\": 42.8, \"thickness\": 13.4}, \"approximate_watch_weight_g\": 53}, \"package_details\": {\"market\": \"France, per retailer\", \"report_published\": \"2019-06-09\", \"contents\": [\"Silver LoopColors spray-paint can\", \"Three Kikuo Ibe motto-inspired stencils\"], \"historical_price\": {\"currency\": \"EUR\", \"value\": 139}, \"source_scope\": \"Contemporary retail/media documentation; reporter found no official Casio France or LoopColors announcement\", \"hardware_scope\": \"No watch hardware modification documented\"}, \"exact_model_claims\": {}, \"source_urls\": [\"https://www.g-central.com/loop-x-g-shock-gw-b5600-2e-fr-box-set-with-spray-paint-can/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c471cf1f4194467f6d7fa7914761ff86d017d1a5e868d7d32af924e57ac4992b"
+        },
+        "module_id": {
+          "value": "3461",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GW-B5600-2E-FR: module_id = \"3461\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "c471cf1f4194467f6d7fa7914761ff86d017d1a5e868d7d32af924e57ac4992b"
         }
       }
     },
@@ -205318,6 +205837,406 @@
           ],
           "status": "pending_review",
           "candidate_sha256": "39fe87f2811f3385820a59c3695295e32374de26592f300cf34a4de7be9aa7a7"
+        }
+      }
+    },
+    "GMW-B5000GDLTD-1ER": {
+      "id": "GMW-B5000GDLTD-1ER",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 4",
+              "evidence": "GMW-B5000GDLTD-1ER: series = \"G-SHOCK\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d131a5e22ff4406fd72fc7994232098d3c0c2137f9abcd4495f784a3e31a310c"
+        },
+        "catalog_description": {
+          "value": "Legend of Steel",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 4",
+              "evidence": "GMW-B5000GDLTD-1ER: catalog_description = \"Legend of Steel\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d131a5e22ff4406fd72fc7994232098d3c0c2137f9abcd4495f784a3e31a310c"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              4
+            ],
+            "category": "package",
+            "title": "Legend of Steel",
+            "base_model": "GMW-B5000GD-1",
+            "module": "3459",
+            "related_labels": [
+              "GMW-B5000GDLTD-1"
+            ],
+            "hardware_scope": "Standard black GMW-B5000GD-1 appears to be supplied; no redesigned watch established",
+            "hardware_claims": {
+              "dimensions_mm": {
+                "length": 49.3,
+                "width": 43.2,
+                "thickness": 13
+              },
+              "approximate_watch_weight_g": 167,
+              "case_and_bracelet": "Black ion-plated stainless steel",
+              "display": "Negative STN LCD"
+            },
+            "package_details": {
+              "reported_date": "2020-05-02",
+              "numbered_set_count": 500,
+              "contents": [
+                "Tru Virtu G-SHOCK wallet",
+                "Metal watch case",
+                "Numbered engraved steel plate"
+              ],
+              "historical_price": {
+                "currency": "EUR",
+                "value": 559.42
+              },
+              "scope": "500 retail sets, not proof of 500 individually modified watches"
+            },
+            "exact_model_claims": {},
+            "source_urls": [
+              "https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/",
+              "https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 4",
+              "evidence": "GMW-B5000GDLTD-1ER: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 4], \"category\": \"package\", \"title\": \"Legend of Steel\", \"base_model\": \"GMW-B5000GD-1\", \"module\": \"3459\", \"related_labels\": [\"GMW-B5000GDLTD-1\"], \"hardware_scope\": \"Standard black GMW-B5000GD-1 appears to be supplied; no redesigned watch established\", \"hardware_claims\": {\"dimensions_mm\": {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}, \"approximate_watch_weight_g\": 167, \"case_and_bracelet\": \"Black ion-plated stainless steel\", \"display\": \"Negative STN LCD\"}, \"package_details\": {\"reported_date\": \"2020-05-02\", \"numbered_set_count\": 500, \"contents\": [\"Tru Virtu G-SHOCK wallet\", \"Metal watch case\", \"Numbered engraved steel plate\"], \"historical_price\": {\"currency\": \"EUR\", \"value\": 559.42}, \"scope\": \"500 retail sets, not proof of 500 individually modified watches\"}, \"exact_model_claims\": {}, \"source_urls\": [\"https://www.g-central.com/g-shock-gmw-b5000gdltd-1er-legend-of-steel-limited-edition/\", \"https://www.keskisenkello.fi/tuotteet/casio-gmw-b5000gdltd-1er-limited-edition\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d131a5e22ff4406fd72fc7994232098d3c0c2137f9abcd4495f784a3e31a310c"
+        },
+        "module_id": {
+          "value": "3459",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 4",
+              "evidence": "GMW-B5000GDLTD-1ER: module_id = \"3459\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "d131a5e22ff4406fd72fc7994232098d3c0c2137f9abcd4495f784a3e31a310c"
+        }
+      }
+    },
+    "GMWB5000TCM-1LT": {
+      "id": "GMWB5000TCM-1LT",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMWB5000TCM-1LT: series = \"G-SHOCK\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "15796d4d23bf4d75e31b37984d93a9591fff4fb08c08fedd03000917760b97d4"
+        },
+        "catalog_description": {
+          "value": "LEATHERMAN accessory set",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMWB5000TCM-1LT: catalog_description = \"LEATHERMAN accessory set\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "15796d4d23bf4d75e31b37984d93a9591fff4fb08c08fedd03000917760b97d4"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              2,
+              4
+            ],
+            "category": "package",
+            "title": "LEATHERMAN accessory set",
+            "base_model": "GMW-B5000TCM-1DR",
+            "module": "3459",
+            "related_labels": [
+              "GMW-B5000TCM-1LT"
+            ],
+            "hardware_scope": "Casio Singapore explicitly identifies the included watch as GMW-B5000TCM-1DR",
+            "hardware_claims": {
+              "dimensions_mm": {
+                "length": 49.3,
+                "width": 43.2,
+                "thickness": 13
+              },
+              "watch_weight_g": 110,
+              "case_and_bracelet": "DLC-coated titanium",
+              "glass": "Sapphire with anti-reflective coating",
+              "functions": [
+                "Tough Solar",
+                "Multi Band 6",
+                "Bluetooth",
+                "200 m water resistance"
+              ]
+            },
+            "package_details": {
+              "contents": [
+                "GMW-B5000TCM-1DR watch",
+                "LEATHERMAN G-SHOCK cutter"
+              ],
+              "canonical_spelling": "GMWB5000TCM-1LT, without the hyphen after GMW",
+              "identity_scope": "Accessory bundle; not a new movement or case design"
+            },
+            "exact_model_claims": {},
+            "source_urls": [
+              "https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/",
+              "https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMWB5000TCM-1LT: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 2, 4], \"category\": \"package\", \"title\": \"LEATHERMAN accessory set\", \"base_model\": \"GMW-B5000TCM-1DR\", \"module\": \"3459\", \"related_labels\": [\"GMW-B5000TCM-1LT\"], \"hardware_scope\": \"Casio Singapore explicitly identifies the included watch as GMW-B5000TCM-1DR\", \"hardware_claims\": {\"dimensions_mm\": {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}, \"watch_weight_g\": 110, \"case_and_bracelet\": \"DLC-coated titanium\", \"glass\": \"Sapphire with anti-reflective coating\", \"functions\": [\"Tough Solar\", \"Multi Band 6\", \"Bluetooth\", \"200 m water resistance\"]}, \"package_details\": {\"contents\": [\"GMW-B5000TCM-1DR watch\", \"LEATHERMAN G-SHOCK cutter\"], \"canonical_spelling\": \"GMWB5000TCM-1LT, without the hyphen after GMW\", \"identity_scope\": \"Accessory bundle; not a new movement or case design\"}, \"exact_model_claims\": {}, \"source_urls\": [\"https://www.casio.com/sg/watches/gshock/product.GMWB5000TCM-1LT/\", \"https://www.casio.com/sg/watches/gshock/product.GMW-B5000TCM-1/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "15796d4d23bf4d75e31b37984d93a9591fff4fb08c08fedd03000917760b97d4"
+        },
+        "module_id": {
+          "value": "3459",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 2, 4",
+              "evidence": "GMWB5000TCM-1LT: module_id = \"3459\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "15796d4d23bf4d75e31b37984d93a9591fff4fb08c08fedd03000917760b97d4"
+        }
+      }
+    },
+    "GMW-B5000PS-1ERFP": {
+      "id": "GMW-B5000PS-1ERFP",
+      "specs": {
+        "series": {
+          "value": "G-SHOCK",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GMW-B5000PS-1ERFP: series = \"G-SHOCK\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "455df21038e624d138ae5f4cf639c4fe198fc48e4fd4d15799e8929da9c2b004"
+        },
+        "catalog_description": {
+          "value": "Rock for People 30th anniversary",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GMW-B5000PS-1ERFP: catalog_description = \"Rock for People 30th anniversary\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "455df21038e624d138ae5f4cf639c4fe198fc48e4fd4d15799e8929da9c2b004"
+        },
+        "special_variant_evidence": {
+          "value": {
+            "source_filename": "Casio_Seven_Verified_Special_Variants_Sources.pdf",
+            "pdf_pages": [
+              1,
+              3,
+              4
+            ],
+            "category": "watch",
+            "title": "Rock for People 30th anniversary",
+            "base_model": "GMW-B5000PS-1",
+            "module": "3539",
+            "related_labels": [
+              "GMW-B5000PS-1 Rock for People"
+            ],
+            "edition_details": {
+              "edition_year": 2025,
+              "festival_anniversary": 30,
+              "modifications": [
+                "RFP lettering",
+                "Festival logo engraved on bracelet clasp, per Czech coverage"
+              ],
+              "materials": "Recrystallized and deep-layer hardened stainless steel; TiC exterior; DLC-coated screw back; mineral glass",
+              "display": "Negative STN LCD",
+              "functions": [
+                "Tough Solar",
+                "Multi Band 6",
+                "Bluetooth",
+                "200 m water resistance"
+              ],
+              "historical_price": {
+                "currency": "CZK",
+                "value": 7999
+              },
+              "suffix_scope": "ER / FP expansions not formally confirmed by Casio"
+            },
+            "exact_model_claims": {
+              "reported_measurements": {
+                "base_model": "GMW-B5000PS-1",
+                "base_dimensions_mm": {
+                  "length": 49.3,
+                  "width": 43.2,
+                  "thickness": 13
+                },
+                "base_weight_g": 167,
+                "scope": "Base-model dimensions and mass only; exact engraved festival variant weight not independently certified"
+              }
+            },
+            "source_urls": [
+              "https://store.rockforpeople.cz/doplnky/",
+              "https://blog.chronoshop.cz/limitka-g-shock-pro-rock-for-people/",
+              "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/"
+            ],
+            "verification_scope": "Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact."
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GMW-B5000PS-1ERFP: special_variant_evidence = {\"source_filename\": \"Casio_Seven_Verified_Special_Variants_Sources.pdf\", \"pdf_pages\": [1, 3, 4], \"category\": \"watch\", \"title\": \"Rock for People 30th anniversary\", \"base_model\": \"GMW-B5000PS-1\", \"module\": \"3539\", \"related_labels\": [\"GMW-B5000PS-1 Rock for People\"], \"edition_details\": {\"edition_year\": 2025, \"festival_anniversary\": 30, \"modifications\": [\"RFP lettering\", \"Festival logo engraved on bracelet clasp, per Czech coverage\"], \"materials\": \"Recrystallized and deep-layer hardened stainless steel; TiC exterior; DLC-coated screw back; mineral glass\", \"display\": \"Negative STN LCD\", \"functions\": [\"Tough Solar\", \"Multi Band 6\", \"Bluetooth\", \"200 m water resistance\"], \"historical_price\": {\"currency\": \"CZK\", \"value\": 7999}, \"suffix_scope\": \"ER / FP expansions not formally confirmed by Casio\"}, \"exact_model_claims\": {\"reported_measurements\": {\"base_model\": \"GMW-B5000PS-1\", \"base_dimensions_mm\": {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}, \"base_weight_g\": 167, \"scope\": \"Base-model dimensions and mass only; exact engraved festival variant weight not independently certified\"}}, \"source_urls\": [\"https://store.rockforpeople.cz/doplnky/\", \"https://blog.chronoshop.cz/limitka-g-shock-pro-rock-for-people/\", \"https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/\"], \"verification_scope\": \"Source-supported identity / package distinction; individual technical claims remain pending independent database review. Verified in the document title does not automatically verify every fact.\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "455df21038e624d138ae5f4cf639c4fe198fc48e4fd4d15799e8929da9c2b004"
+        },
+        "reported_measurements": {
+          "value": {
+            "base_model": "GMW-B5000PS-1",
+            "base_dimensions_mm": {
+              "length": 49.3,
+              "width": 43.2,
+              "thickness": 13
+            },
+            "base_weight_g": 167,
+            "scope": "Base-model dimensions and mass only; exact engraved festival variant weight not independently certified"
+          },
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GMW-B5000PS-1ERFP: reported_measurements = {\"base_model\": \"GMW-B5000PS-1\", \"base_dimensions_mm\": {\"length\": 49.3, \"width\": 43.2, \"thickness\": 13}, \"base_weight_g\": 167, \"scope\": \"Base-model dimensions and mass only; exact engraved festival variant weight not independently certified\"}"
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "455df21038e624d138ae5f4cf639c4fe198fc48e4fd4d15799e8929da9c2b004"
+        },
+        "module_id": {
+          "value": "3539",
+          "uncertainty": "Supplied source-supported special-reference research; package hardware, derived measurements, module attribution and secondary reporting retain their scope. Pending independent database review.",
+          "sources": [
+            {
+              "kind": "user_provided",
+              "provided_by": "SEPULKRUM",
+              "permission": "user_provided",
+              "reference": "research/supplied-seven-special-variants-2026-11-17.json",
+              "source_sha256": "2bfc95ea7073565eb9b2f7d473a7fbd40e79ef97cc7749fb43f24862149d40e0",
+              "accessed": "2026-11-17",
+              "locator": "Casio_Seven_Verified_Special_Variants_Sources.pdf / PDF pages 1, 3, 4",
+              "evidence": "GMW-B5000PS-1ERFP: module_id = \"3539\""
+            }
+          ],
+          "status": "pending_review",
+          "candidate_sha256": "455df21038e624d138ae5f4cf639c4fe198fc48e4fd4d15799e8929da9c2b004"
         }
       }
     }

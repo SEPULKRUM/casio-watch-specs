@@ -1,8 +1,8 @@
 {
-  "models": 1716,
+  "models": 1719,
   "modules": 273,
   "facts_by_status": {
-    "pending_review": 9641,
+    "pending_review": 9671,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 455,
+    "G-SHOCK": 458,
     "LINEAGE": 3,
     "Lineage": 22,
     "Oceanus": 85,
@@ -5119,6 +5119,14 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GMW-B5000GDLTD-1ER": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GMW-B5000KL-9": [
       "dimensions_mm",
       "weight_g",
@@ -5152,6 +5160,14 @@
     "GMW-B5000PS-1": [
       "water_resistance_rating"
     ],
+    "GMW-B5000PS-1ERFP": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GMW-B5000RD-4": [
       "dimensions_mm",
       "weight_g",
@@ -5161,11 +5177,6 @@
       "water_resistance_rating"
     ],
     "GMW-B5000SB-1A2": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
       "water_resistance_rating"
     ],
     "GMW-B5000SS-2": [
@@ -5245,6 +5256,14 @@
       "water_resistance_rating"
     ],
     "GMW-B5000V-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMWB5000TCM-1LT": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -12435,10 +12454,7 @@
     "GW-A1100-2A",
     "GW-A1130-1A",
     "GW-B5600-2",
-    "GW-B5600-2E-FR",
     "GW-B5600BC-1BJF",
-    "GW-B5600DC-1PRRDET",
-    "GW-B5600MG-1PRL",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
@@ -12836,7 +12852,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 789,
+  "models_with_single_module_reference": 795,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -13044,12 +13060,14 @@
     "GMW-B5000G-2": "3459",
     "GMW-B5000GD-1": "3459",
     "GMW-B5000GD-9": "3459",
+    "GMW-B5000GDLTD-1ER": "3459",
     "GMW-B5000KL-9": "3459",
     "GMW-B5000MB-1": "3459",
     "GMW-B5000PB-6": "3459",
     "GMW-B5000PC-1": "3539",
     "GMW-B5000PG-9": "3539",
     "GMW-B5000PS-1": "3539",
+    "GMW-B5000PS-1ERFP": "3539",
     "GMW-B5000SS-2": "3539",
     "GMW-B5000TB-1": "3459",
     "GMW-B5000TCC-1": "3459",
@@ -13061,6 +13079,7 @@
     "GMW-B5000TVA-1": "3459",
     "GMW-B5000TVB-1": "3459",
     "GMW-B5000V-1": "3459",
+    "GMWB5000TCM-1LT": "3459",
     "GW-1500J": "3367",
     "GW-2500": "5064",
     "GW-5000": "3159",
@@ -13129,6 +13148,7 @@
     "GW-9501KJ-8": "3553",
     "GW-9502KJ-8": "3553",
     "GW-9503KJ-2": "3553",
+    "GW-B5600-2E-FR": "3461",
     "GW-B5600AR-1": "3461",
     "GW-B5600BC-1": "3461",
     "GW-B5600BC-1B": "3461",
@@ -13140,9 +13160,11 @@
     "GW-B5600CT-1": "3461",
     "GW-B5600CY-1": "3540",
     "GW-B5600DC-1": "3461",
+    "GW-B5600DC-1PRRDET": "3461",
     "GW-B5600GZ-1": "3461",
     "GW-B5600HR-1": "3461",
     "GW-B5600MG-1": "3461",
+    "GW-B5600MG-1PRL": "3461",
     "GW-B5600SGM-1": "3461",
     "GW-B5600SGZ-7": "3461",
     "GW-B5600SL-5": "3461",
@@ -14101,10 +14123,7 @@
     "GW-A1100-1A3JF",
     "GW-A1100-2A",
     "GW-A1130-1A",
-    "GW-B5600-2E-FR",
     "GW-B5600BC-1BJF",
-    "GW-B5600DC-1PRRDET",
-    "GW-B5600MG-1PRL",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",

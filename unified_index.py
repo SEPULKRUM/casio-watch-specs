@@ -15,7 +15,7 @@ from pathlib import Path
 
 from reference_import import MODEL
 
-CATEGORIES = ('watch', 'family', 'clock', 'fitment', 'uncertain')
+CATEGORIES = ('watch', 'family', 'clock', 'fitment', 'uncertain', 'package')
 OUTPUTS = {'data/search-index.json', 'data/reconciliation-report.json', 'data/unified-models.csv'}
 IDENTITY_KEYS = {'model', 'model_id', 'model_number', 'model_code', 'watch_model', 'watch_id', 'listed_model', 'canonical_model', 'displayed_model', 'displayed_sku', 'verified_exact_model', 'catalog_model', 'candidate_id', 'comparison_model', 'sku', 'productName', 'productDisplayName', 'identifier', 'example_model', 'reference_model'}
 LIST_KEYS = {'models', 'model_strings', 'candidate_model_strings', 'example_models', 'examples', 'catalog_models', 'aliases', 'supplied_aliases', 'added_model_series_strings', 'imported', 'unmatched', 'related_user_mappings', 'proposed_aliases', 'market_aliases', 'related_models', 'variants'}
@@ -48,6 +48,9 @@ def build(root=Path('.')):
     clocks={key for key,row in catalog['models'].items() if 'clock' in str(row['specs'].get('series',{}).get('value','')).lower() or row['specs'].get('reference_scope',{}).get('value')=='2011_clock_index'}
     families={key for key,row in catalog['models'].items() if row['specs'].get('reference_scope',{}).get('value')=='2011_watch_family_index'}
     uncertain_catalog={key for key,row in catalog['models'].items() if row['specs'].get('reference_scope',{}).get('value')=='unconfirmed_identifier'}
+    resolution_path=root/'research/supplied-seven-special-variants-2026-11-17.json'
+    category_resolutions=load(resolution_path).get('category_resolutions',{}) if resolution_path.exists() else {}
+    if any(v not in {'watch','package','uncertain'} for v in category_resolutions.values()):raise ValueError('Invalid special-reference category resolution')
     def source(path):
         name=path.as_posix() if isinstance(path,Path) else path
         if name not in source_numbers:
@@ -69,7 +72,7 @@ def build(root=Path('.')):
         item['hints'].add(hint)
         if family and family_name(family) not in item['family_hints']:item['family_hints'].append(family_name(family))
         occurrences.append(raw)
-    def catalog_hint(identifier):return 'uncertain' if identifier in uncertain_catalog else 'clock' if identifier in clocks else 'family' if identifier in families else 'watch'
+    def catalog_hint(identifier):return category_resolutions[identifier] if identifier in category_resolutions else 'uncertain' if identifier in uncertain_catalog else 'clock' if identifier in clocks else 'family' if identifier in families else 'watch'
     def walk(value,path,location='',hint='watch',context=''):
         if isinstance(value,dict):
             if value.get('kind')=='module' or 'module_reference_number' in value and 'model_id' not in value:context='module'
@@ -205,7 +208,7 @@ def build(root=Path('.')):
             raise ValueError('Fitment note belongs to a different model')
     rows=[]
     for key,item in sorted(records.items()):
-        hints=item.pop('hints');hint='uncertain' if key in uncertain_catalog else 'clock' if key in clocks or 'clock' in hints else 'fitment' if 'fitment' in hints else 'family' if key in families else 'watch' if 'watch' in hints else 'family' if 'family' in hints else 'uncertain'
+        hints=item.pop('hints');hint=category_resolutions[key] if key in category_resolutions else 'uncertain' if key in uncertain_catalog else 'clock' if key in clocks or 'clock' in hints else 'fitment' if 'fitment' in hints else 'family' if key in families else 'watch' if 'watch' in hints else 'family' if 'family' in hints else 'uncertain'
         # An explicit 2011 family label remains a family unless another source identifies a watch variant.
         if key in families and hints<={'family','uncertain'}:hint='family'
         model=catalog['models'].get(key);prefix=re.match(r'[A-Z]+',key)
@@ -219,13 +222,15 @@ def build(root=Path('.')):
     counts=Counter(row['category'] for row in rows);watch=[r for r in rows if r['category']=='watch'];freq=Counter(occurrences)
     expected={key for key,item in records.items() if any(o[3]=='watch' for o in item['origins']) and key not in clocks and key not in families and not any(o[3] in {'clock','fitment'} for o in item['origins'])}
     expected |= {row['model_id'] for row in master['models'] if MODEL.fullmatch(row['model_id']) and not BATTERY.fullmatch(row['model_id']) and 'combined/parts' not in row.get('reference_type',master['model_defaults']['reference_type']) and row['model_id'] not in clocks and row['model_id'] not in families}
-    expected -= uncertain_catalog
+    expected -= {k for k in uncertain_catalog if category_resolutions.get(k)!='watch'}
+    expected -= {k for k,v in category_resolutions.items() if v!='watch'}
     index={'schema_version':1,'identity_policy':'Exact identifier after outer-whitespace trimming; punctuation, variants and regional suffixes are never merged. Compact forms are search keys only.','scope':'Watch identifiers are pending authentication unless their individual facts carry review evidence. Family, clock, fitment and uncertain categories do not inflate individual-watch counts.','generator_sha256':sha(root/'unified_index.py'),'catalog_sha256':sha(root/'data/catalog.json'),'master_source':'research/casio-master-research-2026-11-16.json','sources':sources,'counts':{'all_records':len(rows),**{k:counts[k] for k in CATEGORIES},'watch_with_specifications':sum(r['has_specifications'] for r in watch),'watch_reference_only':sum(not r['has_specifications'] for r in watch),'catalog_records':len(catalog['models']),'catalog_watch_records':sum(r['category']=='watch' and r['catalog_id'] is not None for r in rows)},'records':rows}
     index['fitment_resolutions']=resolutions
     published={r['id'] for r in rows if r['category']=='watch'}
     missing=sorted(expected-published)
     report={'schema_version':1,'definitions':{'total_imported_identifiers':'Identifier occurrences across audited datasets, including repeated exact identifiers and generated mirrors; not a watch count.','distinct_individual_watch_identifiers':'Eligible individual identifiers, not a claim that every watch or its specifications are authenticated.','models_with_specifications':'Individual watch identifiers with at least one own technical catalog field; no shared-module case data is copied.','reference_only_models':'Individual watch identifiers without their own technical catalog fields.','duplicate_exact_identifiers':'Occurrences beyond the first exact identifier; different suffixes, punctuation and regions remain separate.'},'total_imported_identifiers':len(occurrences),'distinct_raw_identifiers':len(rows),'distinct_individual_watch_identifiers':counts['watch'],'duplicate_exact_identifiers':len(occurrences)-len(rows),'identifiers_with_exact_duplicates':sum(n>1 for n in freq.values()),'reference_only_models':index['counts']['watch_reference_only'],'models_with_specifications':index['counts']['watch_with_specifications'],'unresolved_identifiers':counts['uncertain'],'category_counts':{k:counts[k] for k in CATEGORIES},'models_missing_from_published_search_index':missing,'missing_model_count':len(missing),'source_audit':audit,'ignored_nonmodel_fields':dict(ignored),'published_dataset_aliases':{'master-research.json':'research/casio-master-research-2026-11-16.json'},'expected_eligible_individual_identifiers':sorted(expected),'duplicate_identifier_details':[{'id':key,'occurrences':n} for key,n in sorted(freq.items()) if n>1],'index_sha256':hashlib.sha256(dumps(index).encode()).hexdigest()}
-    report['unconfirmed_identifier_overrides']=sorted(uncertain_catalog)
+    report['unconfirmed_identifier_overrides']=sorted(k for k in uncertain_catalog if k not in category_resolutions)
+    report['special_reference_category_resolutions']=category_resolutions
     if missing:raise ValueError('Eligible models omitted from unified index')
     return index,report
 

@@ -14,7 +14,8 @@ class MetalSquareTests(unittest.TestCase):
  def test_every_entry_is_accessible_with_uncertain_labels_excluded_from_watch_counts(self):
   rows={r['id']:r for r in specs.load('data/search-index.json')['records']}
   for id in self.note['models']:self.assertEqual(rows[id]['category'],'watch',id)
-  for id in self.note['uncertain_identifiers']:self.assertEqual(rows[id]['category'],'uncertain',id)
+  resolutions=specs.load('research/supplied-seven-special-variants-2026-11-17.json')['category_resolutions']
+  for id in self.note['uncertain_identifiers']:self.assertEqual(rows[id]['category'],resolutions.get(id,'uncertain'),id)
   for r in self.note['unresolved_labels']:self.assertEqual(rows[r['reading']]['category'],'uncertain')
   self.assertEqual(specs.load('data/reconciliation-report.json')['missing_model_count'],0)
  def test_series_and_approximate_specs_are_not_assigned_to_variants(self):
