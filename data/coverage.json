@@ -1,8 +1,8 @@
 {
-  "models": 1661,
-  "modules": 272,
+  "models": 1716,
+  "modules": 273,
   "facts_by_status": {
-    "pending_review": 9362,
+    "pending_review": 9641,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 400,
+    "G-SHOCK": 455,
     "LINEAGE": 3,
     "Lineage": 22,
     "Oceanus": 85,
@@ -3930,6 +3930,14 @@
       "glass",
       "water_resistance_rating"
     ],
+    "G-D5000-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "G100-1BV": [
       "dimensions_mm",
       "case_material",
@@ -4981,7 +4989,89 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GMW-B5000-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000BPC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000BT-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000CS-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000D-1C": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GMW-B5000D-1JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000D-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000D-3": [
+      "water_resistance_rating"
+    ],
+    "GMW-B5000EH-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000G-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000G-2": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000GD-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -4997,7 +5087,164 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GMW-B5000GD-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000GD-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GMW-B5000GD-9JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000GDLTD-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000KL-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000MB-1": [
+      "water_resistance_rating"
+    ],
+    "GMW-B5000PB-6": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000PC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000PG-9": [
+      "water_resistance_rating"
+    ],
+    "GMW-B5000PS-1": [
+      "water_resistance_rating"
+    ],
+    "GMW-B5000RD-4": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000SB-1A2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000SS-2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TB-1": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TCC-1": [
+      "dimensions_mm",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TCF-2": [
+      "dimensions_mm",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TCM-1": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TCM-1LT": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TFC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TFG-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TR-9": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TVA-1": [
+      "dimensions_mm",
+      "weight_g",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000TVB-1": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMW-B5000V-1": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -6021,7 +6268,165 @@
       "glass",
       "water_resistance_rating"
     ],
+    "GW-B5600-2E-FR": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600AR-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600BC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600BC-1B": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "GW-B5600BC-1BJF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600BL-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600BP-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600CD-1A2": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600CD-1A3": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600CD-9": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600CT-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600CY-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600DC-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600DC-1PRRDET": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600GZ-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600HR-1": [
+      "dimensions_mm",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600MG-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600MG-1PRL": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600SGM-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600SGZ-7": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GW-B5600SL-5": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -11836,6 +12241,7 @@
     "G-9000",
     "G-9100",
     "G-9300-1",
+    "G-D5000-9",
     "G100-1BV",
     "GA-100",
     "GA-100-1AJF",
@@ -11954,8 +12360,14 @@
     "GMD-S5600-1JF",
     "GMD-S5600-8JF",
     "GMW-B5000D-1JF",
+    "GMW-B5000D-2",
     "GMW-B5000GD-1JF",
+    "GMW-B5000GD-4",
     "GMW-B5000GD-9JF",
+    "GMW-B5000GDLTD-1",
+    "GMW-B5000RD-4",
+    "GMW-B5000SB-1A2",
+    "GMW-B5000TCM-1LT",
     "GN-1000-1AJF",
     "GN-1000B-1AJF",
     "GPW-1000-1A",
@@ -12023,7 +12435,10 @@
     "GW-A1100-2A",
     "GW-A1130-1A",
     "GW-B5600-2",
+    "GW-B5600-2E-FR",
     "GW-B5600BC-1BJF",
+    "GW-B5600DC-1PRRDET",
+    "GW-B5600MG-1PRL",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
@@ -12421,7 +12836,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 744,
+  "models_with_single_module_reference": 789,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -12618,6 +13033,34 @@
     "GMC-2500D-1A": "5757",
     "GMC-2500D-1A2": "5757",
     "GMC-2500G-9A": "5757",
+    "GMW-B5000-1": "3459",
+    "GMW-B5000BPC-1": "3539",
+    "GMW-B5000BT-1": "3539",
+    "GMW-B5000CS-1": "3459",
+    "GMW-B5000D-1C": "3539",
+    "GMW-B5000D-3": "3539",
+    "GMW-B5000EH-1": "3459",
+    "GMW-B5000G-1": "3459",
+    "GMW-B5000G-2": "3459",
+    "GMW-B5000GD-1": "3459",
+    "GMW-B5000GD-9": "3459",
+    "GMW-B5000KL-9": "3459",
+    "GMW-B5000MB-1": "3459",
+    "GMW-B5000PB-6": "3459",
+    "GMW-B5000PC-1": "3539",
+    "GMW-B5000PG-9": "3539",
+    "GMW-B5000PS-1": "3539",
+    "GMW-B5000SS-2": "3539",
+    "GMW-B5000TB-1": "3459",
+    "GMW-B5000TCC-1": "3459",
+    "GMW-B5000TCF-2": "3459",
+    "GMW-B5000TCM-1": "3459",
+    "GMW-B5000TFC-1": "3459",
+    "GMW-B5000TFG-9": "3459",
+    "GMW-B5000TR-9": "3459",
+    "GMW-B5000TVA-1": "3459",
+    "GMW-B5000TVB-1": "3459",
+    "GMW-B5000V-1": "3459",
     "GW-1500J": "3367",
     "GW-2500": "5064",
     "GW-5000": "3159",
@@ -12686,6 +13129,23 @@
     "GW-9501KJ-8": "3553",
     "GW-9502KJ-8": "3553",
     "GW-9503KJ-2": "3553",
+    "GW-B5600AR-1": "3461",
+    "GW-B5600BC-1": "3461",
+    "GW-B5600BC-1B": "3461",
+    "GW-B5600BL-1": "3461",
+    "GW-B5600BP-1": "3461",
+    "GW-B5600CD-1A2": "3540",
+    "GW-B5600CD-1A3": "3540",
+    "GW-B5600CD-9": "3540",
+    "GW-B5600CT-1": "3461",
+    "GW-B5600CY-1": "3540",
+    "GW-B5600DC-1": "3461",
+    "GW-B5600GZ-1": "3461",
+    "GW-B5600HR-1": "3461",
+    "GW-B5600MG-1": "3461",
+    "GW-B5600SGM-1": "3461",
+    "GW-B5600SGZ-7": "3461",
+    "GW-B5600SL-5": "3461",
     "GW-M5610-1BJF": "3159",
     "GW-M5610-1JF": "3159",
     "GW-M5610BA-1JF": "3159",
@@ -13450,6 +13910,7 @@
     "G-8900A-1JF",
     "G-9000",
     "G-9100",
+    "G-D5000-9",
     "GA-100",
     "GA-100-1AJF",
     "GA-100CB-1AJF",
@@ -13566,8 +14027,14 @@
     "GMD-S5600-1JF",
     "GMD-S5600-8JF",
     "GMW-B5000D-1JF",
+    "GMW-B5000D-2",
     "GMW-B5000GD-1JF",
+    "GMW-B5000GD-4",
     "GMW-B5000GD-9JF",
+    "GMW-B5000GDLTD-1",
+    "GMW-B5000RD-4",
+    "GMW-B5000SB-1A2",
+    "GMW-B5000TCM-1LT",
     "GN-1000-1AJF",
     "GN-1000B-1AJF",
     "GPW-1000-1A",
@@ -13634,7 +14101,10 @@
     "GW-A1100-1A3JF",
     "GW-A1100-2A",
     "GW-A1130-1A",
+    "GW-B5600-2E-FR",
     "GW-B5600BC-1BJF",
+    "GW-B5600DC-1PRRDET",
+    "GW-B5600MG-1PRL",
     "GW-M5610LY-1JF",
     "GWF-1000-1JF",
     "GWF-A1000-1A2JF",
@@ -14023,11 +14493,11 @@
   "candidate_module_ids_without_specs": [],
   "module_field_coverage": {
     "accuracy_condition": 104,
-    "accuracy_seconds_per_month": 152,
-    "alarm_count": 114,
+    "accuracy_seconds_per_month": 153,
+    "alarm_count": 115,
     "battery_cell": 33,
     "battery_runtime": 34,
-    "calendar": 148,
+    "calendar": 149,
     "catalog_1983_evidence": 29,
     "catalog_2011_associations": 48,
     "catalog_features": 15,
@@ -14036,20 +14506,21 @@
     "digital_compass": 1,
     "display_polarity": 2,
     "dive_log": 1,
-    "illumination": 60,
+    "illumination": 62,
     "master_module_reference": 18,
+    "metal_square_evidence": 4,
     "module_comparison_evidence": 2,
-    "power_supply": 106,
+    "power_supply": 107,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
-    "snooze_alarm": 41,
+    "snooze_alarm": 42,
     "stopwatch": 85,
     "supplied_module_specifications": 12,
     "thermometer": 2,
     "tide_moon": 1,
     "timer": 59,
-    "world_time_cities": 74,
-    "world_time_zones": 73
+    "world_time_cities": 75,
+    "world_time_zones": 74
   },
   "module_profiles_by_fact_count": {
     "1": 101,
@@ -14059,11 +14530,11 @@
     "5": 18,
     "6": 20,
     "7": 14,
-    "8": 16,
-    "9": 11,
-    "10": 20,
-    "11": 11,
-    "12": 10,
+    "8": 15,
+    "9": 12,
+    "10": 21,
+    "11": 9,
+    "12": 12,
     "13": 5,
     "14": 1,
     "15": 2,

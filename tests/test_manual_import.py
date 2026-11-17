@@ -57,7 +57,7 @@ class ManualImportTests(unittest.TestCase):
         report = catalog.coverage(self.catalog)
         self.assertGreaterEqual(report['models_with_single_module_reference'], 21)
         self.assertGreaterEqual(len(report['models_with_ambiguous_manual']), 8)
-        self.assertTrue(all(('catalog_year' in self.catalog['models'][key]['specs'] or 'supplied_model_details' in self.catalog['models'][key]['specs'] or 'catalog_2011_reference' in self.catalog['models'][key]['specs'] or 'catalog_source_references' in self.catalog['models'][key]['specs'] or 'master_research_reference' in self.catalog['models'][key]['specs'] or 'research_pdf_evidence' in self.catalog['models'][key]['specs']) for key in report['models_without_any_module_reference']))
+        self.assertTrue(all(('catalog_year' in self.catalog['models'][key]['specs'] or 'supplied_model_details' in self.catalog['models'][key]['specs'] or 'catalog_2011_reference' in self.catalog['models'][key]['specs'] or 'catalog_source_references' in self.catalog['models'][key]['specs'] or 'master_research_reference' in self.catalog['models'][key]['specs'] or 'research_pdf_evidence' in self.catalog['models'][key]['specs'] or 'metal_square_evidence' in self.catalog['models'][key]['specs']) for key in report['models_without_any_module_reference']))
         self.assertGreaterEqual(len(report['user_provided_module_references']), 17)
         self.assertEqual(report['referenced_module_ids_without_specs'], [])
         self.assertGreaterEqual(report['modules'], 32)

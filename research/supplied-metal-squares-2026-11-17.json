@@ -1,0 +1,6037 @@
+{
+  "schema_version": 1,
+  "type": "user_watch_specifications",
+  "provided_by": "SEPULKRUM",
+  "received": "2026-11-17",
+  "title": "GMW-B5000 / GW-B5600 — four-module variants and source-controlled technical research",
+  "source_documents": {
+    "metal_squares": {
+      "filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+      "sha256": "ac9dc0cc60c5ac7e5da6e2b6363b3ac4b07d8e3aa94837af2806fe239caf2cfa",
+      "pages": 6,
+      "document_date": "2026-11-16",
+      "source_urls": {
+        "S1": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+        "S2": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+        "S3": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf",
+        "S4": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/",
+        "S5": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000MB-1/",
+        "S6": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PG-9/",
+        "S7": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/",
+        "S8": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-3/",
+        "S9": "https://www.casio.com/intl/watches/gshock/product.GW-B5600-2/",
+        "S10": "https://gshock.casio.com/intl/products/type/full-metal/gmw-b5000/",
+        "S11": "https://support.casio.com/global/en/wat/manual/3540_en/NHCXSYtcwccmdl.html",
+        "S12": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html"
+      }
+    }
+  },
+  "source_rows": [
+    {
+      "id": "GMW-B5000D-1",
+      "description": "Silver stainless steel; positive LCD",
+      "status": "Casio-confirmed [S4]",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000GD-1",
+      "description": "Black ion-plated steel; negative LCD",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000GD-9",
+      "description": "Gold IP steel; negative LCD",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000GD-4",
+      "description": "Rose-gold finish",
+      "status": "Verify finish / module",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000RD-4",
+      "description": "Burgundy-red finish",
+      "status": "Verify module",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000CS-1",
+      "description": "Black grid-tunnel engraving",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000V-1",
+      "description": "Vintage / aged black finish",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000PB-6",
+      "description": "Twilight Tokyo purple-blue",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000MB-1",
+      "description": "Black multi-finish stainless steel",
+      "status": "Casio-confirmed [S5]",
+      "section_module": "3459",
+      "pdf_page": 2
+    },
+    {
+      "id": "GMW-B5000EH-1",
+      "description": "Eric Haze 40th anniversary",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TFG-9",
+      "description": "35th-anniversary gold steel",
+      "status": "Verify exact weight",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000-1",
+      "description": "Silver bezel; black resin strap",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000G-1",
+      "description": "Black-IP bezel; resin strap",
+      "status": "Series-based",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000G-2",
+      "description": "Blue-IP bezel; resin strap; 96 g",
+      "status": "Casio weight reported",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000KL-9",
+      "description": "Kolor limited collaboration",
+      "status": "Verify weight / model",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TB-1",
+      "description": "Black DLC titanium; sapphire; ~110 g",
+      "status": "Approx. weight",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TCM-1",
+      "description": "Digital-camouflage titanium; sapphire; ~110 g",
+      "status": "Approx. weight",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TCF-2",
+      "description": "Blue titanium camouflage; sapphire; 110 g",
+      "status": "Reported individual spec",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TR-9",
+      "description": "TranTixxii multicolor titanium",
+      "status": "Verify weight",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TVA-1",
+      "description": "Virtual Armor titanium",
+      "status": "Verify weight",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TVB-1",
+      "description": "Virtual Armor II; 106 g",
+      "status": "Reported individual spec",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TCC-1",
+      "description": "Circuit Board titanium; 104 g",
+      "status": "Reported individual spec",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TFC-1",
+      "description": "Porter 35th anniversary",
+      "status": "Verify individual spec",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000GDLTD-1",
+      "description": "Regional limited identifier",
+      "status": "Unconfirmed identifier",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000TCM-1LT",
+      "description": "Regional TCM identifier",
+      "status": "Unconfirmed suffix",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "G-D5000-9",
+      "description": "18K gold special model; nonstandard construction",
+      "status": "Verify module and specs",
+      "section_module": "3459",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000PG-9",
+      "description": "40th Recrystallized gold IP, deep-layer hardened",
+      "status": "Casio-confirmed [S6]",
+      "section_module": "3539",
+      "pdf_page": 3
+    },
+    {
+      "id": "GMW-B5000PS-1",
+      "description": "40th Recrystallized silver / TiC, hardened",
+      "status": "Casio-confirmed [S7]",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000PC-1",
+      "description": "Polychromatic Accent, silver / blue-purple",
+      "status": "Series-based",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000BPC-1",
+      "description": "Polychromatic Accent, black / multicolor",
+      "status": "Series-based",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000D-2",
+      "description": "Silver bracelet, blue dial accent",
+      "status": "Verify module / weight",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000D-3",
+      "description": "Silver bracelet, green accent",
+      "status": "Casio physical spec [S8]",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000SS-2",
+      "description": "Casio Watch 50th anniversary",
+      "status": "Series-based",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000D-1C",
+      "description": "Original color scheme",
+      "status": "Series-based",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000BT-1",
+      "description": "Black ion-plated steel",
+      "status": "Series-based",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000PS-1 Rock for People",
+      "description": "Special identifier associated with PS-1",
+      "status": "Verify independent SKU",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GMW-B5000SB-1A2",
+      "description": "Blue Rose regional design",
+      "status": "Verify model and specs",
+      "section_module": "3539",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600-2",
+      "description": "Blue-accent resin model",
+      "status": "Casio-confirmed [S9]",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600AR-1",
+      "description": "Adrenaline Red",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600BL-1",
+      "description": "Blue / red accents",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600MG-1",
+      "description": "Military Green",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600BP-1",
+      "description": "Blue / purple accents",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600CT-1",
+      "description": "City Camouflage",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600SL-5",
+      "description": "Sand Land",
+      "status": "Series-based",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600GZ-1",
+      "description": "Gorillaz collaboration",
+      "status": "Verify individual spec",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600SGZ-7",
+      "description": "Gorillaz collaboration",
+      "status": "Verify individual spec",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600SGM-1",
+      "description": "Regional special design",
+      "status": "Verify identifier",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600DC-1",
+      "description": "Regional special edition",
+      "status": "Verify identifier",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600MG-1PRL",
+      "description": "Regional suffix",
+      "status": "Verify independent SKU",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600DC-1PRRDET",
+      "description": "Regional collaboration suffix",
+      "status": "Verify independent SKU",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600-2E-FR",
+      "description": "Regional suffix",
+      "status": "Verify independent SKU",
+      "section_module": "3461",
+      "pdf_page": 4
+    },
+    {
+      "id": "GW-B5600BC-1",
+      "description": "Composite steel/resin bracelet; ~85 g",
+      "status": "Approx. series weight",
+      "section_module": "3461",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600BC-1B",
+      "description": "Composite steel/resin bracelet; 85 g",
+      "status": "Reported individual spec",
+      "section_module": "3461",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600HR-1",
+      "description": "Composite steel/resin bracelet; 85 g",
+      "status": "Reported individual spec",
+      "section_module": "3461",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600CY-1",
+      "description": "Caution Yellow",
+      "status": "Series-based",
+      "section_module": "3540",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600CD-1A2",
+      "description": "Charles Darwin Foundation; hammerhead shark",
+      "status": "Series-based",
+      "section_module": "3540",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600CD-1A3",
+      "description": "Charles Darwin Foundation; Darwin finch",
+      "status": "Series-based",
+      "section_module": "3540",
+      "pdf_page": 5
+    },
+    {
+      "id": "GW-B5600CD-9",
+      "description": "Charles Darwin Foundation; giant tortoise",
+      "status": "Series-based",
+      "section_module": "3540",
+      "pdf_page": 5
+    }
+  ],
+  "models": [
+    "GMW-B5000D-1",
+    "GMW-B5000GD-1",
+    "GMW-B5000GD-9",
+    "GMW-B5000GD-4",
+    "GMW-B5000RD-4",
+    "GMW-B5000CS-1",
+    "GMW-B5000V-1",
+    "GMW-B5000PB-6",
+    "GMW-B5000MB-1",
+    "GMW-B5000EH-1",
+    "GMW-B5000TFG-9",
+    "GMW-B5000-1",
+    "GMW-B5000G-1",
+    "GMW-B5000G-2",
+    "GMW-B5000KL-9",
+    "GMW-B5000TB-1",
+    "GMW-B5000TCM-1",
+    "GMW-B5000TCF-2",
+    "GMW-B5000TR-9",
+    "GMW-B5000TVA-1",
+    "GMW-B5000TVB-1",
+    "GMW-B5000TCC-1",
+    "GMW-B5000TFC-1",
+    "G-D5000-9",
+    "GMW-B5000PG-9",
+    "GMW-B5000PS-1",
+    "GMW-B5000PC-1",
+    "GMW-B5000BPC-1",
+    "GMW-B5000D-2",
+    "GMW-B5000D-3",
+    "GMW-B5000SS-2",
+    "GMW-B5000D-1C",
+    "GMW-B5000BT-1",
+    "GW-B5600-2",
+    "GW-B5600AR-1",
+    "GW-B5600BL-1",
+    "GW-B5600MG-1",
+    "GW-B5600BP-1",
+    "GW-B5600CT-1",
+    "GW-B5600SL-5",
+    "GW-B5600GZ-1",
+    "GW-B5600SGZ-7",
+    "GW-B5600SGM-1",
+    "GW-B5600DC-1",
+    "GW-B5600BC-1",
+    "GW-B5600BC-1B",
+    "GW-B5600HR-1",
+    "GW-B5600CY-1",
+    "GW-B5600CD-1A2",
+    "GW-B5600CD-1A3",
+    "GW-B5600CD-9"
+  ],
+  "uncertain_identifiers": [
+    "GMW-B5000GDLTD-1",
+    "GMW-B5000TCM-1LT",
+    "GMW-B5000SB-1A2",
+    "GW-B5600MG-1PRL",
+    "GW-B5600DC-1PRRDET",
+    "GW-B5600-2E-FR"
+  ],
+  "unresolved_labels": [
+    {
+      "reading": "GMW-B5000PS-1 Rock for People",
+      "description": "Special identifier associated with PS-1",
+      "status": "Verify independent SKU",
+      "pdf_page": 4,
+      "category": "uncertain",
+      "note": "Retained as an exact source label; not converted to a fabricated standalone SKU or silently merged with GMW-B5000PS-1"
+    }
+  ],
+  "modules": [
+    "3459",
+    "3539",
+    "3461",
+    "3540"
+  ],
+  "claims": [
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1",
+      "field": "catalog_description",
+      "value": "Silver stainless steel; positive LCD",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Silver stainless steel; positive LCD",
+        "source_status": "Casio-confirmed [S4]",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 167,
+          "caseback": "Screw-lock",
+          "display": "STN",
+          "source_scope": "Explicitly identified manufacturer-supported reference in supplied PDF; pending database review"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-1",
+      "field": "catalog_description",
+      "value": "Black ion-plated steel; negative LCD",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Black ion-plated steel; negative LCD",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-9",
+      "field": "catalog_description",
+      "value": "Gold IP steel; negative LCD",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-9",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Gold IP steel; negative LCD",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-4",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-4",
+      "field": "catalog_description",
+      "value": "Rose-gold finish",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-4",
+      "field": "reported_module_claim",
+      "value": {
+        "proposed_module": "3459",
+        "status": "Unresolved; section placement is not confirmation of an installed module"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GD-4",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Rose-gold finish",
+        "source_status": "Verify finish / module",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000RD-4",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000RD-4",
+      "field": "catalog_description",
+      "value": "Burgundy-red finish",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000RD-4",
+      "field": "reported_module_claim",
+      "value": {
+        "proposed_module": "3459",
+        "status": "Unresolved; section placement is not confirmation of an installed module"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000RD-4",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Burgundy-red finish",
+        "source_status": "Verify module",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000CS-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000CS-1",
+      "field": "catalog_description",
+      "value": "Black grid-tunnel engraving",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000CS-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000CS-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Black grid-tunnel engraving",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000V-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000V-1",
+      "field": "catalog_description",
+      "value": "Vintage / aged black finish",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000V-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000V-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Vintage / aged black finish",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PB-6",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PB-6",
+      "field": "catalog_description",
+      "value": "Twilight Tokyo purple-blue",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PB-6",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PB-6",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Twilight Tokyo purple-blue",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "catalog_description",
+      "value": "Black multi-finish stainless steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 49.3,
+        "width": 43.2,
+        "thickness": 13
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "weight_g",
+      "value": 167,
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "case_material",
+      "value": "Stainless steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "band_material",
+      "value": "Stainless steel bracelet",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000MB-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          2
+        ],
+        "source_description": "Black multi-finish stainless steel",
+        "source_status": "Casio-confirmed [S5]",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000MB-1/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 167,
+          "caseback": "Screw-lock",
+          "display": "STN",
+          "source_scope": "Explicitly identified manufacturer-supported reference in supplied PDF; pending database review"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000EH-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000EH-1",
+      "field": "catalog_description",
+      "value": "Eric Haze 40th anniversary",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000EH-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000EH-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Eric Haze 40th anniversary",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFG-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFG-9",
+      "field": "catalog_description",
+      "value": "35th-anniversary gold steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFG-9",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFG-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "35th-anniversary gold steel",
+        "source_status": "Verify exact weight",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000-1",
+      "field": "catalog_description",
+      "value": "Silver bezel; black resin strap",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Silver bezel; black resin strap",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Steel case / resin-strap family",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "estimated_family_weight_g": 96,
+          "weight_status": "Construction-family estimate, not verified for this exact SKU",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-1",
+      "field": "catalog_description",
+      "value": "Black-IP bezel; resin strap",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Black-IP bezel; resin strap",
+        "source_status": "Series-based",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Steel case / resin-strap family",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "estimated_family_weight_g": 96,
+          "weight_status": "Construction-family estimate, not verified for this exact SKU",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-2",
+      "field": "catalog_description",
+      "value": "Blue-IP bezel; resin strap; 96 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-2",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-2",
+      "field": "weight_g",
+      "value": 96,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000G-2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Blue-IP bezel; resin strap; 96 g",
+        "source_status": "Casio weight reported",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Steel case / resin-strap family",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "estimated_family_weight_g": 96,
+          "weight_status": "Construction-family estimate, not verified for this exact SKU",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 96,
+          "status": "Casio weight reported",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000KL-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000KL-9",
+      "field": "catalog_description",
+      "value": "Kolor limited collaboration",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000KL-9",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000KL-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Kolor limited collaboration",
+        "source_status": "Verify weight / model",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Steel case / resin-strap family",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "estimated_family_weight_g": 96,
+          "weight_status": "Construction-family estimate, not verified for this exact SKU",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "catalog_description",
+      "value": "Black DLC titanium; sapphire; ~110 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "reported_measurements",
+      "value": {
+        "estimated_weight_g": 110,
+        "status": "Approx. weight",
+        "scope": "Approximate / series weight only, not a verified factory weight"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "glass",
+      "value": "Sapphire crystal (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TB-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Black DLC titanium; sapphire; ~110 g",
+        "source_status": "Approx. weight",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "approximate_weight_claim": {
+          "estimated_weight_g": 110,
+          "status": "Approx. weight",
+          "scope": "Approximate / series weight only, not a verified factory weight"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "catalog_description",
+      "value": "Digital-camouflage titanium; sapphire; ~110 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "reported_measurements",
+      "value": {
+        "estimated_weight_g": 110,
+        "status": "Approx. weight",
+        "scope": "Approximate / series weight only, not a verified factory weight"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "glass",
+      "value": "Sapphire crystal (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Digital-camouflage titanium; sapphire; ~110 g",
+        "source_status": "Approx. weight",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "approximate_weight_claim": {
+          "estimated_weight_g": 110,
+          "status": "Approx. weight",
+          "scope": "Approximate / series weight only, not a verified factory weight"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "catalog_description",
+      "value": "Blue titanium camouflage; sapphire; 110 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "weight_g",
+      "value": 110,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "glass",
+      "value": "Sapphire crystal (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCF-2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Blue titanium camouflage; sapphire; 110 g",
+        "source_status": "Reported individual spec",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 110,
+          "status": "Reported individual spec",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TR-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TR-9",
+      "field": "catalog_description",
+      "value": "TranTixxii multicolor titanium",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TR-9",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TR-9",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TR-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "TranTixxii multicolor titanium",
+        "source_status": "Verify weight",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVA-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVA-1",
+      "field": "catalog_description",
+      "value": "Virtual Armor titanium",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVA-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVA-1",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVA-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Virtual Armor titanium",
+        "source_status": "Verify weight",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVB-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVB-1",
+      "field": "catalog_description",
+      "value": "Virtual Armor II; 106 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVB-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVB-1",
+      "field": "weight_g",
+      "value": 106,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TVB-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Virtual Armor II; 106 g",
+        "source_status": "Reported individual spec",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 106,
+          "status": "Reported individual spec",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "catalog_description",
+      "value": "Circuit Board titanium; 104 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "weight_g",
+      "value": 104,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "case_material",
+      "value": "Titanium (reported for this exact variant)",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Circuit Board titanium; 104 g",
+        "source_status": "Reported individual spec",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 104,
+          "status": "Reported individual spec",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFC-1",
+      "field": "catalog_description",
+      "value": "Porter 35th anniversary",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFC-1",
+      "field": "module_id",
+      "value": "3459",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TFC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Porter 35th anniversary",
+        "source_status": "Verify individual spec",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1",
+      "field": "catalog_description",
+      "value": "Regional limited identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000GDLTD-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Regional limited identifier",
+        "source_status": "Unconfirmed identifier",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1LT",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1LT",
+      "field": "catalog_description",
+      "value": "Regional TCM identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1LT",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000TCM-1LT",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "Regional TCM identifier",
+        "source_status": "Unconfirmed suffix",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-D5000-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-D5000-9",
+      "field": "catalog_description",
+      "value": "18K gold special model; nonstandard construction",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-D5000-9",
+      "field": "reported_module_claim",
+      "value": {
+        "proposed_module": "3459",
+        "status": "Unresolved; section placement is not confirmation of an installed module"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-D5000-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "18K gold special model; nonstandard construction",
+        "source_status": "Verify module and specs",
+        "historical_section_module": "3459",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Titanium / exceptional build",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "catalog_description",
+      "value": "40th Recrystallized gold IP, deep-layer hardened",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 49.3,
+        "width": 43.2,
+        "thickness": 13
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "weight_g",
+      "value": 167,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "case_material",
+      "value": "Stainless steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "band_material",
+      "value": "Stainless steel bracelet",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PG-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          3
+        ],
+        "source_description": "40th Recrystallized gold IP, deep-layer hardened",
+        "source_status": "Casio-confirmed [S6]",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PG-9/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 167,
+          "caseback": "Screw-lock",
+          "display": "STN",
+          "source_scope": "Explicitly identified manufacturer-supported reference in supplied PDF; pending database review"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "catalog_description",
+      "value": "40th Recrystallized silver / TiC, hardened",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 49.3,
+        "width": 43.2,
+        "thickness": 13
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "weight_g",
+      "value": 167,
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "case_material",
+      "value": "Stainless steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "band_material",
+      "value": "Stainless steel bracelet",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PS-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "40th Recrystallized silver / TiC, hardened",
+        "source_status": "Casio-confirmed [S7]",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 167,
+          "caseback": "Screw-lock",
+          "display": "STN",
+          "source_scope": "Explicitly identified manufacturer-supported reference in supplied PDF; pending database review"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PC-1",
+      "field": "catalog_description",
+      "value": "Polychromatic Accent, silver / blue-purple",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PC-1",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000PC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Polychromatic Accent, silver / blue-purple",
+        "source_status": "Series-based",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BPC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BPC-1",
+      "field": "catalog_description",
+      "value": "Polychromatic Accent, black / multicolor",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BPC-1",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BPC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Polychromatic Accent, black / multicolor",
+        "source_status": "Series-based",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-2",
+      "field": "catalog_description",
+      "value": "Silver bracelet, blue dial accent",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-2",
+      "field": "reported_module_claim",
+      "value": {
+        "proposed_module": "3539",
+        "status": "Unresolved; section placement is not confirmation of an installed module"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Silver bracelet, blue dial accent",
+        "source_status": "Verify module / weight",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "catalog_description",
+      "value": "Silver bracelet, green accent",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 49.3,
+        "width": 43.2,
+        "thickness": 13
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "weight_g",
+      "value": 167,
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "case_material",
+      "value": "Stainless steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "band_material",
+      "value": "Stainless steel bracelet",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-3",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Silver bracelet, green accent",
+        "source_status": "Casio physical spec [S8]",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-3/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "weight_g": 167,
+          "caseback": "Screw-lock",
+          "display": "STN",
+          "source_scope": "Explicitly identified manufacturer-supported reference in supplied PDF; pending database review"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SS-2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SS-2",
+      "field": "catalog_description",
+      "value": "Casio Watch 50th anniversary",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SS-2",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SS-2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Casio Watch 50th anniversary",
+        "source_status": "Series-based",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1C",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1C",
+      "field": "catalog_description",
+      "value": "Original color scheme",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1C",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1C",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Original color scheme",
+        "source_status": "Series-based",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BT-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BT-1",
+      "field": "catalog_description",
+      "value": "Black ion-plated steel",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BT-1",
+      "field": "module_id",
+      "value": "3539",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000BT-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Black ion-plated steel",
+        "source_status": "Series-based",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "catalog_description",
+      "value": "Blue Rose regional design",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000SB-1A2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Blue Rose regional design",
+        "source_status": "Verify model and specs",
+        "historical_section_module": "3539",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard steel bracelet template",
+          "dimensions_mm": {
+            "length": 49.3,
+            "width": 43.2,
+            "thickness": 13
+          },
+          "representative_weight_g": 167,
+          "case_bezel_band": "Stainless steel",
+          "glass": "Mineral",
+          "caseback": "Screw-lock",
+          "water_resistance_m": 200,
+          "display": "STN",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2",
+      "field": "catalog_description",
+      "value": "Blue-accent resin model",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Blue-accent resin model",
+        "source_status": "Casio-confirmed [S9]",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+          "https://www.casio.com/intl/watches/gshock/product.GW-B5600-2/"
+        ],
+        "exact_model_physical_claims": {
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "weight_g": 53,
+          "caseback": "Screwed steel back",
+          "display": "Conventional LCD",
+          "source_scope": "Explicit manufacturer-supported standard resin model in PDF"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600AR-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600AR-1",
+      "field": "catalog_description",
+      "value": "Adrenaline Red",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600AR-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600AR-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Adrenaline Red",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BL-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BL-1",
+      "field": "catalog_description",
+      "value": "Blue / red accents",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BL-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BL-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Blue / red accents",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1",
+      "field": "catalog_description",
+      "value": "Military Green",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Military Green",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BP-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BP-1",
+      "field": "catalog_description",
+      "value": "Blue / purple accents",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BP-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BP-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Blue / purple accents",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CT-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CT-1",
+      "field": "catalog_description",
+      "value": "City Camouflage",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CT-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CT-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "City Camouflage",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SL-5",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SL-5",
+      "field": "catalog_description",
+      "value": "Sand Land",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SL-5",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SL-5",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Sand Land",
+        "source_status": "Series-based",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600GZ-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600GZ-1",
+      "field": "catalog_description",
+      "value": "Gorillaz collaboration",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600GZ-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600GZ-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Gorillaz collaboration",
+        "source_status": "Verify individual spec",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGZ-7",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGZ-7",
+      "field": "catalog_description",
+      "value": "Gorillaz collaboration",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGZ-7",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGZ-7",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Gorillaz collaboration",
+        "source_status": "Verify individual spec",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGM-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGM-1",
+      "field": "catalog_description",
+      "value": "Regional special design",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGM-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600SGM-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Regional special design",
+        "source_status": "Verify identifier",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1",
+      "field": "catalog_description",
+      "value": "Regional special edition",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Regional special edition",
+        "source_status": "Verify identifier",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "catalog_description",
+      "value": "Regional suffix",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600MG-1PRL",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Regional suffix",
+        "source_status": "Verify independent SKU",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "catalog_description",
+      "value": "Regional collaboration suffix",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600DC-1PRRDET",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Regional collaboration suffix",
+        "source_status": "Verify independent SKU",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "catalog_description",
+      "value": "Regional suffix",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "reference_scope",
+      "value": "unconfirmed_identifier",
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2E-FR",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          4
+        ],
+        "source_description": "Regional suffix",
+        "source_status": "Verify independent SKU",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "identifier_scope": "Unconfirmed regional spelling / independent SKU; separately searchable, excluded from individual-watch count"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1",
+      "field": "catalog_description",
+      "value": "Composite steel/resin bracelet; ~85 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1",
+      "field": "reported_measurements",
+      "value": {
+        "estimated_weight_g": 85,
+        "status": "Approx. series weight",
+        "scope": "Approximate / series weight only, not a verified factory weight"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Composite steel/resin bracelet; ~85 g",
+        "source_status": "Approx. series weight",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Composite bracelet family",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 85,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "approximate_weight_claim": {
+          "estimated_weight_g": 85,
+          "status": "Approx. series weight",
+          "scope": "Approximate / series weight only, not a verified factory weight"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1B",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1B",
+      "field": "catalog_description",
+      "value": "Composite steel/resin bracelet; 85 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1B",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1B",
+      "field": "weight_g",
+      "value": 85,
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600BC-1B",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Composite steel/resin bracelet; 85 g",
+        "source_status": "Reported individual spec",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Composite bracelet family",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 85,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 85,
+          "status": "Reported individual spec",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600HR-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600HR-1",
+      "field": "catalog_description",
+      "value": "Composite steel/resin bracelet; 85 g",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600HR-1",
+      "field": "module_id",
+      "value": "3461",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600HR-1",
+      "field": "weight_g",
+      "value": 85,
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600HR-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Composite steel/resin bracelet; 85 g",
+        "source_status": "Reported individual spec",
+        "historical_section_module": "3461",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Composite bracelet family",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 85,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf"
+        ],
+        "individual_weight_claim": {
+          "weight_g": 85,
+          "status": "Reported individual spec",
+          "scope": "Reported individual specification in supplied PDF, not newly independently verified"
+        }
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CY-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CY-1",
+      "field": "catalog_description",
+      "value": "Caution Yellow",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CY-1",
+      "field": "module_id",
+      "value": "3540",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CY-1",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Caution Yellow",
+        "source_status": "Series-based",
+        "historical_section_module": "3540",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf"
+        ]
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A2",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A2",
+      "field": "catalog_description",
+      "value": "Charles Darwin Foundation; hammerhead shark",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A2",
+      "field": "module_id",
+      "value": "3540",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A2",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Charles Darwin Foundation; hammerhead shark",
+        "source_status": "Series-based",
+        "historical_section_module": "3540",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf"
+        ],
+        "collaboration_details": "Charles Darwin Foundation: special face graphics, engraved back and illuminated animal silhouette; suffix alone does not establish a module change"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A3",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A3",
+      "field": "catalog_description",
+      "value": "Charles Darwin Foundation; Darwin finch",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A3",
+      "field": "module_id",
+      "value": "3540",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-1A3",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Charles Darwin Foundation; Darwin finch",
+        "source_status": "Series-based",
+        "historical_section_module": "3540",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf"
+        ],
+        "collaboration_details": "Charles Darwin Foundation: special face graphics, engraved back and illuminated animal silhouette; suffix alone does not establish a module change"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-9",
+      "field": "catalog_description",
+      "value": "Charles Darwin Foundation; giant tortoise",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-9",
+      "field": "module_id",
+      "value": "3540",
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600CD-9",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          5
+        ],
+        "source_description": "Charles Darwin Foundation; giant tortoise",
+        "source_status": "Series-based",
+        "historical_section_module": "3540",
+        "module_scope": "Historical series/generation association only; later production can use a newer module. Check the actual unit caseback/service evidence.",
+        "physical_template": {
+          "construction": "Standard resin-strap template",
+          "dimensions_mm": {
+            "length": 48.9,
+            "width": 42.8,
+            "thickness": 13.4
+          },
+          "representative_weight_g": 53,
+          "weight_status": "Representative family figure, not an exact-variant assignment",
+          "case_bezel": "Resin",
+          "glass": "Mineral",
+          "water_resistance_m": 200,
+          "caseback": "Screwed steel back",
+          "scope": "Series comparison only; not copied into exact-model dimensions, weight, case or glass fields"
+        },
+        "verification_scope": "Casio-confirmed is the supplied document’s label, not an independent database review; series-based and approximate claims retain their limitations",
+        "source_urls": [
+          "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf"
+        ],
+        "collaboration_details": "Charles Darwin Foundation: special face graphics, engraved back and illuminated animal silhouette; suffix alone does not establish a module change"
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3459",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "module_id": "3459",
+        "generation": "2018-era",
+        "shared_functions": {
+          "accuracy_without_sync_seconds_per_month": 15,
+          "accuracy_scope": "Without radio reception or Bluetooth phone adjustment",
+          "timekeeping": "Hours/minutes/seconds, year in settings, month/date/weekday, 12/24-hour format; full auto-calendar 2000–2099",
+          "radio_reception": {
+            "name": "Multi Band 6",
+            "automatic": true,
+            "manual": true,
+            "automatic_DST": "Where supported",
+            "signals": [
+              {
+                "signal": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "signal": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "signal": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "smartphone": "Bluetooth Mobile Link with CASIO WATCHES; automatic time adjustment, phone finder and app settings; Time & Place and reminders only as documented for the particular module/app version",
+          "world_time": {
+            "cities": 39,
+            "zones": 39,
+            "UTC": true,
+            "favorites": 5,
+            "home_world_swap": true,
+            "app_city_choices": "Approximately 300; app-dependent"
+          },
+          "stopwatch": {
+            "first_hour_resolution_seconds": 0.01,
+            "later_resolution_seconds": 1,
+            "maximum": "23:59:59",
+            "modes": [
+              "elapsed",
+              "split",
+              "first/second finishes"
+            ]
+          },
+          "timer": {
+            "maximum_hours": 24,
+            "measurement_unit_seconds": 1,
+            "setting_increments": "Consult each module guide; do not assume generations are identical"
+          },
+          "alarms": "Five daily alarms including one snooze; hourly time signal",
+          "light": "Full-auto white LED Super Illuminator; selectable duration and afterglow",
+          "power": "Tough Solar rechargeable cell; low battery alert; power saving",
+          "runtime_scope": "Representative product figures: around 10 months normal use, 22 months dark power-save from full charge; not guaranteed for every model/condition",
+          "other": "Date-order swap; selectable weekday languages; button-operation tone off; reminder/app settings where documented"
+        },
+        "guide_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+        "guide_scope": "3459/3461 combined guide",
+        "display_association": "STN in standard GMW-B5000 construction; not a universal LCD claim for every exceptional build",
+        "verification_scope": "Supplied shared-function comparison. Exact guide governs generation-specific functions; no watch physical specifications assigned to module."
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3539",
+      "field": "illumination",
+      "value": "White LED Super Illuminator; full auto light, selectable duration and afterglow",
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3539",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "module_id": "3539",
+        "generation": "2023-era",
+        "shared_functions": {
+          "accuracy_without_sync_seconds_per_month": 15,
+          "accuracy_scope": "Without radio reception or Bluetooth phone adjustment",
+          "timekeeping": "Hours/minutes/seconds, year in settings, month/date/weekday, 12/24-hour format; full auto-calendar 2000–2099",
+          "radio_reception": {
+            "name": "Multi Band 6",
+            "automatic": true,
+            "manual": true,
+            "automatic_DST": "Where supported",
+            "signals": [
+              {
+                "signal": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "signal": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "signal": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "smartphone": "Bluetooth Mobile Link with CASIO WATCHES; automatic time adjustment, phone finder and app settings; Time & Place and reminders only as documented for the particular module/app version",
+          "world_time": {
+            "cities": 39,
+            "zones": 39,
+            "UTC": true,
+            "favorites": 5,
+            "home_world_swap": true,
+            "app_city_choices": "Approximately 300; app-dependent"
+          },
+          "stopwatch": {
+            "first_hour_resolution_seconds": 0.01,
+            "later_resolution_seconds": 1,
+            "maximum": "23:59:59",
+            "modes": [
+              "elapsed",
+              "split",
+              "first/second finishes"
+            ]
+          },
+          "timer": {
+            "maximum_hours": 24,
+            "measurement_unit_seconds": 1,
+            "setting_increments": "Consult each module guide; do not assume generations are identical"
+          },
+          "alarms": "Five daily alarms including one snooze; hourly time signal",
+          "light": "Full-auto white LED Super Illuminator; selectable duration and afterglow",
+          "power": "Tough Solar rechargeable cell; low battery alert; power saving",
+          "runtime_scope": "Representative product figures: around 10 months normal use, 22 months dark power-save from full charge; not guaranteed for every model/condition",
+          "other": "Date-order swap; selectable weekday languages; button-operation tone off; reminder/app settings where documented"
+        },
+        "guide_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+        "guide_scope": "Separate module guide",
+        "display_association": "STN in standard GMW-B5000 construction; not a universal LCD claim for every exceptional build",
+        "verification_scope": "Supplied shared-function comparison. Exact guide governs generation-specific functions; no watch physical specifications assigned to module."
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3461",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "module_id": "3461",
+        "generation": "2018-era",
+        "shared_functions": {
+          "accuracy_without_sync_seconds_per_month": 15,
+          "accuracy_scope": "Without radio reception or Bluetooth phone adjustment",
+          "timekeeping": "Hours/minutes/seconds, year in settings, month/date/weekday, 12/24-hour format; full auto-calendar 2000–2099",
+          "radio_reception": {
+            "name": "Multi Band 6",
+            "automatic": true,
+            "manual": true,
+            "automatic_DST": "Where supported",
+            "signals": [
+              {
+                "signal": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "signal": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "signal": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "smartphone": "Bluetooth Mobile Link with CASIO WATCHES; automatic time adjustment, phone finder and app settings; Time & Place and reminders only as documented for the particular module/app version",
+          "world_time": {
+            "cities": 39,
+            "zones": 39,
+            "UTC": true,
+            "favorites": 5,
+            "home_world_swap": true,
+            "app_city_choices": "Approximately 300; app-dependent"
+          },
+          "stopwatch": {
+            "first_hour_resolution_seconds": 0.01,
+            "later_resolution_seconds": 1,
+            "maximum": "23:59:59",
+            "modes": [
+              "elapsed",
+              "split",
+              "first/second finishes"
+            ]
+          },
+          "timer": {
+            "maximum_hours": 24,
+            "measurement_unit_seconds": 1,
+            "setting_increments": "Consult each module guide; do not assume generations are identical"
+          },
+          "alarms": "Five daily alarms including one snooze; hourly time signal",
+          "light": "Full-auto white LED Super Illuminator; selectable duration and afterglow",
+          "power": "Tough Solar rechargeable cell; low battery alert; power saving",
+          "runtime_scope": "Representative product figures: around 10 months normal use, 22 months dark power-save from full charge; not guaranteed for every model/condition",
+          "other": "Date-order swap; selectable weekday languages; button-operation tone off; reminder/app settings where documented"
+        },
+        "guide_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+        "guide_scope": "3459/3461 combined guide",
+        "display_association": "Conventional LCD in GW-B5600",
+        "verification_scope": "Supplied shared-function comparison. Exact guide governs generation-specific functions; no watch physical specifications assigned to module."
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "accuracy_seconds_per_month",
+      "value": 15,
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "world_time_cities",
+      "value": 39,
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "world_time_zones",
+      "value": 39,
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "alarm_count",
+      "value": 5,
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "snooze_alarm",
+      "value": true,
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "calendar",
+      "value": "Full auto-calendar 2000–2099",
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "illumination",
+      "value": "White LED Super Illuminator; full auto light, selectable duration and afterglow",
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "power_supply",
+      "value": "Tough Solar rechargeable battery",
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3540",
+      "field": "metal_square_evidence",
+      "value": {
+        "source_filename": "Casio_Modules_3459_3539_3461_3540_Variants_Specs_Sources.pdf",
+        "pdf_pages": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "module_id": "3540",
+        "generation": "2023-era",
+        "shared_functions": {
+          "accuracy_without_sync_seconds_per_month": 15,
+          "accuracy_scope": "Without radio reception or Bluetooth phone adjustment",
+          "timekeeping": "Hours/minutes/seconds, year in settings, month/date/weekday, 12/24-hour format; full auto-calendar 2000–2099",
+          "radio_reception": {
+            "name": "Multi Band 6",
+            "automatic": true,
+            "manual": true,
+            "automatic_DST": "Where supported",
+            "signals": [
+              {
+                "signal": "JJY",
+                "frequencies_khz": [
+                  40,
+                  60
+                ]
+              },
+              {
+                "signal": "WWVB",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "MSF",
+                "frequencies_khz": [
+                  60
+                ]
+              },
+              {
+                "signal": "DCF77",
+                "frequencies_khz": [
+                  77.5
+                ]
+              },
+              {
+                "signal": "BPC",
+                "frequencies_khz": [
+                  68.5
+                ]
+              }
+            ]
+          },
+          "smartphone": "Bluetooth Mobile Link with CASIO WATCHES; automatic time adjustment, phone finder and app settings; Time & Place and reminders only as documented for the particular module/app version",
+          "world_time": {
+            "cities": 39,
+            "zones": 39,
+            "UTC": true,
+            "favorites": 5,
+            "home_world_swap": true,
+            "app_city_choices": "Approximately 300; app-dependent"
+          },
+          "stopwatch": {
+            "first_hour_resolution_seconds": 0.01,
+            "later_resolution_seconds": 1,
+            "maximum": "23:59:59",
+            "modes": [
+              "elapsed",
+              "split",
+              "first/second finishes"
+            ]
+          },
+          "timer": {
+            "maximum_hours": 24,
+            "measurement_unit_seconds": 1,
+            "setting_increments": "Consult each module guide; do not assume generations are identical"
+          },
+          "alarms": "Five daily alarms including one snooze; hourly time signal",
+          "light": "Full-auto white LED Super Illuminator; selectable duration and afterglow",
+          "power": "Tough Solar rechargeable cell; low battery alert; power saving",
+          "runtime_scope": "Representative product figures: around 10 months normal use, 22 months dark power-save from full charge; not guaranteed for every model/condition",
+          "other": "Date-order swap; selectable weekday languages; button-operation tone off; reminder/app settings where documented"
+        },
+        "guide_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf",
+        "guide_scope": "Separate module guide",
+        "display_association": "Conventional LCD in GW-B5600",
+        "verification_scope": "Supplied shared-function comparison. Exact guide governs generation-specific functions; no watch physical specifications assigned to module."
+      },
+      "document": "metal_squares",
+      "pdf_pages": [
+        1,
+        2,
+        5,
+        6
+      ]
+    }
+  ],
+  "retained_existing_scalars": [
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1",
+      "field": "module_id",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1",
+      "field": "band_material",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "model",
+      "id": "GMW-B5000D-1",
+      "field": "glass",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2",
+      "field": "band_material",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "model",
+      "id": "GW-B5600-2",
+      "field": "glass",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3459",
+      "field": "calendar",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3459",
+      "field": "illumination",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3459",
+      "field": "power_supply",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3539",
+      "field": "calendar",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3539",
+      "field": "power_supply",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3461",
+      "field": "calendar",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3461",
+      "field": "illumination",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    },
+    {
+      "kind": "module",
+      "id": "3461",
+      "field": "power_supply",
+      "action": "Existing value retained; incoming evidence preserved in metal_square_evidence"
+    }
+  ],
+  "scope": "Technical facts, scoped estimates and source citations only; original PDF and complete research conversation are not published. Exact regional spellings remain separate. Series templates do not establish individual measurements.",
+  "cautions": [
+    "Inventory is a working list, not a proven worldwide census.",
+    "3459/3539 and 3461/3540 production-lot changeovers are unresolved; verify the actual unit caseback or service evidence.",
+    "G-D5000-9 module attribution remains unresolved.",
+    "Titanium and exceptional builds do not share a universal weight or sapphire-glass specification.",
+    "Certain regional/collaboration labels require independent SKU confirmation.",
+    "Casio-confirmed is a supplied-source classification; imported claims remain pending independent database review."
+  ],
+  "archive_lookup": [
+    {
+      "original_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+      "archive_timestamp": "20240602235428",
+      "url": "https://web.archive.org/web/20240602235428/https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/34/3459/qw3459_EN.pdf",
+      "snapshot_sha256": "8c2a14dfbe09101f23a18b7fb6a4ee5d0e78240fd4582fd9ff174ac740b72fbf",
+      "bytes": 1051334,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+      "archive_timestamp": "20240602235426",
+      "url": "https://web.archive.org/web/20240602235426/https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3539/qw3539_EN.pdf",
+      "snapshot_sha256": "8907348b101672a317a4d4f195e7a76a56e065e94c5fe5f0efa31d5fdc548958",
+      "bytes": 1230428,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf",
+      "archive_timestamp": "20260212014812",
+      "url": "https://web.archive.org/web/20260212014812/https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/35/3540/qw3540_EN.pdf",
+      "snapshot_sha256": "4e17636d42683d91d1f1ecb9486f2e759e91f4314764e58205b7a428ed1a96f5",
+      "bytes": 1260191,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/",
+      "archive_timestamp": "20220523151134",
+      "url": "https://web.archive.org/web/20220523151134/https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-1/",
+      "snapshot_sha256": "13ca070249b32029f312b855f6b33f894c4f03d6c2f138260bd74e4b10bb6741",
+      "bytes": 215306,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000MB-1/",
+      "archive_timestamp": "20220625111717",
+      "url": "https://web.archive.org/web/20220625111717/https://www.casio.com/intl/watches/gshock/product.GMW-B5000MB-1/",
+      "snapshot_sha256": "3f196c9f8ca86e720ef4a8ed5fe0a04be0cfb735805db10016cf7e16a1c0bf48",
+      "bytes": 183301,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PG-9/",
+      "result": "Archive unavailable: TimeoutError"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/",
+      "archive_timestamp": "20230327122633",
+      "url": "https://web.archive.org/web/20230327122633/https://www.casio.com/intl/watches/gshock/product.GMW-B5000PS-1/",
+      "snapshot_sha256": "3afd99f5fbea0fc6a87d901e53c4b07fec6efc1c37de76c8d9dc9ef7a0948bf2",
+      "bytes": 36797,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-3/",
+      "archive_timestamp": "20241126202750",
+      "url": "https://web.archive.org/web/20241126202750/https://www.casio.com/intl/watches/gshock/product.GMW-B5000D-3/",
+      "snapshot_sha256": "b5829725f0447277225b063ecb2e96711da8f694d17bf8746ca0fdf492667c09",
+      "bytes": 51773,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://www.casio.com/intl/watches/gshock/product.GW-B5600-2/",
+      "archive_timestamp": "20220628235739",
+      "url": "https://web.archive.org/web/20220628235739/https://www.casio.com/intl/watches/gshock/product.GW-B5600-2/",
+      "snapshot_sha256": "b84cf947feb3221a11d0681b3d989f8542d13dcc05c6cfd1415e2368149ce727",
+      "bytes": 182866,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://gshock.casio.com/intl/products/type/full-metal/gmw-b5000/",
+      "archive_timestamp": "20220926182855",
+      "url": "https://web.archive.org/web/20220926182855/https://gshock.casio.com/intl/products/type/full-metal/gmw-b5000/",
+      "snapshot_sha256": "e8f5979d6f69d915dc378f5b967035bc4e238c7d6da2d22dc624d8c6b528ca7b",
+      "bytes": 172877,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    },
+    {
+      "original_url": "https://support.casio.com/global/en/wat/manual/3540_en/NHCXSYtcwccmdl.html",
+      "result": "No successful snapshot returned"
+    },
+    {
+      "original_url": "https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+      "archive_timestamp": "20250823145017",
+      "url": "https://web.archive.org/web/20250823145017/https://support.casio.com/global/en/wat/manual/3539_en/PJONSYgtfukheb.html",
+      "snapshot_sha256": "7da5b1aa4b68c10f3218f19d9a8b577dad8d5d6afdf418d8e1b8eb086367037d",
+      "bytes": 6546,
+      "result": "Snapshot retrieved; field-by-field validation not implied"
+    }
+  ]
+}
