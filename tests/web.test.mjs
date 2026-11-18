@@ -33,7 +33,7 @@ test('official product cards require exact-model reviewed links and reject sibli
  assert.ok(officialProductLink(record,model));assert.equal(officialProductLink(null,model),null);assert.equal(officialProductLink(record,'GW-M5610U-1B'),null);
  for(const url of ['https://casio.com.evil.example/product.GW-M5610U-1/','http://www.casio.com/product.GW-M5610U-1/','https://name:secret@casio.com/product.GW-M5610U-1/','https://www.casio.com/product.GW-M5610U-1B/'])assert.equal(officialProductLink({...record,official_product_url:url},model),null);
  assert.equal(officialProductLink({...record,official_url_verified:false},model),null);
- const app=fs.readFileSync(new URL('../web/app.mjs',import.meta.url),'utf8');assert.match(app,/noopener noreferrer/);assert.match(app,/target='_blank'/);assert.match(app,/Official Casio product page unavailable/);
+ const app=fs.readFileSync(new URL('../web/app.mjs',import.meta.url),'utf8');assert.match(app,/noopener noreferrer/);assert.match(app,/target='_blank'/);assert.match(app,/CASIO OFFICIAL WEBSITE/);
  const links=JSON.parse(fs.readFileSync(new URL('../data/official-product-links.json',import.meta.url)));for(const [id,row] of Object.entries(links.models)){assert.ok(data.models[id]);if(row.official_url_verified)assert.ok(officialProductLink(row,id),id);else assert.equal(officialProductLink(row,id),null)};
 });
 

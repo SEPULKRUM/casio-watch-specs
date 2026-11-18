@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "watch_identifiers": 30060,
+  "checked_destination_groups": 5123,
+  "counts": {
+    "product": 3336,
+    "support": 2397,
+    "homepage": 24327
+  },
+  "missing_official_links": [],
+  "missing_count": 0,
+  "policy": "Checked exact/known regional product page with specifications; checked exact/known regional support/service page; explicit general Casio homepage fallback. No inferred specifications or synthetic model URLs."
+}
