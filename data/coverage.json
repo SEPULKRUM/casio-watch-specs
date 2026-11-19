@@ -1,8 +1,8 @@
 {
-  "models": 2685,
+  "models": 2686,
   "modules": 286,
   "facts_by_status": {
-    "pending_review": 11949,
+    "pending_review": 11958,
     "verified": 33
   },
   "models_by_series": {
@@ -28,7 +28,7 @@
     "Pro Trek": 87,
     "Sea-Pathfinder": 4,
     "Sheen": 15,
-    "Unclassified": 1101,
+    "Unclassified": 1102,
     "Wave Ceptor": 34
   },
   "models_missing_fields": {
@@ -5616,6 +5616,11 @@
       "glass",
       "water_resistance_rating"
     ],
+    "G-2300B-1V": [
+      "dimensions_mm",
+      "weight_g",
+      "water_resistance_rating"
+    ],
     "G-300": [
       "dimensions_mm",
       "weight_g",
@@ -5807,9 +5812,7 @@
     ],
     "G2300B-1V": [
       "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "glass"
+      "weight_g"
     ],
     "G300-3AV": [
       "dimensions_mm",
@@ -20899,7 +20902,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 880,
+  "models_with_single_module_reference": 881,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -21098,6 +21101,7 @@
     "FS-21A": "465",
     "FS-21B": "465",
     "FS-50": "466",
+    "G-2300B-1V": "2184",
     "G-7700": "3091",
     "G-7700G": "3091",
     "G-7800B": "3163",

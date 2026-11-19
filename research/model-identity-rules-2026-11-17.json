@@ -10,7 +10,8 @@
     "DW-5400C-1A": "DW-5400C-1",
     "DW-5400C-9A": "DW-5400C-9",
     "DW-5500C-1A": "DW-5500C-1",
-    "GMA-S110XG-4": "GMA-S110XG-4A"
+    "GMA-S110XG-4": "GMA-S110XG-4A",
+    "G2300B-1V": "G-2300B-1V"
   },
   "scope": "Search presentation only. The owner identifies the black/red DW-5200 spellings as the same watch and requests the same duplicate correction across models. Related reference-only original-family A spellings are consolidated against the seven canonical vintage references in the supplied heritage inventory. Preserve every original identifier and source-specific fact. Do not generalize A removal or missing C correction to other model families.",
   "base_reference_rule": "A clean base code with indexed color-specific child references is family context, not an additional variant row. Link its measurements and research to the related rows without assigning family observations to individual variants. Preserve base-only records when no indexed child exists.",
@@ -55,6 +56,12 @@
       "canonical_model": "GMA-S110XG-4A",
       "status": "Corrected full color code in supplied 2026 master; exact official model URL cited",
       "source_reference": "research/supplied-2026-master-corrections-2026-11-17.json"
+    },
+    {
+      "model": "G2300B-1V",
+      "canonical_model": "G-2300B-1V",
+      "status": "Same exact watch; typographic hyphenation only",
+      "source_reference": "research/supplied-worldwide-2020-2026-2026-11-17.json"
     }
   ]
 }

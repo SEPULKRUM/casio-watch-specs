@@ -1,7 +1,7 @@
 {
   "type": "supplied_worldwide_register",
   "provided_by": "SEPULKRUM",
-  "received": "2026-11-17",
+  "received": "2026-11-18",
   "status": "Supplied research; independent archived-source verification pending. Source assertions of confirmation are not independent review.",
   "source_documents": [
     {
@@ -684,6 +684,16 @@
           "price_policy": "Original 2024 launch MSRP remains null until a contemporaneous original price is verified; current Casio listed prices are preserved separately."
         }
       }
+    },
+    {
+      "filename": "Owner-supplied G-2300B-1V research, 2026-11-18",
+      "sha256": "0b95e9e8cf8daf4af50fed2e5233e45abb5a5c732abf93fc1dddeb4fd16915ca",
+      "record_count": 2,
+      "scope": {
+        "type": "owner historical exact-model supplement",
+        "reference_date": "2026-11-18",
+        "scope": "One physical watch with two documented typographic spellings; no routing-policy or official destination changes."
+      }
     }
   ],
   "models": [
@@ -912,8 +922,10 @@
     "F-91WS-4",
     "F-91WS-7",
     "F-91WS-8",
+    "G-2300B-1V",
     "G-5600BG-5JR",
     "G-5600SFJ-9JR",
+    "G2300B-1V",
     "GA-010-1AJF",
     "GA-010CE-2AJF",
     "GA-010GB-1A9JF",
@@ -2608,7 +2620,9 @@
     "GA2100BCE-1A",
     "GA700BCE-1A",
     "GPR-H1000",
-    "MRG-B2100B"
+    "MRG-B2100B",
+    "G-2300B-1V",
+    "G2300B-1V"
   ],
   "entries": [
     {
@@ -17967,6 +17981,105 @@
       ]
     },
     {
+      "id": "G-2300B-1V",
+      "observations": [
+        {
+          "document": 11,
+          "row": 0,
+          "data": {
+            "full_reference": "G-2300B-1V",
+            "brand": "G-SHOCK",
+            "series": "2300",
+            "research_scope": "Historical exact-model owner supplement received 2026-11-18; not a new 2020–2026 release entry. G2300B-1V and G-2300B-1V are typographic references to the same watch.",
+            "module_number": "2184",
+            "materials": {
+              "case_bezel": "Resin",
+              "band": "Nylon",
+              "crystal": "Mineral glass",
+              "clasp": "Velcro (owner supplied)"
+            },
+            "functions": {
+              "water_resistance_m": 200,
+              "solar": "Tough Solar; archived Casio model description and existing module 2184 profile",
+              "calendar": "Day-and-date (owner supplied)",
+              "movement_descriptor": "Japanese quartz (owner supplied descriptor; not proof of watch manufacturing location)"
+            },
+            "description": "Black nylon-band G-SHOCK with a neutral/gray digital face and Tough Solar.",
+            "reported_measurements": {
+              "case_diameter_mm": 46.2,
+              "case_thickness_mm": 16,
+              "band_width_mm": 23,
+              "band_length_category": "Mens; no measured length supplied",
+              "status": "Owner supplied; diameter is not assumed to be case width or length, and no L × W × H dimensions are synthesized."
+            },
+            "reported_dial_color": "Gray",
+            "reported_warranty_type": "Manufacturer (historical owner/seller-style field; not a current warranty offer)",
+            "release_evidence": {
+              "year": 2003,
+              "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+              "status": "Parts-supplier year listing, not independently confirmed exact launch day"
+            },
+            "replacement_parts": [
+              {
+                "part_number": "10124363",
+                "description": "Band/Cloth",
+                "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+                "status": "Listed for G2300B-1V; supplier also lists resin service parts, which do not change the documented original nylon configuration."
+              },
+              {
+                "part_number": "10071461",
+                "description": "Bezel/Resin",
+                "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+                "status": "Listed for this exact model"
+              }
+            ],
+            "base_model_comparison": {
+              "reference_label": "G2300-1V",
+              "module": "2184",
+              "supplier_listed_year": 2000,
+              "source_url": "https://www.casiopart.com/model-number/g2300-1v/",
+              "scope": "Comparison evidence only; no physical facts or release year assigned to another variant. A later supplier-listed release does not establish that B universally means a release wave."
+            },
+            "source_urls": [
+              "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+              "https://www.casio.casioca.com/products/archive/watches/g-shock/g2300b-1v",
+              "https://www.casiopart.com/model-number/g2300b-1v/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation",
+              "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/21/2184/qw2184_EN.pdf"
+            ],
+            "source_status": {
+              "archived_casio": "Existing repository transcription and capture hash support nylon band, water resistance, solar and module; current Wayback replay was unavailable.",
+              "casio_canada_archive": "Indexed Casio Canada archive description corroborates black nylon and Module 2184; retained as citation provenance only.",
+              "parts_catalog": "Retrieved supplier page lists 2003, Module 2184, Band/Cloth 10124363 and Bezel/Resin 10071461.",
+              "naming_guide": "Casio America general guide associates G with G-SHOCK, B with nylon and 1 with black; it lists trailing V as digital dial code and warns of exceptions. This is not an exclusive export-suffix definition for this exact model."
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G",
+                "meaning": "G-SHOCK line for this exact G-2300B reference."
+              },
+              "series_number": {
+                "code": "2300",
+                "meaning": "2300 model series, a Tough Solar digital watch using Module 2184; 2300 is not the module number or production year."
+              },
+              "post_series_modifier": {
+                "code": "B",
+                "meaning": "Band/configuration variation for this G-2300B model: nylon/cloth band and the supplied Velcro-adapter configuration. The parts source lists 2003 versus 2000 for G2300-1V; a later release-wave reading is contextual, not a universal B definition or an electronics upgrade."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Black primary case/band color code; the face is described as neutral/gray."
+              },
+              "regional_reference": {
+                "code": "V",
+                "meaning": "Trailing catalog suffix in G-2300B-1V. Owner-supplied regional/export interpretation is qualified: Casio America also lists V as a digital-dial code. An exclusive export-market meaning is not confirmed for this model."
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "G-5600BG-5JR",
       "observations": [
         {
@@ -18317,6 +18430,105 @@
             "record_type": "manufacturer_press_announcement",
             "reference_granularity": "press-release model code; regional suffix not asserted",
             "retail_release_year_confirmed": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "G2300B-1V",
+      "observations": [
+        {
+          "document": 11,
+          "row": 0,
+          "data": {
+            "full_reference": "G-2300B-1V",
+            "brand": "G-SHOCK",
+            "series": "2300",
+            "research_scope": "Historical exact-model owner supplement received 2026-11-18; not a new 2020–2026 release entry. G2300B-1V and G-2300B-1V are typographic references to the same watch.",
+            "module_number": "2184",
+            "materials": {
+              "case_bezel": "Resin",
+              "band": "Nylon",
+              "crystal": "Mineral glass",
+              "clasp": "Velcro (owner supplied)"
+            },
+            "functions": {
+              "water_resistance_m": 200,
+              "solar": "Tough Solar; archived Casio model description and existing module 2184 profile",
+              "calendar": "Day-and-date (owner supplied)",
+              "movement_descriptor": "Japanese quartz (owner supplied descriptor; not proof of watch manufacturing location)"
+            },
+            "description": "Black nylon-band G-SHOCK with a neutral/gray digital face and Tough Solar.",
+            "reported_measurements": {
+              "case_diameter_mm": 46.2,
+              "case_thickness_mm": 16,
+              "band_width_mm": 23,
+              "band_length_category": "Mens; no measured length supplied",
+              "status": "Owner supplied; diameter is not assumed to be case width or length, and no L × W × H dimensions are synthesized."
+            },
+            "reported_dial_color": "Gray",
+            "reported_warranty_type": "Manufacturer (historical owner/seller-style field; not a current warranty offer)",
+            "release_evidence": {
+              "year": 2003,
+              "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+              "status": "Parts-supplier year listing, not independently confirmed exact launch day"
+            },
+            "replacement_parts": [
+              {
+                "part_number": "10124363",
+                "description": "Band/Cloth",
+                "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+                "status": "Listed for G2300B-1V; supplier also lists resin service parts, which do not change the documented original nylon configuration."
+              },
+              {
+                "part_number": "10071461",
+                "description": "Bezel/Resin",
+                "source_url": "https://www.casiopart.com/model-number/g2300b-1v/",
+                "status": "Listed for this exact model"
+              }
+            ],
+            "base_model_comparison": {
+              "reference_label": "G2300-1V",
+              "module": "2184",
+              "supplier_listed_year": 2000,
+              "source_url": "https://www.casiopart.com/model-number/g2300-1v/",
+              "scope": "Comparison evidence only; no physical facts or release year assigned to another variant. A later supplier-listed release does not establish that B universally means a release wave."
+            },
+            "source_urls": [
+              "https://web.archive.org/web/20161031034652/http://www.casio.com:80/products/Watches/G-Shock/G2300B-1V",
+              "https://www.casio.casioca.com/products/archive/watches/g-shock/g2300b-1v",
+              "https://www.casiopart.com/model-number/g2300b-1v/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation",
+              "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/21/2184/qw2184_EN.pdf"
+            ],
+            "source_status": {
+              "archived_casio": "Existing repository transcription and capture hash support nylon band, water resistance, solar and module; current Wayback replay was unavailable.",
+              "casio_canada_archive": "Indexed Casio Canada archive description corroborates black nylon and Module 2184; retained as citation provenance only.",
+              "parts_catalog": "Retrieved supplier page lists 2003, Module 2184, Band/Cloth 10124363 and Bezel/Resin 10071461.",
+              "naming_guide": "Casio America general guide associates G with G-SHOCK, B with nylon and 1 with black; it lists trailing V as digital dial code and warns of exceptions. This is not an exclusive export-suffix definition for this exact model."
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G",
+                "meaning": "G-SHOCK line for this exact G-2300B reference."
+              },
+              "series_number": {
+                "code": "2300",
+                "meaning": "2300 model series, a Tough Solar digital watch using Module 2184; 2300 is not the module number or production year."
+              },
+              "post_series_modifier": {
+                "code": "B",
+                "meaning": "Band/configuration variation for this G-2300B model: nylon/cloth band and the supplied Velcro-adapter configuration. The parts source lists 2003 versus 2000 for G2300-1V; a later release-wave reading is contextual, not a universal B definition or an electronics upgrade."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Black primary case/band color code; the face is described as neutral/gray."
+              },
+              "regional_reference": {
+                "code": "V",
+                "meaning": "Trailing catalog suffix in G-2300B-1V. Owner-supplied regional/export interpretation is qualified: Casio America also lists V as a digital-dial code. An exclusive export-market meaning is not confirmed for this model."
+              }
+            }
           }
         }
       ]
@@ -62336,5 +62548,6 @@
         }
       ]
     }
-  ]
+  ],
+  "original_received": "2026-11-17"
 }

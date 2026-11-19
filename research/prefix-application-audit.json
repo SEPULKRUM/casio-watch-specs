@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "scope": "Application audit of supplied model segmentations, whole-prefix community readings, guide examples and heritage mappings. It verifies coverage and source scope, not unpublished official acronym expansions.",
-  "source_cases": 1371,
+  "source_cases": 1373,
   "counts": {
-    "applied": 426,
+    "applied": 428,
     "syntax_corrected": 105,
     "superseded_by_current_master": 203,
     "partial_or_unverified_source_grouping": 483,
@@ -8013,6 +8013,27 @@
       ]
     },
     {
+      "identifier": "G-2300B-1V",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "2300",
+        "B",
+        "1",
+        "V"
+      ],
+      "supplied_tokens": [
+        "G",
+        "2300",
+        "B",
+        "1",
+        "V"
+      ]
+    },
+    {
       "identifier": "G-5600BG-5JR",
       "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
       "kind": "worldwide",
@@ -8085,6 +8106,27 @@
       "visible_tokens": [
         "GB",
         "001MVE"
+      ]
+    },
+    {
+      "identifier": "G-2300B-1V",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "2300",
+        "B",
+        "1",
+        "V"
+      ],
+      "supplied_tokens": [
+        "G",
+        "2300",
+        "B",
+        "1",
+        "V"
       ]
     },
     {

@@ -3,9 +3,9 @@ from pathlib import Path
 from worldwide_import import artifacts, REFERENCE, IMPORT
 ROOT=Path(__file__).resolve().parents[1]
 class WorldwideImportTests(unittest.TestCase):
- def test_all_eleven_documents_and_931_records_reconcile(self):
-  n=json.loads((ROOT/REFERENCE).read_text());self.assertEqual(len(n['source_documents']),11);self.assertEqual(len(n['identifier_occurrences']),931)
-  records=[r for r in json.loads(artifacts(ROOT)[IMPORT]) if r['kind']=='model'];self.assertEqual(len(records),924);self.assertEqual(set(n['identifier_occurrences']),{r['id'] for r in records});self.assertEqual(sum(len(r['specs']['worldwide_evidence']['value']['observations']) for r in records),931)
+ def test_original_registers_and_historical_supplement_reconcile(self):
+  n=json.loads((ROOT/REFERENCE).read_text());self.assertEqual(len(n['source_documents']),12);self.assertEqual(len(n['identifier_occurrences']),933)
+  records=[r for r in json.loads(artifacts(ROOT)[IMPORT]) if r['kind']=='model'];self.assertEqual(len(records),926);self.assertEqual(set(n['identifier_occurrences']),{r['id'] for r in records});self.assertEqual(sum(len(r['specs']['worldwide_evidence']['value']['observations']) for r in records),933)
  def test_exact_eligible_identifiers_are_indexed_and_openable(self):
   n=json.loads((ROOT/REFERENCE).read_text());idx=json.loads((ROOT/'data/search-index.json').read_text());rows={r['id']:r for r in idx['records']};cat=json.loads((ROOT/'data/catalog.json').read_text())
   for id in n['models']:
