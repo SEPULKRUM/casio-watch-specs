@@ -1,0 +1,15 @@
+{
+  "type": "owner_community_market_guidance",
+  "provided_by": "SEPULKRUM",
+  "received": "2026-11-22",
+  "markets": {
+    "JF": "Japan (JDM); standard retail packaging commonly reported",
+    "JR": "Japan (JDM); limited/collaboration/commemorative packaging often reported",
+    "ER": "Europe; UK/EU retail commonly reported",
+    "DR": "International / duty-free; Asia-Pacific, Middle East, Latin America commonly reported",
+    "CR": "North America; US / Canada commonly reported",
+    "DF": "International / Asia; Hong Kong or Singapore retail commonly reported"
+  },
+  "owner_claim": "Regional endings describe retail-market paperwork, warranty card, hang tag and outer box rather than a new colorway.",
+  "applied_qualification": "Common community descriptions, not universal official definitions. JR alone cannot establish limited status or packaging. Same-base regional watches often share hardware, but suffix alone does not prove exact module, case, band, water resistance or box contents. No new exact regional models or inherited physical specifications are created."
+}

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "scope": "Application audit of supplied model segmentations, whole-prefix community readings, guide examples and heritage mappings. It verifies coverage and source scope, not unpublished official acronym expansions.",
-  "source_cases": 1375,
+  "source_cases": 1377,
   "counts": {
-    "applied": 430,
+    "applied": 432,
     "syntax_corrected": 105,
     "superseded_by_current_master": 203,
     "partial_or_unverified_source_grouping": 483,
@@ -8134,6 +8134,23 @@
       ]
     },
     {
+      "identifier": "G-B001MVB-8",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G-B001",
+        "MVB",
+        "8"
+      ],
+      "supplied_tokens": [
+        "G-B001",
+        "MVB",
+        "8"
+      ]
+    },
+    {
       "identifier": "G-B001MVE",
       "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
       "kind": "worldwide",
@@ -8142,6 +8159,23 @@
       "visible_tokens": [
         "GB",
         "001MVE"
+      ]
+    },
+    {
+      "identifier": "G-B001MVE-9",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G-B001",
+        "MVE",
+        "9"
+      ],
+      "supplied_tokens": [
+        "G-B001",
+        "MVE",
+        "9"
       ]
     },
     {

@@ -698,7 +698,7 @@
     {
       "filename": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf",
       "sha256": "be85108eb39b515d9c1f574c2e45d0cf0d75c1f73bae97bda4ad2c1bf39594a4",
-      "record_count": 2,
+      "record_count": 4,
       "scope": {
         "type": "Exact model prefix research",
         "reference_date": "2026-11-22"
@@ -936,6 +936,8 @@
     "G-5600SFJ-9JR",
     "G-B001MVA-1",
     "G-B001MVA-1JR",
+    "G-B001MVB-8",
+    "G-B001MVE-9",
     "G2300B-1V",
     "GA-010-1AJF",
     "GA-010CE-2AJF",
@@ -2635,7 +2637,9 @@
     "G-2300B-1V",
     "G2300B-1V",
     "G-B001MVA-1",
-    "G-B001MVA-1JR"
+    "G-B001MVA-1JR",
+    "G-B001MVB-8",
+    "G-B001MVE-9"
   ],
   "entries": [
     {
@@ -18471,6 +18475,46 @@
       ]
     },
     {
+      "id": "G-B001MVB-8",
+      "observations": [
+        {
+          "document": 12,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVB-8",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVB",
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+            ],
+            "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
+            "analytical_pattern": {
+              "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
+              "final_character": "B distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G-B001",
+                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+              },
+              "post_series_modifier": {
+                "code": "MVB",
+                "meaning": "Complete official MVB variant code: Gray × Gold. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
+              },
+              "color_design_code": {
+                "code": "8",
+                "meaning": "Exact launch configuration: Gray × Gold. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 8."
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "G-B001MVE",
       "observations": [
         {
@@ -18527,6 +18571,46 @@
             "record_type": "manufacturer_press_announcement",
             "reference_granularity": "press-release model code; regional suffix not asserted",
             "retail_release_year_confirmed": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001MVE-9",
+      "observations": [
+        {
+          "document": 12,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVE-9",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVE",
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+            ],
+            "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
+            "analytical_pattern": {
+              "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
+              "final_character": "E distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G-B001",
+                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+              },
+              "post_series_modifier": {
+                "code": "MVE",
+                "meaning": "Complete official MVE variant code: Yellow × Rainbow. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
+              },
+              "color_design_code": {
+                "code": "9",
+                "meaning": "Exact launch configuration: Yellow × Rainbow. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 9."
+              }
+            }
           }
         }
       ]
