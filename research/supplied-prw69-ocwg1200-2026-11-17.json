@@ -1885,7 +1885,7 @@
           ]
         },
         "accuracy": "±15 seconds/month without smartphone adjustment",
-        "time_display": "Hours, minutes, seconds, a.m./p.m.; 12/24 hour",
+        "time_display": "Hours, minutes, seconds, day/date/month, a.m./p.m.; 12/24 hour and DST switching",
         "calendar": "Full automatic calendar 2000–2099",
         "date_format": "Date/month swap",
         "day_languages": [
@@ -2033,7 +2033,8 @@
               "Not Tough Solar / not solar-powered"
             ]
           }
-        }
+        },
+        "phone_connection": "Auto time adjustment, one-touch correction, watch settings, Time & Place, app-information receive, phone finder"
       },
       "document": "gb001_2023",
       "pdf_pages": [
@@ -5132,7 +5133,8 @@
           "removable_urethane_capsule": true,
           "shock_resistant": true,
           "carbon_core_guard": true,
-          "water_resistance": "200 m / 20 bar"
+          "water_resistance": "200 m / 20 bar",
+          "accents": "Blue / purple accents; phosphorescent paint on bezel logo and inner-bezel details"
         },
         "market_note": "Casio Japan references for all six cataloged editions use JR, not JF. Japanese market identity is documented; R and special-packaging symbolism are not independently decoded. Do not rewrite JR to JF.",
         "superseded_research": {
@@ -5346,7 +5348,8 @@
           "removable_urethane_capsule": true,
           "shock_resistant": true,
           "carbon_core_guard": true,
-          "water_resistance": "200 m / 20 bar"
+          "water_resistance": "200 m / 20 bar",
+          "accents": "Blue / purple accents; phosphorescent paint on bezel logo and inner-bezel details"
         },
         "market_note": "Casio Japan references for all six cataloged editions use JR, not JF. Japanese market identity is documented; R and special-packaging symbolism are not independently decoded. Do not rewrite JR to JF.",
         "superseded_research": {
