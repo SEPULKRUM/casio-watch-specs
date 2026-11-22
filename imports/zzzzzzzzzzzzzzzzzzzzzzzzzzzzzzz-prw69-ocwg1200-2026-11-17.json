@@ -96,15 +96,15 @@
             "automatic_reception": "Up to six daily attempts, or five for BPC; normally stops after successful sync. Location, noise and settings affect reception."
           }
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 3, 4, 5",
             "evidence": "3514: series_pdf_evidence = {\"scope\": \"PRW-69 shared functional table, pending module attribution; no physical watch data inferred from module\", \"pdf_pages\": [3, 4, 5], \"functions\": {\"module_attribution\": \"3514 reported in distributor/product documentation; final exact-model support/manual audit required\", \"display\": \"Digital duplex LCD\", \"power\": \"Tough Solar\", \"radio\": \"Multi Band 6\", \"sensors\": \"Triple Sensor: digital compass, altimeter/barometer, thermometer\", \"bluetooth\": \"No Bluetooth function listed\", \"compass\": {\"directions\": 16, \"range_degrees\": \"0–359\", \"resolution_degrees\": 1, \"continuous_seconds\": 60, \"tools\": [\"Bidirectional calibration\", \"Magnetic declination correction\", \"Bearing memory\"]}, \"altimeter\": {\"range_m\": \"-700 to 10,000\", \"resolution_m\": 1, \"manual_records\": 30, \"trek_logs\": 14, \"difference_range_m\": \"-3,000 to +3,000\", \"interval\": \"5 seconds or 2 minutes; first 3 minutes at 1-second intervals\"}, \"barometer\": {\"range_hpa\": \"260–1,100\", \"resolution_hpa\": 1, \"trend_history_hours\": 42, \"warning\": \"Significant pressure-change alarm\"}, \"thermometer\": {\"range_c\": \"-10 to +60\", \"resolution_c\": 0.1}, \"world_time\": \"48 cities; 31 time zones plus UTC\", \"sunrise_sunset\": \"Selected-date sunrise and sunset times\", \"stopwatch\": \"1/10 second; maximum 999:59:59.9\", \"timer\": \"Up to 24 hours\", \"alarms\": \"5 daily alarms including one snooze; hourly signal\", \"calendar\": \"Full auto-calendar through 2099; 12/24-hour mode\", \"illumination\": \"White full-auto LED; selectable 1.5 or 3 seconds\", \"power_features\": [\"Battery-level indicator\", \"Power saving\", \"Button tone mute\"], \"full_charge_endurance\": \"Approximately 6 months without further light; 26 months with power saving\", \"uncorrected_accuracy\": \"±15 seconds per month\", \"radio_stations\": [{\"station\": \"JJY Fukushima\", \"country\": \"Japan\", \"frequency_khz\": 40}, {\"station\": \"JJY Kyushu\", \"country\": \"Japan\", \"frequency_khz\": 60}, {\"station\": \"WWVB\", \"country\": \"United States\", \"frequency_khz\": 60}, {\"station\": \"MSF\", \"country\": \"United Kingdom\", \"frequency_khz\": 60}, {\"station\": \"DCF77\", \"country\": \"Germany\", \"frequency_khz\": 77.5}, {\"station\": \"BPC\", \"country\": \"China\", \"frequency_khz\": 68.5}], \"automatic_reception\": \"Up to six daily attempts, or five for BPC; normally stops after successful sync. Location, noise and settings affect reception.\"}}"
           }
@@ -247,15 +247,15 @@
             "Exact OEM component part numbers"
           ]
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 4, 5",
             "evidence": "PRW-69Y-1JF: series_pdf_evidence = {\"scope\": \"Exact Japanese reference; supplied model comparison explicitly reports shared nominal dimensions for these three models. No independent archive verification.\", \"pdf_pages\": [1, 2, 5], \"physical_specifications\": {\"dimensions_mm\": {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}, \"weight_g\": 73, \"case_material\": \"Bio-based resin / stainless steel\", \"band_material\": \"CNF-reinforced Dura Soft rubber\", \"glass\": \"Mineral glass\", \"color\": \"Black\", \"release_date\": \"2026-04\", \"water_resistance_m\": 100, \"case_finish\": \"Gray ion plating\"}, \"center_case_flammability\": \"UL94 V-0\", \"low_temperature_rating_c\": -10, \"band_fit\": \"145–215 mm\", \"clasp_adjustment\": \"Buckle\", \"japan_msrp_jpy\": 48400, \"module_reference\": {\"reported\": \"3514\", \"status\": \"Individual official support/manual match pending\"}, \"prefix_interpretations\": {\"PR / PRW\": \"PRO TREK family / radio-controlled watch designation\", \"69\": \"Series designation, not a release year or module\", \"Y\": \"Specialized outdoor-material association inferred from comparisons; no universal official key\", \"B in YB\": \"Fabric-band configuration in this family\", \"T in YT\": \"Titanium bracelet configuration; Y is retained\", \"1 / 3 / 7\": \"Black / green / silver-light colorway for these exact models\", \"JF\": \"Japanese-market reference suffix\"}, \"shared_functional_research\": {\"module_attribution\": \"3514 reported in distributor/product documentation; final exact-model support/manual audit required\", \"display\": \"Digital duplex LCD\", \"power\": \"Tough Solar\", \"radio\": \"Multi Band 6\", \"sensors\": \"Triple Sensor: digital compass, altimeter/barometer, thermometer\", \"bluetooth\": \"No Bluetooth function listed\", \"compass\": {\"directions\": 16, \"range_degrees\": \"0–359\", \"resolution_degrees\": 1, \"continuous_seconds\": 60, \"tools\": [\"Bidirectional calibration\", \"Magnetic declination correction\", \"Bearing memory\"]}, \"altimeter\": {\"range_m\": \"-700 to 10,000\", \"resolution_m\": 1, \"manual_records\": 30, \"trek_logs\": 14, \"difference_range_m\": \"-3,000 to +3,000\", \"interval\": \"5 seconds or 2 minutes; first 3 minutes at 1-second intervals\"}, \"barometer\": {\"range_hpa\": \"260–1,100\", \"resolution_hpa\": 1, \"trend_history_hours\": 42, \"warning\": \"Significant pressure-change alarm\"}, \"thermometer\": {\"range_c\": \"-10 to +60\", \"resolution_c\": 0.1}, \"world_time\": \"48 cities; 31 time zones plus UTC\", \"sunrise_sunset\": \"Selected-date sunrise and sunset times\", \"stopwatch\": \"1/10 second; maximum 999:59:59.9\", \"timer\": \"Up to 24 hours\", \"alarms\": \"5 daily alarms including one snooze; hourly signal\", \"calendar\": \"Full auto-calendar through 2099; 12/24-hour mode\", \"illumination\": \"White full-auto LED; selectable 1.5 or 3 seconds\", \"power_features\": [\"Battery-level indicator\", \"Power saving\", \"Button tone mute\"], \"full_charge_endurance\": \"Approximately 6 months without further light; 26 months with power saving\", \"uncorrected_accuracy\": \"±15 seconds per month\", \"radio_stations\": [{\"station\": \"JJY Fukushima\", \"country\": \"Japan\", \"frequency_khz\": 40}, {\"station\": \"JJY Kyushu\", \"country\": \"Japan\", \"frequency_khz\": 60}, {\"station\": \"WWVB\", \"country\": \"United States\", \"frequency_khz\": 60}, {\"station\": \"MSF\", \"country\": \"United Kingdom\", \"frequency_khz\": 60}, {\"station\": \"DCF77\", \"country\": \"Germany\", \"frequency_khz\": 77.5}, {\"station\": \"BPC\", \"country\": \"China\", \"frequency_khz\": 68.5}], \"automatic_reception\": \"Up to six daily attempts, or five for BPC; normally stops after successful sync. Location, noise and settings affect reception.\"}, \"remaining_audit\": [\"Exhaustive international SKU endings\", \"Individual module manual matches\", \"Exact OEM component part numbers\"]}"
           }
@@ -263,15 +263,15 @@
       },
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1",
             "evidence": "PRW-69Y-1JF: series = \"Pro Trek\""
           }
@@ -282,15 +282,15 @@
           "module": "3514",
           "status": "Reported, individual support/manual match pending; not a confirmed module assignment"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 3",
             "evidence": "PRW-69Y-1JF: reported_module_claim = {\"module\": \"3514\", \"status\": \"Reported, individual support/manual match pending; not a confirmed module assignment\"}"
           }
@@ -302,15 +302,15 @@
           "width": 46.4,
           "thickness": 13.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: dimensions_mm = {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}"
           }
@@ -318,15 +318,15 @@
       },
       "weight_g": {
         "value": 73,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: weight_g = 73"
           }
@@ -334,15 +334,15 @@
       },
       "case_material": {
         "value": "Bio-based resin / stainless steel",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: case_material = \"Bio-based resin / stainless steel\""
           }
@@ -350,15 +350,15 @@
       },
       "band_material": {
         "value": "CNF-reinforced Dura Soft rubber",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: band_material = \"CNF-reinforced Dura Soft rubber\""
           }
@@ -366,15 +366,15 @@
       },
       "glass": {
         "value": "Mineral glass",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: glass = \"Mineral glass\""
           }
@@ -382,15 +382,15 @@
       },
       "color": {
         "value": "Black",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: color = \"Black\""
           }
@@ -398,15 +398,15 @@
       },
       "release_date": {
         "value": "2026-04",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: release_date = \"2026-04\""
           }
@@ -414,15 +414,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: water_resistance_m = 100"
           }
@@ -430,15 +430,15 @@
       },
       "case_finish": {
         "value": "Gray ion plating",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69Y-1JF: case_finish = \"Gray ion plating\""
           }
@@ -581,15 +581,15 @@
             "Exact OEM component part numbers"
           ]
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 4, 5",
             "evidence": "PRW-69YB-3JF: series_pdf_evidence = {\"scope\": \"Exact Japanese reference; supplied model comparison explicitly reports shared nominal dimensions for these three models. No independent archive verification.\", \"pdf_pages\": [1, 2, 5], \"physical_specifications\": {\"dimensions_mm\": {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}, \"weight_g\": 68, \"case_material\": \"Bio-based resin / stainless steel\", \"band_material\": \"Flame-retardant CORDURA re/cor fabric\", \"glass\": \"Mineral glass\", \"color\": \"Green\", \"release_date\": \"2026-04\", \"water_resistance_m\": 100, \"case_finish\": \"Gray ion plating\"}, \"center_case_flammability\": \"UL94 V-0\", \"low_temperature_rating_c\": -10, \"band_fit\": \"145–215 mm\", \"clasp_adjustment\": \"Fabric-band fastening\", \"japan_msrp_jpy\": 48400, \"module_reference\": {\"reported\": \"3514\", \"status\": \"Individual official support/manual match pending\"}, \"prefix_interpretations\": {\"PR / PRW\": \"PRO TREK family / radio-controlled watch designation\", \"69\": \"Series designation, not a release year or module\", \"Y\": \"Specialized outdoor-material association inferred from comparisons; no universal official key\", \"B in YB\": \"Fabric-band configuration in this family\", \"T in YT\": \"Titanium bracelet configuration; Y is retained\", \"1 / 3 / 7\": \"Black / green / silver-light colorway for these exact models\", \"JF\": \"Japanese-market reference suffix\"}, \"shared_functional_research\": {\"module_attribution\": \"3514 reported in distributor/product documentation; final exact-model support/manual audit required\", \"display\": \"Digital duplex LCD\", \"power\": \"Tough Solar\", \"radio\": \"Multi Band 6\", \"sensors\": \"Triple Sensor: digital compass, altimeter/barometer, thermometer\", \"bluetooth\": \"No Bluetooth function listed\", \"compass\": {\"directions\": 16, \"range_degrees\": \"0–359\", \"resolution_degrees\": 1, \"continuous_seconds\": 60, \"tools\": [\"Bidirectional calibration\", \"Magnetic declination correction\", \"Bearing memory\"]}, \"altimeter\": {\"range_m\": \"-700 to 10,000\", \"resolution_m\": 1, \"manual_records\": 30, \"trek_logs\": 14, \"difference_range_m\": \"-3,000 to +3,000\", \"interval\": \"5 seconds or 2 minutes; first 3 minutes at 1-second intervals\"}, \"barometer\": {\"range_hpa\": \"260–1,100\", \"resolution_hpa\": 1, \"trend_history_hours\": 42, \"warning\": \"Significant pressure-change alarm\"}, \"thermometer\": {\"range_c\": \"-10 to +60\", \"resolution_c\": 0.1}, \"world_time\": \"48 cities; 31 time zones plus UTC\", \"sunrise_sunset\": \"Selected-date sunrise and sunset times\", \"stopwatch\": \"1/10 second; maximum 999:59:59.9\", \"timer\": \"Up to 24 hours\", \"alarms\": \"5 daily alarms including one snooze; hourly signal\", \"calendar\": \"Full auto-calendar through 2099; 12/24-hour mode\", \"illumination\": \"White full-auto LED; selectable 1.5 or 3 seconds\", \"power_features\": [\"Battery-level indicator\", \"Power saving\", \"Button tone mute\"], \"full_charge_endurance\": \"Approximately 6 months without further light; 26 months with power saving\", \"uncorrected_accuracy\": \"±15 seconds per month\", \"radio_stations\": [{\"station\": \"JJY Fukushima\", \"country\": \"Japan\", \"frequency_khz\": 40}, {\"station\": \"JJY Kyushu\", \"country\": \"Japan\", \"frequency_khz\": 60}, {\"station\": \"WWVB\", \"country\": \"United States\", \"frequency_khz\": 60}, {\"station\": \"MSF\", \"country\": \"United Kingdom\", \"frequency_khz\": 60}, {\"station\": \"DCF77\", \"country\": \"Germany\", \"frequency_khz\": 77.5}, {\"station\": \"BPC\", \"country\": \"China\", \"frequency_khz\": 68.5}], \"automatic_reception\": \"Up to six daily attempts, or five for BPC; normally stops after successful sync. Location, noise and settings affect reception.\"}, \"remaining_audit\": [\"Exhaustive international SKU endings\", \"Individual module manual matches\", \"Exact OEM component part numbers\"]}"
           }
@@ -597,15 +597,15 @@
       },
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1",
             "evidence": "PRW-69YB-3JF: series = \"Pro Trek\""
           }
@@ -616,15 +616,15 @@
           "module": "3514",
           "status": "Reported, individual support/manual match pending; not a confirmed module assignment"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 3",
             "evidence": "PRW-69YB-3JF: reported_module_claim = {\"module\": \"3514\", \"status\": \"Reported, individual support/manual match pending; not a confirmed module assignment\"}"
           }
@@ -636,15 +636,15 @@
           "width": 46.4,
           "thickness": 13.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: dimensions_mm = {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}"
           }
@@ -652,15 +652,15 @@
       },
       "weight_g": {
         "value": 68,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: weight_g = 68"
           }
@@ -668,15 +668,15 @@
       },
       "case_material": {
         "value": "Bio-based resin / stainless steel",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: case_material = \"Bio-based resin / stainless steel\""
           }
@@ -684,15 +684,15 @@
       },
       "band_material": {
         "value": "Flame-retardant CORDURA re/cor fabric",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: band_material = \"Flame-retardant CORDURA re/cor fabric\""
           }
@@ -700,15 +700,15 @@
       },
       "glass": {
         "value": "Mineral glass",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: glass = \"Mineral glass\""
           }
@@ -716,15 +716,15 @@
       },
       "color": {
         "value": "Green",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: color = \"Green\""
           }
@@ -732,15 +732,15 @@
       },
       "release_date": {
         "value": "2026-04",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: release_date = \"2026-04\""
           }
@@ -748,15 +748,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: water_resistance_m = 100"
           }
@@ -764,15 +764,15 @@
       },
       "case_finish": {
         "value": "Gray ion plating",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YB-3JF: case_finish = \"Gray ion plating\""
           }
@@ -915,15 +915,15 @@
             "Exact OEM component part numbers"
           ]
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 4, 5",
             "evidence": "PRW-69YT-7JF: series_pdf_evidence = {\"scope\": \"Exact Japanese reference; supplied model comparison explicitly reports shared nominal dimensions for these three models. No independent archive verification.\", \"pdf_pages\": [1, 2, 5], \"physical_specifications\": {\"dimensions_mm\": {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}, \"weight_g\": 117, \"case_material\": \"Bio-based resin / stainless steel\", \"band_material\": \"Solid titanium bracelet\", \"glass\": \"Sapphire crystal with inner anti-reflective coating\", \"color\": \"Silver\", \"release_date\": \"2026-10\", \"water_resistance_m\": 100, \"case_finish\": \"Titanium-carbide (TiC)\"}, \"center_case_flammability\": \"UL94 V-0\", \"low_temperature_rating_c\": -10, \"band_fit\": \"150–205 mm\", \"clasp_adjustment\": \"Double-lock folding clasp; 6 mm slide adjustment\", \"japan_msrp_jpy\": 104500, \"module_reference\": {\"reported\": \"3514\", \"status\": \"Individual official support/manual match pending\"}, \"prefix_interpretations\": {\"PR / PRW\": \"PRO TREK family / radio-controlled watch designation\", \"69\": \"Series designation, not a release year or module\", \"Y\": \"Specialized outdoor-material association inferred from comparisons; no universal official key\", \"B in YB\": \"Fabric-band configuration in this family\", \"T in YT\": \"Titanium bracelet configuration; Y is retained\", \"1 / 3 / 7\": \"Black / green / silver-light colorway for these exact models\", \"JF\": \"Japanese-market reference suffix\"}, \"shared_functional_research\": {\"module_attribution\": \"3514 reported in distributor/product documentation; final exact-model support/manual audit required\", \"display\": \"Digital duplex LCD\", \"power\": \"Tough Solar\", \"radio\": \"Multi Band 6\", \"sensors\": \"Triple Sensor: digital compass, altimeter/barometer, thermometer\", \"bluetooth\": \"No Bluetooth function listed\", \"compass\": {\"directions\": 16, \"range_degrees\": \"0–359\", \"resolution_degrees\": 1, \"continuous_seconds\": 60, \"tools\": [\"Bidirectional calibration\", \"Magnetic declination correction\", \"Bearing memory\"]}, \"altimeter\": {\"range_m\": \"-700 to 10,000\", \"resolution_m\": 1, \"manual_records\": 30, \"trek_logs\": 14, \"difference_range_m\": \"-3,000 to +3,000\", \"interval\": \"5 seconds or 2 minutes; first 3 minutes at 1-second intervals\"}, \"barometer\": {\"range_hpa\": \"260–1,100\", \"resolution_hpa\": 1, \"trend_history_hours\": 42, \"warning\": \"Significant pressure-change alarm\"}, \"thermometer\": {\"range_c\": \"-10 to +60\", \"resolution_c\": 0.1}, \"world_time\": \"48 cities; 31 time zones plus UTC\", \"sunrise_sunset\": \"Selected-date sunrise and sunset times\", \"stopwatch\": \"1/10 second; maximum 999:59:59.9\", \"timer\": \"Up to 24 hours\", \"alarms\": \"5 daily alarms including one snooze; hourly signal\", \"calendar\": \"Full auto-calendar through 2099; 12/24-hour mode\", \"illumination\": \"White full-auto LED; selectable 1.5 or 3 seconds\", \"power_features\": [\"Battery-level indicator\", \"Power saving\", \"Button tone mute\"], \"full_charge_endurance\": \"Approximately 6 months without further light; 26 months with power saving\", \"uncorrected_accuracy\": \"±15 seconds per month\", \"radio_stations\": [{\"station\": \"JJY Fukushima\", \"country\": \"Japan\", \"frequency_khz\": 40}, {\"station\": \"JJY Kyushu\", \"country\": \"Japan\", \"frequency_khz\": 60}, {\"station\": \"WWVB\", \"country\": \"United States\", \"frequency_khz\": 60}, {\"station\": \"MSF\", \"country\": \"United Kingdom\", \"frequency_khz\": 60}, {\"station\": \"DCF77\", \"country\": \"Germany\", \"frequency_khz\": 77.5}, {\"station\": \"BPC\", \"country\": \"China\", \"frequency_khz\": 68.5}], \"automatic_reception\": \"Up to six daily attempts, or five for BPC; normally stops after successful sync. Location, noise and settings affect reception.\"}, \"remaining_audit\": [\"Exhaustive international SKU endings\", \"Individual module manual matches\", \"Exact OEM component part numbers\"]}"
           }
@@ -931,15 +931,15 @@
       },
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1",
             "evidence": "PRW-69YT-7JF: series = \"Pro Trek\""
           }
@@ -950,15 +950,15 @@
           "module": "3514",
           "status": "Reported, individual support/manual match pending; not a confirmed module assignment"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 3",
             "evidence": "PRW-69YT-7JF: reported_module_claim = {\"module\": \"3514\", \"status\": \"Reported, individual support/manual match pending; not a confirmed module assignment\"}"
           }
@@ -970,15 +970,15 @@
           "width": 46.4,
           "thickness": 13.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: dimensions_mm = {\"length\": 52.5, \"width\": 46.4, \"thickness\": 13.8}"
           }
@@ -986,15 +986,15 @@
       },
       "weight_g": {
         "value": 117,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: weight_g = 117"
           }
@@ -1002,15 +1002,15 @@
       },
       "case_material": {
         "value": "Bio-based resin / stainless steel",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: case_material = \"Bio-based resin / stainless steel\""
           }
@@ -1018,15 +1018,15 @@
       },
       "band_material": {
         "value": "Solid titanium bracelet",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: band_material = \"Solid titanium bracelet\""
           }
@@ -1034,15 +1034,15 @@
       },
       "glass": {
         "value": "Sapphire crystal with inner anti-reflective coating",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: glass = \"Sapphire crystal with inner anti-reflective coating\""
           }
@@ -1050,15 +1050,15 @@
       },
       "color": {
         "value": "Silver",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: color = \"Silver\""
           }
@@ -1066,15 +1066,15 @@
       },
       "release_date": {
         "value": "2026-10",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: release_date = \"2026-10\""
           }
@@ -1082,15 +1082,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: water_resistance_m = 100"
           }
@@ -1098,15 +1098,15 @@
       },
       "case_finish": {
         "value": "Titanium-carbide (TiC)",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 1, 2",
             "evidence": "PRW-69YT-7JF: case_finish = \"Titanium-carbide (TiC)\""
           }
@@ -1120,15 +1120,15 @@
     "specs": {
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW-69Y-1: series = \"Pro Trek\""
           }
@@ -1141,15 +1141,15 @@
           "reference_context": "Casio international short reference",
           "specification_status": "Specifications pending verification"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW-69Y-1: series_pdf_evidence = {\"scope\": \"Exact regional reference stated on PDF page 5; no physical specifications copied from Japanese sibling\", \"related_japanese_reference\": \"PRW-69Y-1JF\", \"reference_context\": \"Casio international short reference\", \"specification_status\": \"Specifications pending verification\"}"
           }
@@ -1163,15 +1163,15 @@
     "specs": {
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW-69YB-3: series = \"Pro Trek\""
           }
@@ -1184,15 +1184,15 @@
           "reference_context": "Casio international short reference",
           "specification_status": "Specifications pending verification"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW-69YB-3: series_pdf_evidence = {\"scope\": \"Exact regional reference stated on PDF page 5; no physical specifications copied from Japanese sibling\", \"related_japanese_reference\": \"PRW-69YB-3JF\", \"reference_context\": \"Casio international short reference\", \"specification_status\": \"Specifications pending verification\"}"
           }
@@ -1206,15 +1206,15 @@
     "specs": {
       "series": {
         "value": "Pro Trek",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW69Y-1D: series = \"Pro Trek\""
           }
@@ -1227,15 +1227,15 @@
           "reference_context": "Australian regional listing",
           "specification_status": "Specifications pending verification"
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_PRW-69_Series_All_Variants_Specifications.pdf / PDF pages 5",
             "evidence": "PRW69Y-1D: series_pdf_evidence = {\"scope\": \"Exact regional reference stated on PDF page 5; no physical specifications copied from Japanese sibling\", \"related_japanese_reference\": \"PRW-69Y-1JF\", \"reference_context\": \"Australian regional listing\", \"specification_status\": \"Specifications pending verification\"}"
           }
@@ -1306,15 +1306,15 @@
             "gps_acquisition": "Acquisition times vary by signal quality and conditions"
           }
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 3, 4",
             "evidence": "5454: series_pdf_evidence = {\"scope\": \"Supplied OCW-G1200 module table; reported rather than independently archive-checked\", \"pdf_pages\": [3, 4], \"functions\": {\"movement\": \"Analog quartz; solar powered\", \"synchronization\": \"GPS satellite and terrestrial Multi Band 6\", \"gps_position\": \"Manual position/time-zone acquisition\", \"gps_time\": \"Automatic and manual modes\", \"world_time\": \"27 city references as previously reported; verify exact table\", \"dual_time\": \"Main dial and subdial; home/world swap supported\", \"stopwatch\": \"1-second unit; up to 23:59:59\", \"calendar\": \"Full auto-calendar\", \"day_date\": \"Analog indicators\", \"smart_access_crown\": true, \"automatic_hand_position_correction\": true, \"battery_status_power_save\": true, \"airplane_mode\": true, \"uncorrected_accuracy\": \"±15 seconds per month\", \"battery_duration\": \"Approximately 8 months without light, retailer-listed; existing catalog comparison reports approximately 7 months normal / 19 months power saving. Do not silently replace either.\", \"bluetooth\": false, \"radio_stations\": [{\"station\": \"JJY Fukushima\", \"country\": \"Japan\", \"frequency_khz\": 40}, {\"station\": \"JJY Kyushu\", \"country\": \"Japan\", \"frequency_khz\": 60}, {\"station\": \"WWVB\", \"country\": \"United States\", \"frequency_khz\": 60}, {\"station\": \"MSF\", \"country\": \"United Kingdom\", \"frequency_khz\": 60}, {\"station\": \"DCF77\", \"country\": \"Germany\", \"frequency_khz\": 77.5}, {\"station\": \"BPC\", \"country\": \"China\", \"frequency_khz\": 68.5}], \"gps_acquisition\": \"Acquisition times vary by signal quality and conditions\"}}"
           }
@@ -1386,15 +1386,15 @@
             }
           }
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 5",
             "evidence": "OCW-G1200-1AJF: series_pdf_evidence = {\"scope\": \"Exact model comparison from supplied research. Dimensions are previously researched values, not remeasured here; source confirmation still pending.\", \"pdf_pages\": [1, 2, 3, 5], \"configuration\": \"Dark dial, titanium construction, ceramic bezel\", \"physical_specifications\": {\"dimensions_mm\": {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}, \"case_material\": \"Titanium\", \"band_material\": \"Titanium bracelet\", \"glass\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"color\": \"Dark dial\", \"release_date\": \"2016-10-07\", \"water_resistance_m\": 100, \"weight_g\": 106}, \"japan_original_msrp_pre_tax_jpy\": 230000, \"module\": \"5454\", \"release_evidence\": \"Contemporary retail / press reporting; not inferred from model code\", \"collector_context\": \"Launch coverage connects ceramic surface treatment to Japanese Monsha-nuri lacquer aesthetics.\", \"prefix_interpretations\": {\"OCW\": \"OCEANUS family\", \"G\": \"GPS-equipped generation association, not a universal official acronym key\", \"1200\": \"Model series\", \"B\": \"Black DLC physical configuration, series-specific letter interpretation\", \"C\": \"Special navy-leather limited configuration; not a universal leather code\", \"D\": \"Special ceramic-link bracelet configuration; not a universal ceramic code\", \"1A / 2A\": \"Dark / light-blue dial configurations in these references\", \"JF\": \"Japanese-market reference suffix\"}, \"remaining_audit\": [\"Factory measurements and exact archived sources\", \"Exhaustive global/regional SKU references\"], \"retained_scalar_comparisons\": {\"case_material\": {\"existing\": \"Titanium, TiC hardening; two-tone ceramic bezel\", \"supplied\": \"Titanium\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}, \"glass\": {\"existing\": \"Dual-curved sapphire, double AR\", \"supplied\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}, \"color\": {\"existing\": \"Black dial, black/blue ceramic bezel\", \"supplied\": \"Dark dial\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}}}"
           }
@@ -1402,15 +1402,15 @@
       },
       "release_date": {
         "value": "2016-10-07",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200-1AJF: release_date = \"2016-10-07\""
           }
@@ -1418,15 +1418,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200-1AJF: water_resistance_m = 100"
           }
@@ -1501,15 +1501,15 @@
             }
           }
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 5",
             "evidence": "OCW-G1200-2AJF: series_pdf_evidence = {\"scope\": \"Exact model comparison from supplied research. Dimensions are previously researched values, not remeasured here; source confirmation still pending.\", \"pdf_pages\": [1, 2, 3, 5], \"configuration\": \"Light-blue-tinted dial, corresponding standard configuration\", \"physical_specifications\": {\"dimensions_mm\": {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}, \"case_material\": \"Titanium\", \"band_material\": \"Titanium bracelet\", \"glass\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"color\": \"Light blue-tinted dial\", \"release_date\": \"2016-10-07\", \"water_resistance_m\": 100}, \"japan_original_msrp_pre_tax_jpy\": 230000, \"module\": \"5454\", \"release_evidence\": \"Contemporary retail / press reporting; not inferred from model code\", \"collector_context\": \"Launch coverage connects ceramic surface treatment to Japanese Monsha-nuri lacquer aesthetics.\", \"prefix_interpretations\": {\"OCW\": \"OCEANUS family\", \"G\": \"GPS-equipped generation association, not a universal official acronym key\", \"1200\": \"Model series\", \"B\": \"Black DLC physical configuration, series-specific letter interpretation\", \"C\": \"Special navy-leather limited configuration; not a universal leather code\", \"D\": \"Special ceramic-link bracelet configuration; not a universal ceramic code\", \"1A / 2A\": \"Dark / light-blue dial configurations in these references\", \"JF\": \"Japanese-market reference suffix\"}, \"remaining_audit\": [\"Factory measurements and exact archived sources\", \"Exhaustive global/regional SKU references\"], \"reported_weight\": {\"value_g\": 106, \"qualifier\": \"Approximate in supplied variant table; shared comparison prints 106 g. Existing scalar retained, no new exact weight assigned.\"}, \"retained_scalar_comparisons\": {\"case_material\": {\"existing\": \"Titanium, TiC hardening; two-tone ceramic bezel\", \"supplied\": \"Titanium\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}, \"glass\": {\"existing\": \"Dual-curved sapphire, double AR\", \"supplied\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}, \"color\": {\"existing\": \"Blue dial, blue ceramic bezel\", \"supplied\": \"Light blue-tinted dial\", \"resolution\": \"Existing scalar retained; no silent overwrite\"}}}"
           }
@@ -1517,15 +1517,15 @@
       },
       "release_date": {
         "value": "2016-10-07",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200-2AJF: release_date = \"2016-10-07\""
           }
@@ -1533,15 +1533,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200-2AJF: water_resistance_m = 100"
           }
@@ -1597,15 +1597,15 @@
           ],
           "retained_scalar_comparisons": {}
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 5",
             "evidence": "OCW-G1200B-1AJF: series_pdf_evidence = {\"scope\": \"Exact model comparison from supplied research. Dimensions are previously researched values, not remeasured here; source confirmation still pending.\", \"pdf_pages\": [1, 2, 3, 5], \"configuration\": \"Black DLC case and bracelet; laser-finished ceramic bezel\", \"physical_specifications\": {\"dimensions_mm\": {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}, \"case_material\": \"DLC-treated titanium\", \"band_material\": \"DLC-treated titanium bracelet\", \"glass\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"color\": \"Black\", \"release_date\": \"2017-02-10\", \"water_resistance_m\": 100, \"weight_g\": 106}, \"japan_original_msrp_pre_tax_jpy\": 260000, \"module\": \"5454\", \"release_evidence\": \"Contemporary retail / press reporting; not inferred from model code\", \"collector_context\": \"Launch coverage connects ceramic surface treatment to Japanese Monsha-nuri lacquer aesthetics.\", \"prefix_interpretations\": {\"OCW\": \"OCEANUS family\", \"G\": \"GPS-equipped generation association, not a universal official acronym key\", \"1200\": \"Model series\", \"B\": \"Black DLC physical configuration, series-specific letter interpretation\", \"C\": \"Special navy-leather limited configuration; not a universal leather code\", \"D\": \"Special ceramic-link bracelet configuration; not a universal ceramic code\", \"1A / 2A\": \"Dark / light-blue dial configurations in these references\", \"JF\": \"Japanese-market reference suffix\"}, \"remaining_audit\": [\"Factory measurements and exact archived sources\", \"Exhaustive global/regional SKU references\"], \"retained_scalar_comparisons\": {}}"
           }
@@ -1613,15 +1613,15 @@
       },
       "series": {
         "value": "Oceanus",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: series = \"Oceanus\""
           }
@@ -1629,15 +1629,15 @@
       },
       "module_id": {
         "value": "5454",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: module_id = \"5454\""
           }
@@ -1649,15 +1649,15 @@
           "width": 46.1,
           "thickness": 14.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: dimensions_mm = {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}"
           }
@@ -1665,15 +1665,15 @@
       },
       "case_material": {
         "value": "DLC-treated titanium",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: case_material = \"DLC-treated titanium\""
           }
@@ -1681,15 +1681,15 @@
       },
       "band_material": {
         "value": "DLC-treated titanium bracelet",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: band_material = \"DLC-treated titanium bracelet\""
           }
@@ -1697,15 +1697,15 @@
       },
       "glass": {
         "value": "Dual-curved sapphire crystal; anti-reflective coating on both sides",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: glass = \"Dual-curved sapphire crystal; anti-reflective coating on both sides\""
           }
@@ -1713,15 +1713,15 @@
       },
       "color": {
         "value": "Black",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: color = \"Black\""
           }
@@ -1729,15 +1729,15 @@
       },
       "release_date": {
         "value": "2017-02-10",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: release_date = \"2017-02-10\""
           }
@@ -1745,15 +1745,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: water_resistance_m = 100"
           }
@@ -1761,15 +1761,15 @@
       },
       "weight_g": {
         "value": 106,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200B-1AJF: weight_g = 106"
           }
@@ -1826,15 +1826,15 @@
           "limited_edition_units_worldwide": 500,
           "retained_scalar_comparisons": {}
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 5",
             "evidence": "OCW-G1200C-2AJF: series_pdf_evidence = {\"scope\": \"Exact model comparison from supplied research. Dimensions are previously researched values, not remeasured here; source confirmation still pending.\", \"pdf_pages\": [1, 2, 3, 5], \"configuration\": \"Navy leather, blue/black two-color ceramic bezel, mother-of-pearl XII, gold-colored accents and blue sapphire crown insert\", \"physical_specifications\": {\"dimensions_mm\": {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}, \"case_material\": \"Titanium\", \"band_material\": \"Navy leather\", \"glass\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"color\": \"Blue / navy\", \"release_date\": \"2016-10-07\", \"water_resistance_m\": 100, \"weight_g\": 74}, \"japan_original_msrp_pre_tax_jpy\": 280000, \"module\": \"5454\", \"release_evidence\": \"Contemporary retail / press reporting; not inferred from model code\", \"collector_context\": \"Launch coverage connects ceramic surface treatment to Japanese Monsha-nuri lacquer aesthetics.\", \"prefix_interpretations\": {\"OCW\": \"OCEANUS family\", \"G\": \"GPS-equipped generation association, not a universal official acronym key\", \"1200\": \"Model series\", \"B\": \"Black DLC physical configuration, series-specific letter interpretation\", \"C\": \"Special navy-leather limited configuration; not a universal leather code\", \"D\": \"Special ceramic-link bracelet configuration; not a universal ceramic code\", \"1A / 2A\": \"Dark / light-blue dial configurations in these references\", \"JF\": \"Japanese-market reference suffix\"}, \"remaining_audit\": [\"Factory measurements and exact archived sources\", \"Exhaustive global/regional SKU references\"], \"limited_edition_units_worldwide\": 500, \"retained_scalar_comparisons\": {}}"
           }
@@ -1842,15 +1842,15 @@
       },
       "series": {
         "value": "Oceanus",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: series = \"Oceanus\""
           }
@@ -1858,15 +1858,15 @@
       },
       "module_id": {
         "value": "5454",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: module_id = \"5454\""
           }
@@ -1878,15 +1878,15 @@
           "width": 46.1,
           "thickness": 14.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: dimensions_mm = {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}"
           }
@@ -1894,15 +1894,15 @@
       },
       "case_material": {
         "value": "Titanium",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: case_material = \"Titanium\""
           }
@@ -1910,15 +1910,15 @@
       },
       "band_material": {
         "value": "Navy leather",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: band_material = \"Navy leather\""
           }
@@ -1926,15 +1926,15 @@
       },
       "glass": {
         "value": "Dual-curved sapphire crystal; anti-reflective coating on both sides",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: glass = \"Dual-curved sapphire crystal; anti-reflective coating on both sides\""
           }
@@ -1942,15 +1942,15 @@
       },
       "color": {
         "value": "Blue / navy",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: color = \"Blue / navy\""
           }
@@ -1958,15 +1958,15 @@
       },
       "release_date": {
         "value": "2016-10-07",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: release_date = \"2016-10-07\""
           }
@@ -1974,15 +1974,15 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: water_resistance_m = 100"
           }
@@ -1990,15 +1990,15 @@
       },
       "weight_g": {
         "value": 74,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200C-2AJF: weight_g = 74"
           }
@@ -2058,15 +2058,15 @@
           },
           "retained_scalar_comparisons": {}
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 2, 3, 5",
             "evidence": "OCW-G1200D-1AJF: series_pdf_evidence = {\"scope\": \"Exact model comparison from supplied research. Dimensions are previously researched values, not remeasured here; source confirmation still pending.\", \"pdf_pages\": [1, 2, 3, 5], \"configuration\": \"Titanium bracelet with black ceramic center links, two-color ceramic bezel and ornamental components\", \"physical_specifications\": {\"dimensions_mm\": {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}, \"case_material\": \"Titanium\", \"band_material\": \"Titanium bracelet with black ceramic center links\", \"glass\": \"Dual-curved sapphire crystal; anti-reflective coating on both sides\", \"color\": \"Dark dial\", \"release_date\": \"2016-10-07\", \"water_resistance_m\": 100}, \"japan_original_msrp_pre_tax_jpy\": 280000, \"module\": \"5454\", \"release_evidence\": \"Contemporary retail / press reporting; not inferred from model code\", \"collector_context\": \"Launch coverage connects ceramic surface treatment to Japanese Monsha-nuri lacquer aesthetics.\", \"prefix_interpretations\": {\"OCW\": \"OCEANUS family\", \"G\": \"GPS-equipped generation association, not a universal official acronym key\", \"1200\": \"Model series\", \"B\": \"Black DLC physical configuration, series-specific letter interpretation\", \"C\": \"Special navy-leather limited configuration; not a universal leather code\", \"D\": \"Special ceramic-link bracelet configuration; not a universal ceramic code\", \"1A / 2A\": \"Dark / light-blue dial configurations in these references\", \"JF\": \"Japanese-market reference suffix\"}, \"remaining_audit\": [\"Factory measurements and exact archived sources\", \"Exhaustive global/regional SKU references\"], \"limited_edition_units_worldwide\": 1000, \"reported_weight\": {\"value_g\": 104, \"qualifier\": \"Approximate retailer-measured example; factory weight unverified. Not assigned as exact weight.\"}, \"retained_scalar_comparisons\": {}}"
           }
@@ -2074,15 +2074,15 @@
       },
       "series": {
         "value": "Oceanus",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: series = \"Oceanus\""
           }
@@ -2090,15 +2090,15 @@
       },
       "module_id": {
         "value": "5454",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: module_id = \"5454\""
           }
@@ -2110,15 +2110,15 @@
           "width": 46.1,
           "thickness": 14.8
         },
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: dimensions_mm = {\"length\": 51.1, \"width\": 46.1, \"thickness\": 14.8}"
           }
@@ -2126,15 +2126,15 @@
       },
       "case_material": {
         "value": "Titanium",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: case_material = \"Titanium\""
           }
@@ -2142,15 +2142,15 @@
       },
       "band_material": {
         "value": "Titanium bracelet with black ceramic center links",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: band_material = \"Titanium bracelet with black ceramic center links\""
           }
@@ -2158,15 +2158,15 @@
       },
       "glass": {
         "value": "Dual-curved sapphire crystal; anti-reflective coating on both sides",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: glass = \"Dual-curved sapphire crystal; anti-reflective coating on both sides\""
           }
@@ -2174,15 +2174,15 @@
       },
       "color": {
         "value": "Dark dial",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: color = \"Dark dial\""
           }
@@ -2190,15 +2190,15 @@
       },
       "release_date": {
         "value": "2016-10-07",
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: release_date = \"2016-10-07\""
           }
@@ -2206,17 +2206,653 @@
       },
       "water_resistance_m": {
         "value": 100,
-        "uncertainty": "Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
         "sources": [
           {
             "kind": "user_provided",
             "provided_by": "SEPULKRUM",
             "permission": "user_provided",
             "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
-            "source_sha256": "9b17fb2aad45c02138a1783f71cab72cece4fa93bcd10ae890e68c0526ad8226",
-            "accessed": "2026-11-17",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
             "locator": "Casio_OCW-G1200_Series_All_Variants_Specifications.pdf / PDF pages 1, 3",
             "evidence": "OCW-G1200D-1AJF: water_resistance_m = 100"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G-B001MVA-1",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: series = \"G-SHOCK\""
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3519",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: module_id = \"3519\""
+          }
+        ]
+      },
+      "dimensions_mm": {
+        "value": {
+          "length": 50.3,
+          "width": 47.0,
+          "thickness": 18.7
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: dimensions_mm = {\"length\": 50.3, \"width\": 47.0, \"thickness\": 18.7}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 75,
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: weight_g = 75"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Carbon / stainless steel; Carbon Core Guard",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: case_material = \"Carbon / stainless steel; Carbon Core Guard\""
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Black resin with red slash-print details",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: band_material = \"Black resin with red slash-print details\""
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral glass",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: glass = \"Mineral glass\""
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1: water_resistance_m = 200"
+          }
+        ]
+      },
+      "series_pdf_evidence": {
+        "value": {
+          "scope": "Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained",
+          "status": "pending_review",
+          "source_urls": [
+            "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+            "https://www.casio.com/intl/news/2022/1201-G-B001/",
+            "https://gshock.casio.com/intl/products/digital/g-b001/",
+            "https://support.casio.com/global/en/wat/manual/3519_en/",
+            "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+          ],
+          "dimensions_weight_scope": "With removable resin bezel installed; weight approximately 75 g",
+          "construction": {
+            "shock_resistant": true,
+            "water_resistance": "20 bar / 200 m",
+            "wrist_fit_mm": "145–215",
+            "outer_bezel": "Black / translucent two-tone urethane, removable",
+            "inner_bezel": "Silver ion-plated stainless steel; mixed hairline / mirror finish",
+            "band": "Black resin with red slash-print details",
+            "display": "Digital LCD; seconds-related stacking-block animation and separate inset dial ring"
+          },
+          "release_history": {
+            "announcement": "2022-12-01",
+            "japan_retail_launch": "2023-01-27",
+            "japan_reference": "G-B001MVA-1JR",
+            "japan_original_msrp_jpy_including_tax": 34100,
+            "europe_first_sale": "Not independently verified",
+            "design_ancestry": "1994 DW-001 Capsule Tough design"
+          },
+          "original_lineup": [
+            {
+              "model": "G-B001MVA-1",
+              "color": "Black × Silver"
+            },
+            {
+              "model": "G-B001MVB-8",
+              "color": "Gray × Gold"
+            },
+            {
+              "model": "G-B001MVE-9",
+              "color": "Yellow × Rainbow"
+            }
+          ],
+          "manufacturer_variant": "MVA",
+          "analytical_pattern": {
+            "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+            "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+          },
+          "classification": "MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation."
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1, 2, 3",
+            "evidence": "G-B001MVA-1: series_pdf_evidence = {\"scope\": \"Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained\", \"status\": \"pending_review\", \"source_urls\": [\"https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/\", \"https://www.casio.com/intl/news/2022/1201-G-B001/\", \"https://gshock.casio.com/intl/products/digital/g-b001/\", \"https://support.casio.com/global/en/wat/manual/3519_en/\", \"https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation\"], \"dimensions_weight_scope\": \"With removable resin bezel installed; weight approximately 75 g\", \"construction\": {\"shock_resistant\": true, \"water_resistance\": \"20 bar / 200 m\", \"wrist_fit_mm\": \"145–215\", \"outer_bezel\": \"Black / translucent two-tone urethane, removable\", \"inner_bezel\": \"Silver ion-plated stainless steel; mixed hairline / mirror finish\", \"band\": \"Black resin with red slash-print details\", \"display\": \"Digital LCD; seconds-related stacking-block animation and separate inset dial ring\"}, \"release_history\": {\"announcement\": \"2022-12-01\", \"japan_retail_launch\": \"2023-01-27\", \"japan_reference\": \"G-B001MVA-1JR\", \"japan_original_msrp_jpy_including_tax\": 34100, \"europe_first_sale\": \"Not independently verified\", \"design_ancestry\": \"1994 DW-001 Capsule Tough design\"}, \"original_lineup\": [{\"model\": \"G-B001MVA-1\", \"color\": \"Black × Silver\"}, {\"model\": \"G-B001MVB-8\", \"color\": \"Gray × Gold\"}, {\"model\": \"G-B001MVE-9\", \"color\": \"Yellow × Rainbow\"}], \"manufacturer_variant\": \"MVA\", \"analytical_pattern\": {\"MV\": \"Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion\", \"A\": \"Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established\"}, \"classification\": \"MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation.\"}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G-B001MVA-1JR",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: series = \"G-SHOCK\""
+          }
+        ]
+      },
+      "module_id": {
+        "value": "3519",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: module_id = \"3519\""
+          }
+        ]
+      },
+      "dimensions_mm": {
+        "value": {
+          "length": 50.3,
+          "width": 47.0,
+          "thickness": 18.7
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: dimensions_mm = {\"length\": 50.3, \"width\": 47.0, \"thickness\": 18.7}"
+          }
+        ]
+      },
+      "weight_g": {
+        "value": 75,
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: weight_g = 75"
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Carbon / stainless steel; Carbon Core Guard",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: case_material = \"Carbon / stainless steel; Carbon Core Guard\""
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Black resin with red slash-print details",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: band_material = \"Black resin with red slash-print details\""
+          }
+        ]
+      },
+      "glass": {
+        "value": "Mineral glass",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: glass = \"Mineral glass\""
+          }
+        ]
+      },
+      "water_resistance_m": {
+        "value": 200,
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "G-B001MVA-1JR: water_resistance_m = 200"
+          }
+        ]
+      },
+      "series_pdf_evidence": {
+        "value": {
+          "scope": "Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained",
+          "status": "pending_review",
+          "source_urls": [
+            "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+            "https://www.casio.com/intl/news/2022/1201-G-B001/",
+            "https://gshock.casio.com/intl/products/digital/g-b001/",
+            "https://support.casio.com/global/en/wat/manual/3519_en/",
+            "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+          ],
+          "dimensions_weight_scope": "With removable resin bezel installed; weight approximately 75 g",
+          "construction": {
+            "shock_resistant": true,
+            "water_resistance": "20 bar / 200 m",
+            "wrist_fit_mm": "145–215",
+            "outer_bezel": "Black / translucent two-tone urethane, removable",
+            "inner_bezel": "Silver ion-plated stainless steel; mixed hairline / mirror finish",
+            "band": "Black resin with red slash-print details",
+            "display": "Digital LCD; seconds-related stacking-block animation and separate inset dial ring"
+          },
+          "release_history": {
+            "announcement": "2022-12-01",
+            "japan_retail_launch": "2023-01-27",
+            "japan_reference": "G-B001MVA-1JR",
+            "japan_original_msrp_jpy_including_tax": 34100,
+            "europe_first_sale": "Not independently verified",
+            "design_ancestry": "1994 DW-001 Capsule Tough design"
+          },
+          "original_lineup": [
+            {
+              "model": "G-B001MVA-1",
+              "color": "Black × Silver"
+            },
+            {
+              "model": "G-B001MVB-8",
+              "color": "Gray × Gold"
+            },
+            {
+              "model": "G-B001MVE-9",
+              "color": "Yellow × Rainbow"
+            }
+          ],
+          "manufacturer_variant": "MVA",
+          "analytical_pattern": {
+            "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+            "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+          },
+          "classification": "MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation."
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1, 2, 3",
+            "evidence": "G-B001MVA-1JR: series_pdf_evidence = {\"scope\": \"Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained\", \"status\": \"pending_review\", \"source_urls\": [\"https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/\", \"https://www.casio.com/intl/news/2022/1201-G-B001/\", \"https://gshock.casio.com/intl/products/digital/g-b001/\", \"https://support.casio.com/global/en/wat/manual/3519_en/\", \"https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation\"], \"dimensions_weight_scope\": \"With removable resin bezel installed; weight approximately 75 g\", \"construction\": {\"shock_resistant\": true, \"water_resistance\": \"20 bar / 200 m\", \"wrist_fit_mm\": \"145–215\", \"outer_bezel\": \"Black / translucent two-tone urethane, removable\", \"inner_bezel\": \"Silver ion-plated stainless steel; mixed hairline / mirror finish\", \"band\": \"Black resin with red slash-print details\", \"display\": \"Digital LCD; seconds-related stacking-block animation and separate inset dial ring\"}, \"release_history\": {\"announcement\": \"2022-12-01\", \"japan_retail_launch\": \"2023-01-27\", \"japan_reference\": \"G-B001MVA-1JR\", \"japan_original_msrp_jpy_including_tax\": 34100, \"europe_first_sale\": \"Not independently verified\", \"design_ancestry\": \"1994 DW-001 Capsule Tough design\"}, \"original_lineup\": [{\"model\": \"G-B001MVA-1\", \"color\": \"Black × Silver\"}, {\"model\": \"G-B001MVB-8\", \"color\": \"Gray × Gold\"}, {\"model\": \"G-B001MVE-9\", \"color\": \"Yellow × Rainbow\"}], \"manufacturer_variant\": \"MVA\", \"analytical_pattern\": {\"MV\": \"Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion\", \"A\": \"Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established\"}, \"classification\": \"MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation.\"}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G-B001MVB-8",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1",
+            "evidence": "G-B001MVB-8: series = \"G-SHOCK\""
+          }
+        ]
+      },
+      "series_pdf_evidence": {
+        "value": {
+          "scope": "Launch-lineup reference only; no MVA physical specifications inherited",
+          "color": "Gray × Gold",
+          "announcement": "2022-12-01",
+          "source_urls": [
+            "https://www.casio.com/intl/news/2022/1201-G-B001/",
+            "https://gshock.casio.com/intl/products/digital/g-b001/"
+          ],
+          "status": "pending_review"
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1",
+            "evidence": "G-B001MVB-8: series_pdf_evidence = {\"scope\": \"Launch-lineup reference only; no MVA physical specifications inherited\", \"color\": \"Gray × Gold\", \"announcement\": \"2022-12-01\", \"source_urls\": [\"https://www.casio.com/intl/news/2022/1201-G-B001/\", \"https://gshock.casio.com/intl/products/digital/g-b001/\"], \"status\": \"pending_review\"}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "model",
+    "id": "G-B001MVE-9",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1",
+            "evidence": "G-B001MVE-9: series = \"G-SHOCK\""
+          }
+        ]
+      },
+      "series_pdf_evidence": {
+        "value": {
+          "scope": "Launch-lineup reference only; no MVA physical specifications inherited",
+          "color": "Yellow × Rainbow",
+          "announcement": "2022-12-01",
+          "source_urls": [
+            "https://www.casio.com/intl/news/2022/1201-G-B001/",
+            "https://gshock.casio.com/intl/products/digital/g-b001/"
+          ],
+          "status": "pending_review"
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 1",
+            "evidence": "G-B001MVE-9: series_pdf_evidence = {\"scope\": \"Launch-lineup reference only; no MVA physical specifications inherited\", \"color\": \"Yellow × Rainbow\", \"announcement\": \"2022-12-01\", \"source_urls\": [\"https://www.casio.com/intl/news/2022/1201-G-B001/\", \"https://gshock.casio.com/intl/products/digital/g-b001/\"], \"status\": \"pending_review\"}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "module",
+    "id": "3519",
+    "specs": {
+      "series_pdf_evidence": {
+        "value": {
+          "scope": "Module 3519 functions only; no physical case/band/weight data",
+          "status": "pending_review",
+          "source_urls": [
+            "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+            "https://www.casio.com/intl/news/2022/1201-G-B001/",
+            "https://gshock.casio.com/intl/products/digital/g-b001/",
+            "https://support.casio.com/global/en/wat/manual/3519_en/",
+            "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+          ],
+          "power": "One CR2016; approximately 3 years under stated use",
+          "battery_life_conditions": "Four auto time adjustments/day, one 10-second daily alarm, one 1.5-second illumination/day",
+          "bluetooth": {
+            "technology": "Bluetooth Low Energy",
+            "app": "CASIO WATCHES",
+            "frequency_mhz": "2400–2480",
+            "maximum_dbm": 0,
+            "maximum_mw": 1,
+            "communication_range_m": "Up to 2; conditions-dependent"
+          },
+          "app_functions": [
+            "Auto time adjustment",
+            "Easy settings",
+            "Time & Place",
+            "App information",
+            "Phone finder"
+          ],
+          "world_time": {
+            "watch": "38 time zones (38 cities + UTC); city codes/names and DST controls",
+            "app": "Approximately 300 cities",
+            "features": [
+              "Automatic DST",
+              "Manual DST on/off",
+              "Home / World Time swap",
+              "Automatic phone sync",
+              "Manual linked time correction"
+            ]
+          },
+          "accuracy": "±15 seconds/month without smartphone adjustment",
+          "time_display": "Hours, minutes, seconds, a.m./p.m.; 12/24 hour",
+          "calendar": "Full automatic through 2099",
+          "date_format": "Date/month swap",
+          "day_languages": [
+            "English",
+            "Spanish",
+            "French",
+            "German",
+            "Italian",
+            "Russian"
+          ],
+          "button_tones": "Selectable on/off",
+          "stopwatch": {
+            "resolution": "1/100 second first hour; 1 second thereafter",
+            "capacity": "23:59:59",
+            "modes": [
+              "Elapsed",
+              "Split",
+              "First/second finish"
+            ]
+          },
+          "timer": {
+            "range": "1 second to 24 hours",
+            "resolution": "1 second",
+            "setting_units": [
+              "1 second",
+              "1 minute",
+              "1 hour"
+            ],
+            "completion": "Audible 10-second beeper"
+          },
+          "alarms": "Five daily alarms; hour/minute settings; 10-second beep",
+          "hourly_signal": true,
+          "lighting": {
+            "type": "White LED Super Illuminator",
+            "features": [
+              "Auto-light",
+              "Afterglow"
+            ],
+            "duration_seconds": [
+              1.5,
+              3
+            ]
+          },
+          "display": "Digital LCD; seconds-linked block animation"
+        },
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2, 3",
+            "evidence": "3519: series_pdf_evidence = {\"scope\": \"Module 3519 functions only; no physical case/band/weight data\", \"status\": \"pending_review\", \"source_urls\": [\"https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/\", \"https://www.casio.com/intl/news/2022/1201-G-B001/\", \"https://gshock.casio.com/intl/products/digital/g-b001/\", \"https://support.casio.com/global/en/wat/manual/3519_en/\", \"https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation\"], \"power\": \"One CR2016; approximately 3 years under stated use\", \"battery_life_conditions\": \"Four auto time adjustments/day, one 10-second daily alarm, one 1.5-second illumination/day\", \"bluetooth\": {\"technology\": \"Bluetooth Low Energy\", \"app\": \"CASIO WATCHES\", \"frequency_mhz\": \"2400–2480\", \"maximum_dbm\": 0, \"maximum_mw\": 1, \"communication_range_m\": \"Up to 2; conditions-dependent\"}, \"app_functions\": [\"Auto time adjustment\", \"Easy settings\", \"Time & Place\", \"App information\", \"Phone finder\"], \"world_time\": {\"watch\": \"38 time zones (38 cities + UTC); city codes/names and DST controls\", \"app\": \"Approximately 300 cities\", \"features\": [\"Automatic DST\", \"Manual DST on/off\", \"Home / World Time swap\", \"Automatic phone sync\", \"Manual linked time correction\"]}, \"accuracy\": \"±15 seconds/month without smartphone adjustment\", \"time_display\": \"Hours, minutes, seconds, a.m./p.m.; 12/24 hour\", \"calendar\": \"Full automatic through 2099\", \"date_format\": \"Date/month swap\", \"day_languages\": [\"English\", \"Spanish\", \"French\", \"German\", \"Italian\", \"Russian\"], \"button_tones\": \"Selectable on/off\", \"stopwatch\": {\"resolution\": \"1/100 second first hour; 1 second thereafter\", \"capacity\": \"23:59:59\", \"modes\": [\"Elapsed\", \"Split\", \"First/second finish\"]}, \"timer\": {\"range\": \"1 second to 24 hours\", \"resolution\": \"1 second\", \"setting_units\": [\"1 second\", \"1 minute\", \"1 hour\"], \"completion\": \"Audible 10-second beeper\"}, \"alarms\": \"Five daily alarms; hour/minute settings; 10-second beep\", \"hourly_signal\": true, \"lighting\": {\"type\": \"White LED Super Illuminator\", \"features\": [\"Auto-light\", \"Afterglow\"], \"duration_seconds\": [1.5, 3]}, \"display\": \"Digital LCD; seconds-linked block animation\"}"
+          }
+        ]
+      },
+      "battery_cell": {
+        "value": "CR2016",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "3519: battery_cell = \"CR2016\""
+          }
+        ]
+      },
+      "battery_runtime": {
+        "value": "Approximately 3 years under stated use",
+        "uncertainty": "Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.",
+        "sources": [
+          {
+            "kind": "user_provided",
+            "provided_by": "SEPULKRUM",
+            "permission": "user_provided",
+            "reference": "research/supplied-prw69-ocwg1200-2026-11-17.json",
+            "source_sha256": "1fedcb6369a204b4245300cf27b07cc1b807c2c150e88e0eeff24bd2d9e69821",
+            "accessed": "2026-11-22",
+            "locator": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf / PDF pages 2",
+            "evidence": "3519: battery_runtime = \"Approximately 3 years under stated use\""
           }
         ]
       }

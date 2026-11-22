@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "watch_identifiers": 30060,
+  "watch_identifiers": 30061,
   "checked_destination_groups": 5123,
   "counts": {
-    "product": 3336,
+    "product": 3337,
     "support": 2397,
     "homepage": 24327
   },

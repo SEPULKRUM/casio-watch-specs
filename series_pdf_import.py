@@ -31,7 +31,7 @@ def convert(notes, reference=REFERENCE, uncertainty=None):
     return list(records.values())
 
 def artifacts(root):
-    notes=specs.load(root/REFERENCE);records=convert(notes,REFERENCE,uncertainty='Supplied PRW-69 / OCW-G1200 research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.')
+    notes=specs.load(root/REFERENCE);records=convert(notes,REFERENCE,uncertainty='Supplied exact-model PDF research; pending archive verification. Estimates, module-attribution caveats and exact regional scope remain explicit.')
     web={'schema_version':1,'source_reference':REFERENCE,'source_sha256':specs.digest(notes),'source_file_sha256':hashlib.sha256((root/REFERENCE).read_bytes()).hexdigest(),'received':notes['received'],'watch_identifiers':notes['models'],'clock_identifiers':[],'identifier_occurrences':notes['models'],'records':[{'kind':r['kind'],'id':r['id'],'specs':{k:v['value'] for k,v in r['specs'].items()}} for r in records],'cautions':notes['cautions']}
     return {IMPORT:json.dumps(records,ensure_ascii=False,indent=2)+'\n',WEB:'export const seriesPdfs='+json.dumps(web,ensure_ascii=False,separators=(',',':'))+';\n'}
 

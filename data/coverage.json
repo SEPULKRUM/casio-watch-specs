@@ -1,8 +1,8 @@
 {
-  "models": 2686,
-  "modules": 286,
+  "models": 2690,
+  "modules": 287,
   "facts_by_status": {
-    "pending_review": 11958,
+    "pending_review": 11985,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 516,
+    "G-SHOCK": 520,
     "LINEAGE": 11,
     "Lineage": 22,
     "OVERLAND": 2,
@@ -5781,6 +5781,12 @@
       "glass",
       "water_resistance_rating"
     ],
+    "G-B001MVA-1": [
+      "water_resistance_rating"
+    ],
+    "G-B001MVA-1JR": [
+      "water_resistance_rating"
+    ],
     "G-B001MVB": [
       "dimensions_mm",
       "weight_g",
@@ -5789,7 +5795,23 @@
       "glass",
       "water_resistance_rating"
     ],
+    "G-B001MVB-8": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "G-B001MVE": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "G-B001MVE-9": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -19655,7 +19677,9 @@
     "G-9300-1",
     "G-B001MVA",
     "G-B001MVB",
+    "G-B001MVB-8",
     "G-B001MVE",
+    "G-B001MVE-9",
     "G-D5000-9",
     "G100-1BV",
     "GA-010-1AJF",
@@ -20902,7 +20926,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 881,
+  "models_with_single_module_reference": 883,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -21105,6 +21129,8 @@
     "G-7700": "3091",
     "G-7700G": "3091",
     "G-7800B": "3163",
+    "G-B001MVA-1": "3519",
+    "G-B001MVA-1JR": "3519",
     "GAC-2500-1A": "5757",
     "GAC-2500-3A": "5757",
     "GAC-2500-7A": "5757",
@@ -22294,7 +22320,9 @@
     "G-9100",
     "G-B001MVA",
     "G-B001MVB",
+    "G-B001MVB-8",
     "G-B001MVE",
+    "G-B001MVE-9",
     "G-D5000-9",
     "GA-010-1AJF",
     "GA-010CE-2AJF",
@@ -23531,8 +23559,8 @@
     "accuracy_condition": 104,
     "accuracy_seconds_per_month": 153,
     "alarm_count": 115,
-    "battery_cell": 33,
-    "battery_runtime": 34,
+    "battery_cell": 34,
+    "battery_runtime": 35,
     "calendar": 149,
     "catalog_1983_evidence": 29,
     "catalog_2011_associations": 48,
@@ -23550,7 +23578,7 @@
     "power_supply": 107,
     "radio_reception": 32,
     "research_pdf_evidence": 3,
-    "series_pdf_evidence": 14,
+    "series_pdf_evidence": 15,
     "snooze_alarm": 42,
     "stopwatch": 85,
     "supplied_module_specifications": 12,
@@ -23564,7 +23592,7 @@
   "module_profiles_by_fact_count": {
     "1": 113,
     "2": 17,
-    "3": 12,
+    "3": 13,
     "4": 13,
     "5": 18,
     "6": 20,
@@ -23642,6 +23670,7 @@
     "3506",
     "3514",
     "3515",
+    "3519",
     "3534",
     "3576",
     "3584",

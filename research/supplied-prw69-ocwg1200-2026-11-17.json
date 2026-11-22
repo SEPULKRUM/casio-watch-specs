@@ -2,8 +2,8 @@
   "schema_version": 1,
   "type": "user_watch_specifications",
   "provided_by": "SEPULKRUM",
-  "received": "2026-11-17",
-  "title": "PRW-69 and OCW-G1200 exact-variant technical research",
+  "received": "2026-11-22",
+  "title": "PRW-69 and OCW-G1200 exact-variant technical research; G-B001 research update",
   "source_documents": {
     "prw69": {
       "filename": "Casio_PRW-69_Series_All_Variants_Specifications.pdf",
@@ -33,6 +33,19 @@
         "https://www.biccamera.com/bc/item/3500679/"
       ],
       "archive_status": "Not independently archive-verified; supplied citations only"
+    },
+    "gb001": {
+      "filename": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf",
+      "sha256": "be85108eb39b515d9c1f574c2e45d0cf0d75c1f73bae97bda4ad2c1bf39594a4",
+      "pages": 3,
+      "source_urls": [
+        "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+        "https://www.casio.com/intl/news/2022/1201-G-B001/",
+        "https://gshock.casio.com/intl/products/digital/g-b001/",
+        "https://support.casio.com/global/en/wat/manual/3519_en/",
+        "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+      ],
+      "archive_status": "Owner research PDF. Current Casio Europe model page and global launch page retrieved 2026-11-22; archived replay and separate European first-sale date not verified."
     }
   },
   "models": [
@@ -46,7 +59,11 @@
     "OCW-G1200-2AJF",
     "OCW-G1200B-1AJF",
     "OCW-G1200C-2AJF",
-    "OCW-G1200D-1AJF"
+    "OCW-G1200D-1AJF",
+    "G-B001MVA-1",
+    "G-B001MVA-1JR",
+    "G-B001MVB-8",
+    "G-B001MVE-9"
   ],
   "claims": [
     {
@@ -1791,6 +1808,467 @@
         1,
         3
       ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "module_id",
+      "value": "3519",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 50.3,
+        "width": 47.0,
+        "thickness": 18.7
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "weight_g",
+      "value": 75,
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "case_material",
+      "value": "Carbon / stainless steel; Carbon Core Guard",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "band_material",
+      "value": "Black resin with red slash-print details",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1",
+      "field": "series_pdf_evidence",
+      "value": {
+        "scope": "Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained",
+        "status": "pending_review",
+        "source_urls": [
+          "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/",
+          "https://support.casio.com/global/en/wat/manual/3519_en/",
+          "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+        ],
+        "dimensions_weight_scope": "With removable resin bezel installed; weight approximately 75 g",
+        "construction": {
+          "shock_resistant": true,
+          "water_resistance": "20 bar / 200 m",
+          "wrist_fit_mm": "145–215",
+          "outer_bezel": "Black / translucent two-tone urethane, removable",
+          "inner_bezel": "Silver ion-plated stainless steel; mixed hairline / mirror finish",
+          "band": "Black resin with red slash-print details",
+          "display": "Digital LCD; seconds-related stacking-block animation and separate inset dial ring"
+        },
+        "release_history": {
+          "announcement": "2022-12-01",
+          "japan_retail_launch": "2023-01-27",
+          "japan_reference": "G-B001MVA-1JR",
+          "japan_original_msrp_jpy_including_tax": 34100,
+          "europe_first_sale": "Not independently verified",
+          "design_ancestry": "1994 DW-001 Capsule Tough design"
+        },
+        "original_lineup": [
+          {
+            "model": "G-B001MVA-1",
+            "color": "Black × Silver"
+          },
+          {
+            "model": "G-B001MVB-8",
+            "color": "Gray × Gold"
+          },
+          {
+            "model": "G-B001MVE-9",
+            "color": "Yellow × Rainbow"
+          }
+        ],
+        "manufacturer_variant": "MVA",
+        "analytical_pattern": {
+          "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+          "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+        },
+        "classification": "MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation."
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "module_id",
+      "value": "3519",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "dimensions_mm",
+      "value": {
+        "length": 50.3,
+        "width": 47.0,
+        "thickness": 18.7
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "weight_g",
+      "value": 75,
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "case_material",
+      "value": "Carbon / stainless steel; Carbon Core Guard",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "band_material",
+      "value": "Black resin with red slash-print details",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "glass",
+      "value": "Mineral glass",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "water_resistance_m",
+      "value": 200,
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVA-1JR",
+      "field": "series_pdf_evidence",
+      "value": {
+        "scope": "Exact G-B001MVA-1 / Japanese G-B001MVA-1JR configuration; supplied research, primary URLs retained",
+        "status": "pending_review",
+        "source_urls": [
+          "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/",
+          "https://support.casio.com/global/en/wat/manual/3519_en/",
+          "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+        ],
+        "dimensions_weight_scope": "With removable resin bezel installed; weight approximately 75 g",
+        "construction": {
+          "shock_resistant": true,
+          "water_resistance": "20 bar / 200 m",
+          "wrist_fit_mm": "145–215",
+          "outer_bezel": "Black / translucent two-tone urethane, removable",
+          "inner_bezel": "Silver ion-plated stainless steel; mixed hairline / mirror finish",
+          "band": "Black resin with red slash-print details",
+          "display": "Digital LCD; seconds-related stacking-block animation and separate inset dial ring"
+        },
+        "release_history": {
+          "announcement": "2022-12-01",
+          "japan_retail_launch": "2023-01-27",
+          "japan_reference": "G-B001MVA-1JR",
+          "japan_original_msrp_jpy_including_tax": 34100,
+          "europe_first_sale": "Not independently verified",
+          "design_ancestry": "1994 DW-001 Capsule Tough design"
+        },
+        "original_lineup": [
+          {
+            "model": "G-B001MVA-1",
+            "color": "Black × Silver"
+          },
+          {
+            "model": "G-B001MVB-8",
+            "color": "Gray × Gold"
+          },
+          {
+            "model": "G-B001MVE-9",
+            "color": "Yellow × Rainbow"
+          }
+        ],
+        "manufacturer_variant": "MVA",
+        "analytical_pattern": {
+          "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+          "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+        },
+        "classification": "MVA remains atomic in the manufacturer variant; MV + A is optional inferred analysis, not an official abbreviation."
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVB-8",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gb001",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVB-8",
+      "field": "series_pdf_evidence",
+      "value": {
+        "scope": "Launch-lineup reference only; no MVA physical specifications inherited",
+        "color": "Gray × Gold",
+        "announcement": "2022-12-01",
+        "source_urls": [
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/"
+        ],
+        "status": "pending_review"
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVE-9",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gb001",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "G-B001MVE-9",
+      "field": "series_pdf_evidence",
+      "value": {
+        "scope": "Launch-lineup reference only; no MVA physical specifications inherited",
+        "color": "Yellow × Rainbow",
+        "announcement": "2022-12-01",
+        "source_urls": [
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/"
+        ],
+        "status": "pending_review"
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3519",
+      "field": "series_pdf_evidence",
+      "value": {
+        "scope": "Module 3519 functions only; no physical case/band/weight data",
+        "status": "pending_review",
+        "source_urls": [
+          "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/",
+          "https://support.casio.com/global/en/wat/manual/3519_en/",
+          "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+        ],
+        "power": "One CR2016; approximately 3 years under stated use",
+        "battery_life_conditions": "Four auto time adjustments/day, one 10-second daily alarm, one 1.5-second illumination/day",
+        "bluetooth": {
+          "technology": "Bluetooth Low Energy",
+          "app": "CASIO WATCHES",
+          "frequency_mhz": "2400–2480",
+          "maximum_dbm": 0,
+          "maximum_mw": 1,
+          "communication_range_m": "Up to 2; conditions-dependent"
+        },
+        "app_functions": [
+          "Auto time adjustment",
+          "Easy settings",
+          "Time & Place",
+          "App information",
+          "Phone finder"
+        ],
+        "world_time": {
+          "watch": "38 time zones (38 cities + UTC); city codes/names and DST controls",
+          "app": "Approximately 300 cities",
+          "features": [
+            "Automatic DST",
+            "Manual DST on/off",
+            "Home / World Time swap",
+            "Automatic phone sync",
+            "Manual linked time correction"
+          ]
+        },
+        "accuracy": "±15 seconds/month without smartphone adjustment",
+        "time_display": "Hours, minutes, seconds, a.m./p.m.; 12/24 hour",
+        "calendar": "Full automatic through 2099",
+        "date_format": "Date/month swap",
+        "day_languages": [
+          "English",
+          "Spanish",
+          "French",
+          "German",
+          "Italian",
+          "Russian"
+        ],
+        "button_tones": "Selectable on/off",
+        "stopwatch": {
+          "resolution": "1/100 second first hour; 1 second thereafter",
+          "capacity": "23:59:59",
+          "modes": [
+            "Elapsed",
+            "Split",
+            "First/second finish"
+          ]
+        },
+        "timer": {
+          "range": "1 second to 24 hours",
+          "resolution": "1 second",
+          "setting_units": [
+            "1 second",
+            "1 minute",
+            "1 hour"
+          ],
+          "completion": "Audible 10-second beeper"
+        },
+        "alarms": "Five daily alarms; hour/minute settings; 10-second beep",
+        "hourly_signal": true,
+        "lighting": {
+          "type": "White LED Super Illuminator",
+          "features": [
+            "Auto-light",
+            "Afterglow"
+          ],
+          "duration_seconds": [
+            1.5,
+            3
+          ]
+        },
+        "display": "Digital LCD; seconds-linked block animation"
+      },
+      "document": "gb001",
+      "pdf_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3519",
+      "field": "battery_cell",
+      "value": "CR2016",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
+    },
+    {
+      "kind": "module",
+      "id": "3519",
+      "field": "battery_runtime",
+      "value": "Approximately 3 years under stated use",
+      "document": "gb001",
+      "pdf_pages": [
+        2
+      ]
     }
   ],
   "cautions": [
@@ -1798,6 +2276,7 @@
     "Exact regional identifiers remain independently searchable; they do not imply different hardware. No original PDFs, scans or complete conversations are published.",
     "PRW-69 module 3514 is reported but exact individual support/manual matches remain unresolved. No firm module link is created.",
     "OCW-G1200-2AJF approximately 106 g and OCW-G1200D-1AJF approximately 104 g retain their qualifications; the latter is a retailer measurement, not a factory specification.",
-    "Conflicting or existing scalar facts are retained. New source comparisons remain visible in scoped evidence. Suffix readings are series-specific community interpretations, not a universal official Casio decoder."
+    "Conflicting or existing scalar facts are retained. New source comparisons remain visible in scoped evidence. Suffix readings are series-specific community interpretations, not a universal official Casio decoder.",
+    "G-B001MVA: complete MVA manufacturer code retained; MV + A analytical only. No MVA case data copied to MVB/MVE. Dates distinguish announcement and Japan launch."
   ]
 }

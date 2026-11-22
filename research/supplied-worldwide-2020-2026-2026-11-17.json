@@ -1,7 +1,7 @@
 {
   "type": "supplied_worldwide_register",
   "provided_by": "SEPULKRUM",
-  "received": "2026-11-18",
+  "received": "2026-11-22",
   "status": "Supplied research; independent archived-source verification pending. Source assertions of confirmation are not independent review.",
   "source_documents": [
     {
@@ -694,6 +694,15 @@
         "reference_date": "2026-11-18",
         "scope": "One physical watch with two documented typographic spellings; no routing-policy or official destination changes."
       }
+    },
+    {
+      "filename": "2-SEPULKRUM_G-B001MVA-1_Prefix_and_Complete_Specs_RESEARCH_UPDATE.pdf",
+      "sha256": "be85108eb39b515d9c1f574c2e45d0cf0d75c1f73bae97bda4ad2c1bf39594a4",
+      "record_count": 2,
+      "scope": {
+        "type": "Exact model prefix research",
+        "reference_date": "2026-11-22"
+      }
     }
   ],
   "models": [
@@ -925,6 +934,8 @@
     "G-2300B-1V",
     "G-5600BG-5JR",
     "G-5600SFJ-9JR",
+    "G-B001MVA-1",
+    "G-B001MVA-1JR",
     "G2300B-1V",
     "GA-010-1AJF",
     "GA-010CE-2AJF",
@@ -2622,7 +2633,9 @@
     "GPR-H1000",
     "MRG-B2100B",
     "G-2300B-1V",
-    "G2300B-1V"
+    "G2300B-1V",
+    "G-B001MVA-1",
+    "G-B001MVA-1JR"
   ],
   "entries": [
     {
@@ -18308,6 +18321,90 @@
             "record_type": "manufacturer_press_announcement",
             "reference_granularity": "press-release model code; regional suffix not asserted",
             "retail_release_year_confirmed": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001MVA-1",
+      "observations": [
+        {
+          "document": 12,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVA-1",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVA",
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+            ],
+            "research_scope": "Complete family and variant code; not a universal letter expansion",
+            "analytical_pattern": {
+              "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+              "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G-B001",
+                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+              },
+              "post_series_modifier": {
+                "code": "MVA",
+                "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001MVA-1JR",
+      "observations": [
+        {
+          "document": 12,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVA-1JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVA",
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/",
+              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+            ],
+            "research_scope": "Complete family and variant code; not a universal letter expansion",
+            "analytical_pattern": {
+              "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+              "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+            },
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "G-B001",
+                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+              },
+              "post_series_modifier": {
+                "code": "MVA",
+                "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
+              },
+              "regional_reference": {
+                "code": "JR",
+                "meaning": "Documented Japanese retail reference; market designation does not establish manufacturing country."
+              }
+            }
           }
         }
       ]
