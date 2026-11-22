@@ -297,6 +297,7 @@ function render(){
  if(!data||!searchIndex)return;renderPrefix(state.query);
  const found=searchUnified(searchIndex,data,{...state,groupRegional:true},masterResearch);state.page=found.page;
  $('#result-count').textContent=found.total?`Showing ${found.offset+1}–${Math.min(found.offset+found.pageSize,found.total)} of ${found.total.toLocaleString()} matching watch/reference groups`:'0 matching watch/reference groups';
+ if(found.regionalQuery)$('#result-count').append(el('small',found.regionalQuery.note,'regional-query-note'));
  $('#list-heading').textContent=state.family||$('#search-mode').selectedOptions[0].textContent;
  for(const button of document.querySelectorAll('.family'))button.setAttribute('aria-pressed',String(button.dataset.family===state.family));
  const list=$('#results');list.replaceChildren();
