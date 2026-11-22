@@ -1,9 +1,9 @@
 {
-  "source_documents": 13,
-  "total_imported_records": 937,
-  "distinct_exact_identifiers": 930,
+  "source_documents": 14,
+  "total_imported_records": 946,
+  "distinct_exact_identifiers": 939,
   "duplicate_exact_occurrences": 4,
-  "individual_watch_identifiers": 871,
+  "individual_watch_identifiers": 879,
   "family_references": 54,
   "packages": 5,
   "models_missing_from_addendum": []

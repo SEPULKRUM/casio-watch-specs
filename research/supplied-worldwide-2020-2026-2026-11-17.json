@@ -703,6 +703,28 @@
         "type": "Exact model prefix research",
         "reference_date": "2026-11-22"
       }
+    },
+    {
+      "filename": "1-G-B001-2023-Complete_Code_Breakdown-and-Specifications.pdf",
+      "sha256": "95f514d7b91ee90a198b295f53f63602fcc0a85033d1ddb5ffda20ac3c929364",
+      "record_count": 13,
+      "scope": {
+        "type": "Corrected 2023 lineup, official unsplit variants and separately qualified research segments",
+        "source_urls": [
+          "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+          "https://www.casio.co.jp/release/2022/1201-G-B001/",
+          "https://www.casio.com/intl/news/2022/1201-G-B001/",
+          "https://gshock.casio.com/intl/products/digital/g-b001/",
+          "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+          "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+          "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+          "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+          "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+          "https://www.beams.co.jp/blog/kyo/133430/",
+          "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+        ],
+        "reference_date": "2026-11-22"
+      }
     }
   ],
   "models": [
@@ -937,7 +959,15 @@
     "G-B001MVA-1",
     "G-B001MVA-1JR",
     "G-B001MVB-8",
+    "G-B001MVB-8JR",
     "G-B001MVE-9",
+    "G-B001MVE-9JR",
+    "G-B001RG-3",
+    "G-B001RG-3JR",
+    "G-B001RG-4",
+    "G-B001RG-4JR",
+    "G-B001SF-7",
+    "G-B001SF-7JR",
     "G2300B-1V",
     "GA-010-1AJF",
     "GA-010CE-2AJF",
@@ -1700,7 +1730,8 @@
     "BGA-S290SS": "family",
     "GMW-B5000SS": "family",
     "GPR-H1000": "family",
-    "MRG-B2100B": "family"
+    "MRG-B2100B": "family",
+    "G-B001BE": "uncertain"
   },
   "identifier_occurrences": [
     "GMW-B5000CS-1JR",
@@ -2639,7 +2670,16 @@
     "G-B001MVA-1",
     "G-B001MVA-1JR",
     "G-B001MVB-8",
-    "G-B001MVE-9"
+    "G-B001MVE-9",
+    "G-B001MVB-8JR",
+    "G-B001MVE-9JR",
+    "G-B001RG-3",
+    "G-B001RG-3JR",
+    "G-B001RG-4",
+    "G-B001RG-4JR",
+    "G-B001SF-7",
+    "G-B001SF-7JR",
+    "G-B001BE"
   ],
   "entries": [
     {
@@ -18269,6 +18309,62 @@
       ]
     },
     {
+      "id": "G-B001BE",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001BE",
+            "brand": "G-SHOCK",
+            "reference_status": "Reported BEAMS shorthand; complete Casio model suffix unresolved",
+            "display_name": "G-B001 BEAMS / reported G-B001BE",
+            "retailer_product_number": "11-48-0736-259",
+            "source_urls": [
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link family association"
+              },
+              {
+                "component": "001",
+                "interpretation": "G-B001 / DW-001 design lineage"
+              },
+              {
+                "component": "BE",
+                "interpretation": "Reported BEAMS collaboration shorthand. BE = BEAMS is plausible, not an explicitly published first-party acronym; the full manufacturer color and regional suffix remain unresolved."
+              }
+            ],
+            "construction_research": {
+              "outer_bezel": "Removable matte-black urethane shroud",
+              "inner_bezel": "Skeleton / translucent gray resin",
+              "band": "Clear gray resin",
+              "display": "Light appearance reported; visual description only",
+              "weight": "Not first-party verified",
+              "module": "3519 family association only; confirm case-back engraving"
+            },
+            "release_research": {
+              "preorder": "July 2023",
+              "price_jpy_tax_included": 19800,
+              "reported_retail_day": "2023-08-12, independent reporting only; official precise day unresolved"
+            },
+            "conflicting_secondary_suffixes": [
+              "-1",
+              "-8JF"
+            ],
+            "classification": "Reported seventh edition; not independently confirmed Casio.com exact model record. Do not lock a color code, country suffix, weight or exact release day."
+          }
+        }
+      ]
+    },
+    {
       "id": "G-B001MVA",
       "observations": [
         {
@@ -18333,37 +18429,111 @@
       "id": "G-B001MVA-1",
       "observations": [
         {
-          "document": 12,
+          "document": 13,
           "row": 0,
           "data": {
             "full_reference": "G-B001MVA-1",
             "brand": "G-SHOCK",
             "manufacturer_variant": "MVA",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "A",
+                "interpretation": "Individual sub-variant character for Black × Silver: Black / translucent urethane; Silver ion-plated stainless steel; Black/red resin with slash graphics. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "1",
+                "interpretation": "Exact model color association: Black × Silver. Black dominant case/band.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001MVA-1JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
             "source_urls": [
               "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
               "https://www.casio.com/intl/news/2022/1201-G-B001/",
               "https://gshock.casio.com/intl/products/digital/g-b001/",
-              "https://support.casio.com/global/en/wat/manual/3519_en/",
-              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
             ],
-            "research_scope": "Complete family and variant code; not a universal letter expansion",
-            "analytical_pattern": {
-              "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
-              "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 34100,
+              "original_mv_announcement": "2022-12-01"
             },
-            "decoded_model_code": {
-              "family_prefix": {
-                "code": "G-B001",
-                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
-              },
-              "post_series_modifier": {
-                "code": "MVA",
-                "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
-              },
-              "color_design_code": {
-                "code": "1",
-                "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
-              }
+            "displayed_variant_label": "Black × Silver",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field.",
+            "superseded_research": {
+              "status": "Historical earlier interpretation, superseded by this correction; not the current breakdown",
+              "observations": [
+                {
+                  "document": 12,
+                  "row": 0,
+                  "data": {
+                    "full_reference": "G-B001MVA-1",
+                    "brand": "G-SHOCK",
+                    "manufacturer_variant": "MVA",
+                    "source_urls": [
+                      "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+                      "https://www.casio.com/intl/news/2022/1201-G-B001/",
+                      "https://gshock.casio.com/intl/products/digital/g-b001/",
+                      "https://support.casio.com/global/en/wat/manual/3519_en/",
+                      "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+                    ],
+                    "research_scope": "Complete family and variant code; not a universal letter expansion",
+                    "analytical_pattern": {
+                      "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+                      "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+                    },
+                    "decoded_model_code": {
+                      "family_prefix": {
+                        "code": "G-B001",
+                        "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+                      },
+                      "post_series_modifier": {
+                        "code": "MVA",
+                        "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
+                      },
+                      "color_design_code": {
+                        "code": "1",
+                        "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
+                      }
+                    }
+                  }
+                }
+              ]
             }
           }
         }
@@ -18373,41 +18543,115 @@
       "id": "G-B001MVA-1JR",
       "observations": [
         {
-          "document": 12,
+          "document": 13,
           "row": 0,
           "data": {
             "full_reference": "G-B001MVA-1JR",
             "brand": "G-SHOCK",
             "manufacturer_variant": "MVA",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "A",
+                "interpretation": "Individual sub-variant character for Black × Silver: Black / translucent urethane; Silver ion-plated stainless steel; Black/red resin with slash graphics. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "1",
+                "interpretation": "Exact model color association: Black × Silver. Black dominant case/band.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001MVA-1JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
             "source_urls": [
               "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
               "https://www.casio.com/intl/news/2022/1201-G-B001/",
               "https://gshock.casio.com/intl/products/digital/g-b001/",
-              "https://support.casio.com/global/en/wat/manual/3519_en/",
-              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
             ],
-            "research_scope": "Complete family and variant code; not a universal letter expansion",
-            "analytical_pattern": {
-              "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
-              "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 34100,
+              "original_mv_announcement": "2022-12-01"
             },
-            "decoded_model_code": {
-              "family_prefix": {
-                "code": "G-B001",
-                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
-              },
-              "post_series_modifier": {
-                "code": "MVA",
-                "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
-              },
-              "color_design_code": {
-                "code": "1",
-                "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
-              },
-              "regional_reference": {
-                "code": "JR",
-                "meaning": "Documented Japanese retail reference; market designation does not establish manufacturing country."
-              }
+            "displayed_variant_label": "Black × Silver",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field.",
+            "superseded_research": {
+              "status": "Historical earlier interpretation, superseded by this correction; not the current breakdown",
+              "observations": [
+                {
+                  "document": 12,
+                  "row": 0,
+                  "data": {
+                    "full_reference": "G-B001MVA-1JR",
+                    "brand": "G-SHOCK",
+                    "manufacturer_variant": "MVA",
+                    "source_urls": [
+                      "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+                      "https://www.casio.com/intl/news/2022/1201-G-B001/",
+                      "https://gshock.casio.com/intl/products/digital/g-b001/",
+                      "https://support.casio.com/global/en/wat/manual/3519_en/",
+                      "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+                    ],
+                    "research_scope": "Complete family and variant code; not a universal letter expansion",
+                    "analytical_pattern": {
+                      "MV": "Common sequence across MVA/MVB/MVE removable-urethane / metal-bezel trio; possible design/variant marker, NOT a confirmed expansion",
+                      "A": "Observed distinguishing character for black/silver version; B/E occur in other variants. Release-wave meaning not established"
+                    },
+                    "decoded_model_code": {
+                      "family_prefix": {
+                        "code": "G-B001",
+                        "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+                      },
+                      "post_series_modifier": {
+                        "code": "MVA",
+                        "meaning": "Complete official variant code, retained together: black resin / urethane outer bezel with silver metal bezel. MV + A is an optional inferred common-pattern analysis only; neither is a confirmed abbreviation and A is not established as a release-wave code."
+                      },
+                      "color_design_code": {
+                        "code": "1",
+                        "meaning": "Black base-color code under Casio America’s general convention; this watch has silver/red accents."
+                      },
+                      "regional_reference": {
+                        "code": "JR",
+                        "meaning": "Documented Japanese retail reference; market designation does not establish manufacturing country."
+                      }
+                    }
+                  }
+                }
+              ]
             }
           }
         }
@@ -18478,38 +18722,186 @@
       "id": "G-B001MVB-8",
       "observations": [
         {
-          "document": 12,
+          "document": 13,
           "row": 0,
           "data": {
             "full_reference": "G-B001MVB-8",
             "brand": "G-SHOCK",
             "manufacturer_variant": "MVB",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "B",
+                "interpretation": "Individual sub-variant character for Gray × Gold: Translucent gray / black urethane; Gold ion-plated stainless steel; Translucent gray resin. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "8",
+                "interpretation": "Exact model color association: Gray × Gold. Gray / silver family.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001MVB-8JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
             "source_urls": [
               "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
               "https://www.casio.com/intl/news/2022/1201-G-B001/",
               "https://gshock.casio.com/intl/products/digital/g-b001/",
-              "https://support.casio.com/global/en/wat/manual/3519_en/",
-              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
             ],
-            "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
-            "analytical_pattern": {
-              "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
-              "final_character": "B distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 33000,
+              "original_mv_announcement": "2022-12-01"
             },
-            "decoded_model_code": {
-              "family_prefix": {
-                "code": "G-B001",
-                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
-              },
-              "post_series_modifier": {
-                "code": "MVB",
-                "meaning": "Complete official MVB variant code: Gray × Gold. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
-              },
-              "color_design_code": {
-                "code": "8",
-                "meaning": "Exact launch configuration: Gray × Gold. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 8."
-              }
+            "displayed_variant_label": "Gray × Gold",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field.",
+            "superseded_research": {
+              "status": "Historical earlier interpretation, superseded by this correction; not the current breakdown",
+              "observations": [
+                {
+                  "document": 12,
+                  "row": 0,
+                  "data": {
+                    "full_reference": "G-B001MVB-8",
+                    "brand": "G-SHOCK",
+                    "manufacturer_variant": "MVB",
+                    "source_urls": [
+                      "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+                      "https://www.casio.com/intl/news/2022/1201-G-B001/",
+                      "https://gshock.casio.com/intl/products/digital/g-b001/",
+                      "https://support.casio.com/global/en/wat/manual/3519_en/",
+                      "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+                    ],
+                    "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
+                    "analytical_pattern": {
+                      "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
+                      "final_character": "B distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+                    },
+                    "decoded_model_code": {
+                      "family_prefix": {
+                        "code": "G-B001",
+                        "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+                      },
+                      "post_series_modifier": {
+                        "code": "MVB",
+                        "meaning": "Complete official MVB variant code: Gray × Gold. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
+                      },
+                      "color_design_code": {
+                        "code": "8",
+                        "meaning": "Exact launch configuration: Gray × Gold. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 8."
+                      }
+                    }
+                  }
+                }
+              ]
             }
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001MVB-8JR",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVB-8JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVB",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "B",
+                "interpretation": "Individual sub-variant character for Gray × Gold: Translucent gray / black urethane; Gold ion-plated stainless steel; Translucent gray resin. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "8",
+                "interpretation": "Exact model color association: Gray × Gold. Gray / silver family.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001MVB-8JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 33000,
+              "original_mv_announcement": "2022-12-01"
+            },
+            "displayed_variant_label": "Gray × Gold",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field."
           }
         }
       ]
@@ -18579,38 +18971,620 @@
       "id": "G-B001MVE-9",
       "observations": [
         {
-          "document": 12,
+          "document": 13,
           "row": 0,
           "data": {
             "full_reference": "G-B001MVE-9",
             "brand": "G-SHOCK",
             "manufacturer_variant": "MVE",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "E",
+                "interpretation": "Individual sub-variant character for Yellow × Rainbow: Yellow / gray urethane; Rainbow ion-plated stainless steel; Resin; additional interchangeable bezel and band included. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "9",
+                "interpretation": "Exact model color association: Yellow × Rainbow. Yellow / gold family; this edition is yellow.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001MVE-9JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
             "source_urls": [
               "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
               "https://www.casio.com/intl/news/2022/1201-G-B001/",
               "https://gshock.casio.com/intl/products/digital/g-b001/",
-              "https://support.casio.com/global/en/wat/manual/3519_en/",
-              "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
             ],
-            "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
-            "analytical_pattern": {
-              "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
-              "final_character": "E distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 44000,
+              "original_mv_announcement": "2022-12-01"
             },
-            "decoded_model_code": {
-              "family_prefix": {
-                "code": "G-B001",
-                "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
-              },
-              "post_series_modifier": {
-                "code": "MVE",
-                "meaning": "Complete official MVE variant code: Yellow × Rainbow. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
-              },
-              "color_design_code": {
-                "code": "9",
-                "meaning": "Exact launch configuration: Yellow × Rainbow. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 9."
-              }
+            "displayed_variant_label": "Yellow × Rainbow",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field.",
+            "superseded_research": {
+              "status": "Historical earlier interpretation, superseded by this correction; not the current breakdown",
+              "observations": [
+                {
+                  "document": 12,
+                  "row": 0,
+                  "data": {
+                    "full_reference": "G-B001MVE-9",
+                    "brand": "G-SHOCK",
+                    "manufacturer_variant": "MVE",
+                    "source_urls": [
+                      "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+                      "https://www.casio.com/intl/news/2022/1201-G-B001/",
+                      "https://gshock.casio.com/intl/products/digital/g-b001/",
+                      "https://support.casio.com/global/en/wat/manual/3519_en/",
+                      "https://casiosupport.zendesk.com/hc/en-us/articles/360000656711-Timepiece-Model-Number-Explanation"
+                    ],
+                    "research_scope": "Exact launch-lineup reference and color in supplied PDF page 1; prefix interpretation scoped to this named configuration. No MVA physical specifications inherited.",
+                    "analytical_pattern": {
+                      "MV": "Shared sequence across the three dual-bezel launch variants; inferred pattern only, not an official expansion",
+                      "final_character": "E distinguishes this named launch colorway; a chronological release-wave meaning is not established"
+                    },
+                    "decoded_model_code": {
+                      "family_prefix": {
+                        "code": "G-B001",
+                        "meaning": "Official G-SHOCK digital model family: Bluetooth Low Energy and dual-bezel design. Casio has not published a universal character-by-character expansion."
+                      },
+                      "post_series_modifier": {
+                        "code": "MVE",
+                        "meaning": "Complete official MVE variant code: Yellow × Rainbow. Retain the complete variant string; MV is a shared sequence in the MVA/MVB/MVE removable-urethane / metal-bezel trio. Its literal expansion and the final letter as a release-wave code are not established."
+                      },
+                      "color_design_code": {
+                        "code": "9",
+                        "meaning": "Exact launch configuration: Yellow × Rainbow. The numeric color code is retained; this model-specific description does not establish a universal color for every watch carrying 9."
+                      }
+                    }
+                  }
+                }
+              ]
             }
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001MVE-9JR",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001MVE-9JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "MVE",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "MV",
+                "interpretation": "Proposed “Metal Variant” research reading, not a Casio-published acronym. Shared original double-bezel group: removable urethane outer capsule over stainless-steel inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "E",
+                "interpretation": "Individual sub-variant character for Yellow × Rainbow: Yellow / gray urethane; Rainbow ion-plated stainless steel; Resin; additional interchangeable bezel and band included. This does not establish chronological release-wave meaning.",
+                "classification": "observed variant association"
+              },
+              {
+                "component": "9",
+                "interpretation": "Exact model color association: Yellow × Rainbow. Yellow / gold family; this edition is yellow.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001MVE-9JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-01-27",
+              "japan_date_precision": "day",
+              "japan_msrp_jpy_tax_included": 44000,
+              "original_mv_announcement": "2022-12-01"
+            },
+            "displayed_variant_label": "Yellow × Rainbow",
+            "correction_note": "Earlier combined G-B001 / MVA grouping is superseded for the research display. The manufacturer variant remains MVA/MVB/MVE in the official field."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001RG-3",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001RG-3",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "RG",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "RG",
+                "interpretation": "Retro Gaming is a research interpretation of the documented retro/video-game theme, not a Casio-published letter key. Removable urethane capsule over patterned resin inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "3",
+                "interpretation": "Exact model color association: Green / Yellow. Green color family.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001RG-3JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-06",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 22000,
+              "original_mv_announcement": "Not an MV launch edition",
+              "singapore": {
+                "announcement": "2023-07-11",
+                "availability": "2023-07-14",
+                "scope": "Singapore only; does not replace Japan June 2023 release month"
+              }
+            },
+            "displayed_variant_label": "Green / Yellow",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001RG-3JR",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001RG-3JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "RG",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "RG",
+                "interpretation": "Retro Gaming is a research interpretation of the documented retro/video-game theme, not a Casio-published letter key. Removable urethane capsule over patterned resin inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "3",
+                "interpretation": "Exact model color association: Green / Yellow. Green color family.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001RG-3JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-06",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 22000,
+              "original_mv_announcement": "Not an MV launch edition",
+              "singapore": {
+                "announcement": "2023-07-11",
+                "availability": "2023-07-14",
+                "scope": "Singapore only; does not replace Japan June 2023 release month"
+              }
+            },
+            "displayed_variant_label": "Green / Yellow",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001RG-4",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001RG-4",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "RG",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "RG",
+                "interpretation": "Retro Gaming is a research interpretation of the documented retro/video-game theme, not a Casio-published letter key. Removable urethane capsule over patterned resin inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "4",
+                "interpretation": "Exact model color association: Pink / Blue. Pink / red color family.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001RG-4JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-06",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 22000,
+              "original_mv_announcement": "Not an MV launch edition",
+              "singapore": {
+                "announcement": "2023-07-11",
+                "availability": "2023-07-14",
+                "scope": "Singapore only; does not replace Japan June 2023 release month"
+              }
+            },
+            "displayed_variant_label": "Pink / Blue",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001RG-4JR",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001RG-4JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "RG",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "RG",
+                "interpretation": "Retro Gaming is a research interpretation of the documented retro/video-game theme, not a Casio-published letter key. Removable urethane capsule over patterned resin inner bezel.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "4",
+                "interpretation": "Exact model color association: Pink / Blue. Pink / red color family.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001RG-4JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-06",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 22000,
+              "original_mv_announcement": "Not an MV launch edition",
+              "singapore": {
+                "announcement": "2023-07-11",
+                "availability": "2023-07-14",
+                "scope": "Singapore only; does not replace Japan June 2023 release month"
+              }
+            },
+            "displayed_variant_label": "Pink / Blue",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001SF-7",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001SF-7",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "SF",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "SF",
+                "interpretation": "Sci-Fi World is the official collection name; the exact SF letter expansion is inferred. White/black styling with phosphorescent bezel-logo and inner-bezel details.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "7",
+                "interpretation": "Exact model color association: White / Black. White color family.",
+                "classification": "exact colorway; general numeric-color association"
+              }
+            ],
+            "regional_references_verified": [
+              {
+                "model_reference": "G-B001SF-7JR",
+                "region": "Japan (documented JR reference; R not independently decoded)"
+              }
+            ],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-07",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 18700,
+              "original_mv_announcement": "Not an MV launch edition"
+            },
+            "displayed_variant_label": "White / Black",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "G-B001SF-7JR",
+      "observations": [
+        {
+          "document": 13,
+          "row": 0,
+          "data": {
+            "full_reference": "G-B001SF-7JR",
+            "brand": "G-SHOCK",
+            "manufacturer_variant": "SF",
+            "research_scope": "Current correction: individual research segments coexist with complete official variant code; no universal acronym expansion.",
+            "model_code_breakdown": [
+              {
+                "component": "G",
+                "interpretation": "G-SHOCK line; documented model-line association.",
+                "classification": "official line association"
+              },
+              {
+                "component": "B",
+                "interpretation": "Bluetooth Mobile Link with CASIO WATCHES app on this model. B / Bluetooth is a supported model pattern, not a universal Casio character key.",
+                "classification": "observed pattern; feature documented"
+              },
+              {
+                "component": "001",
+                "interpretation": "Modern evolution of the 1994 DW-001 Capsule Tough design, nicknamed Jason by collectors. Series identifier, not a module or production date.",
+                "classification": "model-series association"
+              },
+              {
+                "component": "SF",
+                "interpretation": "Sci-Fi World is the official collection name; the exact SF letter expansion is inferred. White/black styling with phosphorescent bezel-logo and inner-bezel details.",
+                "classification": "observed / research; acronym unverified"
+              },
+              {
+                "component": "7",
+                "interpretation": "Exact model color association: White / Black. White color family.",
+                "classification": "exact colorway; general numeric-color association"
+              },
+              {
+                "component": "JR",
+                "interpretation": "Official Casio Japan reference G-B001SF-7JR. Japan-market identification confirmed; no substantiated expansion of R and no first-party proof that JR specifically denotes special packaging. Do not replace this documented JR reference with JF.",
+                "classification": "official Japanese retail identifier; R symbolism unverified"
+              }
+            ],
+            "regional_references_verified": [],
+            "source_urls": [
+              "https://www.casio.com/europe/watches/gshock/product.G-B001MVA-1/",
+              "https://www.casio.co.jp/release/2022/1201-G-B001/",
+              "https://www.casio.com/intl/news/2022/1201-G-B001/",
+              "https://gshock.casio.com/intl/products/digital/g-b001/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-3/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001RG-4/",
+              "https://www.casio.com/jp/watches/gshock/product.G-B001SF-7/",
+              "https://gshock.casio.com/sg/g-news/new-releases/2023/g-b001/",
+              "https://support.casio.com/global/en/wat/manual/3519_en/GUPOSYrslbuaxl.html",
+              "https://www.beams.co.jp/blog/kyo/133430/",
+              "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
+            ],
+            "documented_release": {
+              "japan": "2023-07",
+              "japan_date_precision": "month",
+              "japan_msrp_jpy_tax_included": 18700,
+              "original_mv_announcement": "Not an MV launch edition"
+            },
+            "displayed_variant_label": "White / Black",
+            "correction_note": "Exact theme and colorway retained without forcing an unverified acronym expansion."
           }
         }
       ]

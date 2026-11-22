@@ -1,8 +1,8 @@
 {
-  "models": 2690,
+  "models": 2699,
   "modules": 287,
   "facts_by_status": {
-    "pending_review": 11987,
+    "pending_review": 12095,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 520,
+    "G-SHOCK": 528,
     "LINEAGE": 11,
     "Lineage": 22,
     "OVERLAND": 2,
@@ -28,7 +28,7 @@
     "Pro Trek": 87,
     "Sea-Pathfinder": 4,
     "Sheen": 15,
-    "Unclassified": 1102,
+    "Unclassified": 1103,
     "Wave Ceptor": 34
   },
   "models_missing_fields": {
@@ -5773,6 +5773,14 @@
       "glass",
       "water_resistance_rating"
     ],
+    "G-B001BE": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
     "G-B001MVA": [
       "dimensions_mm",
       "weight_g",
@@ -5796,11 +5804,9 @@
       "water_resistance_rating"
     ],
     "G-B001MVB-8": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "G-B001MVB-8JR": [
       "water_resistance_rating"
     ],
     "G-B001MVE": [
@@ -5812,11 +5818,27 @@
       "water_resistance_rating"
     ],
     "G-B001MVE-9": [
-      "dimensions_mm",
-      "weight_g",
-      "case_material",
-      "band_material",
-      "glass",
+      "water_resistance_rating"
+    ],
+    "G-B001MVE-9JR": [
+      "water_resistance_rating"
+    ],
+    "G-B001RG-3": [
+      "water_resistance_rating"
+    ],
+    "G-B001RG-3JR": [
+      "water_resistance_rating"
+    ],
+    "G-B001RG-4": [
+      "water_resistance_rating"
+    ],
+    "G-B001RG-4JR": [
+      "water_resistance_rating"
+    ],
+    "G-B001SF-7": [
+      "water_resistance_rating"
+    ],
+    "G-B001SF-7JR": [
       "water_resistance_rating"
     ],
     "G-D5000-9": [
@@ -19675,11 +19697,10 @@
     "G-9000",
     "G-9100",
     "G-9300-1",
+    "G-B001BE",
     "G-B001MVA",
     "G-B001MVB",
-    "G-B001MVB-8",
     "G-B001MVE",
-    "G-B001MVE-9",
     "G-D5000-9",
     "G100-1BV",
     "GA-010-1AJF",
@@ -20926,7 +20947,7 @@
     "WVA-M650D-2AJF",
     "WVQ-M410DE-1A2JF"
   ],
-  "models_with_single_module_reference": 883,
+  "models_with_single_module_reference": 893,
   "user_provided_module_references": {
     "29CS-49B-1": "29",
     "56CS-528-2": "56",
@@ -21131,6 +21152,16 @@
     "G-7800B": "3163",
     "G-B001MVA-1": "3519",
     "G-B001MVA-1JR": "3519",
+    "G-B001MVB-8": "3519",
+    "G-B001MVB-8JR": "3519",
+    "G-B001MVE-9": "3519",
+    "G-B001MVE-9JR": "3519",
+    "G-B001RG-3": "3519",
+    "G-B001RG-3JR": "3519",
+    "G-B001RG-4": "3519",
+    "G-B001RG-4JR": "3519",
+    "G-B001SF-7": "3519",
+    "G-B001SF-7JR": "3519",
     "GAC-2500-1A": "5757",
     "GAC-2500-3A": "5757",
     "GAC-2500-7A": "5757",
@@ -22318,11 +22349,10 @@
     "G-8900A-1JF",
     "G-9000",
     "G-9100",
+    "G-B001BE",
     "G-B001MVA",
     "G-B001MVB",
-    "G-B001MVB-8",
     "G-B001MVE",
-    "G-B001MVE-9",
     "G-D5000-9",
     "GA-010-1AJF",
     "GA-010CE-2AJF",

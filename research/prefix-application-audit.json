@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "scope": "Application audit of supplied model segmentations, whole-prefix community readings, guide examples and heritage mappings. It verifies coverage and source scope, not unpublished official acronym expansions.",
-  "source_cases": 1377,
+  "source_cases": 1386,
   "counts": {
-    "applied": 432,
+    "applied": 441,
     "syntax_corrected": 105,
     "superseded_by_current_master": 203,
     "partial_or_unverified_source_grouping": 483,
@@ -8076,6 +8076,25 @@
       ]
     },
     {
+      "identifier": "G-B001BE",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "BE"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "BE"
+      ]
+    },
+    {
       "identifier": "G-B001MVA",
       "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
       "kind": "worldwide",
@@ -8093,13 +8112,19 @@
       "status": "applied",
       "recognized": true,
       "visible_tokens": [
-        "G-B001",
-        "MVA",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "A",
         "1"
       ],
       "supplied_tokens": [
-        "G-B001",
-        "MVA",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "A",
         "1"
       ]
     },
@@ -8110,14 +8135,20 @@
       "status": "applied",
       "recognized": true,
       "visible_tokens": [
-        "G-B001",
-        "MVA",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "A",
         "1",
         "JR"
       ],
       "supplied_tokens": [
-        "G-B001",
-        "MVA",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "A",
         "1",
         "JR"
       ]
@@ -8140,14 +8171,45 @@
       "status": "applied",
       "recognized": true,
       "visible_tokens": [
-        "G-B001",
-        "MVB",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "B",
         "8"
       ],
       "supplied_tokens": [
-        "G-B001",
-        "MVB",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "B",
         "8"
+      ]
+    },
+    {
+      "identifier": "G-B001MVB-8JR",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "MV",
+        "B",
+        "8",
+        "JR"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "MV",
+        "B",
+        "8",
+        "JR"
       ]
     },
     {
@@ -8168,14 +8230,177 @@
       "status": "applied",
       "recognized": true,
       "visible_tokens": [
-        "G-B001",
-        "MVE",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "E",
         "9"
       ],
       "supplied_tokens": [
-        "G-B001",
-        "MVE",
+        "G",
+        "B",
+        "001",
+        "MV",
+        "E",
         "9"
+      ]
+    },
+    {
+      "identifier": "G-B001MVE-9JR",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "MV",
+        "E",
+        "9",
+        "JR"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "MV",
+        "E",
+        "9",
+        "JR"
+      ]
+    },
+    {
+      "identifier": "G-B001RG-3",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "3"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "3"
+      ]
+    },
+    {
+      "identifier": "G-B001RG-3JR",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "3",
+        "JR"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "3",
+        "JR"
+      ]
+    },
+    {
+      "identifier": "G-B001RG-4",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "4"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "4"
+      ]
+    },
+    {
+      "identifier": "G-B001RG-4JR",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "4",
+        "JR"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "RG",
+        "4",
+        "JR"
+      ]
+    },
+    {
+      "identifier": "G-B001SF-7",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "SF",
+        "7"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "SF",
+        "7"
+      ]
+    },
+    {
+      "identifier": "G-B001SF-7JR",
+      "source": "research/supplied-worldwide-2020-2026-2026-11-17.json",
+      "kind": "worldwide",
+      "status": "applied",
+      "recognized": true,
+      "visible_tokens": [
+        "G",
+        "B",
+        "001",
+        "SF",
+        "7",
+        "JR"
+      ],
+      "supplied_tokens": [
+        "G",
+        "B",
+        "001",
+        "SF",
+        "7",
+        "JR"
       ]
     },
     {

@@ -7,7 +7,7 @@ class SeriesPDFImportTest(unittest.TestCase):
   root=Path(__file__).resolve().parents[1]
   for name,content in imp.artifacts(root).items():self.assertEqual((root/name).read_text(),content)
   records=specs.load(root/imp.IMPORT);catalog.validate_user_evidence(root,records)
-  self.assertEqual(len([r for r in records if r['kind']=='model']),15)
+  self.assertEqual(len([r for r in records if r['kind']=='model']),23)
   self.assertEqual({r['id'] for r in records if r['kind']=='module'},{'3514','5454','3519'})
  def test_no_module_case_spec_leak(self):
   root=Path(__file__).resolve().parents[1]
