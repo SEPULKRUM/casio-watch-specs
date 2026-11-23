@@ -9,7 +9,6 @@ permissions:
 
 jobs:
   rebuild:
-    if: ${{ contains(github.event.head_commit.modified, '.rebuild-request') || contains(github.event.head_commit.added, '.rebuild-request') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
