@@ -1258,3 +1258,22 @@ The main search defaults to **All models** and includes pending watch identifier
 `python catalog.py build` regenerates `data/search-index.json`, `data/reconciliation-report.json` and `data/unified-models.csv` from the catalog, reference datasets, historical research, identifier-only intake recovery and import sources. The report includes source hashes, exact duplicate occurrences, specification coverage and missing eligible identifiers. Imported occurrence totals include repeated source observations and must not be presented as watch counts. Unknown physical specifications remain blank; module relationships never supply another variant's case specifications.
 
 Run `python catalog.py build --check`, `python -m unittest discover -s tests`, and every `tests/*.test.mjs` with Node before packaging with `python build_web.py --output dist`. Packaging rejects stale reconciliation data. The independent source-coverage tests require zero eligible omissions and preserve separately categorized raw readings.
+
+## Archived Shriro / CASIO Australia heritage article · 23 November 2026
+
+The owner-supplied article **“The Unbreakable Legacy of the G-SHOCK DW5000C”**
+is preserved through its 8 September 2025 Wayback snapshot. It adds the exact
+Australian identifier **GMWB5000SS-2D** and five pending exact-model fields:
+G-SHOCK series, stainless-steel case, stainless-steel band, blue ion-plated
+finish and a concise Sky & Sea / 50th-anniversary description. These are
+official-distributor article claims, not independently promoted exact-product
+specifications. The existing **GMW-B5000SS-2** and **GMW-B5000SS** references
+remain separate and unchanged.
+
+DW5000C's 1983 origin, Kikuo Ibe attribution, broad 5000-series milestones and
+the 5600-series 1987/resin history are retained as scoped historical context
+only. They do not assign physical specifications or functions to individual
+variants. The archived article contained no exact-product link for
+GMWB5000SS-2D; its later dynamic 5000/5600 lineup widget was excluded. Exact
+dimensions, weight, glass, water resistance and module therefore remain pending
+archived primary evidence.

@@ -38,7 +38,8 @@ def validate_archive_source(source):
     captured = datetime.strptime(timestamp, '%Y%m%d%H%M%S')
     parsed = urlsplit(original)
     hosts = {'www.casio.com', 'casio.com', 'www.casio-europe.com', 'casio-europe.com',
-             'support.casio.com', 'support.casio.jp', 'store.united-arrows.co.jp'}
+             'support.casio.com', 'support.casio.jp', 'store.united-arrows.co.jp',
+             'www.shopcasio.shriro.com.au'}
     if (parsed.hostname not in hosts or parsed.username or parsed.password
             or parsed.port not in (None, 80, 443) or parsed.fragment):
         raise ValueError('Archive original must be an official Casio URL without credentials')

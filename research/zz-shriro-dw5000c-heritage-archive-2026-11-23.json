@@ -1,0 +1,49 @@
+{
+  "scope": "Archived official-distributor article used only for exact text it states. Family history is not converted into exact-variant specifications, and dynamic lineup widgets are excluded.",
+  "accessed": "2026-11-23",
+  "source": {
+    "title": "The Unbreakable Legacy of the G-SHOCK DW5000C",
+    "publisher": "Shriro / CASIO Australia official distributor",
+    "published_date": "2024-07-10",
+    "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+    "archive_url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+    "archive_timestamp": "20250908181201",
+    "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+    "wayback_cdx_digest_base32_sha1": "UEGFYDUJ7I4MQQ7FGIG4FYQYOQYCPKIZ"
+  },
+  "exact_model_observations": [
+    {
+      "displayed_model": "DW5000C",
+      "locator": "Opening paragraph",
+      "observation": "The article identifies DW5000C as the 1983 origin model and names Kikuo Ibe as its designer.",
+      "scope_note": "Historical context only; spelling is retained as printed and no physical specification is inferred."
+    },
+    {
+      "displayed_model": "GMWB5000SS-2D",
+      "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+      "observation": "The article identifies the exact Australian reference as a full-metal Sky & Sea Casio 50th-anniversary model with a stainless-steel case and band and blue ion-plated finish.",
+      "scope_note": "Exact-model article claim; pending an archived exact-product specification page before independent field promotion."
+    }
+  ],
+  "family_context": [
+    {
+      "scope": "5000 series",
+      "locator": "1996: Readability in the dark; 2002: Converting light to energy",
+      "observation": "The article gives broad milestones for EL/LED lighting, Tough Solar, Bluetooth and full-metal construction.",
+      "publication_rule": "Do not assign these features to every individual 5000-series identifier."
+    },
+    {
+      "scope": "5600 series",
+      "locator": "5600 Series",
+      "observation": "The article dates the series debut to 1987 and describes the family as slimmer and more compact, using resin for the case and back.",
+      "publication_rule": "Family history only; do not copy resin construction or measurements to exact variants."
+    }
+  ],
+  "product_link_review": {
+    "result": "No archived exact-product link for GMWB5000SS-2D was present in the article body. The archived article's product area was a later dynamic 5000/5600 collection widget and was excluded.",
+    "pending": [
+      "Archived exact-product specification page for GMWB5000SS-2D",
+      "Archived primary Casio technical evidence for exact dimensions, weight, glass, water resistance and module"
+    ]
+  }
+}

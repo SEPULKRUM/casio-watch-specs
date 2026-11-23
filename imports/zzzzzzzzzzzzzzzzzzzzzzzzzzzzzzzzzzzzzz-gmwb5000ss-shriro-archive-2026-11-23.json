@@ -1,0 +1,117 @@
+[
+  {
+    "kind": "model",
+    "id": "GMWB5000SS-2D",
+    "specs": {
+      "series": {
+        "value": "G-SHOCK",
+        "uncertainty": "Archived official-distributor article claim. Pending archived exact-product-page corroboration; not a whole-model approval.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Archived Shriro/CASIO Australia article identifies GMWB5000SS-2D as a G-SHOCK model in the 5000 series."
+          }
+        ]
+      },
+      "case_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Archived official-distributor article claim. Pending archived exact-product-page corroboration; no measurements or other construction fields are inferred.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Article states that exact model GMWB5000SS-2D has a stainless steel case."
+          }
+        ]
+      },
+      "band_material": {
+        "value": "Stainless steel",
+        "uncertainty": "Archived official-distributor article claim. Pending archived exact-product-page corroboration; no measurements or other construction fields are inferred.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Article states that exact model GMWB5000SS-2D has a stainless steel band."
+          }
+        ]
+      },
+      "case_finish": {
+        "value": "Blue ion-plated finish",
+        "uncertainty": "Archived official-distributor article claim. The article does not separately scope the finish to case versus band components; retained as a qualified case-finish candidate pending exact-product-page evidence.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Article describes GMWB5000SS-2D as having a blue ion-plated finish."
+          }
+        ]
+      },
+      "catalog_description": {
+        "value": "Full-metal Sky & Sea model celebrating Casio's 50th anniversary",
+        "uncertainty": "Concise factual paraphrase of the archived exact-model article section; pending archived exact-product-page corroboration.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Article identifies GMWB5000SS-2D as a full-metal Sky & Sea Casio 50th-anniversary model."
+          }
+        ]
+      },
+      "catalog_source_references": {
+        "value": {
+          "source_type": "Archived official-distributor article",
+          "displayed_model": "GMWB5000SS-2D",
+          "article_title": "The Unbreakable Legacy of the G-SHOCK DW5000C",
+          "article_date": "2024-07-10",
+          "archive_timestamp": "20250908181201",
+          "verification_scope": "Exact identifier and the article's stated materials/finish only; exact-product technical specifications and module remain pending"
+        },
+        "uncertainty": "Article-level evidence record. Dynamic lineup contents are excluded and no module or unstated specification is inferred.",
+        "sources": [
+          {
+            "kind": "web",
+            "url": "https://web.archive.org/web/20250908181201/https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "original_url": "https://www.shopcasio.shriro.com.au/blogs/g-shock/the-unbreakable-legacy-of-the-g-shock-dw5000c",
+            "archive_timestamp": "20250908181201",
+            "snapshot_sha256": "90eef7ee12bcaeaec33dd6a28a3f7d9931708eb908bf747cc43890fa88689f3f",
+            "permission": "official_public_reference",
+            "accessed": "2026-11-23",
+            "locator": "Opening paragraph; 5600 Series; Sky & Sea: CASIO's 50th Anniversary Collection",
+            "evidence": "Archived article provenance for the exact Australian GMWB5000SS-2D observation and separately scoped DW5000C/5000/5600 historical context."
+          }
+        ]
+      }
+    }
+  }
+]
