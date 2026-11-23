@@ -1,8 +1,8 @@
 {
-  "models": 2699,
+  "models": 2700,
   "modules": 287,
   "facts_by_status": {
-    "pending_review": 12095,
+    "pending_review": 12101,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 528,
+    "G-SHOCK": 529,
     "LINEAGE": 11,
     "Lineage": 22,
     "OVERLAND": 2,
@@ -9155,6 +9155,12 @@
       "weight_g",
       "case_material",
       "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GMWB5000SS-2D": [
+      "dimensions_mm",
+      "weight_g",
       "glass",
       "water_resistance_rating"
     ],
@@ -20089,6 +20095,7 @@
     "GMW-BZ5000D-1JF",
     "GMW-BZ5000GD-9JF",
     "GMW-BZ5000RC-1JR",
+    "GMWB5000SS-2D",
     "GN-1000-1AJF",
     "GN-1000B-1AJF",
     "GPR-H1000",
@@ -22739,6 +22746,7 @@
     "GMW-BZ5000D-1JF",
     "GMW-BZ5000GD-9JF",
     "GMW-BZ5000RC-1JR",
+    "GMWB5000SS-2D",
     "GN-1000-1AJF",
     "GN-1000B-1AJF",
     "GPR-H1000",
