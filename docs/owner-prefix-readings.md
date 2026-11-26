@@ -20,7 +20,7 @@ These are owner-supplied community readings, not an official Casio decoding key.
 | GBA | G-Shock Bluetooth Analogue | Bluetooth analog-digital, often G-SQUAD fitness. |
 | GBD | G-Shock Bluetooth Digital | G-SQUAD fitness / step-tracker digital association. |
 | GBD-H | G-Shock Bluetooth Digital + Heart Rate | Optical heart rate / GPS / sensors association; exact features vary. |
-| GBX | G-Shock Bluetooth Xtreme | G-LIDE surf digital with MIP display / tide graph association. |
+| GBX | G-LIDE surf-focused G-SHOCK subseries | Keep GBX intact; individual G/B/X expansions are inferred and unverified. Surf data, Bluetooth and training associations require exact-model verification. |
 | GCW | G-Shock Carbon Wave Ceptor | Full Carbon / solar / Multi-Band 6 / Bluetooth association. |
 | GD | G-Shock Digital | Large-case battery digital / bright LED association; historical identifiers need separate context. |
 | GDF | G-Shock Digital Field | Twin Sensor barometer / altimeter / thermometer battery-digital association. |
@@ -72,3 +72,6 @@ These are owner-supplied community readings, not an official Casio decoding key.
 | WW | Wide Temperature Water Resist | Owner-supplied vintage cold-resistant interpretation; exact line classification and historical meaning need confirmation. |
 
 Notable limits: B does not universally imply solar power; metal-covered GM and full-metal GM-B constructions differ; neither an MRG expansion nor DWG/DWM/DWX/GSL/GT/GXS/GZX/WW historical feature claims are treated as established official definitions. GWF certification, GWG sensors and GPR power/navigation are exact-model questions. The provided list supplements the earlier guides, which did not contain GWN.
+
+
+GBX update — 26 November 2026: Keep GBX as one G-LIDE surf-focused G-SHOCK prefix for all parsed models. Individual G/B/X expansions are inferred and unverified; surf data, Bluetooth Mobile Link and training capabilities require exact-model verification. The supplied GBX.pdf documents GBX-100SFJ-1 / GBX-100SFJ-1JR, with SFJ retained as the Surfrider Foundation Japan collaboration token.

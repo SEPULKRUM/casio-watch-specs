@@ -1,7 +1,7 @@
 {
   "type": "supplied_worldwide_register",
   "provided_by": "SEPULKRUM",
-  "received": "2026-11-22",
+  "received": "2026-11-26",
   "status": "Supplied research; independent archived-source verification pending. Source assertions of confirmation are not independent review.",
   "source_documents": [
     {
@@ -725,6 +725,21 @@
         ],
         "reference_date": "2026-11-22"
       }
+    },
+    {
+      "filename": "1-GBX.pdf",
+      "sha256": "e3f16d22f2b2a22fbacadfa79971a7b6ba018f70cd0c61c9e3a0701732daa500",
+      "record_count": 2,
+      "scope": {
+        "type": "Owner-supplied exact-model research and qualified whole-prefix GBX rule",
+        "reference_date": "2026-11-26",
+        "compiled_date": "2026-11-25",
+        "source_urls": [
+          "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+          "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+          "https://surfrider.jp/information/10049/"
+        ]
+      }
     }
   ],
   "models": [
@@ -1082,6 +1097,8 @@
     "GBX-100-7",
     "GBX-100S-1JF",
     "GBX-100S-2JF",
+    "GBX-100SFJ-1",
+    "GBX-100SFJ-1JR",
     "GBX-H5600-1",
     "GBX-H5600-2",
     "GBX-H5600KI-5JR",
@@ -2679,7 +2696,9 @@
     "G-B001RG-4JR",
     "G-B001SF-7",
     "G-B001SF-7JR",
-    "G-B001BE"
+    "G-B001BE",
+    "GBX-100SFJ-1",
+    "GBX-100SFJ-1JR"
   ],
   "entries": [
     {
@@ -27947,6 +27966,93 @@
             "source_urls": [
               "https://gshock.casio.com/jp/products/recommend/202505/"
             ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "GBX-100SFJ-1",
+      "observations": [
+        {
+          "document": 14,
+          "row": 0,
+          "data": {
+            "full_reference": "GBX-100SFJ-1",
+            "brand": "G-SHOCK",
+            "research_scope": "Exact GBX-100SFJ collaboration. GBX and SFJ remain grouped; no module number or undisclosed physical specifications inferred.",
+            "manufacturer_variant": "SFJ",
+            "source_urls": [
+              "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+              "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+              "https://surfrider.jp/information/10049/"
+            ],
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "GBX",
+                "meaning": "G-LIDE surf-focused G-SHOCK subseries. G-SHOCK product-line membership and Bluetooth Mobile Link are documented for this model; X is associated with the GBX G-LIDE surf platform. Individual G/B/X letter assignments and an exact acronym expansion are inferred, not an official Casio key. GBX stays intact as one token."
+              },
+              "series_number": {
+                "code": "100",
+                "meaning": "GBX-100 platform, documented by Casio and Surfrider Foundation Japan. Series identifier, not a module number or production date."
+              },
+              "post_series_modifier": {
+                "code": "SFJ",
+                "meaning": "Surfrider Foundation Japan collaboration identifier; retain SFJ as one token. This is the tenth G-SHOCK × SFJ collaboration according to the supplied research."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Solid black design documented for this reference; 1 as black is a color-code convention, not a universal color guarantee."
+              }
+            },
+            "regional_references_verified": [
+              {
+                "model_reference": "GBX-100SFJ-1JR",
+                "region": "Japan"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "GBX-100SFJ-1JR",
+      "observations": [
+        {
+          "document": 14,
+          "row": 0,
+          "data": {
+            "full_reference": "GBX-100SFJ-1JR",
+            "brand": "G-SHOCK",
+            "research_scope": "Exact GBX-100SFJ collaboration. GBX and SFJ remain grouped; no module number or undisclosed physical specifications inferred.",
+            "manufacturer_variant": "SFJ",
+            "source_urls": [
+              "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+              "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+              "https://surfrider.jp/information/10049/"
+            ],
+            "decoded_model_code": {
+              "family_prefix": {
+                "code": "GBX",
+                "meaning": "G-LIDE surf-focused G-SHOCK subseries. G-SHOCK product-line membership and Bluetooth Mobile Link are documented for this model; X is associated with the GBX G-LIDE surf platform. Individual G/B/X letter assignments and an exact acronym expansion are inferred, not an official Casio key. GBX stays intact as one token."
+              },
+              "series_number": {
+                "code": "100",
+                "meaning": "GBX-100 platform, documented by Casio and Surfrider Foundation Japan. Series identifier, not a module number or production date."
+              },
+              "post_series_modifier": {
+                "code": "SFJ",
+                "meaning": "Surfrider Foundation Japan collaboration identifier; retain SFJ as one token. This is the tenth G-SHOCK × SFJ collaboration according to the supplied research."
+              },
+              "color_design_code": {
+                "code": "1",
+                "meaning": "Solid black design documented for this reference; 1 as black is a color-code convention, not a universal color guarantee."
+              },
+              "regional_reference": {
+                "code": "JR",
+                "meaning": "Documented Japanese retail reference GBX-100SFJ-1JR. Special recycled-paper packaging is documented for this model; the exact JR expansion is unverified, and the packaging does not prove that JR universally encodes a special box."
+              }
+            },
+            "regional_references_verified": []
           }
         }
       ]

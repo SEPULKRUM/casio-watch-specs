@@ -2,8 +2,8 @@
   "schema_version": 1,
   "type": "user_watch_specifications",
   "provided_by": "SEPULKRUM",
-  "received": "2026-11-22",
-  "title": "PRW-69 and OCW-G1200 exact-variant technical research; G-B001 research update; corrected seven-edition G-B001 2023 research",
+  "received": "2026-11-26",
+  "title": "PRW-69 and OCW-G1200 exact-variant technical research; G-B001 research update; corrected seven-edition G-B001 2023 research; GBX-100SFJ collaboration",
   "source_documents": {
     "prw69": {
       "filename": "Casio_PRW-69_Series_All_Variants_Specifications.pdf",
@@ -65,6 +65,18 @@
         "https://www.g-central.com/beams-x-g-shock-g-b001-with-dual-bezel-structure-in-black-and-skeleton-gray/"
       ],
       "verification_status": "Owner-supplied correction with primary/supporting citations; exact evidence classes retained. No blanket promotion to independently verified facts."
+    },
+    "gbx_sfj": {
+      "filename": "1-GBX.pdf",
+      "sha256": "e3f16d22f2b2a22fbacadfa79971a7b6ba018f70cd0c61c9e3a0701732daa500",
+      "pages": 1,
+      "compiled_date": "2026-11-25",
+      "source_urls": [
+        "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+        "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+        "https://surfrider.jp/information/10049/"
+      ],
+      "archive_status": "Owner-supplied technical sheet with primary URLs. Archive snapshot retrieval not independently verified; do not promote by document title."
     }
   },
   "models": [
@@ -80,6 +92,8 @@
     "G-B001RG-4JR",
     "G-B001SF-7",
     "G-B001SF-7JR",
+    "GBX-100SFJ-1",
+    "GBX-100SFJ-1JR",
     "OCW-G1200-1AJF",
     "OCW-G1200-2AJF",
     "OCW-G1200B-1AJF",
@@ -5367,6 +5381,122 @@
         6,
         7
       ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1",
+      "field": "color",
+      "value": "Solid black",
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1",
+      "field": "series_pdf_evidence",
+      "value": {
+        "status": "pending_review",
+        "scope": "Exact GBX-100SFJ-1 / GBX-100SFJ-1JR supplied reference",
+        "source_urls": [
+          "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+          "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+          "https://surfrider.jp/information/10049/"
+        ],
+        "line": "G-SHOCK G-LIDE",
+        "collaboration": "Surfrider Foundation Japan; tenth G-SHOCK × SFJ collaboration",
+        "release_record": {
+          "sfj_announcement_date": "2026-06-04",
+          "announced_release": "2026-06-05",
+          "japan_msrp_jpy_tax_included": 29700,
+          "scope": "Announced release date from the SFJ announcement, not an independently verified worldwide first-sale date"
+        },
+        "design": "Solid black",
+        "display": "MIP LCD (Memory-in-Pixel)",
+        "functional_feature_claims": [
+          "Tide graph",
+          "Moon data",
+          "Sunrise/sunset times",
+          "Bluetooth Mobile Link",
+          "Training features"
+        ],
+        "module_scope": "Module number not supplied; no module profile or module-level functions inferred from the family name.",
+        "packaging": "Special recycled-paper packaging documented for this exact collaboration. JR is a confirmed Japanese reference, not a decoded packaging acronym.",
+        "prefix_rule": "Keep GBX intact for past, current and future parsed references. Exact G/B/X expansions are inferred. The platform is associated with surf data, Bluetooth and training functions; independently verify each model and do not guarantee every feature for every future watch."
+      },
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1JR",
+      "field": "series",
+      "value": "G-SHOCK",
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1JR",
+      "field": "color",
+      "value": "Solid black",
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "kind": "model",
+      "id": "GBX-100SFJ-1JR",
+      "field": "series_pdf_evidence",
+      "value": {
+        "status": "pending_review",
+        "scope": "Exact GBX-100SFJ-1 / GBX-100SFJ-1JR supplied reference",
+        "source_urls": [
+          "https://www.casio.com/jp/watches/gshock/product.GBX-100SFJ-1/",
+          "https://gshock.casio.com/jp/products/limited/gbx-100sfj/",
+          "https://surfrider.jp/information/10049/"
+        ],
+        "line": "G-SHOCK G-LIDE",
+        "collaboration": "Surfrider Foundation Japan; tenth G-SHOCK × SFJ collaboration",
+        "release_record": {
+          "sfj_announcement_date": "2026-06-04",
+          "announced_release": "2026-06-05",
+          "japan_msrp_jpy_tax_included": 29700,
+          "scope": "Announced release date from the SFJ announcement, not an independently verified worldwide first-sale date"
+        },
+        "design": "Solid black",
+        "display": "MIP LCD (Memory-in-Pixel)",
+        "functional_feature_claims": [
+          "Tide graph",
+          "Moon data",
+          "Sunrise/sunset times",
+          "Bluetooth Mobile Link",
+          "Training features"
+        ],
+        "module_scope": "Module number not supplied; no module profile or module-level functions inferred from the family name.",
+        "packaging": "Special recycled-paper packaging documented for this exact collaboration. JR is a confirmed Japanese reference, not a decoded packaging acronym.",
+        "prefix_rule": "Keep GBX intact for past, current and future parsed references. Exact G/B/X expansions are inferred. The platform is associated with surf data, Bluetooth and training functions; independently verify each model and do not guarantee every feature for every future watch."
+      },
+      "document": "gbx_sfj",
+      "pdf_pages": [
+        1
+      ]
     }
   ],
   "cautions": [
@@ -5376,6 +5506,7 @@
     "OCW-G1200-2AJF approximately 106 g and OCW-G1200D-1AJF approximately 104 g retain their qualifications; the latter is a retailer measurement, not a factory specification.",
     "Conflicting or existing scalar facts are retained. New source comparisons remain visible in scoped evidence. Suffix readings are series-specific community interpretations, not a universal official Casio decoder.",
     "G-B001MVA: complete MVA manufacturer code retained; MV + A analytical only. No MVA case data copied to MVB/MVE. Dates distinguish announcement and Japan launch.",
-    "2023 correction: MV trio 75 g; RG/SF resin editions 59 g. Six Japanese identifiers use JR, never rewritten to JF. BEAMS full suffix/weight/day remain unresolved. Separate researched G/B/001/MV/A-B-E segments from complete official variant strings."
+    "2023 correction: MV trio 75 g; RG/SF resin editions 59 g. Six Japanese identifiers use JR, never rewritten to JF. BEAMS full suffix/weight/day remain unresolved. Separate researched G/B/001/MV/A-B-E segments from complete official variant strings.",
+    "GBX and SFJ remain intact tokens. SFJ announced release date and Japan price retain source scope; exact acronym expansion and module remain unverified. Special packaging belongs to this collaboration, not all JR watches."
   ]
 }

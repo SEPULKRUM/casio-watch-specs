@@ -1,8 +1,8 @@
 {
-  "models": 2700,
+  "models": 2702,
   "modules": 287,
   "facts_by_status": {
-    "pending_review": 12101,
+    "pending_review": 12109,
     "verified": 33
   },
   "models_by_series": {
@@ -19,7 +19,7 @@
     "Casio Vintage": 3,
     "Clocks": 5,
     "Edifice": 20,
-    "G-SHOCK": 529,
+    "G-SHOCK": 531,
     "LINEAGE": 11,
     "Lineage": 22,
     "OVERLAND": 2,
@@ -7250,6 +7250,22 @@
       "water_resistance_rating"
     ],
     "GBX-100S-2JF": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GBX-100SFJ-1": [
+      "dimensions_mm",
+      "weight_g",
+      "case_material",
+      "band_material",
+      "glass",
+      "water_resistance_rating"
+    ],
+    "GBX-100SFJ-1JR": [
       "dimensions_mm",
       "weight_g",
       "case_material",
@@ -19883,6 +19899,8 @@
     "GBX-100NS-1JF",
     "GBX-100S-1JF",
     "GBX-100S-2JF",
+    "GBX-100SFJ-1",
+    "GBX-100SFJ-1JR",
     "GBX-100TT-2JF",
     "GBX-100TT-8JF",
     "GC-2000-2A",
@@ -22534,6 +22552,8 @@
     "GBX-100NS-1JF",
     "GBX-100S-1JF",
     "GBX-100S-2JF",
+    "GBX-100SFJ-1",
+    "GBX-100SFJ-1JR",
     "GBX-100TT-2JF",
     "GBX-100TT-8JF",
     "GC-2000-2A",
